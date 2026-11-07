@@ -1,0 +1,174 @@
+{
+ "species": "equ",
+ "name": "Equino",
+ "structures": [
+  {
+   "id": "equ.ske.cra.001",
+   "es": "Cráneo",
+   "la": "Cranium",
+   "sys": "ske",
+   "layer": "oss",
+   "ph": {
+    "p": [
+     2.6,
+     1.5,
+     0
+    ],
+    "s": [
+     1.5,
+     0.7,
+     0.7
+    ],
+    "c": 14208432
+   },
+   "model": "models/equino/skeletal/equ.ske.cra.001.glb"
+  },
+  {
+   "id": "equ.ske.col.001",
+   "es": "Columna vertebral",
+   "la": "Columna vertebralis",
+   "sys": "ske",
+   "layer": "oss",
+   "ph": {
+    "p": [
+     0,
+     1.1,
+     0
+    ],
+    "s": [
+     4,
+     0.25,
+     0.25
+    ],
+    "c": 13221276
+   },
+   "model": "models/equino/skeletal/equ.ske.col.001.glb"
+  },
+  {
+   "id": "equ.ske.cos.001",
+   "es": "Costillas y esternón",
+   "la": "Costae et sternum",
+   "sys": "ske",
+   "layer": "oss",
+   "ph": {
+    "p": [
+     0.6,
+     0.5,
+     0
+    ],
+    "s": [
+     1.6,
+     1,
+     0.8
+    ],
+    "c": 14999750
+   },
+   "model": "models/equino/skeletal/equ.ske.cos.001.glb"
+  },
+  {
+   "id": "equ.ske.mto.001",
+   "es": "Escápula",
+   "la": "Scapula",
+   "sys": "ske",
+   "layer": "oss",
+   "ph": {
+    "p": [
+     1.5,
+     0.6,
+     0.45
+    ],
+    "s": [
+     0.3,
+     1,
+     0.1
+    ],
+    "c": 12563345
+   },
+   "model": "models/equino/skeletal/equ.ske.mto.001.glb"
+  },
+  {
+   "id": "equ.ske.mto.002",
+   "es": "Húmero",
+   "la": "Humerus",
+   "sys": "ske",
+   "layer": "oss",
+   "ph": {
+    "p": [
+     1.5,
+     -0.2,
+     0.45
+    ],
+    "s": [
+     0.2,
+     0.9,
+     0.2
+    ],
+    "c": 13813414
+   },
+   "model": "models/equino/skeletal/equ.ske.mto.002.glb"
+  },
+  {
+   "id": "equ.ske.mpe.001",
+   "es": "Pelvis",
+   "la": "Pelvis",
+   "sys": "ske",
+   "layer": "oss",
+   "ph": {
+    "p": [
+     -1.6,
+     0.8,
+     0
+    ],
+    "s": [
+     0.8,
+     0.5,
+     1
+    ],
+    "c": 13352863
+   },
+   "model": "models/equino/skeletal/equ.ske.mpe.001.glb"
+  },
+  {
+   "id": "equ.ske.mpe.002",
+   "es": "Fémur",
+   "la": "Femur",
+   "sys": "ske",
+   "layer": "oss",
+   "ph": {
+    "p": [
+     -1.7,
+     -0.1,
+     0.45
+    ],
+    "s": [
+     0.25,
+     1,
+     0.25
+    ],
+    "c": 14076586
+   },
+   "model": "models/equino/skeletal/equ.ske.mpe.002.glb"
+  },
+  {
+   "id": "equ.car.cor.001",
+   "es": "Corazón",
+   "la": "Cor",
+   "sys": "car",
+   "layer": "org",
+   "ph": {
+    "p": [
+     0.9,
+     0.1,
+     0
+    ],
+    "s": [
+     0.5,
+     0.6,
+     0.5
+    ],
+    "c": 11680328
+   },
+   "model": "models/equino/organs/equ.car.cor.001.glb"
+  }
+ ]
+}
