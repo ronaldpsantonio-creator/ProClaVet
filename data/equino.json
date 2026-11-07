@@ -1597,6 +1597,909 @@
 "la": "Os sesamoideum distale",
 "sys": "ske",
 "layer": "oss"
+},
+{
+"id": "equ.ske.aax.001-i",
+"es": "Articulación temporomandibular (izquierdo)",
+"la": "Articulatio temporomandibularis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.aax.001-d",
+"es": "Articulación temporomandibular (derecho)",
+"la": "Articulatio temporomandibularis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.aax.002",
+"es": "Articulación atlantooccipital",
+"la": "Articulatio atlantooccipitalis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.aax.003",
+"es": "Articulación atlantoaxial",
+"la": "Articulatio atlantoaxialis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.aax.004",
+"es": "Discos intervertebrales",
+"la": "Disci intervertebrales",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.aax.005",
+"es": "Articulaciones de los procesos articulares",
+"la": "Articulationes processuum articularium",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.aax.006",
+"es": "Articulaciones costovertebrales",
+"la": "Articulationes costovertebrales",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.aax.007",
+"es": "Articulaciones costocondrales",
+"la": "Articulationes costochondrales",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.aax.008",
+"es": "Articulaciones esternocostales",
+"la": "Articulationes sternocostales",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.aax.009",
+"es": "Sincondrosis esternales",
+"la": "Synchondroses sternales",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.aax.010-i",
+"es": "Articulación sacroilíaca (izquierdo)",
+"la": "Articulatio sacroiliaca",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.aax.010-d",
+"es": "Articulación sacroilíaca (derecho)",
+"la": "Articulatio sacroiliaca",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.aax.011",
+"es": "Sínfisis pelviana",
+"la": "Symphysis pelvina",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.001-i",
+"es": "Articulación del hombro (izquierdo)",
+"la": "Articulatio humeri",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.001-d",
+"es": "Articulación del hombro (derecho)",
+"la": "Articulatio humeri",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.002-i",
+"es": "Articulación del codo (izquierdo)",
+"la": "Articulatio cubiti",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.002-d",
+"es": "Articulación del codo (derecho)",
+"la": "Articulatio cubiti",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.003-i",
+"es": "Sindesmosis radiocubital (izquierdo)",
+"la": "Syndesmosis radioulnaris",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.003-d",
+"es": "Sindesmosis radiocubital (derecho)",
+"la": "Syndesmosis radioulnaris",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.004-i",
+"es": "Articulación antebraquiocarpiana (izquierdo)",
+"la": "Articulatio antebrachiocarpea",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.004-d",
+"es": "Articulación antebraquiocarpiana (derecho)",
+"la": "Articulatio antebrachiocarpea",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.005-i",
+"es": "Articulación mediocarpiana (izquierdo)",
+"la": "Articulatio mediocarpea",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.005-d",
+"es": "Articulación mediocarpiana (derecho)",
+"la": "Articulatio mediocarpea",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.006-i",
+"es": "Articulaciones intercarpianas (izquierdo)",
+"la": "Articulationes intercarpeae",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.006-d",
+"es": "Articulaciones intercarpianas (derecho)",
+"la": "Articulationes intercarpeae",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.007-i",
+"es": "Articulación carpometacarpiana (izquierdo)",
+"la": "Articulatio carpometacarpea",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.007-d",
+"es": "Articulación carpometacarpiana (derecho)",
+"la": "Articulatio carpometacarpea",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.008-i",
+"es": "Articulación del menudillo (metacarpofalángica) (izquierdo)",
+"la": "Articulatio metacarpophalangea",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.008-d",
+"es": "Articulación del menudillo (metacarpofalángica) (derecho)",
+"la": "Articulatio metacarpophalangea",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.009-i",
+"es": "Articulación interfalángica proximal (izquierdo)",
+"la": "Articulatio interphalangea proximalis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.009-d",
+"es": "Articulación interfalángica proximal (derecho)",
+"la": "Articulatio interphalangea proximalis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.010-i",
+"es": "Articulación interfalángica distal (izquierdo)",
+"la": "Articulatio interphalangea distalis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.010-d",
+"es": "Articulación interfalángica distal (derecho)",
+"la": "Articulatio interphalangea distalis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.001-i",
+"es": "Articulación coxofemoral (cadera) (izquierdo)",
+"la": "Articulatio coxae",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.001-d",
+"es": "Articulación coxofemoral (cadera) (derecho)",
+"la": "Articulatio coxae",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.002-i",
+"es": "Articulación femoropatelar (izquierdo)",
+"la": "Articulatio femoropatellaris",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.002-d",
+"es": "Articulación femoropatelar (derecho)",
+"la": "Articulatio femoropatellaris",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.003-i",
+"es": "Articulación femorotibial (izquierdo)",
+"la": "Articulatio femorotibialis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.003-d",
+"es": "Articulación femorotibial (derecho)",
+"la": "Articulatio femorotibialis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.004-i",
+"es": "Menisco medial (izquierdo)",
+"la": "Meniscus medialis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.004-d",
+"es": "Menisco medial (derecho)",
+"la": "Meniscus medialis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.005-i",
+"es": "Menisco lateral (izquierdo)",
+"la": "Meniscus lateralis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.005-d",
+"es": "Menisco lateral (derecho)",
+"la": "Meniscus lateralis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.006-i",
+"es": "Articulación tibioperonea proximal (izquierdo)",
+"la": "Articulatio tibiofibularis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.006-d",
+"es": "Articulación tibioperonea proximal (derecho)",
+"la": "Articulatio tibiofibularis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.007-i",
+"es": "Articulación tibiotarsiana (talocrural) (izquierdo)",
+"la": "Articulatio talocruralis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.007-d",
+"es": "Articulación tibiotarsiana (talocrural) (derecho)",
+"la": "Articulatio talocruralis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.008-i",
+"es": "Articulación intertarsiana proximal (izquierdo)",
+"la": "Articulatio intertarsea proximalis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.008-d",
+"es": "Articulación intertarsiana proximal (derecho)",
+"la": "Articulatio intertarsea proximalis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.009-i",
+"es": "Articulación intertarsiana distal (izquierdo)",
+"la": "Articulatio intertarsea distalis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.009-d",
+"es": "Articulación intertarsiana distal (derecho)",
+"la": "Articulatio intertarsea distalis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.010-i",
+"es": "Articulación tarsometatarsiana (izquierdo)",
+"la": "Articulatio tarsometatarsea",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.010-d",
+"es": "Articulación tarsometatarsiana (derecho)",
+"la": "Articulatio tarsometatarsea",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.011-i",
+"es": "Articulación del menudillo (metatarsofalángica) (izquierdo)",
+"la": "Articulatio metatarsophalangea",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.011-d",
+"es": "Articulación del menudillo (metatarsofalángica) (derecho)",
+"la": "Articulatio metatarsophalangea",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.012-i",
+"es": "Articulación interfalángica proximal (izquierdo)",
+"la": "Articulatio interphalangea proximalis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.012-d",
+"es": "Articulación interfalángica proximal (derecho)",
+"la": "Articulatio interphalangea proximalis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.013-i",
+"es": "Articulación interfalángica distal (izquierdo)",
+"la": "Articulatio interphalangea distalis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.013-d",
+"es": "Articulación interfalángica distal (derecho)",
+"la": "Articulatio interphalangea distalis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lax.001",
+"es": "Funículo nucal (ligamento nucal)",
+"la": "Funiculus nuchae",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lax.002",
+"es": "Lámina nucal",
+"la": "Lamina nuchae",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lax.003",
+"es": "Ligamento supraespinoso",
+"la": "Ligamentum supraspinale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lax.004",
+"es": "Ligamento longitudinal dorsal",
+"la": "Ligamentum longitudinale dorsale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lax.005",
+"es": "Ligamento longitudinal ventral",
+"la": "Ligamentum longitudinale ventrale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lax.006",
+"es": "Ligamentos amarillos",
+"la": "Ligamenta flava",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lax.007",
+"es": "Ligamentos interespinosos",
+"la": "Ligamenta interspinalia",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lax.008",
+"es": "Ligamento transverso del atlas",
+"la": "Ligamentum transversum atlantis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lax.009-i",
+"es": "Ligamento sacroilíaco dorsal (izquierdo)",
+"la": "Ligamentum sacroiliacum dorsale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lax.009-d",
+"es": "Ligamento sacroilíaco dorsal (derecho)",
+"la": "Ligamentum sacroiliacum dorsale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lax.010-i",
+"es": "Ligamento sacroilíaco ventral (izquierdo)",
+"la": "Ligamentum sacroiliacum ventrale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lax.010-d",
+"es": "Ligamento sacroilíaco ventral (derecho)",
+"la": "Ligamentum sacroiliacum ventrale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lax.011-i",
+"es": "Ligamento sacrotuberal ancho (izquierdo)",
+"la": "Ligamentum sacrotuberale latum",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lax.011-d",
+"es": "Ligamento sacrotuberal ancho (derecho)",
+"la": "Ligamentum sacrotuberale latum",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.001-i",
+"es": "Ligamento colateral medial del codo (izquierdo)",
+"la": "Ligamentum collaterale mediale (articulationis cubiti)",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.001-d",
+"es": "Ligamento colateral medial del codo (derecho)",
+"la": "Ligamentum collaterale mediale (articulationis cubiti)",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.002-i",
+"es": "Ligamento colateral lateral del codo (izquierdo)",
+"la": "Ligamentum collaterale laterale (articulationis cubiti)",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.002-d",
+"es": "Ligamento colateral lateral del codo (derecho)",
+"la": "Ligamentum collaterale laterale (articulationis cubiti)",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.003-i",
+"es": "Ligamento colateral medial del carpo (izquierdo)",
+"la": "Ligamentum collaterale carpi mediale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.003-d",
+"es": "Ligamento colateral medial del carpo (derecho)",
+"la": "Ligamentum collaterale carpi mediale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.004-i",
+"es": "Ligamento colateral lateral del carpo (izquierdo)",
+"la": "Ligamentum collaterale carpi laterale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.004-d",
+"es": "Ligamento colateral lateral del carpo (derecho)",
+"la": "Ligamentum collaterale carpi laterale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.005-i",
+"es": "Ligamento suspensorio del menudillo (izquierdo)",
+"la": "Musculus interosseus medius",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.005-d",
+"es": "Ligamento suspensorio del menudillo (derecho)",
+"la": "Musculus interosseus medius",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.006-i",
+"es": "Ligamento accesorio inferior (check inferior) (izquierdo)",
+"la": "Ligamentum accessorium (m. flexoris digitalis profundi)",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.006-d",
+"es": "Ligamento accesorio inferior (check inferior) (derecho)",
+"la": "Ligamentum accessorium (m. flexoris digitalis profundi)",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.007-i",
+"es": "Ligamento accesorio superior (check superior) (izquierdo)",
+"la": "Ligamentum accessorium (m. flexoris digitalis superficialis)",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.007-d",
+"es": "Ligamento accesorio superior (check superior) (derecho)",
+"la": "Ligamentum accessorium (m. flexoris digitalis superficialis)",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.008-i",
+"es": "Ligamento colateral medial del menudillo (izquierdo)",
+"la": "Ligamentum collaterale mediale (articulationis metacarpophalangeae)",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.008-d",
+"es": "Ligamento colateral medial del menudillo (derecho)",
+"la": "Ligamentum collaterale mediale (articulationis metacarpophalangeae)",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.009-i",
+"es": "Ligamento colateral lateral del menudillo (izquierdo)",
+"la": "Ligamentum collaterale laterale (articulationis metacarpophalangeae)",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.009-d",
+"es": "Ligamento colateral lateral del menudillo (derecho)",
+"la": "Ligamentum collaterale laterale (articulationis metacarpophalangeae)",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.010-i",
+"es": "Ligamento anular palmar (izquierdo)",
+"la": "Ligamentum annulare palmare",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.010-d",
+"es": "Ligamento anular palmar (derecho)",
+"la": "Ligamentum annulare palmare",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.011-i",
+"es": "Ligamentos sesamoideos distales (recto, oblicuos, cruzados) (izquierdo)",
+"la": "Ligamenta sesamoidea distalia",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.011-d",
+"es": "Ligamentos sesamoideos distales (recto, oblicuos, cruzados) (derecho)",
+"la": "Ligamenta sesamoidea distalia",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.012-i",
+"es": "Ligamento sesamoideo distal impar (izquierdo)",
+"la": "Ligamentum sesamoideum distale impar",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.012-d",
+"es": "Ligamento sesamoideo distal impar (derecho)",
+"la": "Ligamentum sesamoideum distale impar",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.001-i",
+"es": "Ligamento de la cabeza del fémur (izquierdo)",
+"la": "Ligamentum capitis ossis femoris",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.001-d",
+"es": "Ligamento de la cabeza del fémur (derecho)",
+"la": "Ligamentum capitis ossis femoris",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.002-i",
+"es": "Ligamento accesorio del fémur (izquierdo)",
+"la": "Ligamentum accessorium ossis femoris",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.002-d",
+"es": "Ligamento accesorio del fémur (derecho)",
+"la": "Ligamentum accessorium ossis femoris",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.003-i",
+"es": "Ligamento patelar medial (izquierdo)",
+"la": "Ligamentum patellae mediale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.003-d",
+"es": "Ligamento patelar medial (derecho)",
+"la": "Ligamentum patellae mediale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.004-i",
+"es": "Ligamento patelar intermedio (izquierdo)",
+"la": "Ligamentum patellae intermedium",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.004-d",
+"es": "Ligamento patelar intermedio (derecho)",
+"la": "Ligamentum patellae intermedium",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.005-i",
+"es": "Ligamento patelar lateral (izquierdo)",
+"la": "Ligamentum patellae laterale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.005-d",
+"es": "Ligamento patelar lateral (derecho)",
+"la": "Ligamentum patellae laterale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.006-i",
+"es": "Ligamento femoropatelar medial (izquierdo)",
+"la": "Ligamentum femoropatellare mediale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.006-d",
+"es": "Ligamento femoropatelar medial (derecho)",
+"la": "Ligamentum femoropatellare mediale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.007-i",
+"es": "Ligamento femoropatelar lateral (izquierdo)",
+"la": "Ligamentum femoropatellare laterale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.007-d",
+"es": "Ligamento femoropatelar lateral (derecho)",
+"la": "Ligamentum femoropatellare laterale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.008-i",
+"es": "Ligamento cruzado craneal (izquierdo)",
+"la": "Ligamentum cruciatum craniale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.008-d",
+"es": "Ligamento cruzado craneal (derecho)",
+"la": "Ligamentum cruciatum craniale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.009-i",
+"es": "Ligamento cruzado caudal (izquierdo)",
+"la": "Ligamentum cruciatum caudale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.009-d",
+"es": "Ligamento cruzado caudal (derecho)",
+"la": "Ligamentum cruciatum caudale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.010-i",
+"es": "Ligamento colateral medial de la rodilla (izquierdo)",
+"la": "Ligamentum collaterale mediale (articulationis genus)",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.010-d",
+"es": "Ligamento colateral medial de la rodilla (derecho)",
+"la": "Ligamentum collaterale mediale (articulationis genus)",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.011-i",
+"es": "Ligamento colateral lateral de la rodilla (izquierdo)",
+"la": "Ligamentum collaterale laterale (articulationis genus)",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.011-d",
+"es": "Ligamento colateral lateral de la rodilla (derecho)",
+"la": "Ligamentum collaterale laterale (articulationis genus)",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.012-i",
+"es": "Ligamento colateral medial del tarso (izquierdo)",
+"la": "Ligamentum collaterale tarsi mediale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.012-d",
+"es": "Ligamento colateral medial del tarso (derecho)",
+"la": "Ligamentum collaterale tarsi mediale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.013-i",
+"es": "Ligamento colateral lateral del tarso (izquierdo)",
+"la": "Ligamentum collaterale tarsi laterale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.013-d",
+"es": "Ligamento colateral lateral del tarso (derecho)",
+"la": "Ligamentum collaterale tarsi laterale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.014-i",
+"es": "Ligamento plantar largo (izquierdo)",
+"la": "Ligamentum plantare longum",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.014-d",
+"es": "Ligamento plantar largo (derecho)",
+"la": "Ligamentum plantare longum",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.015-i",
+"es": "Ligamento suspensorio del menudillo (izquierdo)",
+"la": "Musculus interosseus medius",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.015-d",
+"es": "Ligamento suspensorio del menudillo (derecho)",
+"la": "Musculus interosseus medius",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.016-i",
+"es": "Ligamento anular plantar (izquierdo)",
+"la": "Ligamentum annulare plantare",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.016-d",
+"es": "Ligamento anular plantar (derecho)",
+"la": "Ligamentum annulare plantare",
+"sys": "ske",
+"layer": "art"
 }
 ]
 }
