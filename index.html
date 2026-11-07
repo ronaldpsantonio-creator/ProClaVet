@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0f766e">
+<title>VetAnatomy 3D</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="stylesheet" href="css/styles.css">
+</head><body>
+<header>
+<h1>VetAnatomy 3D <small>Fase 2 · visor y controles</small></h1>
+<div class="row" id="sp"></div>
+<div class="row" id="sy"></div>
+</header>
+<main>
+<div id="vw"><div id="warn">Cargando…</div><div id="bar"><div id="bi"></div></div></div>
+<aside>
+<div class="tabs"><button data-t="e" class="on">Estructuras</button><button data-t="c">Capas</button><button data-t="v">Vista</button><button data-t="f">Ficha</button></div>
+<div id="te"><input type="search" id="q" placeholder="Buscar (español o latín)"><div id="ls"></div></div>
+<div id="tc" class="hid"><div id="lyr"></div></div>
+<div id="tv" class="hid">
+<label>Separar capas <input type="range" id="ex" min="0" max="100" value="0"></label>
+<label><input type="checkbox" id="lab" checked> Mostrar nombres (ES · LA)</label>
+<label><input type="checkbox" id="blind"> Modo autoevaluación (sin nombres)</label>
+<div class="row"><button data-v="l">Lateral</button><button data-v="d">Dorsal</button><button data-v="f">Frontal</button><button id="rs">Recentrar</button></div>
+<div class="row"><button id="iso">Aislar selección</button><button id="all">Mostrar todo</button></div>
+<div class="row"><button id="ld">Probar un GLB local en la estructura seleccionada…</button></div>
+<input type="file" id="fl" accept=".glb" class="hid">
+<p class="mu">Los modelos reales se colocan en <code>models/equino/…/ID.glb</code>. Se cargan por partes y en segundo plano.</p>
+</div>
+<div id="tf" class="hid"></div>
+</aside>
+</main>
+<script src="https://cdn.jsdelivr.net/npm/three@0.128.0/build/three.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/loaders/GLTFLoader.js"></script>
+<script src="js/app.js"></script>
+<script>if("serviceWorker"in navigator)addEventListener("load",()=>navigator.serviceWorker.register("sw.js").catch(()=>{}))</script>
+</body></html>
