@@ -23,10 +23,10 @@ const loader=new THREE.GLTFLoader();
 fetch("data/equino.json").then(r=>r.json()).then(build).catch(()=>{$("warn").textContent="No se pudo leer data/equino.json. Abre la app desde un servidor (GitHub Pages), no desde el archivo local."});
 function build(d){
  d.structures.forEach(s=>{
-  const g=new THREE.Group(),ph=new THREE.Mesh(new THREE.BoxGeometry(...s.ph.s),new THREE.MeshStandardMaterial({color:s.ph.c,transparent:true}));
-  ph.position.set(...s.ph.p);g.add(ph);g.userData.id=s.id;sc.add(g);
-  const c=new THREE.Vector3(...s.ph.p),lb=document.createElement("div");lb.className="lb";lb.textContent=s.es+" · "+s.la;vw.appendChild(lb);
-  S.items[s.id]={s,g,ph,c,lb,vis:true,state:"pendiente",dir:c.clone().setY(c.y-.3).normalize()};
+  const g=new THREE.Group(),P=s.ph,ph=P?new THREE.Mesh(new THREE.BoxGeometry(...P.s),new THREE.MeshStandardMaterial({color:P.c,transparent:true})):null;
+  if(ph){ph.position.set(...P.p);g.add(ph)}g.userData.id=s.id;sc.add(g);
+  const c=P?new THREE.Vector3(...P.p):new THREE.Vector3(),lb=document.createElement("div");lb.className="lb";lb.textContent=s.es+" · "+s.la;vw.appendChild(lb);
+  S.items[s.id]={s,g,ph,c,lb,has:!!P,vis:true,state:"pendiente",dir:c.clone().setY(c.y-.3).normalize()};
  });
  buildSystems();layerPanel();list();ficha();refresh();
  $("warn").textContent="Formas provisionales: marcadores de posición, no anatomía real. Cada estructura espera su modelo GLB verificado.";
@@ -34,7 +34,7 @@ function build(d){
 }
 function mats(it){const a=[];it.g.traverse(m=>{if(m.isMesh)a.push(m.material)});return a}
 function setModel(it,root){
- if(it.ph.parent){it.g.remove(it.ph);it.ph.geometry.dispose()}
+ if(it.ph&&it.ph.parent){it.g.remove(it.ph);it.ph.geometry.dispose()}it.has=true;
  if(it.model)it.g.remove(it.model);
  it.model=root;it.g.add(root);
  root.traverse(m=>{if(m.isMesh){m.material=m.material.clone();m.material.transparent=true}});
@@ -66,7 +66,7 @@ function refresh(){
 // al acercar el zoom aparecen los nombres de las 4 estructuras más cercanas al centro y no tapadas.
 const rayO=new THREE.Raycaster();let lastOcc=0;const occ={};const ZOOM_NEAR=5.5,MAX_AUTO=4;
 function updateOcc(){
- const vis=Object.values(S.items).filter(i=>i.g.visible),objs=vis.map(i=>i.g);
+ const vis=Object.values(S.items).filter(i=>i.g.visible&&i.has),objs=vis.map(i=>i.g);
  vis.forEach(it=>{const d=it.c.clone().add(it.g.position).sub(cam.position),dist=d.length();
   rayO.set(cam.position,d.normalize());const h=rayO.intersectObjects(objs,true)[0];
   let o=h&&h.object;while(o&&!o.userData.id)o=o.parent;
@@ -77,7 +77,7 @@ function loop(){requestAnimationFrame(loop);ctl.update();
  if(now-lastOcc>200){lastOcc=now;updateOcc()}
  const zoomed=cam.position.distanceTo(ctl.target)<ZOOM_NEAR,cand=[],all=Object.values(S.items);
  all.forEach(it=>{const v=it.c.clone().add(it.g.position).project(cam);it.pv=v;it.show=false;
-  if(blind||!it.g.visible||v.z>=1)return;
+  if(blind||!it.has||!it.g.visible||v.z>=1)return;
   if(S.sel===it.s.id)it.show=true;
   else if(auto&&zoomed&&occ[it.s.id]!==false&&Math.abs(v.x)<1&&Math.abs(v.y)<1)cand.push([Math.hypot(v.x,v.y),it])});
  cand.sort((a,b)=>a[0]-b[0]).slice(0,MAX_AUTO).forEach(c=>c[1].show=true);
@@ -122,7 +122,7 @@ function ficha(){
  const it=S.items[S.sel];if(!it){$("tf").innerHTML="<p>Selecciona una estructura en el visor o en la lista.</p>";return}
  const s=it.s,F=s.ficha||{},blind=$("blind").checked;
  $("tf").innerHTML=`<h3 style="margin:0">${blind?s.id:s.es}</h3><div class="mu">${blind?"":s.la+" (NAV) · "}${s.id}</div>
- <p class="${it.state==="cargado"?"mu":"pend"}" style="font-size:13px">Modelo 3D: ${it.state==="cargado"?"cargado. Licencia: "+(s.licencia||"sin documentar"):"marcador provisional, pendiente de desarrollo."}</p>`+
+ <p class="${it.state==="cargado"?"mu":"pend"}" style="font-size:13px">Modelo 3D: ${it.state==="cargado"?"cargado. Licencia: "+(s.licencia||"sin documentar"):(s.ph?"marcador provisional, pendiente de desarrollo.":"sin modelo 3D, pendiente de desarrollo.")}</p>`+
  FIELDS.map(([k,n])=>`<div class="f"><span>${n}</span>${F[k]?F[k]:'<span class="pend">Pendiente: sin información verificada</span>'}</div>`).join("")+
  `<div class="f"><span>Notas personales</span><textarea id="nt" rows="3" style="width:100%;box-sizing:border-box">${S.notes[s.id]||""}</textarea></div>`;
  $("nt").oninput=e=>{S.notes[s.id]=e.target.value;persist()};
