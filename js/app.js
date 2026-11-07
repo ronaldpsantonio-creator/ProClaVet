@@ -62,13 +62,29 @@ function refresh(){
   mats(it).forEach(m=>{m.opacity=o;if(m.emissive){m.emissive.setHex(S.sel===it.s.id?0x2dd4bf:0);m.emissiveIntensity=.55}});
  });
 }
+// Etiquetas inteligentes: el hueso seleccionado siempre muestra su nombre;
+// al acercar el zoom aparecen los nombres de las 4 estructuras más cercanas al centro y no tapadas.
+const rayO=new THREE.Raycaster();let lastOcc=0;const occ={};const ZOOM_NEAR=5.5,MAX_AUTO=4;
+function updateOcc(){
+ const vis=Object.values(S.items).filter(i=>i.g.visible),objs=vis.map(i=>i.g);
+ vis.forEach(it=>{const d=it.c.clone().add(it.g.position).sub(cam.position),dist=d.length();
+  rayO.set(cam.position,d.normalize());const h=rayO.intersectObjects(objs,true)[0];
+  let o=h&&h.object;while(o&&!o.userData.id)o=o.parent;
+  occ[it.s.id]=!(o&&o.userData.id!==it.s.id&&h.distance<dist-0.05)});
+}
 function loop(){requestAnimationFrame(loop);ctl.update();
- const w=vw.clientWidth,h=vw.clientHeight,on=$("lab").checked&&!$("blind").checked;
- Object.values(S.items).forEach(it=>{
-  if(!on||!it.g.visible){it.lb.style.display="none";return}
-  const v=it.c.clone().add(it.g.position).project(cam);
-  it.lb.style.display=v.z<1?"block":"none";it.lb.style.left=(v.x+1)/2*w+"px";it.lb.style.top=(1-v.y)/2*h+"px";
- });
+ const w=vw.clientWidth,h=vw.clientHeight,blind=$("blind").checked,auto=$("lab").checked,now=performance.now();
+ if(now-lastOcc>200){lastOcc=now;updateOcc()}
+ const zoomed=cam.position.distanceTo(ctl.target)<ZOOM_NEAR,cand=[],all=Object.values(S.items);
+ all.forEach(it=>{const v=it.c.clone().add(it.g.position).project(cam);it.pv=v;it.show=false;
+  if(blind||!it.g.visible||v.z>=1)return;
+  if(S.sel===it.s.id)it.show=true;
+  else if(auto&&zoomed&&occ[it.s.id]!==false&&Math.abs(v.x)<1&&Math.abs(v.y)<1)cand.push([Math.hypot(v.x,v.y),it])});
+ cand.sort((a,b)=>a[0]-b[0]).slice(0,MAX_AUTO).forEach(c=>c[1].show=true);
+ all.forEach(it=>{const l=it.lb;if(!it.show){l.style.display="none";return}
+  const sel=S.sel===it.s.id;l.style.display="block";
+  l.style.left=(it.pv.x+1)/2*w+"px";l.style.top=(1-it.pv.y)/2*h+"px";
+  l.style.background=sel?"rgba(15,118,110,.95)":"rgba(0,0,0,.65)";l.style.fontWeight=sel?"600":"400";l.style.zIndex=sel?2:1});
  ren.render(sc,cam);
 }loop();
 // ---- Selección
@@ -79,7 +95,7 @@ ren.domElement.addEventListener("pointerup",e=>{
  const r=ren.domElement.getBoundingClientRect();pt.set((e.clientX-r.left)/r.width*2-1,-(e.clientY-r.top)/r.height*2+1);
  ray.setFromCamera(pt,cam);
  const h=ray.intersectObjects(Object.values(S.items).filter(i=>i.g.visible).map(i=>i.g),true)[0];
- if(h){let o=h.object;while(o&&!o.userData.id)o=o.parent;if(o)pick(o.userData.id)}
+ if(h){let o=h.object;while(o&&!o.userData.id)o=o.parent;if(o)pick(o.userData.id)}else if(S.sel){S.sel=null;list();refresh();ficha()}
 });
 function pick(id){S.sel=id;list();refresh();ficha();tab("f")}
 // ---- Paneles
