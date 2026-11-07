@@ -1,174 +1,1602 @@
 {
- "species": "equ",
- "name": "Equino",
- "structures": [
-  {
-   "id": "equ.ske.cra.001",
-   "es": "Cráneo",
-   "la": "Cranium",
-   "sys": "ske",
-   "layer": "oss",
-   "ph": {
-    "p": [
-     2.6,
-     1.5,
-     0
-    ],
-    "s": [
-     1.5,
-     0.7,
-     0.7
-    ],
-    "c": 14208432
-   },
-   "model": "models/equino/skeletal/equ.ske.cra.001.glb"
-  },
-  {
-   "id": "equ.ske.col.001",
-   "es": "Columna vertebral",
-   "la": "Columna vertebralis",
-   "sys": "ske",
-   "layer": "oss",
-   "ph": {
-    "p": [
-     0,
-     1.1,
-     0
-    ],
-    "s": [
-     4,
-     0.25,
-     0.25
-    ],
-    "c": 13221276
-   },
-   "model": "models/equino/skeletal/equ.ske.col.001.glb"
-  },
-  {
-   "id": "equ.ske.cos.001",
-   "es": "Costillas y esternón",
-   "la": "Costae et sternum",
-   "sys": "ske",
-   "layer": "oss",
-   "ph": {
-    "p": [
-     0.6,
-     0.5,
-     0
-    ],
-    "s": [
-     1.6,
-     1,
-     0.8
-    ],
-    "c": 14999750
-   },
-   "model": "models/equino/skeletal/equ.ske.cos.001.glb"
-  },
-  {
-   "id": "equ.ske.mto.001",
-   "es": "Escápula",
-   "la": "Scapula",
-   "sys": "ske",
-   "layer": "oss",
-   "ph": {
-    "p": [
-     1.5,
-     0.6,
-     0.45
-    ],
-    "s": [
-     0.3,
-     1,
-     0.1
-    ],
-    "c": 12563345
-   },
-   "model": "models/equino/skeletal/equ.ske.mto.001.glb"
-  },
-  {
-   "id": "equ.ske.mto.002",
-   "es": "Húmero",
-   "la": "Humerus",
-   "sys": "ske",
-   "layer": "oss",
-   "ph": {
-    "p": [
-     1.5,
-     -0.2,
-     0.45
-    ],
-    "s": [
-     0.2,
-     0.9,
-     0.2
-    ],
-    "c": 13813414
-   },
-   "model": "models/equino/skeletal/equ.ske.mto.002.glb"
-  },
-  {
-   "id": "equ.ske.mpe.001",
-   "es": "Pelvis",
-   "la": "Pelvis",
-   "sys": "ske",
-   "layer": "oss",
-   "ph": {
-    "p": [
-     -1.6,
-     0.8,
-     0
-    ],
-    "s": [
-     0.8,
-     0.5,
-     1
-    ],
-    "c": 13352863
-   },
-   "model": "models/equino/skeletal/equ.ske.mpe.001.glb"
-  },
-  {
-   "id": "equ.ske.mpe.002",
-   "es": "Fémur",
-   "la": "Femur",
-   "sys": "ske",
-   "layer": "oss",
-   "ph": {
-    "p": [
-     -1.7,
-     -0.1,
-     0.45
-    ],
-    "s": [
-     0.25,
-     1,
-     0.25
-    ],
-    "c": 14076586
-   },
-   "model": "models/equino/skeletal/equ.ske.mpe.002.glb"
-  },
-  {
-   "id": "equ.car.cor.001",
-   "es": "Corazón",
-   "la": "Cor",
-   "sys": "car",
-   "layer": "org",
-   "ph": {
-    "p": [
-     0.9,
-     0.1,
-     0
-    ],
-    "s": [
-     0.5,
-     0.6,
-     0.5
-    ],
-    "c": 11680328
-   },
-   "model": "models/equino/organs/equ.car.cor.001.glb"
-  }
- ]
+"species": "equ",
+"name": "Equino",
+"structures": [
+{
+"id": "equ.prv.ske.cra.001",
+"es": "Cráneo (marcador provisional)",
+"la": "Cranium",
+"sys": "ske",
+"layer": "oss",
+"ph": {
+"p": [
+2.6,
+1.5,
+0
+],
+"s": [
+1.5,
+0.7,
+0.7
+],
+"c": 14208432
+}
+},
+{
+"id": "equ.prv.ske.col.001",
+"es": "Columna vertebral (marcador provisional)",
+"la": "Columna vertebralis",
+"sys": "ske",
+"layer": "oss",
+"ph": {
+"p": [
+0,
+1.1,
+0
+],
+"s": [
+4,
+0.25,
+0.25
+],
+"c": 13221276
+}
+},
+{
+"id": "equ.prv.ske.cos.001",
+"es": "Costillas y esternón (marcador provisional)",
+"la": "Costae et sternum",
+"sys": "ske",
+"layer": "oss",
+"ph": {
+"p": [
+0.6,
+0.5,
+0
+],
+"s": [
+1.6,
+1,
+0.8
+],
+"c": 14999750
+}
+},
+{
+"id": "equ.prv.ske.mto.001",
+"es": "Escápula (marcador provisional)",
+"la": "Scapula",
+"sys": "ske",
+"layer": "oss",
+"ph": {
+"p": [
+1.5,
+0.6,
+0.45
+],
+"s": [
+0.3,
+1,
+0.1
+],
+"c": 12563345
+}
+},
+{
+"id": "equ.prv.ske.mto.002",
+"es": "Húmero (marcador provisional)",
+"la": "Humerus",
+"sys": "ske",
+"layer": "oss",
+"ph": {
+"p": [
+1.5,
+-0.2,
+0.45
+],
+"s": [
+0.2,
+0.9,
+0.2
+],
+"c": 13813414
+}
+},
+{
+"id": "equ.prv.ske.mpe.001",
+"es": "Pelvis (marcador provisional)",
+"la": "Pelvis",
+"sys": "ske",
+"layer": "oss",
+"ph": {
+"p": [
+-1.6,
+0.8,
+0
+],
+"s": [
+0.8,
+0.5,
+1
+],
+"c": 13352863
+}
+},
+{
+"id": "equ.prv.ske.mpe.002",
+"es": "Fémur (marcador provisional)",
+"la": "Femur",
+"sys": "ske",
+"layer": "oss",
+"ph": {
+"p": [
+-1.7,
+-0.1,
+0.45
+],
+"s": [
+0.25,
+1,
+0.25
+],
+"c": 14076586
+}
+},
+{
+"id": "equ.car.cor.001",
+"es": "Corazón (marcador provisional)",
+"la": "Cor",
+"sys": "car",
+"layer": "org",
+"ph": {
+"p": [
+0.9,
+0.1,
+0
+],
+"s": [
+0.5,
+0.6,
+0.5
+],
+"c": 11680328
+},
+"model": "models/equino/organs/equ.car.cor.001.glb"
+},
+{
+"id": "equ.ske.cra.001",
+"es": "Occipital",
+"la": "Os occipitale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.002",
+"es": "Basisfenoides",
+"la": "Os basisphenoidale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.003",
+"es": "Presfenoides",
+"la": "Os presphenoidale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.004",
+"es": "Etmoides",
+"la": "Os ethmoidale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.005",
+"es": "Interparietal",
+"la": "Os interparietale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.006-i",
+"es": "Parietal (izquierdo)",
+"la": "Os parietale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.006-d",
+"es": "Parietal (derecho)",
+"la": "Os parietale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.007-i",
+"es": "Frontal (izquierdo)",
+"la": "Os frontale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.007-d",
+"es": "Frontal (derecho)",
+"la": "Os frontale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.008-i",
+"es": "Temporal (izquierdo)",
+"la": "Os temporale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.008-d",
+"es": "Temporal (derecho)",
+"la": "Os temporale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.009-i",
+"es": "Nasal (izquierdo)",
+"la": "Os nasale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.009-d",
+"es": "Nasal (derecho)",
+"la": "Os nasale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.010-i",
+"es": "Lagrimal (izquierdo)",
+"la": "Os lacrimale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.010-d",
+"es": "Lagrimal (derecho)",
+"la": "Os lacrimale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.011-i",
+"es": "Cigomático (izquierdo)",
+"la": "Os zygomaticum",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.011-d",
+"es": "Cigomático (derecho)",
+"la": "Os zygomaticum",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.012-i",
+"es": "Maxilar (izquierdo)",
+"la": "Maxilla",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.012-d",
+"es": "Maxilar (derecho)",
+"la": "Maxilla",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.013-i",
+"es": "Incisivo (izquierdo)",
+"la": "Os incisivum",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.013-d",
+"es": "Incisivo (derecho)",
+"la": "Os incisivum",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.014-i",
+"es": "Palatino (izquierdo)",
+"la": "Os palatinum",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.014-d",
+"es": "Palatino (derecho)",
+"la": "Os palatinum",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.015-i",
+"es": "Pterigoides (izquierdo)",
+"la": "Os pterygoideum",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.015-d",
+"es": "Pterigoides (derecho)",
+"la": "Os pterygoideum",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.016",
+"es": "Vómer",
+"la": "Vomer",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.017-i",
+"es": "Hemimandíbula (izquierdo)",
+"la": "Mandibula",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.017-d",
+"es": "Hemimandíbula (derecho)",
+"la": "Mandibula",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.oid.001-i",
+"es": "Martillo (izquierdo)",
+"la": "Malleus",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.oid.001-d",
+"es": "Martillo (derecho)",
+"la": "Malleus",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.oid.002-i",
+"es": "Yunque (izquierdo)",
+"la": "Incus",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.oid.002-d",
+"es": "Yunque (derecho)",
+"la": "Incus",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.oid.003-i",
+"es": "Estribo (izquierdo)",
+"la": "Stapes",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.oid.003-d",
+"es": "Estribo (derecho)",
+"la": "Stapes",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cer.001",
+"es": "Atlas (C1)",
+"la": "Atlas",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cer.002",
+"es": "Axis (C2)",
+"la": "Axis",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cer.003",
+"es": "Vértebra cervical 3 (C3)",
+"la": "Vertebra cervicalis III",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cer.004",
+"es": "Vértebra cervical 4 (C4)",
+"la": "Vertebra cervicalis IV",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cer.005",
+"es": "Vértebra cervical 5 (C5)",
+"la": "Vertebra cervicalis V",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cer.006",
+"es": "Vértebra cervical 6 (C6)",
+"la": "Vertebra cervicalis VI",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cer.007",
+"es": "Vértebra cervical 7 (C7)",
+"la": "Vertebra cervicalis VII",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.001",
+"es": "Vértebra torácica 1 (T1)",
+"la": "Vertebra thoracica 1",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.002",
+"es": "Vértebra torácica 2 (T2)",
+"la": "Vertebra thoracica 2",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.003",
+"es": "Vértebra torácica 3 (T3)",
+"la": "Vertebra thoracica 3",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.004",
+"es": "Vértebra torácica 4 (T4)",
+"la": "Vertebra thoracica 4",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.005",
+"es": "Vértebra torácica 5 (T5)",
+"la": "Vertebra thoracica 5",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.006",
+"es": "Vértebra torácica 6 (T6)",
+"la": "Vertebra thoracica 6",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.007",
+"es": "Vértebra torácica 7 (T7)",
+"la": "Vertebra thoracica 7",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.008",
+"es": "Vértebra torácica 8 (T8)",
+"la": "Vertebra thoracica 8",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.009",
+"es": "Vértebra torácica 9 (T9)",
+"la": "Vertebra thoracica 9",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.010",
+"es": "Vértebra torácica 10 (T10)",
+"la": "Vertebra thoracica 10",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.011",
+"es": "Vértebra torácica 11 (T11)",
+"la": "Vertebra thoracica 11",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.012",
+"es": "Vértebra torácica 12 (T12)",
+"la": "Vertebra thoracica 12",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.013",
+"es": "Vértebra torácica 13 (T13)",
+"la": "Vertebra thoracica 13",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.014",
+"es": "Vértebra torácica 14 (T14)",
+"la": "Vertebra thoracica 14",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.015",
+"es": "Vértebra torácica 15 (T15)",
+"la": "Vertebra thoracica 15",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.016",
+"es": "Vértebra torácica 16 (T16)",
+"la": "Vertebra thoracica 16",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.017",
+"es": "Vértebra torácica 17 (T17)",
+"la": "Vertebra thoracica 17",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.018",
+"es": "Vértebra torácica 18 (T18)",
+"la": "Vertebra thoracica 18",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.lum.001",
+"es": "Vértebra lumbar 1 (L1)",
+"la": "Vertebra lumbalis 1",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.lum.002",
+"es": "Vértebra lumbar 2 (L2)",
+"la": "Vertebra lumbalis 2",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.lum.003",
+"es": "Vértebra lumbar 3 (L3)",
+"la": "Vertebra lumbalis 3",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.lum.004",
+"es": "Vértebra lumbar 4 (L4)",
+"la": "Vertebra lumbalis 4",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.lum.005",
+"es": "Vértebra lumbar 5 (L5)",
+"la": "Vertebra lumbalis 5",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.lum.006",
+"es": "Vértebra lumbar 6 (L6)",
+"la": "Vertebra lumbalis 6",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.sac.001",
+"es": "Vértebra sacra 1 (S1)",
+"la": "Vertebra sacralis 1",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.sac.002",
+"es": "Vértebra sacra 2 (S2)",
+"la": "Vertebra sacralis 2",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.sac.003",
+"es": "Vértebra sacra 3 (S3)",
+"la": "Vertebra sacralis 3",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.sac.004",
+"es": "Vértebra sacra 4 (S4)",
+"la": "Vertebra sacralis 4",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.sac.005",
+"es": "Vértebra sacra 5 (S5)",
+"la": "Vertebra sacralis 5",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.001",
+"es": "Vértebra caudal 1 (Cd1)",
+"la": "Vertebra caudalis 1",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.002",
+"es": "Vértebra caudal 2 (Cd2)",
+"la": "Vertebra caudalis 2",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.003",
+"es": "Vértebra caudal 3 (Cd3)",
+"la": "Vertebra caudalis 3",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.004",
+"es": "Vértebra caudal 4 (Cd4)",
+"la": "Vertebra caudalis 4",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.005",
+"es": "Vértebra caudal 5 (Cd5)",
+"la": "Vertebra caudalis 5",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.006",
+"es": "Vértebra caudal 6 (Cd6)",
+"la": "Vertebra caudalis 6",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.007",
+"es": "Vértebra caudal 7 (Cd7)",
+"la": "Vertebra caudalis 7",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.008",
+"es": "Vértebra caudal 8 (Cd8)",
+"la": "Vertebra caudalis 8",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.009",
+"es": "Vértebra caudal 9 (Cd9)",
+"la": "Vertebra caudalis 9",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.010",
+"es": "Vértebra caudal 10 (Cd10)",
+"la": "Vertebra caudalis 10",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.011",
+"es": "Vértebra caudal 11 (Cd11)",
+"la": "Vertebra caudalis 11",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.012",
+"es": "Vértebra caudal 12 (Cd12)",
+"la": "Vertebra caudalis 12",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.013",
+"es": "Vértebra caudal 13 (Cd13)",
+"la": "Vertebra caudalis 13",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.014",
+"es": "Vértebra caudal 14 (Cd14)",
+"la": "Vertebra caudalis 14",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.015",
+"es": "Vértebra caudal 15 (Cd15)",
+"la": "Vertebra caudalis 15",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.016",
+"es": "Vértebra caudal 16 (Cd16)",
+"la": "Vertebra caudalis 16",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.017",
+"es": "Vértebra caudal 17 (Cd17)",
+"la": "Vertebra caudalis 17",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.018",
+"es": "Vértebra caudal 18 (Cd18)",
+"la": "Vertebra caudalis 18",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.001-i",
+"es": "Costilla 1 (izquierdo)",
+"la": "Costa 1",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.001-d",
+"es": "Costilla 1 (derecho)",
+"la": "Costa 1",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.002-i",
+"es": "Costilla 2 (izquierdo)",
+"la": "Costa 2",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.002-d",
+"es": "Costilla 2 (derecho)",
+"la": "Costa 2",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.003-i",
+"es": "Costilla 3 (izquierdo)",
+"la": "Costa 3",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.003-d",
+"es": "Costilla 3 (derecho)",
+"la": "Costa 3",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.004-i",
+"es": "Costilla 4 (izquierdo)",
+"la": "Costa 4",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.004-d",
+"es": "Costilla 4 (derecho)",
+"la": "Costa 4",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.005-i",
+"es": "Costilla 5 (izquierdo)",
+"la": "Costa 5",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.005-d",
+"es": "Costilla 5 (derecho)",
+"la": "Costa 5",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.006-i",
+"es": "Costilla 6 (izquierdo)",
+"la": "Costa 6",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.006-d",
+"es": "Costilla 6 (derecho)",
+"la": "Costa 6",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.007-i",
+"es": "Costilla 7 (izquierdo)",
+"la": "Costa 7",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.007-d",
+"es": "Costilla 7 (derecho)",
+"la": "Costa 7",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.008-i",
+"es": "Costilla 8 (izquierdo)",
+"la": "Costa 8",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.008-d",
+"es": "Costilla 8 (derecho)",
+"la": "Costa 8",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.009-i",
+"es": "Costilla 9 (izquierdo)",
+"la": "Costa 9",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.009-d",
+"es": "Costilla 9 (derecho)",
+"la": "Costa 9",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.010-i",
+"es": "Costilla 10 (izquierdo)",
+"la": "Costa 10",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.010-d",
+"es": "Costilla 10 (derecho)",
+"la": "Costa 10",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.011-i",
+"es": "Costilla 11 (izquierdo)",
+"la": "Costa 11",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.011-d",
+"es": "Costilla 11 (derecho)",
+"la": "Costa 11",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.012-i",
+"es": "Costilla 12 (izquierdo)",
+"la": "Costa 12",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.012-d",
+"es": "Costilla 12 (derecho)",
+"la": "Costa 12",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.013-i",
+"es": "Costilla 13 (izquierdo)",
+"la": "Costa 13",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.013-d",
+"es": "Costilla 13 (derecho)",
+"la": "Costa 13",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.014-i",
+"es": "Costilla 14 (izquierdo)",
+"la": "Costa 14",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.014-d",
+"es": "Costilla 14 (derecho)",
+"la": "Costa 14",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.015-i",
+"es": "Costilla 15 (izquierdo)",
+"la": "Costa 15",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.015-d",
+"es": "Costilla 15 (derecho)",
+"la": "Costa 15",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.016-i",
+"es": "Costilla 16 (izquierdo)",
+"la": "Costa 16",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.016-d",
+"es": "Costilla 16 (derecho)",
+"la": "Costa 16",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.017-i",
+"es": "Costilla 17 (izquierdo)",
+"la": "Costa 17",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.017-d",
+"es": "Costilla 17 (derecho)",
+"la": "Costa 17",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.018-i",
+"es": "Costilla 18 (izquierdo)",
+"la": "Costa 18",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.018-d",
+"es": "Costilla 18 (derecho)",
+"la": "Costa 18",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.ste.001",
+"es": "Esternón",
+"la": "Sternum",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.001-i",
+"es": "Escápula (izquierdo)",
+"la": "Scapula",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.001-d",
+"es": "Escápula (derecho)",
+"la": "Scapula",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.002-i",
+"es": "Húmero (izquierdo)",
+"la": "Humerus",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.002-d",
+"es": "Húmero (derecho)",
+"la": "Humerus",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.003-i",
+"es": "Radio (izquierdo)",
+"la": "Radius",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.003-d",
+"es": "Radio (derecho)",
+"la": "Radius",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.004-i",
+"es": "Ulna (izquierdo)",
+"la": "Ulna",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.004-d",
+"es": "Ulna (derecho)",
+"la": "Ulna",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.005-i",
+"es": "Carpiano radial (izquierdo)",
+"la": "Os carpi radiale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.005-d",
+"es": "Carpiano radial (derecho)",
+"la": "Os carpi radiale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.006-i",
+"es": "Carpiano intermedio (izquierdo)",
+"la": "Os carpi intermedium",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.006-d",
+"es": "Carpiano intermedio (derecho)",
+"la": "Os carpi intermedium",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.007-i",
+"es": "Carpiano ulnar (izquierdo)",
+"la": "Os carpi ulnare",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.007-d",
+"es": "Carpiano ulnar (derecho)",
+"la": "Os carpi ulnare",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.008-i",
+"es": "Carpiano accesorio (izquierdo)",
+"la": "Os carpi accessorium",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.008-d",
+"es": "Carpiano accesorio (derecho)",
+"la": "Os carpi accessorium",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.009-i",
+"es": "Carpiano II (izquierdo)",
+"la": "Os carpale II",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.009-d",
+"es": "Carpiano II (derecho)",
+"la": "Os carpale II",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.010-i",
+"es": "Carpiano III (izquierdo)",
+"la": "Os carpale III",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.010-d",
+"es": "Carpiano III (derecho)",
+"la": "Os carpale III",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.011-i",
+"es": "Carpiano IV (izquierdo)",
+"la": "Os carpale IV",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.011-d",
+"es": "Carpiano IV (derecho)",
+"la": "Os carpale IV",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.012-i",
+"es": "Metacarpiano III (caña) (izquierdo)",
+"la": "Os metacarpale III",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.012-d",
+"es": "Metacarpiano III (caña) (derecho)",
+"la": "Os metacarpale III",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.013-i",
+"es": "Metacarpiano II (izquierdo)",
+"la": "Os metacarpale II",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.013-d",
+"es": "Metacarpiano II (derecho)",
+"la": "Os metacarpale II",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.014-i",
+"es": "Metacarpiano IV (izquierdo)",
+"la": "Os metacarpale IV",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.014-d",
+"es": "Metacarpiano IV (derecho)",
+"la": "Os metacarpale IV",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.015-i",
+"es": "Falange proximal (izquierdo)",
+"la": "Phalanx proximalis",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.015-d",
+"es": "Falange proximal (derecho)",
+"la": "Phalanx proximalis",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.016-i",
+"es": "Falange media (izquierdo)",
+"la": "Phalanx media",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.016-d",
+"es": "Falange media (derecho)",
+"la": "Phalanx media",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.017-i",
+"es": "Falange distal (izquierdo)",
+"la": "Phalanx distalis",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.017-d",
+"es": "Falange distal (derecho)",
+"la": "Phalanx distalis",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.018-i",
+"es": "Sesamoideo proximal medial (izquierdo)",
+"la": "Os sesamoideum proximale mediale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.018-d",
+"es": "Sesamoideo proximal medial (derecho)",
+"la": "Os sesamoideum proximale mediale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.019-i",
+"es": "Sesamoideo proximal lateral (izquierdo)",
+"la": "Os sesamoideum proximale laterale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.019-d",
+"es": "Sesamoideo proximal lateral (derecho)",
+"la": "Os sesamoideum proximale laterale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.020-i",
+"es": "Sesamoideo distal (navicular) (izquierdo)",
+"la": "Os sesamoideum distale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.020-d",
+"es": "Sesamoideo distal (navicular) (derecho)",
+"la": "Os sesamoideum distale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.001-i",
+"es": "Coxal (izquierdo)",
+"la": "Os coxae",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.001-d",
+"es": "Coxal (derecho)",
+"la": "Os coxae",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.002-i",
+"es": "Fémur (izquierdo)",
+"la": "Femur",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.002-d",
+"es": "Fémur (derecho)",
+"la": "Femur",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.003-i",
+"es": "Rótula (izquierdo)",
+"la": "Patella",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.003-d",
+"es": "Rótula (derecho)",
+"la": "Patella",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.004-i",
+"es": "Tibia (izquierdo)",
+"la": "Tibia",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.004-d",
+"es": "Tibia (derecho)",
+"la": "Tibia",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.005-i",
+"es": "Fíbula (izquierdo)",
+"la": "Fibula",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.005-d",
+"es": "Fíbula (derecho)",
+"la": "Fibula",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.006-i",
+"es": "Talus (izquierdo)",
+"la": "Talus",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.006-d",
+"es": "Talus (derecho)",
+"la": "Talus",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.007-i",
+"es": "Calcáneo (izquierdo)",
+"la": "Calcaneus",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.007-d",
+"es": "Calcáneo (derecho)",
+"la": "Calcaneus",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.008-i",
+"es": "Tarsiano central (izquierdo)",
+"la": "Os tarsi centrale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.008-d",
+"es": "Tarsiano central (derecho)",
+"la": "Os tarsi centrale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.009-i",
+"es": "Tarsianos I y II fusionados (izquierdo)",
+"la": "Os tarsale I et II",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.009-d",
+"es": "Tarsianos I y II fusionados (derecho)",
+"la": "Os tarsale I et II",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.010-i",
+"es": "Tarsiano III (izquierdo)",
+"la": "Os tarsale III",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.010-d",
+"es": "Tarsiano III (derecho)",
+"la": "Os tarsale III",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.011-i",
+"es": "Tarsiano IV (izquierdo)",
+"la": "Os tarsale IV",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.011-d",
+"es": "Tarsiano IV (derecho)",
+"la": "Os tarsale IV",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.012-i",
+"es": "Metatarsiano III (caña) (izquierdo)",
+"la": "Os metatarsale III",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.012-d",
+"es": "Metatarsiano III (caña) (derecho)",
+"la": "Os metatarsale III",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.013-i",
+"es": "Metatarsiano II (izquierdo)",
+"la": "Os metatarsale II",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.013-d",
+"es": "Metatarsiano II (derecho)",
+"la": "Os metatarsale II",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.014-i",
+"es": "Metatarsiano IV (izquierdo)",
+"la": "Os metatarsale IV",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.014-d",
+"es": "Metatarsiano IV (derecho)",
+"la": "Os metatarsale IV",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.015-i",
+"es": "Falange proximal (izquierdo)",
+"la": "Phalanx proximalis",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.015-d",
+"es": "Falange proximal (derecho)",
+"la": "Phalanx proximalis",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.016-i",
+"es": "Falange media (izquierdo)",
+"la": "Phalanx media",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.016-d",
+"es": "Falange media (derecho)",
+"la": "Phalanx media",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.017-i",
+"es": "Falange distal (izquierdo)",
+"la": "Phalanx distalis",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.017-d",
+"es": "Falange distal (derecho)",
+"la": "Phalanx distalis",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.018-i",
+"es": "Sesamoideo proximal medial (izquierdo)",
+"la": "Os sesamoideum proximale mediale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.018-d",
+"es": "Sesamoideo proximal medial (derecho)",
+"la": "Os sesamoideum proximale mediale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.019-i",
+"es": "Sesamoideo proximal lateral (izquierdo)",
+"la": "Os sesamoideum proximale laterale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.019-d",
+"es": "Sesamoideo proximal lateral (derecho)",
+"la": "Os sesamoideum proximale laterale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.020-i",
+"es": "Sesamoideo distal (navicular) (izquierdo)",
+"la": "Os sesamoideum distale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.020-d",
+"es": "Sesamoideo distal (navicular) (derecho)",
+"la": "Os sesamoideum distale",
+"sys": "ske",
+"layer": "oss"
+}
+]
 }
