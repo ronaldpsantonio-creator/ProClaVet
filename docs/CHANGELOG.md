@@ -4,6 +4,9 @@
 - Esqueleto equino de 205 huesos con IDs, nombres en español y latín (borrador), con formas esquemáticas provisionales.
 - Listado de articulaciones y ligamentos del equino (129 entradas, borrador, sin formas 3D).
 - Listado muscular de cabeza y cuello (96 entradas, borrador, sin formas 3D); escalenos unificados hasta verificar en la NAV.
+- Listado muscular de tronco y cola (66 entradas, borrador, sin formas 3D).
+- Listado muscular del miembro torácico (66 entradas, borrador, sin formas 3D).
+- Marcador del corazón reducido y colocado dentro del tórax.
 - Contraste parcial con fuentes abiertas documentado en FUENTES_VERIFICACION.md.
 ## Fase 2
 - Datos por estructura en JSON, carga progresiva de GLB por partes con marcador provisional si falta el modelo.

@@ -14,11 +14,23 @@
 | Ligamento check inferior = ligamento accesorio del tendón flexor digital profundo | Manual Merck Veterinario: https://www.merckvetmanual.com/musculoskeletal-system/tendon-and-ligament-disorders-in-horses/inferior-check-ligament-desmitis-in-horses | Referencia clínica |
 | Ligamentos sesamoideos distales (recto, oblicuo, cruzado, cortos, colaterales, intersesamoideos) | Univ. de Minnesota, Large Animal Surgery: https://open.lib.umn.edu/largeanimalsurgery/chapter/tendon-anatomy/ y tarjetas de estudio | Académica y secundaria |
 | Check superior (radial) y ligamento accesorio del fémur en équidos | Tarjetas y apuntes de estudio | Baja: confirmar en un atlas |
+| Pared abdominal: oblicuo externo, oblicuo interno, transverso y recto del abdomen; túnica flava abdominal | Univ. de Minnesota, Ungulate Anatomy Lab Guide: https://open.lib.umn.edu/ungulateanatomylabguide/chapter/part-1-abdominal-wall/ | Académica |
+| Pared torácica: serratos dorsales craneal y caudal, escaleno, intercostales externos e internos, recto y transverso del tórax | Lista de términos de repaso (NC State y Minnesota): https://ncstate.pressbooks.pub/unit2musculoskeletal/?p=1500 | Académica |
+| Epaxiales en tres sistemas (iliocostal, longuísimo, transversoespinal) | Univ. de Minnesota, Ungulate Anatomy Lab Guide, tórax externo: https://pressbooks.umn.edu/ungulateanatomylabguide/chapter/part-2-external-thorax/ | Académica |
+| Músculos de la cola (sacrococcígeos, intertransversos de la cola, coccígeo) | Wikipedia, Muscular system of the horse | Secundaria |
+| Extrínsecos del miembro torácico (al menos siete), pectorales superficiales (descendente y transverso), subclavio | Univ. de Minnesota, Ungulate Anatomy Lab Guide: https://pressbooks.umn.edu/ungulateanatomylabguide/chapter/part-2-extrinsic-muscles-and-associated-structures/ | Académica |
+| Hombro y brazo: supraespinoso, infraespinoso, deltoides, redondos, subescapular, tríceps, tensor de la fascia del antebrazo, bíceps, braquial | Univ. de Minnesota, Ungulate Anatomy Lab 2: https://vanat.ahc.umn.edu/ungDissect/Lab02/Lab02.html y lista de términos de NC State: https://ncstate.pressbooks.pub/app/uploads/sites/36/2023/10/MSK-1-TLOA-terms-list.pdf | Académica |
+| Antebrazo: extensores y flexores del carpo y de los dedos, extensor oblicuo del carpo (= abductor largo del pulgar), ulnaris lateralis (= extensor ulnar del carpo) | Univ. de Minnesota, Ungulate Anatomy Lab Guide, miembro distal: https://pressbooks.umn.edu/ungulateanatomylabguide/chapter/part-4-distal-thoracic-limb/ y Large Animal Surgery: https://open.lib.umn.edu/largeanimalsurgery/chapter/palpation-anatomy/ | Académica |
+| Ancóneo y coracobraquial en el braquio equino | Tarjetas de estudio | Baja: confirmar en un atlas |
 
 ## No confirmado
 - Escalenos: las fuentes mencionan un "escaleno" general. Por eso el proyecto lo lista como una sola entrada hasta verificar la NAV.
 - Reparto de los 34 huesos del cráneo: el total está en las fuentes, pero no su desglose. La convención usada (basisfenoides y presfenoides separados, mandíbula en dos mitades, huesecillos incluidos) es del proyecto.
 - Nombres latinos: casi todas las fuentes están en inglés. Contrastar cada nombre con la NAV 6.ª edición: https://wava-amav.org/wava-documents.html
+- Sublumbares (psoas mayor y menor, ilíaco, cuadrado lumbar) y subdivisiones de los epaxiales (espinal, rotadores, interespinosos, intertransversos lumbares): no contrastados en fuentes abiertas; se listaron por conocimiento general.
+- Elevadores de las costillas, retractor de la costilla, cutáneo del tronco y nombres exactos de los músculos de la cola.
+- Variantes del nombre latino de músculos digitales (digitorum o digitalis) y del pectoral profundo (ascendente).
+- Número de cabezas del tríceps en el caballo (las fuentes consultadas difieren según la especie).
 - Asignación de capas (superficial o profunda) y regiones de los listados.
 - Origen, inserción y acción de los músculos: no incluidos en ningún listado hasta tener fuente.
 
