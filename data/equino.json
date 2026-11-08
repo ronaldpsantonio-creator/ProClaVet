@@ -3006,20 +3006,6 @@
 "layer": "mpr"
 },
 {
-"id": "equ.mus.cue.022-i",
-"es": "Intertransversos del cuello (izquierdo)",
-"la": "Musculi intertransversarii cervicis",
-"sys": "mus",
-"layer": "mpr"
-},
-{
-"id": "equ.mus.cue.022-d",
-"es": "Intertransversos del cuello (derecho)",
-"la": "Musculi intertransversarii cervicis",
-"sys": "mus",
-"layer": "mpr"
-},
-{
 "id": "equ.mus.dor.001-i",
 "es": "Iliocostal lumbar (izquierdo)",
 "la": "Musculus iliocostalis lumborum",
@@ -3076,20 +3062,6 @@
 "layer": "msu"
 },
 {
-"id": "equ.mus.dor.005-i",
-"es": "Espinal y semiespinoso torácico (izquierdo)",
-"la": "Musculus spinalis et semispinalis thoracis",
-"sys": "mus",
-"layer": "mpr"
-},
-{
-"id": "equ.mus.dor.005-d",
-"es": "Espinal y semiespinoso torácico (derecho)",
-"la": "Musculus spinalis et semispinalis thoracis",
-"sys": "mus",
-"layer": "mpr"
-},
-{
 "id": "equ.mus.dor.006-i",
 "es": "Multífido torácico (izquierdo)",
 "la": "Musculus multifidus thoracis",
@@ -3132,34 +3104,6 @@
 "layer": "mpr"
 },
 {
-"id": "equ.mus.dor.009-i",
-"es": "Interespinosos (izquierdo)",
-"la": "Musculi interspinales",
-"sys": "mus",
-"layer": "mpr"
-},
-{
-"id": "equ.mus.dor.009-d",
-"es": "Interespinosos (derecho)",
-"la": "Musculi interspinales",
-"sys": "mus",
-"layer": "mpr"
-},
-{
-"id": "equ.mus.dor.010-i",
-"es": "Intertransversos lumbares (izquierdo)",
-"la": "Musculi intertransversarii lumborum",
-"sys": "mus",
-"layer": "mpr"
-},
-{
-"id": "equ.mus.dor.010-d",
-"es": "Intertransversos lumbares (derecho)",
-"la": "Musculi intertransversarii lumborum",
-"sys": "mus",
-"layer": "mpr"
-},
-{
 "id": "equ.mus.tor.001-i",
 "es": "Serrato dorsal craneal (izquierdo)",
 "la": "Musculus serratus dorsalis cranialis",
@@ -3188,34 +3132,6 @@
 "layer": "msu"
 },
 {
-"id": "equ.mus.tor.003-i",
-"es": "Intercostales externos (izquierdo)",
-"la": "Musculi intercostales externi",
-"sys": "mus",
-"layer": "mpr"
-},
-{
-"id": "equ.mus.tor.003-d",
-"es": "Intercostales externos (derecho)",
-"la": "Musculi intercostales externi",
-"sys": "mus",
-"layer": "mpr"
-},
-{
-"id": "equ.mus.tor.004-i",
-"es": "Intercostales internos (izquierdo)",
-"la": "Musculi intercostales interni",
-"sys": "mus",
-"layer": "mpr"
-},
-{
-"id": "equ.mus.tor.004-d",
-"es": "Intercostales internos (derecho)",
-"la": "Musculi intercostales interni",
-"sys": "mus",
-"layer": "mpr"
-},
-{
 "id": "equ.mus.tor.005-i",
 "es": "Recto del tórax (izquierdo)",
 "la": "Musculus rectus thoracis",
@@ -3240,20 +3156,6 @@
 "id": "equ.mus.tor.006-d",
 "es": "Transverso del tórax (derecho)",
 "la": "Musculus transversus thoracis",
-"sys": "mus",
-"layer": "mpr"
-},
-{
-"id": "equ.mus.tor.007-i",
-"es": "Elevadores de las costillas (izquierdo)",
-"la": "Musculi levatores costarum",
-"sys": "mus",
-"layer": "mpr"
-},
-{
-"id": "equ.mus.tor.007-d",
-"es": "Elevadores de las costillas (derecho)",
-"la": "Musculi levatores costarum",
 "sys": "mus",
 "layer": "mpr"
 },
@@ -4979,6 +4881,986 @@
 "la": "Musculus parotidoauricularis",
 "sys": "mus",
 "layer": "msu"
+},
+{
+"id": "equ.mus.man.001-i",
+"es": "Lumbricales de la mano (izquierdo)",
+"la": "Musculi lumbricales",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.man.001-d",
+"es": "Lumbricales de la mano (derecho)",
+"la": "Musculi lumbricales",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.man.002-i",
+"es": "Interóseo medial de la mano (vestigial, variable) (izquierdo)",
+"la": "Musculus interosseus medialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.man.002-d",
+"es": "Interóseo medial de la mano (vestigial, variable) (derecho)",
+"la": "Musculus interosseus medialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.man.003-i",
+"es": "Interóseo lateral de la mano (vestigial, variable) (izquierdo)",
+"la": "Musculus interosseus lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.man.003-d",
+"es": "Interóseo lateral de la mano (vestigial, variable) (derecho)",
+"la": "Musculus interosseus lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pes.001-i",
+"es": "Extensor digital corto del pie (vestigial) (izquierdo)",
+"la": "Musculus extensor digitorum brevis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pes.001-d",
+"es": "Extensor digital corto del pie (vestigial) (derecho)",
+"la": "Musculus extensor digitorum brevis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.hom.007-i",
+"es": "Articular del hombro (capsular) (izquierdo)",
+"la": "Musculus articularis humeri",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.hom.007-d",
+"es": "Articular del hombro (capsular) (derecho)",
+"la": "Musculus articularis humeri",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cad.009-i",
+"es": "Articular de la cadera (capsular) (izquierdo)",
+"la": "Musculus articularis coxae",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cad.009-d",
+"es": "Articular de la cadera (capsular) (derecho)",
+"la": "Musculus articularis coxae",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.012-i",
+"es": "Intercostal externo, espacio 1 (izquierdo)",
+"la": "Musculus intercostalis externus, spatium 1",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.012-d",
+"es": "Intercostal externo, espacio 1 (derecho)",
+"la": "Musculus intercostalis externus, spatium 1",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.013-i",
+"es": "Intercostal externo, espacio 2 (izquierdo)",
+"la": "Musculus intercostalis externus, spatium 2",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.013-d",
+"es": "Intercostal externo, espacio 2 (derecho)",
+"la": "Musculus intercostalis externus, spatium 2",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.014-i",
+"es": "Intercostal externo, espacio 3 (izquierdo)",
+"la": "Musculus intercostalis externus, spatium 3",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.014-d",
+"es": "Intercostal externo, espacio 3 (derecho)",
+"la": "Musculus intercostalis externus, spatium 3",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.015-i",
+"es": "Intercostal externo, espacio 4 (izquierdo)",
+"la": "Musculus intercostalis externus, spatium 4",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.015-d",
+"es": "Intercostal externo, espacio 4 (derecho)",
+"la": "Musculus intercostalis externus, spatium 4",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.016-i",
+"es": "Intercostal externo, espacio 5 (izquierdo)",
+"la": "Musculus intercostalis externus, spatium 5",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.016-d",
+"es": "Intercostal externo, espacio 5 (derecho)",
+"la": "Musculus intercostalis externus, spatium 5",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.017-i",
+"es": "Intercostal externo, espacio 6 (izquierdo)",
+"la": "Musculus intercostalis externus, spatium 6",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.017-d",
+"es": "Intercostal externo, espacio 6 (derecho)",
+"la": "Musculus intercostalis externus, spatium 6",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.018-i",
+"es": "Intercostal externo, espacio 7 (izquierdo)",
+"la": "Musculus intercostalis externus, spatium 7",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.018-d",
+"es": "Intercostal externo, espacio 7 (derecho)",
+"la": "Musculus intercostalis externus, spatium 7",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.019-i",
+"es": "Intercostal externo, espacio 8 (izquierdo)",
+"la": "Musculus intercostalis externus, spatium 8",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.019-d",
+"es": "Intercostal externo, espacio 8 (derecho)",
+"la": "Musculus intercostalis externus, spatium 8",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.020-i",
+"es": "Intercostal externo, espacio 9 (izquierdo)",
+"la": "Musculus intercostalis externus, spatium 9",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.020-d",
+"es": "Intercostal externo, espacio 9 (derecho)",
+"la": "Musculus intercostalis externus, spatium 9",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.021-i",
+"es": "Intercostal externo, espacio 10 (izquierdo)",
+"la": "Musculus intercostalis externus, spatium 10",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.021-d",
+"es": "Intercostal externo, espacio 10 (derecho)",
+"la": "Musculus intercostalis externus, spatium 10",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.022-i",
+"es": "Intercostal externo, espacio 11 (izquierdo)",
+"la": "Musculus intercostalis externus, spatium 11",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.022-d",
+"es": "Intercostal externo, espacio 11 (derecho)",
+"la": "Musculus intercostalis externus, spatium 11",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.023-i",
+"es": "Intercostal externo, espacio 12 (izquierdo)",
+"la": "Musculus intercostalis externus, spatium 12",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.023-d",
+"es": "Intercostal externo, espacio 12 (derecho)",
+"la": "Musculus intercostalis externus, spatium 12",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.024-i",
+"es": "Intercostal externo, espacio 13 (izquierdo)",
+"la": "Musculus intercostalis externus, spatium 13",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.024-d",
+"es": "Intercostal externo, espacio 13 (derecho)",
+"la": "Musculus intercostalis externus, spatium 13",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.025-i",
+"es": "Intercostal externo, espacio 14 (izquierdo)",
+"la": "Musculus intercostalis externus, spatium 14",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.025-d",
+"es": "Intercostal externo, espacio 14 (derecho)",
+"la": "Musculus intercostalis externus, spatium 14",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.026-i",
+"es": "Intercostal externo, espacio 15 (izquierdo)",
+"la": "Musculus intercostalis externus, spatium 15",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.026-d",
+"es": "Intercostal externo, espacio 15 (derecho)",
+"la": "Musculus intercostalis externus, spatium 15",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.027-i",
+"es": "Intercostal externo, espacio 16 (izquierdo)",
+"la": "Musculus intercostalis externus, spatium 16",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.027-d",
+"es": "Intercostal externo, espacio 16 (derecho)",
+"la": "Musculus intercostalis externus, spatium 16",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.028-i",
+"es": "Intercostal externo, espacio 17 (izquierdo)",
+"la": "Musculus intercostalis externus, spatium 17",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.028-d",
+"es": "Intercostal externo, espacio 17 (derecho)",
+"la": "Musculus intercostalis externus, spatium 17",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.029-i",
+"es": "Intercostal interno, espacio 1 (izquierdo)",
+"la": "Musculus intercostalis internus, spatium 1",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.029-d",
+"es": "Intercostal interno, espacio 1 (derecho)",
+"la": "Musculus intercostalis internus, spatium 1",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.030-i",
+"es": "Intercostal interno, espacio 2 (izquierdo)",
+"la": "Musculus intercostalis internus, spatium 2",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.030-d",
+"es": "Intercostal interno, espacio 2 (derecho)",
+"la": "Musculus intercostalis internus, spatium 2",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.031-i",
+"es": "Intercostal interno, espacio 3 (izquierdo)",
+"la": "Musculus intercostalis internus, spatium 3",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.031-d",
+"es": "Intercostal interno, espacio 3 (derecho)",
+"la": "Musculus intercostalis internus, spatium 3",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.032-i",
+"es": "Intercostal interno, espacio 4 (izquierdo)",
+"la": "Musculus intercostalis internus, spatium 4",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.032-d",
+"es": "Intercostal interno, espacio 4 (derecho)",
+"la": "Musculus intercostalis internus, spatium 4",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.033-i",
+"es": "Intercostal interno, espacio 5 (izquierdo)",
+"la": "Musculus intercostalis internus, spatium 5",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.033-d",
+"es": "Intercostal interno, espacio 5 (derecho)",
+"la": "Musculus intercostalis internus, spatium 5",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.034-i",
+"es": "Intercostal interno, espacio 6 (izquierdo)",
+"la": "Musculus intercostalis internus, spatium 6",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.034-d",
+"es": "Intercostal interno, espacio 6 (derecho)",
+"la": "Musculus intercostalis internus, spatium 6",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.035-i",
+"es": "Intercostal interno, espacio 7 (izquierdo)",
+"la": "Musculus intercostalis internus, spatium 7",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.035-d",
+"es": "Intercostal interno, espacio 7 (derecho)",
+"la": "Musculus intercostalis internus, spatium 7",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.036-i",
+"es": "Intercostal interno, espacio 8 (izquierdo)",
+"la": "Musculus intercostalis internus, spatium 8",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.036-d",
+"es": "Intercostal interno, espacio 8 (derecho)",
+"la": "Musculus intercostalis internus, spatium 8",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.037-i",
+"es": "Intercostal interno, espacio 9 (izquierdo)",
+"la": "Musculus intercostalis internus, spatium 9",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.037-d",
+"es": "Intercostal interno, espacio 9 (derecho)",
+"la": "Musculus intercostalis internus, spatium 9",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.038-i",
+"es": "Intercostal interno, espacio 10 (izquierdo)",
+"la": "Musculus intercostalis internus, spatium 10",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.038-d",
+"es": "Intercostal interno, espacio 10 (derecho)",
+"la": "Musculus intercostalis internus, spatium 10",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.039-i",
+"es": "Intercostal interno, espacio 11 (izquierdo)",
+"la": "Musculus intercostalis internus, spatium 11",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.039-d",
+"es": "Intercostal interno, espacio 11 (derecho)",
+"la": "Musculus intercostalis internus, spatium 11",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.040-i",
+"es": "Intercostal interno, espacio 12 (izquierdo)",
+"la": "Musculus intercostalis internus, spatium 12",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.040-d",
+"es": "Intercostal interno, espacio 12 (derecho)",
+"la": "Musculus intercostalis internus, spatium 12",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.041-i",
+"es": "Intercostal interno, espacio 13 (izquierdo)",
+"la": "Musculus intercostalis internus, spatium 13",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.041-d",
+"es": "Intercostal interno, espacio 13 (derecho)",
+"la": "Musculus intercostalis internus, spatium 13",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.042-i",
+"es": "Intercostal interno, espacio 14 (izquierdo)",
+"la": "Musculus intercostalis internus, spatium 14",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.042-d",
+"es": "Intercostal interno, espacio 14 (derecho)",
+"la": "Musculus intercostalis internus, spatium 14",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.043-i",
+"es": "Intercostal interno, espacio 15 (izquierdo)",
+"la": "Musculus intercostalis internus, spatium 15",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.043-d",
+"es": "Intercostal interno, espacio 15 (derecho)",
+"la": "Musculus intercostalis internus, spatium 15",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.044-i",
+"es": "Intercostal interno, espacio 16 (izquierdo)",
+"la": "Musculus intercostalis internus, spatium 16",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.044-d",
+"es": "Intercostal interno, espacio 16 (derecho)",
+"la": "Musculus intercostalis internus, spatium 16",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.045-i",
+"es": "Intercostal interno, espacio 17 (izquierdo)",
+"la": "Musculus intercostalis internus, spatium 17",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.045-d",
+"es": "Intercostal interno, espacio 17 (derecho)",
+"la": "Musculus intercostalis internus, spatium 17",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.046-i",
+"es": "Elevador de la costilla 2 (izquierdo)",
+"la": "Musculus levator costae, costa 2",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.046-d",
+"es": "Elevador de la costilla 2 (derecho)",
+"la": "Musculus levator costae, costa 2",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.047-i",
+"es": "Elevador de la costilla 3 (izquierdo)",
+"la": "Musculus levator costae, costa 3",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.047-d",
+"es": "Elevador de la costilla 3 (derecho)",
+"la": "Musculus levator costae, costa 3",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.048-i",
+"es": "Elevador de la costilla 4 (izquierdo)",
+"la": "Musculus levator costae, costa 4",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.048-d",
+"es": "Elevador de la costilla 4 (derecho)",
+"la": "Musculus levator costae, costa 4",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.049-i",
+"es": "Elevador de la costilla 5 (izquierdo)",
+"la": "Musculus levator costae, costa 5",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.049-d",
+"es": "Elevador de la costilla 5 (derecho)",
+"la": "Musculus levator costae, costa 5",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.050-i",
+"es": "Elevador de la costilla 6 (izquierdo)",
+"la": "Musculus levator costae, costa 6",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.050-d",
+"es": "Elevador de la costilla 6 (derecho)",
+"la": "Musculus levator costae, costa 6",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.051-i",
+"es": "Elevador de la costilla 7 (izquierdo)",
+"la": "Musculus levator costae, costa 7",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.051-d",
+"es": "Elevador de la costilla 7 (derecho)",
+"la": "Musculus levator costae, costa 7",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.052-i",
+"es": "Elevador de la costilla 8 (izquierdo)",
+"la": "Musculus levator costae, costa 8",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.052-d",
+"es": "Elevador de la costilla 8 (derecho)",
+"la": "Musculus levator costae, costa 8",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.053-i",
+"es": "Elevador de la costilla 9 (izquierdo)",
+"la": "Musculus levator costae, costa 9",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.053-d",
+"es": "Elevador de la costilla 9 (derecho)",
+"la": "Musculus levator costae, costa 9",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.054-i",
+"es": "Elevador de la costilla 10 (izquierdo)",
+"la": "Musculus levator costae, costa 10",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.054-d",
+"es": "Elevador de la costilla 10 (derecho)",
+"la": "Musculus levator costae, costa 10",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.055-i",
+"es": "Elevador de la costilla 11 (izquierdo)",
+"la": "Musculus levator costae, costa 11",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.055-d",
+"es": "Elevador de la costilla 11 (derecho)",
+"la": "Musculus levator costae, costa 11",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.056-i",
+"es": "Elevador de la costilla 12 (izquierdo)",
+"la": "Musculus levator costae, costa 12",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.056-d",
+"es": "Elevador de la costilla 12 (derecho)",
+"la": "Musculus levator costae, costa 12",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.057-i",
+"es": "Elevador de la costilla 13 (izquierdo)",
+"la": "Musculus levator costae, costa 13",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.057-d",
+"es": "Elevador de la costilla 13 (derecho)",
+"la": "Musculus levator costae, costa 13",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.058-i",
+"es": "Elevador de la costilla 14 (izquierdo)",
+"la": "Musculus levator costae, costa 14",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.058-d",
+"es": "Elevador de la costilla 14 (derecho)",
+"la": "Musculus levator costae, costa 14",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.059-i",
+"es": "Elevador de la costilla 15 (izquierdo)",
+"la": "Musculus levator costae, costa 15",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.059-d",
+"es": "Elevador de la costilla 15 (derecho)",
+"la": "Musculus levator costae, costa 15",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.060-i",
+"es": "Elevador de la costilla 16 (izquierdo)",
+"la": "Musculus levator costae, costa 16",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.060-d",
+"es": "Elevador de la costilla 16 (derecho)",
+"la": "Musculus levator costae, costa 16",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.061-i",
+"es": "Elevador de la costilla 17 (izquierdo)",
+"la": "Musculus levator costae, costa 17",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.061-d",
+"es": "Elevador de la costilla 17 (derecho)",
+"la": "Musculus levator costae, costa 17",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.062-i",
+"es": "Elevador de la costilla 18 (izquierdo)",
+"la": "Musculus levator costae, costa 18",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.062-d",
+"es": "Elevador de la costilla 18 (derecho)",
+"la": "Musculus levator costae, costa 18",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.011-i",
+"es": "Espinal torácico y cervical (izquierdo)",
+"la": "Musculus spinalis thoracis et cervicis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.011-d",
+"es": "Espinal torácico y cervical (derecho)",
+"la": "Musculus spinalis thoracis et cervicis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.012-i",
+"es": "Semiespinoso torácico y cervical (izquierdo)",
+"la": "Musculus semispinalis thoracis et cervicis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.012-d",
+"es": "Semiespinoso torácico y cervical (derecho)",
+"la": "Musculus semispinalis thoracis et cervicis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.013-i",
+"es": "Interespinoso torácico (izquierdo)",
+"la": "Musculus interspinalis thoracis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.013-d",
+"es": "Interespinoso torácico (derecho)",
+"la": "Musculus interspinalis thoracis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.014-i",
+"es": "Interespinoso lumbar (izquierdo)",
+"la": "Musculus interspinalis lumborum",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.014-d",
+"es": "Interespinoso lumbar (derecho)",
+"la": "Musculus interspinalis lumborum",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.015-i",
+"es": "Intertransverso lumbar, espacio L1-L2 (izquierdo)",
+"la": "Musculus intertransversarius lumborum, spatium L1-L2",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.015-d",
+"es": "Intertransverso lumbar, espacio L1-L2 (derecho)",
+"la": "Musculus intertransversarius lumborum, spatium L1-L2",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.016-i",
+"es": "Intertransverso lumbar, espacio L2-L3 (izquierdo)",
+"la": "Musculus intertransversarius lumborum, spatium L2-L3",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.016-d",
+"es": "Intertransverso lumbar, espacio L2-L3 (derecho)",
+"la": "Musculus intertransversarius lumborum, spatium L2-L3",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.017-i",
+"es": "Intertransverso lumbar, espacio L3-L4 (izquierdo)",
+"la": "Musculus intertransversarius lumborum, spatium L3-L4",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.017-d",
+"es": "Intertransverso lumbar, espacio L3-L4 (derecho)",
+"la": "Musculus intertransversarius lumborum, spatium L3-L4",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.018-i",
+"es": "Intertransverso lumbar, espacio L4-L5 (izquierdo)",
+"la": "Musculus intertransversarius lumborum, spatium L4-L5",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.018-d",
+"es": "Intertransverso lumbar, espacio L4-L5 (derecho)",
+"la": "Musculus intertransversarius lumborum, spatium L4-L5",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.019-i",
+"es": "Intertransverso lumbar, espacio L5-L6 (izquierdo)",
+"la": "Musculus intertransversarius lumborum, spatium L5-L6",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.019-d",
+"es": "Intertransverso lumbar, espacio L5-L6 (derecho)",
+"la": "Musculus intertransversarius lumborum, spatium L5-L6",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.024-i",
+"es": "Interespinoso cervical (izquierdo)",
+"la": "Musculus interspinalis cervicis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.024-d",
+"es": "Interespinoso cervical (derecho)",
+"la": "Musculus interspinalis cervicis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.025-i",
+"es": "Intertransverso cervical dorsal (izquierdo)",
+"la": "Musculus intertransversarius dorsalis cervicis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.025-d",
+"es": "Intertransverso cervical dorsal (derecho)",
+"la": "Musculus intertransversarius dorsalis cervicis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.026-i",
+"es": "Intertransverso cervical intermedio (izquierdo)",
+"la": "Musculus intertransversarius intermedius cervicis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.026-d",
+"es": "Intertransverso cervical intermedio (derecho)",
+"la": "Musculus intertransversarius intermedius cervicis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.027-i",
+"es": "Intertransverso cervical ventral (izquierdo)",
+"la": "Musculus intertransversarius ventralis cervicis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.027-d",
+"es": "Intertransverso cervical ventral (derecho)",
+"la": "Musculus intertransversarius ventralis cervicis",
+"sys": "mus",
+"layer": "mpr"
 }
 ]
 }
