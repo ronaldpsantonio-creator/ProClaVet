@@ -23,7 +23,7 @@ addEventListener("resize",size);size();
 const loader=new THREE.GLTFLoader();
 fetch("data/equino.json").then(r=>r.json()).then(build).catch(()=>{$("warn").textContent="No se pudo leer data/equino.json. Abre la app desde un servidor (GitHub Pages), no desde el archivo local."});
 function build(d){
- d.structures.forEach(s=>{
+ d.structures.filter(s=>!s.id.startsWith("equ.prv.ske.")).forEach(s=>{
   const g=new THREE.Group();g.userData.id=s.id;sc.add(g);
   const c=new THREE.Vector3(0,0,0),lb=document.createElement("div");lb.className="lb";lb.textContent=s.es+" · "+s.la;vw.appendChild(lb);
   S.items[s.id]={s,g,model:null,c,lb,has:false,vis:true,state:"pendiente",dir:new THREE.Vector3(0,0,0)};
