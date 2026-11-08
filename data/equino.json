@@ -3977,6 +3977,461 @@
 "la": "Musculus cremaster",
 "sys": "mus",
 "layer": "mpr"
+},
+{
+"id": "equ.mus.cad.001-i",
+"es": "Glúteo superficial (izquierdo)",
+"la": "Musculus gluteus superficialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cad.001-d",
+"es": "Glúteo superficial (derecho)",
+"la": "Musculus gluteus superficialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cad.002-i",
+"es": "Glúteo medio (izquierdo)",
+"la": "Musculus gluteus medius",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cad.002-d",
+"es": "Glúteo medio (derecho)",
+"la": "Musculus gluteus medius",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cad.003-i",
+"es": "Glúteo profundo (izquierdo)",
+"la": "Musculus gluteus profundus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cad.003-d",
+"es": "Glúteo profundo (derecho)",
+"la": "Musculus gluteus profundus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cad.004-i",
+"es": "Tensor de la fascia lata (izquierdo)",
+"la": "Musculus tensor fasciae latae",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cad.004-d",
+"es": "Tensor de la fascia lata (derecho)",
+"la": "Musculus tensor fasciae latae",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cad.005-i",
+"es": "Obturador interno (izquierdo)",
+"la": "Musculus obturator internus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cad.005-d",
+"es": "Obturador interno (derecho)",
+"la": "Musculus obturator internus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cad.006-i",
+"es": "Obturador externo (izquierdo)",
+"la": "Musculus obturator externus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cad.006-d",
+"es": "Obturador externo (derecho)",
+"la": "Musculus obturator externus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cad.007-i",
+"es": "Gemelos pélvicos (izquierdo)",
+"la": "Musculi gemelli",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cad.007-d",
+"es": "Gemelos pélvicos (derecho)",
+"la": "Musculi gemelli",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cad.008-i",
+"es": "Cuadrado femoral (izquierdo)",
+"la": "Musculus quadratus femoris",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cad.008-d",
+"es": "Cuadrado femoral (derecho)",
+"la": "Musculus quadratus femoris",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.fem.001-i",
+"es": "Bíceps femoral (izquierdo)",
+"la": "Musculus biceps femoris",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.fem.001-d",
+"es": "Bíceps femoral (derecho)",
+"la": "Musculus biceps femoris",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.fem.002-i",
+"es": "Semitendinoso (izquierdo)",
+"la": "Musculus semitendinosus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.fem.002-d",
+"es": "Semitendinoso (derecho)",
+"la": "Musculus semitendinosus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.fem.003-i",
+"es": "Semimembranoso (izquierdo)",
+"la": "Musculus semimembranosus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.fem.003-d",
+"es": "Semimembranoso (derecho)",
+"la": "Musculus semimembranosus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.fem.004-i",
+"es": "Recto femoral (izquierdo)",
+"la": "Musculus rectus femoris",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.fem.004-d",
+"es": "Recto femoral (derecho)",
+"la": "Musculus rectus femoris",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.fem.005-i",
+"es": "Vasto lateral (izquierdo)",
+"la": "Musculus vastus lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.fem.005-d",
+"es": "Vasto lateral (derecho)",
+"la": "Musculus vastus lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.fem.006-i",
+"es": "Vasto medial (izquierdo)",
+"la": "Musculus vastus medialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.fem.006-d",
+"es": "Vasto medial (derecho)",
+"la": "Musculus vastus medialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.fem.007-i",
+"es": "Vasto intermedio (izquierdo)",
+"la": "Musculus vastus intermedius",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.fem.007-d",
+"es": "Vasto intermedio (derecho)",
+"la": "Musculus vastus intermedius",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.fem.008-i",
+"es": "Sartorio (izquierdo)",
+"la": "Musculus sartorius",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.fem.008-d",
+"es": "Sartorio (derecho)",
+"la": "Musculus sartorius",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.fem.009-i",
+"es": "Grácil (izquierdo)",
+"la": "Musculus gracilis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.fem.009-d",
+"es": "Grácil (derecho)",
+"la": "Musculus gracilis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.fem.010-i",
+"es": "Pectíneo (izquierdo)",
+"la": "Musculus pectineus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.fem.010-d",
+"es": "Pectíneo (derecho)",
+"la": "Musculus pectineus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.fem.011-i",
+"es": "Aductor (izquierdo)",
+"la": "Musculus adductor",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.fem.011-d",
+"es": "Aductor (derecho)",
+"la": "Musculus adductor",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pie.001-i",
+"es": "Gastrocnemio, cabeza lateral (izquierdo)",
+"la": "Musculus gastrocnemius, caput laterale",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.pie.001-d",
+"es": "Gastrocnemio, cabeza lateral (derecho)",
+"la": "Musculus gastrocnemius, caput laterale",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.pie.002-i",
+"es": "Gastrocnemio, cabeza medial (izquierdo)",
+"la": "Musculus gastrocnemius, caput mediale",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.pie.002-d",
+"es": "Gastrocnemio, cabeza medial (derecho)",
+"la": "Musculus gastrocnemius, caput mediale",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.pie.003-i",
+"es": "Sóleo (izquierdo)",
+"la": "Musculus soleus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pie.003-d",
+"es": "Sóleo (derecho)",
+"la": "Musculus soleus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pie.004-i",
+"es": "Flexor digital superficial del miembro pélvico (izquierdo)",
+"la": "Musculus flexor digitorum superficialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.pie.004-d",
+"es": "Flexor digital superficial del miembro pélvico (derecho)",
+"la": "Musculus flexor digitorum superficialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.pie.005-i",
+"es": "Flexor digital lateral (izquierdo)",
+"la": "Musculus flexor digitorum lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pie.005-d",
+"es": "Flexor digital lateral (derecho)",
+"la": "Musculus flexor digitorum lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pie.006-i",
+"es": "Tibial caudal (izquierdo)",
+"la": "Musculus tibialis caudalis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pie.006-d",
+"es": "Tibial caudal (derecho)",
+"la": "Musculus tibialis caudalis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pie.007-i",
+"es": "Poplíteo (izquierdo)",
+"la": "Musculus popliteus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pie.007-d",
+"es": "Poplíteo (derecho)",
+"la": "Musculus popliteus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pie.008-i",
+"es": "Tibial craneal (izquierdo)",
+"la": "Musculus tibialis cranialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pie.008-d",
+"es": "Tibial craneal (derecho)",
+"la": "Musculus tibialis cranialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pie.009-i",
+"es": "Fibular tercero (izquierdo)",
+"la": "Musculus fibularis tertius",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pie.009-d",
+"es": "Fibular tercero (derecho)",
+"la": "Musculus fibularis tertius",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pie.010-i",
+"es": "Extensor digital largo (izquierdo)",
+"la": "Musculus extensor digitorum longus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.pie.010-d",
+"es": "Extensor digital largo (derecho)",
+"la": "Musculus extensor digitorum longus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.pie.011-i",
+"es": "Extensor digital lateral (izquierdo)",
+"la": "Musculus extensor digitorum lateralis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.pie.011-d",
+"es": "Extensor digital lateral (derecho)",
+"la": "Musculus extensor digitorum lateralis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.tor.010-i",
+"es": "Cutáneo omobraquial (izquierdo)",
+"la": "Musculus cutaneus omobrachialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.tor.010-d",
+"es": "Cutáneo omobraquial (derecho)",
+"la": "Musculus cutaneus omobrachialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.tor.011-i",
+"es": "Fascia toracolumbar (izquierda)",
+"la": "Fascia thoracolumbalis",
+"sys": "mus",
+"layer": "fas"
+},
+{
+"id": "equ.mus.tor.011-d",
+"es": "Fascia toracolumbar (derecha)",
+"la": "Fascia thoracolumbalis",
+"sys": "mus",
+"layer": "fas"
+},
+{
+"id": "equ.mus.abd.008",
+"es": "Línea alba",
+"la": "Linea alba",
+"sys": "mus",
+"layer": "fas"
 }
 ]
 }

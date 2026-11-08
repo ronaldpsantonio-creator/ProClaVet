@@ -1,0 +1,4437 @@
+{
+"species": "equ",
+"name": "Equino",
+"structures": [
+{
+"id": "equ.car.cor.001",
+"es": "Corazón (marcador provisional)",
+"la": "Cor",
+"sys": "car",
+"layer": "org",
+"ph": {
+"p": [
+1.0,
+0.62,
+0
+],
+"s": [
+0.4,
+0.42,
+0.34
+],
+"c": 11680328
+},
+"model": "models/equino/organs/equ.car.cor.001.glb"
+},
+{
+"id": "equ.ske.cra.001",
+"es": "Occipital",
+"la": "Os occipitale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.002",
+"es": "Basisfenoides",
+"la": "Os basisphenoidale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.003",
+"es": "Presfenoides",
+"la": "Os presphenoidale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.004",
+"es": "Etmoides",
+"la": "Os ethmoidale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.005",
+"es": "Interparietal",
+"la": "Os interparietale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.006-i",
+"es": "Parietal (izquierdo)",
+"la": "Os parietale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.006-d",
+"es": "Parietal (derecho)",
+"la": "Os parietale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.007-i",
+"es": "Frontal (izquierdo)",
+"la": "Os frontale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.007-d",
+"es": "Frontal (derecho)",
+"la": "Os frontale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.008-i",
+"es": "Temporal (izquierdo)",
+"la": "Os temporale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.008-d",
+"es": "Temporal (derecho)",
+"la": "Os temporale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.009-i",
+"es": "Nasal (izquierdo)",
+"la": "Os nasale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.009-d",
+"es": "Nasal (derecho)",
+"la": "Os nasale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.010-i",
+"es": "Lagrimal (izquierdo)",
+"la": "Os lacrimale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.010-d",
+"es": "Lagrimal (derecho)",
+"la": "Os lacrimale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.011-i",
+"es": "Cigomático (izquierdo)",
+"la": "Os zygomaticum",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.011-d",
+"es": "Cigomático (derecho)",
+"la": "Os zygomaticum",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.012-i",
+"es": "Maxilar (izquierdo)",
+"la": "Maxilla",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.012-d",
+"es": "Maxilar (derecho)",
+"la": "Maxilla",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.013-i",
+"es": "Incisivo (izquierdo)",
+"la": "Os incisivum",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.013-d",
+"es": "Incisivo (derecho)",
+"la": "Os incisivum",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.014-i",
+"es": "Palatino (izquierdo)",
+"la": "Os palatinum",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.014-d",
+"es": "Palatino (derecho)",
+"la": "Os palatinum",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.015-i",
+"es": "Pterigoides (izquierdo)",
+"la": "Os pterygoideum",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.015-d",
+"es": "Pterigoides (derecho)",
+"la": "Os pterygoideum",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.016",
+"es": "Vómer",
+"la": "Vomer",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.017-i",
+"es": "Hemimandíbula (izquierdo)",
+"la": "Mandibula",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cra.017-d",
+"es": "Hemimandíbula (derecho)",
+"la": "Mandibula",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.oid.001-i",
+"es": "Martillo (izquierdo)",
+"la": "Malleus",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.oid.001-d",
+"es": "Martillo (derecho)",
+"la": "Malleus",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.oid.002-i",
+"es": "Yunque (izquierdo)",
+"la": "Incus",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.oid.002-d",
+"es": "Yunque (derecho)",
+"la": "Incus",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.oid.003-i",
+"es": "Estribo (izquierdo)",
+"la": "Stapes",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.oid.003-d",
+"es": "Estribo (derecho)",
+"la": "Stapes",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cer.001",
+"es": "Atlas (C1)",
+"la": "Atlas",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cer.002",
+"es": "Axis (C2)",
+"la": "Axis",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cer.003",
+"es": "Vértebra cervical 3 (C3)",
+"la": "Vertebra cervicalis III",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cer.004",
+"es": "Vértebra cervical 4 (C4)",
+"la": "Vertebra cervicalis IV",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cer.005",
+"es": "Vértebra cervical 5 (C5)",
+"la": "Vertebra cervicalis V",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cer.006",
+"es": "Vértebra cervical 6 (C6)",
+"la": "Vertebra cervicalis VI",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cer.007",
+"es": "Vértebra cervical 7 (C7)",
+"la": "Vertebra cervicalis VII",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.001",
+"es": "Vértebra torácica 1 (T1)",
+"la": "Vertebra thoracica 1",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.002",
+"es": "Vértebra torácica 2 (T2)",
+"la": "Vertebra thoracica 2",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.003",
+"es": "Vértebra torácica 3 (T3)",
+"la": "Vertebra thoracica 3",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.004",
+"es": "Vértebra torácica 4 (T4)",
+"la": "Vertebra thoracica 4",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.005",
+"es": "Vértebra torácica 5 (T5)",
+"la": "Vertebra thoracica 5",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.006",
+"es": "Vértebra torácica 6 (T6)",
+"la": "Vertebra thoracica 6",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.007",
+"es": "Vértebra torácica 7 (T7)",
+"la": "Vertebra thoracica 7",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.008",
+"es": "Vértebra torácica 8 (T8)",
+"la": "Vertebra thoracica 8",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.009",
+"es": "Vértebra torácica 9 (T9)",
+"la": "Vertebra thoracica 9",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.010",
+"es": "Vértebra torácica 10 (T10)",
+"la": "Vertebra thoracica 10",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.011",
+"es": "Vértebra torácica 11 (T11)",
+"la": "Vertebra thoracica 11",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.012",
+"es": "Vértebra torácica 12 (T12)",
+"la": "Vertebra thoracica 12",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.013",
+"es": "Vértebra torácica 13 (T13)",
+"la": "Vertebra thoracica 13",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.014",
+"es": "Vértebra torácica 14 (T14)",
+"la": "Vertebra thoracica 14",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.015",
+"es": "Vértebra torácica 15 (T15)",
+"la": "Vertebra thoracica 15",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.016",
+"es": "Vértebra torácica 16 (T16)",
+"la": "Vertebra thoracica 16",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.017",
+"es": "Vértebra torácica 17 (T17)",
+"la": "Vertebra thoracica 17",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.tor.018",
+"es": "Vértebra torácica 18 (T18)",
+"la": "Vertebra thoracica 18",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.lum.001",
+"es": "Vértebra lumbar 1 (L1)",
+"la": "Vertebra lumbalis 1",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.lum.002",
+"es": "Vértebra lumbar 2 (L2)",
+"la": "Vertebra lumbalis 2",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.lum.003",
+"es": "Vértebra lumbar 3 (L3)",
+"la": "Vertebra lumbalis 3",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.lum.004",
+"es": "Vértebra lumbar 4 (L4)",
+"la": "Vertebra lumbalis 4",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.lum.005",
+"es": "Vértebra lumbar 5 (L5)",
+"la": "Vertebra lumbalis 5",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.lum.006",
+"es": "Vértebra lumbar 6 (L6)",
+"la": "Vertebra lumbalis 6",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.sac.001",
+"es": "Vértebra sacra 1 (S1)",
+"la": "Vertebra sacralis 1",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.sac.002",
+"es": "Vértebra sacra 2 (S2)",
+"la": "Vertebra sacralis 2",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.sac.003",
+"es": "Vértebra sacra 3 (S3)",
+"la": "Vertebra sacralis 3",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.sac.004",
+"es": "Vértebra sacra 4 (S4)",
+"la": "Vertebra sacralis 4",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.sac.005",
+"es": "Vértebra sacra 5 (S5)",
+"la": "Vertebra sacralis 5",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.001",
+"es": "Vértebra caudal 1 (Cd1)",
+"la": "Vertebra caudalis 1",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.002",
+"es": "Vértebra caudal 2 (Cd2)",
+"la": "Vertebra caudalis 2",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.003",
+"es": "Vértebra caudal 3 (Cd3)",
+"la": "Vertebra caudalis 3",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.004",
+"es": "Vértebra caudal 4 (Cd4)",
+"la": "Vertebra caudalis 4",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.005",
+"es": "Vértebra caudal 5 (Cd5)",
+"la": "Vertebra caudalis 5",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.006",
+"es": "Vértebra caudal 6 (Cd6)",
+"la": "Vertebra caudalis 6",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.007",
+"es": "Vértebra caudal 7 (Cd7)",
+"la": "Vertebra caudalis 7",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.008",
+"es": "Vértebra caudal 8 (Cd8)",
+"la": "Vertebra caudalis 8",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.009",
+"es": "Vértebra caudal 9 (Cd9)",
+"la": "Vertebra caudalis 9",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.010",
+"es": "Vértebra caudal 10 (Cd10)",
+"la": "Vertebra caudalis 10",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.011",
+"es": "Vértebra caudal 11 (Cd11)",
+"la": "Vertebra caudalis 11",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.012",
+"es": "Vértebra caudal 12 (Cd12)",
+"la": "Vertebra caudalis 12",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.013",
+"es": "Vértebra caudal 13 (Cd13)",
+"la": "Vertebra caudalis 13",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.014",
+"es": "Vértebra caudal 14 (Cd14)",
+"la": "Vertebra caudalis 14",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.015",
+"es": "Vértebra caudal 15 (Cd15)",
+"la": "Vertebra caudalis 15",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.016",
+"es": "Vértebra caudal 16 (Cd16)",
+"la": "Vertebra caudalis 16",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.017",
+"es": "Vértebra caudal 17 (Cd17)",
+"la": "Vertebra caudalis 17",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cau.018",
+"es": "Vértebra caudal 18 (Cd18)",
+"la": "Vertebra caudalis 18",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.001-i",
+"es": "Costilla 1 (izquierdo)",
+"la": "Costa 1",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.001-d",
+"es": "Costilla 1 (derecho)",
+"la": "Costa 1",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.002-i",
+"es": "Costilla 2 (izquierdo)",
+"la": "Costa 2",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.002-d",
+"es": "Costilla 2 (derecho)",
+"la": "Costa 2",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.003-i",
+"es": "Costilla 3 (izquierdo)",
+"la": "Costa 3",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.003-d",
+"es": "Costilla 3 (derecho)",
+"la": "Costa 3",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.004-i",
+"es": "Costilla 4 (izquierdo)",
+"la": "Costa 4",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.004-d",
+"es": "Costilla 4 (derecho)",
+"la": "Costa 4",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.005-i",
+"es": "Costilla 5 (izquierdo)",
+"la": "Costa 5",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.005-d",
+"es": "Costilla 5 (derecho)",
+"la": "Costa 5",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.006-i",
+"es": "Costilla 6 (izquierdo)",
+"la": "Costa 6",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.006-d",
+"es": "Costilla 6 (derecho)",
+"la": "Costa 6",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.007-i",
+"es": "Costilla 7 (izquierdo)",
+"la": "Costa 7",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.007-d",
+"es": "Costilla 7 (derecho)",
+"la": "Costa 7",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.008-i",
+"es": "Costilla 8 (izquierdo)",
+"la": "Costa 8",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.008-d",
+"es": "Costilla 8 (derecho)",
+"la": "Costa 8",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.009-i",
+"es": "Costilla 9 (izquierdo)",
+"la": "Costa 9",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.009-d",
+"es": "Costilla 9 (derecho)",
+"la": "Costa 9",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.010-i",
+"es": "Costilla 10 (izquierdo)",
+"la": "Costa 10",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.010-d",
+"es": "Costilla 10 (derecho)",
+"la": "Costa 10",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.011-i",
+"es": "Costilla 11 (izquierdo)",
+"la": "Costa 11",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.011-d",
+"es": "Costilla 11 (derecho)",
+"la": "Costa 11",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.012-i",
+"es": "Costilla 12 (izquierdo)",
+"la": "Costa 12",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.012-d",
+"es": "Costilla 12 (derecho)",
+"la": "Costa 12",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.013-i",
+"es": "Costilla 13 (izquierdo)",
+"la": "Costa 13",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.013-d",
+"es": "Costilla 13 (derecho)",
+"la": "Costa 13",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.014-i",
+"es": "Costilla 14 (izquierdo)",
+"la": "Costa 14",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.014-d",
+"es": "Costilla 14 (derecho)",
+"la": "Costa 14",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.015-i",
+"es": "Costilla 15 (izquierdo)",
+"la": "Costa 15",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.015-d",
+"es": "Costilla 15 (derecho)",
+"la": "Costa 15",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.016-i",
+"es": "Costilla 16 (izquierdo)",
+"la": "Costa 16",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.016-d",
+"es": "Costilla 16 (derecho)",
+"la": "Costa 16",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.017-i",
+"es": "Costilla 17 (izquierdo)",
+"la": "Costa 17",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.017-d",
+"es": "Costilla 17 (derecho)",
+"la": "Costa 17",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.018-i",
+"es": "Costilla 18 (izquierdo)",
+"la": "Costa 18",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.cos.018-d",
+"es": "Costilla 18 (derecho)",
+"la": "Costa 18",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.ste.001",
+"es": "Esternón",
+"la": "Sternum",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.001-i",
+"es": "Escápula (izquierdo)",
+"la": "Scapula",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.001-d",
+"es": "Escápula (derecho)",
+"la": "Scapula",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.002-i",
+"es": "Húmero (izquierdo)",
+"la": "Humerus",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.002-d",
+"es": "Húmero (derecho)",
+"la": "Humerus",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.003-i",
+"es": "Radio (izquierdo)",
+"la": "Radius",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.003-d",
+"es": "Radio (derecho)",
+"la": "Radius",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.004-i",
+"es": "Ulna (izquierdo)",
+"la": "Ulna",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.004-d",
+"es": "Ulna (derecho)",
+"la": "Ulna",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.005-i",
+"es": "Carpiano radial (izquierdo)",
+"la": "Os carpi radiale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.005-d",
+"es": "Carpiano radial (derecho)",
+"la": "Os carpi radiale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.006-i",
+"es": "Carpiano intermedio (izquierdo)",
+"la": "Os carpi intermedium",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.006-d",
+"es": "Carpiano intermedio (derecho)",
+"la": "Os carpi intermedium",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.007-i",
+"es": "Carpiano ulnar (izquierdo)",
+"la": "Os carpi ulnare",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.007-d",
+"es": "Carpiano ulnar (derecho)",
+"la": "Os carpi ulnare",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.008-i",
+"es": "Carpiano accesorio (izquierdo)",
+"la": "Os carpi accessorium",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.008-d",
+"es": "Carpiano accesorio (derecho)",
+"la": "Os carpi accessorium",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.009-i",
+"es": "Carpiano II (izquierdo)",
+"la": "Os carpale II",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.009-d",
+"es": "Carpiano II (derecho)",
+"la": "Os carpale II",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.010-i",
+"es": "Carpiano III (izquierdo)",
+"la": "Os carpale III",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.010-d",
+"es": "Carpiano III (derecho)",
+"la": "Os carpale III",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.011-i",
+"es": "Carpiano IV (izquierdo)",
+"la": "Os carpale IV",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.011-d",
+"es": "Carpiano IV (derecho)",
+"la": "Os carpale IV",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.012-i",
+"es": "Metacarpiano III (caña) (izquierdo)",
+"la": "Os metacarpale III",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.012-d",
+"es": "Metacarpiano III (caña) (derecho)",
+"la": "Os metacarpale III",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.013-i",
+"es": "Metacarpiano II (izquierdo)",
+"la": "Os metacarpale II",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.013-d",
+"es": "Metacarpiano II (derecho)",
+"la": "Os metacarpale II",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.014-i",
+"es": "Metacarpiano IV (izquierdo)",
+"la": "Os metacarpale IV",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.014-d",
+"es": "Metacarpiano IV (derecho)",
+"la": "Os metacarpale IV",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.015-i",
+"es": "Falange proximal (izquierdo)",
+"la": "Phalanx proximalis",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.015-d",
+"es": "Falange proximal (derecho)",
+"la": "Phalanx proximalis",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.016-i",
+"es": "Falange media (izquierdo)",
+"la": "Phalanx media",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.016-d",
+"es": "Falange media (derecho)",
+"la": "Phalanx media",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.017-i",
+"es": "Falange distal (izquierdo)",
+"la": "Phalanx distalis",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.017-d",
+"es": "Falange distal (derecho)",
+"la": "Phalanx distalis",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.018-i",
+"es": "Sesamoideo proximal medial (izquierdo)",
+"la": "Os sesamoideum proximale mediale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.018-d",
+"es": "Sesamoideo proximal medial (derecho)",
+"la": "Os sesamoideum proximale mediale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.019-i",
+"es": "Sesamoideo proximal lateral (izquierdo)",
+"la": "Os sesamoideum proximale laterale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.019-d",
+"es": "Sesamoideo proximal lateral (derecho)",
+"la": "Os sesamoideum proximale laterale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.020-i",
+"es": "Sesamoideo distal (navicular) (izquierdo)",
+"la": "Os sesamoideum distale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mto.020-d",
+"es": "Sesamoideo distal (navicular) (derecho)",
+"la": "Os sesamoideum distale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.001-i",
+"es": "Coxal (izquierdo)",
+"la": "Os coxae",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.001-d",
+"es": "Coxal (derecho)",
+"la": "Os coxae",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.002-i",
+"es": "Fémur (izquierdo)",
+"la": "Femur",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.002-d",
+"es": "Fémur (derecho)",
+"la": "Femur",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.003-i",
+"es": "Rótula (izquierdo)",
+"la": "Patella",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.003-d",
+"es": "Rótula (derecho)",
+"la": "Patella",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.004-i",
+"es": "Tibia (izquierdo)",
+"la": "Tibia",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.004-d",
+"es": "Tibia (derecho)",
+"la": "Tibia",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.005-i",
+"es": "Fíbula (izquierdo)",
+"la": "Fibula",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.005-d",
+"es": "Fíbula (derecho)",
+"la": "Fibula",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.006-i",
+"es": "Talus (izquierdo)",
+"la": "Talus",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.006-d",
+"es": "Talus (derecho)",
+"la": "Talus",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.007-i",
+"es": "Calcáneo (izquierdo)",
+"la": "Calcaneus",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.007-d",
+"es": "Calcáneo (derecho)",
+"la": "Calcaneus",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.008-i",
+"es": "Tarsiano central (izquierdo)",
+"la": "Os tarsi centrale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.008-d",
+"es": "Tarsiano central (derecho)",
+"la": "Os tarsi centrale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.009-i",
+"es": "Tarsianos I y II fusionados (izquierdo)",
+"la": "Os tarsale I et II",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.009-d",
+"es": "Tarsianos I y II fusionados (derecho)",
+"la": "Os tarsale I et II",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.010-i",
+"es": "Tarsiano III (izquierdo)",
+"la": "Os tarsale III",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.010-d",
+"es": "Tarsiano III (derecho)",
+"la": "Os tarsale III",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.011-i",
+"es": "Tarsiano IV (izquierdo)",
+"la": "Os tarsale IV",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.011-d",
+"es": "Tarsiano IV (derecho)",
+"la": "Os tarsale IV",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.012-i",
+"es": "Metatarsiano III (caña) (izquierdo)",
+"la": "Os metatarsale III",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.012-d",
+"es": "Metatarsiano III (caña) (derecho)",
+"la": "Os metatarsale III",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.013-i",
+"es": "Metatarsiano II (izquierdo)",
+"la": "Os metatarsale II",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.013-d",
+"es": "Metatarsiano II (derecho)",
+"la": "Os metatarsale II",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.014-i",
+"es": "Metatarsiano IV (izquierdo)",
+"la": "Os metatarsale IV",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.014-d",
+"es": "Metatarsiano IV (derecho)",
+"la": "Os metatarsale IV",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.015-i",
+"es": "Falange proximal (izquierdo)",
+"la": "Phalanx proximalis",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.015-d",
+"es": "Falange proximal (derecho)",
+"la": "Phalanx proximalis",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.016-i",
+"es": "Falange media (izquierdo)",
+"la": "Phalanx media",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.016-d",
+"es": "Falange media (derecho)",
+"la": "Phalanx media",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.017-i",
+"es": "Falange distal (izquierdo)",
+"la": "Phalanx distalis",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.017-d",
+"es": "Falange distal (derecho)",
+"la": "Phalanx distalis",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.018-i",
+"es": "Sesamoideo proximal medial (izquierdo)",
+"la": "Os sesamoideum proximale mediale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.018-d",
+"es": "Sesamoideo proximal medial (derecho)",
+"la": "Os sesamoideum proximale mediale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.019-i",
+"es": "Sesamoideo proximal lateral (izquierdo)",
+"la": "Os sesamoideum proximale laterale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.019-d",
+"es": "Sesamoideo proximal lateral (derecho)",
+"la": "Os sesamoideum proximale laterale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.020-i",
+"es": "Sesamoideo distal (navicular) (izquierdo)",
+"la": "Os sesamoideum distale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.mpe.020-d",
+"es": "Sesamoideo distal (navicular) (derecho)",
+"la": "Os sesamoideum distale",
+"sys": "ske",
+"layer": "oss"
+},
+{
+"id": "equ.ske.aax.001-i",
+"es": "Articulación temporomandibular (izquierdo)",
+"la": "Articulatio temporomandibularis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.aax.001-d",
+"es": "Articulación temporomandibular (derecho)",
+"la": "Articulatio temporomandibularis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.aax.002",
+"es": "Articulación atlantooccipital",
+"la": "Articulatio atlantooccipitalis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.aax.003",
+"es": "Articulación atlantoaxial",
+"la": "Articulatio atlantoaxialis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.aax.004",
+"es": "Discos intervertebrales",
+"la": "Disci intervertebrales",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.aax.005",
+"es": "Articulaciones de los procesos articulares",
+"la": "Articulationes processuum articularium",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.aax.006",
+"es": "Articulaciones costovertebrales",
+"la": "Articulationes costovertebrales",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.aax.007",
+"es": "Articulaciones costocondrales",
+"la": "Articulationes costochondrales",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.aax.008",
+"es": "Articulaciones esternocostales",
+"la": "Articulationes sternocostales",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.aax.009",
+"es": "Sincondrosis esternales",
+"la": "Synchondroses sternales",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.aax.010-i",
+"es": "Articulación sacroilíaca (izquierdo)",
+"la": "Articulatio sacroiliaca",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.aax.010-d",
+"es": "Articulación sacroilíaca (derecho)",
+"la": "Articulatio sacroiliaca",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.aax.011",
+"es": "Sínfisis pelviana",
+"la": "Symphysis pelvina",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.001-i",
+"es": "Articulación del hombro (izquierdo)",
+"la": "Articulatio humeri",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.001-d",
+"es": "Articulación del hombro (derecho)",
+"la": "Articulatio humeri",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.002-i",
+"es": "Articulación del codo (izquierdo)",
+"la": "Articulatio cubiti",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.002-d",
+"es": "Articulación del codo (derecho)",
+"la": "Articulatio cubiti",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.003-i",
+"es": "Sindesmosis radiocubital (izquierdo)",
+"la": "Syndesmosis radioulnaris",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.003-d",
+"es": "Sindesmosis radiocubital (derecho)",
+"la": "Syndesmosis radioulnaris",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.004-i",
+"es": "Articulación antebraquiocarpiana (izquierdo)",
+"la": "Articulatio antebrachiocarpea",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.004-d",
+"es": "Articulación antebraquiocarpiana (derecho)",
+"la": "Articulatio antebrachiocarpea",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.005-i",
+"es": "Articulación mediocarpiana (izquierdo)",
+"la": "Articulatio mediocarpea",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.005-d",
+"es": "Articulación mediocarpiana (derecho)",
+"la": "Articulatio mediocarpea",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.006-i",
+"es": "Articulaciones intercarpianas (izquierdo)",
+"la": "Articulationes intercarpeae",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.006-d",
+"es": "Articulaciones intercarpianas (derecho)",
+"la": "Articulationes intercarpeae",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.007-i",
+"es": "Articulación carpometacarpiana (izquierdo)",
+"la": "Articulatio carpometacarpea",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.007-d",
+"es": "Articulación carpometacarpiana (derecho)",
+"la": "Articulatio carpometacarpea",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.008-i",
+"es": "Articulación del menudillo (metacarpofalángica) (izquierdo)",
+"la": "Articulatio metacarpophalangea",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.008-d",
+"es": "Articulación del menudillo (metacarpofalángica) (derecho)",
+"la": "Articulatio metacarpophalangea",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.009-i",
+"es": "Articulación interfalángica proximal (izquierdo)",
+"la": "Articulatio interphalangea proximalis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.009-d",
+"es": "Articulación interfalángica proximal (derecho)",
+"la": "Articulatio interphalangea proximalis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.010-i",
+"es": "Articulación interfalángica distal (izquierdo)",
+"la": "Articulatio interphalangea distalis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amt.010-d",
+"es": "Articulación interfalángica distal (derecho)",
+"la": "Articulatio interphalangea distalis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.001-i",
+"es": "Articulación coxofemoral (cadera) (izquierdo)",
+"la": "Articulatio coxae",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.001-d",
+"es": "Articulación coxofemoral (cadera) (derecho)",
+"la": "Articulatio coxae",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.002-i",
+"es": "Articulación femoropatelar (izquierdo)",
+"la": "Articulatio femoropatellaris",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.002-d",
+"es": "Articulación femoropatelar (derecho)",
+"la": "Articulatio femoropatellaris",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.003-i",
+"es": "Articulación femorotibial (izquierdo)",
+"la": "Articulatio femorotibialis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.003-d",
+"es": "Articulación femorotibial (derecho)",
+"la": "Articulatio femorotibialis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.004-i",
+"es": "Menisco medial (izquierdo)",
+"la": "Meniscus medialis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.004-d",
+"es": "Menisco medial (derecho)",
+"la": "Meniscus medialis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.005-i",
+"es": "Menisco lateral (izquierdo)",
+"la": "Meniscus lateralis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.005-d",
+"es": "Menisco lateral (derecho)",
+"la": "Meniscus lateralis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.006-i",
+"es": "Articulación tibioperonea proximal (izquierdo)",
+"la": "Articulatio tibiofibularis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.006-d",
+"es": "Articulación tibioperonea proximal (derecho)",
+"la": "Articulatio tibiofibularis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.007-i",
+"es": "Articulación tibiotarsiana (talocrural) (izquierdo)",
+"la": "Articulatio talocruralis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.007-d",
+"es": "Articulación tibiotarsiana (talocrural) (derecho)",
+"la": "Articulatio talocruralis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.008-i",
+"es": "Articulación intertarsiana proximal (izquierdo)",
+"la": "Articulatio intertarsea proximalis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.008-d",
+"es": "Articulación intertarsiana proximal (derecho)",
+"la": "Articulatio intertarsea proximalis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.009-i",
+"es": "Articulación intertarsiana distal (izquierdo)",
+"la": "Articulatio intertarsea distalis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.009-d",
+"es": "Articulación intertarsiana distal (derecho)",
+"la": "Articulatio intertarsea distalis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.010-i",
+"es": "Articulación tarsometatarsiana (izquierdo)",
+"la": "Articulatio tarsometatarsea",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.010-d",
+"es": "Articulación tarsometatarsiana (derecho)",
+"la": "Articulatio tarsometatarsea",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.011-i",
+"es": "Articulación del menudillo (metatarsofalángica) (izquierdo)",
+"la": "Articulatio metatarsophalangea",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.011-d",
+"es": "Articulación del menudillo (metatarsofalángica) (derecho)",
+"la": "Articulatio metatarsophalangea",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.012-i",
+"es": "Articulación interfalángica proximal (izquierdo)",
+"la": "Articulatio interphalangea proximalis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.012-d",
+"es": "Articulación interfalángica proximal (derecho)",
+"la": "Articulatio interphalangea proximalis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.013-i",
+"es": "Articulación interfalángica distal (izquierdo)",
+"la": "Articulatio interphalangea distalis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.amp.013-d",
+"es": "Articulación interfalángica distal (derecho)",
+"la": "Articulatio interphalangea distalis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lax.001",
+"es": "Funículo nucal (ligamento nucal)",
+"la": "Funiculus nuchae",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lax.002",
+"es": "Lámina nucal",
+"la": "Lamina nuchae",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lax.003",
+"es": "Ligamento supraespinoso",
+"la": "Ligamentum supraspinale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lax.004",
+"es": "Ligamento longitudinal dorsal",
+"la": "Ligamentum longitudinale dorsale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lax.005",
+"es": "Ligamento longitudinal ventral",
+"la": "Ligamentum longitudinale ventrale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lax.006",
+"es": "Ligamentos amarillos",
+"la": "Ligamenta flava",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lax.007",
+"es": "Ligamentos interespinosos",
+"la": "Ligamenta interspinalia",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lax.008",
+"es": "Ligamento transverso del atlas",
+"la": "Ligamentum transversum atlantis",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lax.009-i",
+"es": "Ligamento sacroilíaco dorsal (izquierdo)",
+"la": "Ligamentum sacroiliacum dorsale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lax.009-d",
+"es": "Ligamento sacroilíaco dorsal (derecho)",
+"la": "Ligamentum sacroiliacum dorsale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lax.010-i",
+"es": "Ligamento sacroilíaco ventral (izquierdo)",
+"la": "Ligamentum sacroiliacum ventrale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lax.010-d",
+"es": "Ligamento sacroilíaco ventral (derecho)",
+"la": "Ligamentum sacroiliacum ventrale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lax.011-i",
+"es": "Ligamento sacrotuberal ancho (izquierdo)",
+"la": "Ligamentum sacrotuberale latum",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lax.011-d",
+"es": "Ligamento sacrotuberal ancho (derecho)",
+"la": "Ligamentum sacrotuberale latum",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.001-i",
+"es": "Ligamento colateral medial del codo (izquierdo)",
+"la": "Ligamentum collaterale mediale (articulationis cubiti)",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.001-d",
+"es": "Ligamento colateral medial del codo (derecho)",
+"la": "Ligamentum collaterale mediale (articulationis cubiti)",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.002-i",
+"es": "Ligamento colateral lateral del codo (izquierdo)",
+"la": "Ligamentum collaterale laterale (articulationis cubiti)",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.002-d",
+"es": "Ligamento colateral lateral del codo (derecho)",
+"la": "Ligamentum collaterale laterale (articulationis cubiti)",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.003-i",
+"es": "Ligamento colateral medial del carpo (izquierdo)",
+"la": "Ligamentum collaterale carpi mediale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.003-d",
+"es": "Ligamento colateral medial del carpo (derecho)",
+"la": "Ligamentum collaterale carpi mediale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.004-i",
+"es": "Ligamento colateral lateral del carpo (izquierdo)",
+"la": "Ligamentum collaterale carpi laterale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.004-d",
+"es": "Ligamento colateral lateral del carpo (derecho)",
+"la": "Ligamentum collaterale carpi laterale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.005-i",
+"es": "Ligamento suspensorio del menudillo (izquierdo)",
+"la": "Musculus interosseus medius",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.005-d",
+"es": "Ligamento suspensorio del menudillo (derecho)",
+"la": "Musculus interosseus medius",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.006-i",
+"es": "Ligamento accesorio inferior (check inferior) (izquierdo)",
+"la": "Ligamentum accessorium (m. flexoris digitalis profundi)",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.006-d",
+"es": "Ligamento accesorio inferior (check inferior) (derecho)",
+"la": "Ligamentum accessorium (m. flexoris digitalis profundi)",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.007-i",
+"es": "Ligamento accesorio superior (check superior) (izquierdo)",
+"la": "Ligamentum accessorium (m. flexoris digitalis superficialis)",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.007-d",
+"es": "Ligamento accesorio superior (check superior) (derecho)",
+"la": "Ligamentum accessorium (m. flexoris digitalis superficialis)",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.008-i",
+"es": "Ligamento colateral medial del menudillo (izquierdo)",
+"la": "Ligamentum collaterale mediale (articulationis metacarpophalangeae)",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.008-d",
+"es": "Ligamento colateral medial del menudillo (derecho)",
+"la": "Ligamentum collaterale mediale (articulationis metacarpophalangeae)",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.009-i",
+"es": "Ligamento colateral lateral del menudillo (izquierdo)",
+"la": "Ligamentum collaterale laterale (articulationis metacarpophalangeae)",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.009-d",
+"es": "Ligamento colateral lateral del menudillo (derecho)",
+"la": "Ligamentum collaterale laterale (articulationis metacarpophalangeae)",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.010-i",
+"es": "Ligamento anular palmar (izquierdo)",
+"la": "Ligamentum annulare palmare",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.010-d",
+"es": "Ligamento anular palmar (derecho)",
+"la": "Ligamentum annulare palmare",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.011-i",
+"es": "Ligamentos sesamoideos distales (recto, oblicuos, cruzados) (izquierdo)",
+"la": "Ligamenta sesamoidea distalia",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.011-d",
+"es": "Ligamentos sesamoideos distales (recto, oblicuos, cruzados) (derecho)",
+"la": "Ligamenta sesamoidea distalia",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.012-i",
+"es": "Ligamento sesamoideo distal impar (izquierdo)",
+"la": "Ligamentum sesamoideum distale impar",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmt.012-d",
+"es": "Ligamento sesamoideo distal impar (derecho)",
+"la": "Ligamentum sesamoideum distale impar",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.001-i",
+"es": "Ligamento de la cabeza del fémur (izquierdo)",
+"la": "Ligamentum capitis ossis femoris",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.001-d",
+"es": "Ligamento de la cabeza del fémur (derecho)",
+"la": "Ligamentum capitis ossis femoris",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.002-i",
+"es": "Ligamento accesorio del fémur (izquierdo)",
+"la": "Ligamentum accessorium ossis femoris",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.002-d",
+"es": "Ligamento accesorio del fémur (derecho)",
+"la": "Ligamentum accessorium ossis femoris",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.003-i",
+"es": "Ligamento patelar medial (izquierdo)",
+"la": "Ligamentum patellae mediale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.003-d",
+"es": "Ligamento patelar medial (derecho)",
+"la": "Ligamentum patellae mediale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.004-i",
+"es": "Ligamento patelar intermedio (izquierdo)",
+"la": "Ligamentum patellae intermedium",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.004-d",
+"es": "Ligamento patelar intermedio (derecho)",
+"la": "Ligamentum patellae intermedium",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.005-i",
+"es": "Ligamento patelar lateral (izquierdo)",
+"la": "Ligamentum patellae laterale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.005-d",
+"es": "Ligamento patelar lateral (derecho)",
+"la": "Ligamentum patellae laterale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.006-i",
+"es": "Ligamento femoropatelar medial (izquierdo)",
+"la": "Ligamentum femoropatellare mediale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.006-d",
+"es": "Ligamento femoropatelar medial (derecho)",
+"la": "Ligamentum femoropatellare mediale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.007-i",
+"es": "Ligamento femoropatelar lateral (izquierdo)",
+"la": "Ligamentum femoropatellare laterale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.007-d",
+"es": "Ligamento femoropatelar lateral (derecho)",
+"la": "Ligamentum femoropatellare laterale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.008-i",
+"es": "Ligamento cruzado craneal (izquierdo)",
+"la": "Ligamentum cruciatum craniale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.008-d",
+"es": "Ligamento cruzado craneal (derecho)",
+"la": "Ligamentum cruciatum craniale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.009-i",
+"es": "Ligamento cruzado caudal (izquierdo)",
+"la": "Ligamentum cruciatum caudale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.009-d",
+"es": "Ligamento cruzado caudal (derecho)",
+"la": "Ligamentum cruciatum caudale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.010-i",
+"es": "Ligamento colateral medial de la rodilla (izquierdo)",
+"la": "Ligamentum collaterale mediale (articulationis genus)",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.010-d",
+"es": "Ligamento colateral medial de la rodilla (derecho)",
+"la": "Ligamentum collaterale mediale (articulationis genus)",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.011-i",
+"es": "Ligamento colateral lateral de la rodilla (izquierdo)",
+"la": "Ligamentum collaterale laterale (articulationis genus)",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.011-d",
+"es": "Ligamento colateral lateral de la rodilla (derecho)",
+"la": "Ligamentum collaterale laterale (articulationis genus)",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.012-i",
+"es": "Ligamento colateral medial del tarso (izquierdo)",
+"la": "Ligamentum collaterale tarsi mediale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.012-d",
+"es": "Ligamento colateral medial del tarso (derecho)",
+"la": "Ligamentum collaterale tarsi mediale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.013-i",
+"es": "Ligamento colateral lateral del tarso (izquierdo)",
+"la": "Ligamentum collaterale tarsi laterale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.013-d",
+"es": "Ligamento colateral lateral del tarso (derecho)",
+"la": "Ligamentum collaterale tarsi laterale",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.014-i",
+"es": "Ligamento plantar largo (izquierdo)",
+"la": "Ligamentum plantare longum",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.014-d",
+"es": "Ligamento plantar largo (derecho)",
+"la": "Ligamentum plantare longum",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.015-i",
+"es": "Ligamento suspensorio del menudillo (izquierdo)",
+"la": "Musculus interosseus medius",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.015-d",
+"es": "Ligamento suspensorio del menudillo (derecho)",
+"la": "Musculus interosseus medius",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.016-i",
+"es": "Ligamento anular plantar (izquierdo)",
+"la": "Ligamentum annulare plantare",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.ske.lmp.016-d",
+"es": "Ligamento anular plantar (derecho)",
+"la": "Ligamentum annulare plantare",
+"sys": "ske",
+"layer": "art"
+},
+{
+"id": "equ.mus.cab.001-i",
+"es": "Cutáneo de la cara (izquierdo)",
+"la": "Musculus cutaneus faciei",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.001-d",
+"es": "Cutáneo de la cara (derecho)",
+"la": "Musculus cutaneus faciei",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.002-i",
+"es": "Orbicular del ojo (izquierdo)",
+"la": "Musculus orbicularis oculi",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.002-d",
+"es": "Orbicular del ojo (derecho)",
+"la": "Musculus orbicularis oculi",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.003-i",
+"es": "Elevador del párpado superior (izquierdo)",
+"la": "Musculus levator palpebrae superioris",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.003-d",
+"es": "Elevador del párpado superior (derecho)",
+"la": "Musculus levator palpebrae superioris",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.004-i",
+"es": "Recto dorsal del bulbo (izquierdo)",
+"la": "Musculus rectus bulbi dorsalis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.004-d",
+"es": "Recto dorsal del bulbo (derecho)",
+"la": "Musculus rectus bulbi dorsalis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.005-i",
+"es": "Recto ventral del bulbo (izquierdo)",
+"la": "Musculus rectus bulbi ventralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.005-d",
+"es": "Recto ventral del bulbo (derecho)",
+"la": "Musculus rectus bulbi ventralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.006-i",
+"es": "Recto medial del bulbo (izquierdo)",
+"la": "Musculus rectus bulbi medialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.006-d",
+"es": "Recto medial del bulbo (derecho)",
+"la": "Musculus rectus bulbi medialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.007-i",
+"es": "Recto lateral del bulbo (izquierdo)",
+"la": "Musculus rectus bulbi lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.007-d",
+"es": "Recto lateral del bulbo (derecho)",
+"la": "Musculus rectus bulbi lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.008-i",
+"es": "Oblicuo dorsal del bulbo (izquierdo)",
+"la": "Musculus obliquus bulbi dorsalis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.008-d",
+"es": "Oblicuo dorsal del bulbo (derecho)",
+"la": "Musculus obliquus bulbi dorsalis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.009-i",
+"es": "Oblicuo ventral del bulbo (izquierdo)",
+"la": "Musculus obliquus bulbi ventralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.009-d",
+"es": "Oblicuo ventral del bulbo (derecho)",
+"la": "Musculus obliquus bulbi ventralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.010-i",
+"es": "Retractor del bulbo (izquierdo)",
+"la": "Musculus retractor bulbi",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.010-d",
+"es": "Retractor del bulbo (derecho)",
+"la": "Musculus retractor bulbi",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.011-i",
+"es": "Elevador nasolabial (izquierdo)",
+"la": "Musculus levator nasolabialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.011-d",
+"es": "Elevador nasolabial (derecho)",
+"la": "Musculus levator nasolabialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.012-i",
+"es": "Elevador del labio superior (izquierdo)",
+"la": "Musculus levator labii superioris",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.012-d",
+"es": "Elevador del labio superior (derecho)",
+"la": "Musculus levator labii superioris",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.013-i",
+"es": "Orbicular de la boca (izquierdo)",
+"la": "Musculus orbicularis oris",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.013-d",
+"es": "Orbicular de la boca (derecho)",
+"la": "Musculus orbicularis oris",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.014-i",
+"es": "Buccinador (izquierdo)",
+"la": "Musculus buccinator",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.014-d",
+"es": "Buccinador (derecho)",
+"la": "Musculus buccinator",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.015-i",
+"es": "Cigomático (izquierdo)",
+"la": "Musculus zygomaticus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.015-d",
+"es": "Cigomático (derecho)",
+"la": "Musculus zygomaticus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.016-i",
+"es": "Depresor del labio inferior (izquierdo)",
+"la": "Musculus depressor labii inferioris",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.016-d",
+"es": "Depresor del labio inferior (derecho)",
+"la": "Musculus depressor labii inferioris",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.017-i",
+"es": "Mentoniano (izquierdo)",
+"la": "Musculus mentalis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.017-d",
+"es": "Mentoniano (derecho)",
+"la": "Musculus mentalis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.018-i",
+"es": "Masetero (izquierdo)",
+"la": "Musculus masseter",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.018-d",
+"es": "Masetero (derecho)",
+"la": "Musculus masseter",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.019-i",
+"es": "Temporal (izquierdo)",
+"la": "Musculus temporalis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.019-d",
+"es": "Temporal (derecho)",
+"la": "Musculus temporalis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.020-i",
+"es": "Pterigoideo medial (izquierdo)",
+"la": "Musculus pterygoideus medialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.020-d",
+"es": "Pterigoideo medial (derecho)",
+"la": "Musculus pterygoideus medialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.021-i",
+"es": "Pterigoideo lateral (izquierdo)",
+"la": "Musculus pterygoideus lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.021-d",
+"es": "Pterigoideo lateral (derecho)",
+"la": "Musculus pterygoideus lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.022-i",
+"es": "Digástrico (izquierdo)",
+"la": "Musculus digastricus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.022-d",
+"es": "Digástrico (derecho)",
+"la": "Musculus digastricus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.023-i",
+"es": "Milohioideo (izquierdo)",
+"la": "Musculus mylohyoideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.023-d",
+"es": "Milohioideo (derecho)",
+"la": "Musculus mylohyoideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.024-i",
+"es": "Geniohioideo (izquierdo)",
+"la": "Musculus geniohyoideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.024-d",
+"es": "Geniohioideo (derecho)",
+"la": "Musculus geniohyoideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.025-i",
+"es": "Estilohioideo (izquierdo)",
+"la": "Musculus stylohyoideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.025-d",
+"es": "Estilohioideo (derecho)",
+"la": "Musculus stylohyoideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.026-i",
+"es": "Músculos auriculares (izquierdo)",
+"la": "Musculi auriculares",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.026-d",
+"es": "Músculos auriculares (derecho)",
+"la": "Musculi auriculares",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cue.001-i",
+"es": "Cutáneo del cuello (izquierdo)",
+"la": "Musculus cutaneus colli",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cue.001-d",
+"es": "Cutáneo del cuello (derecho)",
+"la": "Musculus cutaneus colli",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cue.002-i",
+"es": "Braquiocefálico (izquierdo)",
+"la": "Musculus brachiocephalicus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cue.002-d",
+"es": "Braquiocefálico (derecho)",
+"la": "Musculus brachiocephalicus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cue.003-i",
+"es": "Esternocefálico (izquierdo)",
+"la": "Musculus sternocephalicus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cue.003-d",
+"es": "Esternocefálico (derecho)",
+"la": "Musculus sternocephalicus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cue.004-i",
+"es": "Omohioideo (izquierdo)",
+"la": "Musculus omohyoideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.004-d",
+"es": "Omohioideo (derecho)",
+"la": "Musculus omohyoideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.005-i",
+"es": "Esternohioideo (izquierdo)",
+"la": "Musculus sternohyoideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.005-d",
+"es": "Esternohioideo (derecho)",
+"la": "Musculus sternohyoideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.006-i",
+"es": "Esternotiroideo (izquierdo)",
+"la": "Musculus sternothyroideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.006-d",
+"es": "Esternotiroideo (derecho)",
+"la": "Musculus sternothyroideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.007-i",
+"es": "Esplenio (izquierdo)",
+"la": "Musculus splenius",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cue.007-d",
+"es": "Esplenio (derecho)",
+"la": "Musculus splenius",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cue.008-i",
+"es": "Semiespinoso de la cabeza (izquierdo)",
+"la": "Musculus semispinalis capitis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.008-d",
+"es": "Semiespinoso de la cabeza (derecho)",
+"la": "Musculus semispinalis capitis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.009-i",
+"es": "Longuísimo de la cabeza (izquierdo)",
+"la": "Musculus longissimus capitis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.009-d",
+"es": "Longuísimo de la cabeza (derecho)",
+"la": "Musculus longissimus capitis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.010-i",
+"es": "Longuísimo del atlas (izquierdo)",
+"la": "Musculus longissimus atlantis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.010-d",
+"es": "Longuísimo del atlas (derecho)",
+"la": "Musculus longissimus atlantis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.011-i",
+"es": "Longuísimo del cuello (izquierdo)",
+"la": "Musculus longissimus cervicis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.011-d",
+"es": "Longuísimo del cuello (derecho)",
+"la": "Musculus longissimus cervicis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.012-i",
+"es": "Largo de la cabeza (izquierdo)",
+"la": "Musculus longus capitis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.012-d",
+"es": "Largo de la cabeza (derecho)",
+"la": "Musculus longus capitis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.013-i",
+"es": "Largo del cuello (izquierdo)",
+"la": "Musculus longus colli",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.013-d",
+"es": "Largo del cuello (derecho)",
+"la": "Musculus longus colli",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.014-i",
+"es": "Recto dorsal mayor de la cabeza (izquierdo)",
+"la": "Musculus rectus capitis dorsalis major",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.014-d",
+"es": "Recto dorsal mayor de la cabeza (derecho)",
+"la": "Musculus rectus capitis dorsalis major",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.015-i",
+"es": "Recto dorsal menor de la cabeza (izquierdo)",
+"la": "Musculus rectus capitis dorsalis minor",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.015-d",
+"es": "Recto dorsal menor de la cabeza (derecho)",
+"la": "Musculus rectus capitis dorsalis minor",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.016-i",
+"es": "Recto ventral de la cabeza (izquierdo)",
+"la": "Musculus rectus capitis ventralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.016-d",
+"es": "Recto ventral de la cabeza (derecho)",
+"la": "Musculus rectus capitis ventralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.017-i",
+"es": "Recto lateral de la cabeza (izquierdo)",
+"la": "Musculus rectus capitis lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.017-d",
+"es": "Recto lateral de la cabeza (derecho)",
+"la": "Musculus rectus capitis lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.018-i",
+"es": "Oblicuo craneal de la cabeza (izquierdo)",
+"la": "Musculus obliquus capitis cranialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.018-d",
+"es": "Oblicuo craneal de la cabeza (derecho)",
+"la": "Musculus obliquus capitis cranialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.019-i",
+"es": "Oblicuo caudal de la cabeza (izquierdo)",
+"la": "Musculus obliquus capitis caudalis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.019-d",
+"es": "Oblicuo caudal de la cabeza (derecho)",
+"la": "Musculus obliquus capitis caudalis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.020-i",
+"es": "Escaleno (izquierdo)",
+"la": "Musculus scalenus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.020-d",
+"es": "Escaleno (derecho)",
+"la": "Musculus scalenus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.021-i",
+"es": "Multífido del cuello (izquierdo)",
+"la": "Musculus multifidus cervicis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.021-d",
+"es": "Multífido del cuello (derecho)",
+"la": "Musculus multifidus cervicis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.022-i",
+"es": "Intertransversos del cuello (izquierdo)",
+"la": "Musculi intertransversarii cervicis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.022-d",
+"es": "Intertransversos del cuello (derecho)",
+"la": "Musculi intertransversarii cervicis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.001-i",
+"es": "Iliocostal lumbar (izquierdo)",
+"la": "Musculus iliocostalis lumborum",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.dor.001-d",
+"es": "Iliocostal lumbar (derecho)",
+"la": "Musculus iliocostalis lumborum",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.dor.002-i",
+"es": "Iliocostal torácico (izquierdo)",
+"la": "Musculus iliocostalis thoracis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.dor.002-d",
+"es": "Iliocostal torácico (derecho)",
+"la": "Musculus iliocostalis thoracis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.dor.003-i",
+"es": "Longuísimo lumbar (izquierdo)",
+"la": "Musculus longissimus lumborum",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.dor.003-d",
+"es": "Longuísimo lumbar (derecho)",
+"la": "Musculus longissimus lumborum",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.dor.004-i",
+"es": "Longuísimo torácico (izquierdo)",
+"la": "Musculus longissimus thoracis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.dor.004-d",
+"es": "Longuísimo torácico (derecho)",
+"la": "Musculus longissimus thoracis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.dor.005-i",
+"es": "Espinal y semiespinoso torácico (izquierdo)",
+"la": "Musculus spinalis et semispinalis thoracis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.005-d",
+"es": "Espinal y semiespinoso torácico (derecho)",
+"la": "Musculus spinalis et semispinalis thoracis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.006-i",
+"es": "Multífido torácico (izquierdo)",
+"la": "Musculus multifidus thoracis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.006-d",
+"es": "Multífido torácico (derecho)",
+"la": "Musculus multifidus thoracis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.007-i",
+"es": "Multífido lumbar (izquierdo)",
+"la": "Musculus multifidus lumborum",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.007-d",
+"es": "Multífido lumbar (derecho)",
+"la": "Musculus multifidus lumborum",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.008-i",
+"es": "Rotadores (izquierdo)",
+"la": "Musculi rotatores",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.008-d",
+"es": "Rotadores (derecho)",
+"la": "Musculi rotatores",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.009-i",
+"es": "Interespinosos (izquierdo)",
+"la": "Musculi interspinales",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.009-d",
+"es": "Interespinosos (derecho)",
+"la": "Musculi interspinales",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.010-i",
+"es": "Intertransversos lumbares (izquierdo)",
+"la": "Musculi intertransversarii lumborum",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.010-d",
+"es": "Intertransversos lumbares (derecho)",
+"la": "Musculi intertransversarii lumborum",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.001-i",
+"es": "Serrato dorsal craneal (izquierdo)",
+"la": "Musculus serratus dorsalis cranialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.tor.001-d",
+"es": "Serrato dorsal craneal (derecho)",
+"la": "Musculus serratus dorsalis cranialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.tor.002-i",
+"es": "Serrato dorsal caudal (izquierdo)",
+"la": "Musculus serratus dorsalis caudalis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.tor.002-d",
+"es": "Serrato dorsal caudal (derecho)",
+"la": "Musculus serratus dorsalis caudalis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.tor.003-i",
+"es": "Intercostales externos (izquierdo)",
+"la": "Musculi intercostales externi",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.003-d",
+"es": "Intercostales externos (derecho)",
+"la": "Musculi intercostales externi",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.004-i",
+"es": "Intercostales internos (izquierdo)",
+"la": "Musculi intercostales interni",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.004-d",
+"es": "Intercostales internos (derecho)",
+"la": "Musculi intercostales interni",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.005-i",
+"es": "Recto del tórax (izquierdo)",
+"la": "Musculus rectus thoracis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.005-d",
+"es": "Recto del tórax (derecho)",
+"la": "Musculus rectus thoracis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.006-i",
+"es": "Transverso del tórax (izquierdo)",
+"la": "Musculus transversus thoracis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.006-d",
+"es": "Transverso del tórax (derecho)",
+"la": "Musculus transversus thoracis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.007-i",
+"es": "Elevadores de las costillas (izquierdo)",
+"la": "Musculi levatores costarum",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.007-d",
+"es": "Elevadores de las costillas (derecho)",
+"la": "Musculi levatores costarum",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.008-i",
+"es": "Retractor de la costilla (izquierdo)",
+"la": "Musculus retractor costae",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.008-d",
+"es": "Retractor de la costilla (derecho)",
+"la": "Musculus retractor costae",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.abd.001-i",
+"es": "Oblicuo externo del abdomen (izquierdo)",
+"la": "Musculus obliquus externus abdominis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.abd.001-d",
+"es": "Oblicuo externo del abdomen (derecho)",
+"la": "Musculus obliquus externus abdominis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.abd.002-i",
+"es": "Oblicuo interno del abdomen (izquierdo)",
+"la": "Musculus obliquus internus abdominis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.abd.002-d",
+"es": "Oblicuo interno del abdomen (derecho)",
+"la": "Musculus obliquus internus abdominis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.abd.003-i",
+"es": "Transverso del abdomen (izquierdo)",
+"la": "Musculus transversus abdominis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.abd.003-d",
+"es": "Transverso del abdomen (derecho)",
+"la": "Musculus transversus abdominis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.abd.004-i",
+"es": "Recto del abdomen (izquierdo)",
+"la": "Musculus rectus abdominis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.abd.004-d",
+"es": "Recto del abdomen (derecho)",
+"la": "Musculus rectus abdominis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.abd.005-i",
+"es": "Cutáneo del tronco (izquierdo)",
+"la": "Musculus cutaneus trunci",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.abd.005-d",
+"es": "Cutáneo del tronco (derecho)",
+"la": "Musculus cutaneus trunci",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.abd.006-i",
+"es": "Túnica flava del abdomen (izquierdo)",
+"la": "Tunica flava abdominis",
+"sys": "mus",
+"layer": "fas"
+},
+{
+"id": "equ.mus.abd.006-d",
+"es": "Túnica flava del abdomen (derecho)",
+"la": "Tunica flava abdominis",
+"sys": "mus",
+"layer": "fas"
+},
+{
+"id": "equ.mus.sub.001-i",
+"es": "Psoas mayor (izquierdo)",
+"la": "Musculus psoas major",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.sub.001-d",
+"es": "Psoas mayor (derecho)",
+"la": "Musculus psoas major",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.sub.002-i",
+"es": "Psoas menor (izquierdo)",
+"la": "Musculus psoas minor",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.sub.002-d",
+"es": "Psoas menor (derecho)",
+"la": "Musculus psoas minor",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.sub.003-i",
+"es": "Ilíaco (izquierdo)",
+"la": "Musculus iliacus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.sub.003-d",
+"es": "Ilíaco (derecho)",
+"la": "Musculus iliacus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.sub.004-i",
+"es": "Cuadrado lumbar (izquierdo)",
+"la": "Musculus quadratus lumborum",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.sub.004-d",
+"es": "Cuadrado lumbar (derecho)",
+"la": "Musculus quadratus lumborum",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.col.001-i",
+"es": "Sacrococcígeo dorsal (izquierdo)",
+"la": "Musculus sacrococcygeus dorsalis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.col.001-d",
+"es": "Sacrococcígeo dorsal (derecho)",
+"la": "Musculus sacrococcygeus dorsalis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.col.002-i",
+"es": "Sacrococcígeo lateral (izquierdo)",
+"la": "Musculus sacrococcygeus lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.col.002-d",
+"es": "Sacrococcígeo lateral (derecho)",
+"la": "Musculus sacrococcygeus lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.col.003-i",
+"es": "Sacrococcígeo ventral (izquierdo)",
+"la": "Musculus sacrococcygeus ventralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.col.003-d",
+"es": "Sacrococcígeo ventral (derecho)",
+"la": "Musculus sacrococcygeus ventralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.col.004-i",
+"es": "Intertransversos de la cola (izquierdo)",
+"la": "Musculi intertransversarii caudae",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.col.004-d",
+"es": "Intertransversos de la cola (derecho)",
+"la": "Musculi intertransversarii caudae",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.col.005-i",
+"es": "Coccígeo (izquierdo)",
+"la": "Musculus coccygeus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.col.005-d",
+"es": "Coccígeo (derecho)",
+"la": "Musculus coccygeus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ext.001-i",
+"es": "Trapecio cervical (izquierdo)",
+"la": "Musculus trapezius, pars cervicalis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ext.001-d",
+"es": "Trapecio cervical (derecho)",
+"la": "Musculus trapezius, pars cervicalis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ext.002-i",
+"es": "Trapecio torácico (izquierdo)",
+"la": "Musculus trapezius, pars thoracica",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ext.002-d",
+"es": "Trapecio torácico (derecho)",
+"la": "Musculus trapezius, pars thoracica",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ext.003-i",
+"es": "Romboides cervical (izquierdo)",
+"la": "Musculus rhomboideus cervicis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ext.003-d",
+"es": "Romboides cervical (derecho)",
+"la": "Musculus rhomboideus cervicis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ext.004-i",
+"es": "Romboides torácico (izquierdo)",
+"la": "Musculus rhomboideus thoracis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ext.004-d",
+"es": "Romboides torácico (derecho)",
+"la": "Musculus rhomboideus thoracis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ext.005-i",
+"es": "Dorsal ancho (izquierdo)",
+"la": "Musculus latissimus dorsi",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ext.005-d",
+"es": "Dorsal ancho (derecho)",
+"la": "Musculus latissimus dorsi",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ext.006-i",
+"es": "Omotransverso (izquierdo)",
+"la": "Musculus omotransversarius",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ext.006-d",
+"es": "Omotransverso (derecho)",
+"la": "Musculus omotransversarius",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ext.007-i",
+"es": "Serrato ventral cervical (izquierdo)",
+"la": "Musculus serratus ventralis cervicis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ext.007-d",
+"es": "Serrato ventral cervical (derecho)",
+"la": "Musculus serratus ventralis cervicis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ext.008-i",
+"es": "Serrato ventral torácico (izquierdo)",
+"la": "Musculus serratus ventralis thoracis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ext.008-d",
+"es": "Serrato ventral torácico (derecho)",
+"la": "Musculus serratus ventralis thoracis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ext.009-i",
+"es": "Pectoral descendente (izquierdo)",
+"la": "Musculus pectoralis descendens",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ext.009-d",
+"es": "Pectoral descendente (derecho)",
+"la": "Musculus pectoralis descendens",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ext.010-i",
+"es": "Pectoral transverso (izquierdo)",
+"la": "Musculus pectoralis transversus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ext.010-d",
+"es": "Pectoral transverso (derecho)",
+"la": "Musculus pectoralis transversus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ext.011-i",
+"es": "Pectoral profundo (ascendente) (izquierdo)",
+"la": "Musculus pectoralis profundus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ext.011-d",
+"es": "Pectoral profundo (ascendente) (derecho)",
+"la": "Musculus pectoralis profundus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ext.012-i",
+"es": "Subclavio (izquierdo)",
+"la": "Musculus subclavius",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ext.012-d",
+"es": "Subclavio (derecho)",
+"la": "Musculus subclavius",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.hom.001-i",
+"es": "Supraespinoso (izquierdo)",
+"la": "Musculus supraspinatus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.hom.001-d",
+"es": "Supraespinoso (derecho)",
+"la": "Musculus supraspinatus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.hom.002-i",
+"es": "Infraespinoso (izquierdo)",
+"la": "Musculus infraspinatus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.hom.002-d",
+"es": "Infraespinoso (derecho)",
+"la": "Musculus infraspinatus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.hom.003-i",
+"es": "Deltoides (izquierdo)",
+"la": "Musculus deltoideus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.hom.003-d",
+"es": "Deltoides (derecho)",
+"la": "Musculus deltoideus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.hom.004-i",
+"es": "Redondo menor (izquierdo)",
+"la": "Musculus teres minor",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.hom.004-d",
+"es": "Redondo menor (derecho)",
+"la": "Musculus teres minor",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.hom.005-i",
+"es": "Redondo mayor (izquierdo)",
+"la": "Musculus teres major",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.hom.005-d",
+"es": "Redondo mayor (derecho)",
+"la": "Musculus teres major",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.hom.006-i",
+"es": "Subescapular (izquierdo)",
+"la": "Musculus subscapularis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.hom.006-d",
+"es": "Subescapular (derecho)",
+"la": "Musculus subscapularis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.bra.001-i",
+"es": "Tríceps braquial (izquierdo)",
+"la": "Musculus triceps brachii",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.bra.001-d",
+"es": "Tríceps braquial (derecho)",
+"la": "Musculus triceps brachii",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.bra.002-i",
+"es": "Tensor de la fascia del antebrazo (izquierdo)",
+"la": "Musculus tensor fasciae antebrachii",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.bra.002-d",
+"es": "Tensor de la fascia del antebrazo (derecho)",
+"la": "Musculus tensor fasciae antebrachii",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.bra.003-i",
+"es": "Ancóneo (izquierdo)",
+"la": "Musculus anconeus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.bra.003-d",
+"es": "Ancóneo (derecho)",
+"la": "Musculus anconeus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.bra.004-i",
+"es": "Bíceps braquial (izquierdo)",
+"la": "Musculus biceps brachii",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.bra.004-d",
+"es": "Bíceps braquial (derecho)",
+"la": "Musculus biceps brachii",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.bra.005-i",
+"es": "Braquial (izquierdo)",
+"la": "Musculus brachialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.bra.005-d",
+"es": "Braquial (derecho)",
+"la": "Musculus brachialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.bra.006-i",
+"es": "Coracobraquial (izquierdo)",
+"la": "Musculus coracobrachialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.bra.006-d",
+"es": "Coracobraquial (derecho)",
+"la": "Musculus coracobrachialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ant.001-i",
+"es": "Extensor radial del carpo (izquierdo)",
+"la": "Musculus extensor carpi radialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ant.001-d",
+"es": "Extensor radial del carpo (derecho)",
+"la": "Musculus extensor carpi radialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ant.002-i",
+"es": "Extensor digital común (izquierdo)",
+"la": "Musculus extensor digitorum communis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ant.002-d",
+"es": "Extensor digital común (derecho)",
+"la": "Musculus extensor digitorum communis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ant.003-i",
+"es": "Extensor digital lateral (izquierdo)",
+"la": "Musculus extensor digitorum lateralis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ant.003-d",
+"es": "Extensor digital lateral (derecho)",
+"la": "Musculus extensor digitorum lateralis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ant.004-i",
+"es": "Extensor ulnar del carpo (ulnaris lateralis) (izquierdo)",
+"la": "Musculus extensor carpi ulnaris",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ant.004-d",
+"es": "Extensor ulnar del carpo (ulnaris lateralis) (derecho)",
+"la": "Musculus extensor carpi ulnaris",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ant.005-i",
+"es": "Extensor oblicuo del carpo (izquierdo)",
+"la": "Musculus extensor carpi obliquus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ant.005-d",
+"es": "Extensor oblicuo del carpo (derecho)",
+"la": "Musculus extensor carpi obliquus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ant.006-i",
+"es": "Flexor radial del carpo (izquierdo)",
+"la": "Musculus flexor carpi radialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ant.006-d",
+"es": "Flexor radial del carpo (derecho)",
+"la": "Musculus flexor carpi radialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ant.007-i",
+"es": "Flexor ulnar del carpo (izquierdo)",
+"la": "Musculus flexor carpi ulnaris",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ant.007-d",
+"es": "Flexor ulnar del carpo (derecho)",
+"la": "Musculus flexor carpi ulnaris",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ant.008-i",
+"es": "Flexor digital superficial (izquierdo)",
+"la": "Musculus flexor digitorum superficialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ant.008-d",
+"es": "Flexor digital superficial (derecho)",
+"la": "Musculus flexor digitorum superficialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ant.009-i",
+"es": "Flexor digital profundo (izquierdo)",
+"la": "Musculus flexor digitorum profundus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ant.009-d",
+"es": "Flexor digital profundo (derecho)",
+"la": "Musculus flexor digitorum profundus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.009",
+"es": "Diafragma",
+"la": "Diaphragma",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.abd.007-i",
+"es": "Cremáster (izquierdo)",
+"la": "Musculus cremaster",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.abd.007-d",
+"es": "Cremáster (derecho)",
+"la": "Musculus cremaster",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cad.001-i",
+"es": "Glúteo superficial (izquierdo)",
+"la": "Musculus gluteus superficialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cad.001-d",
+"es": "Glúteo superficial (derecho)",
+"la": "Musculus gluteus superficialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cad.002-i",
+"es": "Glúteo medio (izquierdo)",
+"la": "Musculus gluteus medius",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cad.002-d",
+"es": "Glúteo medio (derecho)",
+"la": "Musculus gluteus medius",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cad.003-i",
+"es": "Glúteo profundo (izquierdo)",
+"la": "Musculus gluteus profundus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cad.003-d",
+"es": "Glúteo profundo (derecho)",
+"la": "Musculus gluteus profundus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cad.004-i",
+"es": "Tensor de la fascia lata (izquierdo)",
+"la": "Musculus tensor fasciae latae",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cad.004-d",
+"es": "Tensor de la fascia lata (derecho)",
+"la": "Musculus tensor fasciae latae",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cad.005-i",
+"es": "Obturador interno (izquierdo)",
+"la": "Musculus obturator internus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cad.005-d",
+"es": "Obturador interno (derecho)",
+"la": "Musculus obturator internus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cad.006-i",
+"es": "Obturador externo (izquierdo)",
+"la": "Musculus obturator externus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cad.006-d",
+"es": "Obturador externo (derecho)",
+"la": "Musculus obturator externus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cad.007-i",
+"es": "Gemelos pélvicos (izquierdo)",
+"la": "Musculi gemelli",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cad.007-d",
+"es": "Gemelos pélvicos (derecho)",
+"la": "Musculi gemelli",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cad.008-i",
+"es": "Cuadrado femoral (izquierdo)",
+"la": "Musculus quadratus femoris",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cad.008-d",
+"es": "Cuadrado femoral (derecho)",
+"la": "Musculus quadratus femoris",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.fem.001-i",
+"es": "Bíceps femoral (izquierdo)",
+"la": "Musculus biceps femoris",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.fem.001-d",
+"es": "Bíceps femoral (derecho)",
+"la": "Musculus biceps femoris",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.fem.002-i",
+"es": "Semitendinoso (izquierdo)",
+"la": "Musculus semitendinosus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.fem.002-d",
+"es": "Semitendinoso (derecho)",
+"la": "Musculus semitendinosus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.fem.003-i",
+"es": "Semimembranoso (izquierdo)",
+"la": "Musculus semimembranosus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.fem.003-d",
+"es": "Semimembranoso (derecho)",
+"la": "Musculus semimembranosus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.fem.004-i",
+"es": "Recto femoral (izquierdo)",
+"la": "Musculus rectus femoris",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.fem.004-d",
+"es": "Recto femoral (derecho)",
+"la": "Musculus rectus femoris",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.fem.005-i",
+"es": "Vasto lateral (izquierdo)",
+"la": "Musculus vastus lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.fem.005-d",
+"es": "Vasto lateral (derecho)",
+"la": "Musculus vastus lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.fem.006-i",
+"es": "Vasto medial (izquierdo)",
+"la": "Musculus vastus medialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.fem.006-d",
+"es": "Vasto medial (derecho)",
+"la": "Musculus vastus medialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.fem.007-i",
+"es": "Vasto intermedio (izquierdo)",
+"la": "Musculus vastus intermedius",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.fem.007-d",
+"es": "Vasto intermedio (derecho)",
+"la": "Musculus vastus intermedius",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.fem.008-i",
+"es": "Sartorio (izquierdo)",
+"la": "Musculus sartorius",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.fem.008-d",
+"es": "Sartorio (derecho)",
+"la": "Musculus sartorius",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.fem.009-i",
+"es": "Grácil (izquierdo)",
+"la": "Musculus gracilis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.fem.009-d",
+"es": "Grácil (derecho)",
+"la": "Musculus gracilis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.fem.010-i",
+"es": "Pectíneo (izquierdo)",
+"la": "Musculus pectineus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.fem.010-d",
+"es": "Pectíneo (derecho)",
+"la": "Musculus pectineus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.fem.011-i",
+"es": "Aductor (izquierdo)",
+"la": "Musculus adductor",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.fem.011-d",
+"es": "Aductor (derecho)",
+"la": "Musculus adductor",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pie.001-i",
+"es": "Gastrocnemio, cabeza lateral (izquierdo)",
+"la": "Musculus gastrocnemius, caput laterale",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.pie.001-d",
+"es": "Gastrocnemio, cabeza lateral (derecho)",
+"la": "Musculus gastrocnemius, caput laterale",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.pie.002-i",
+"es": "Gastrocnemio, cabeza medial (izquierdo)",
+"la": "Musculus gastrocnemius, caput mediale",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.pie.002-d",
+"es": "Gastrocnemio, cabeza medial (derecho)",
+"la": "Musculus gastrocnemius, caput mediale",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.pie.003-i",
+"es": "Sóleo (izquierdo)",
+"la": "Musculus soleus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pie.003-d",
+"es": "Sóleo (derecho)",
+"la": "Musculus soleus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pie.004-i",
+"es": "Flexor digital superficial del miembro pélvico (izquierdo)",
+"la": "Musculus flexor digitorum superficialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.pie.004-d",
+"es": "Flexor digital superficial del miembro pélvico (derecho)",
+"la": "Musculus flexor digitorum superficialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.pie.005-i",
+"es": "Flexor digital lateral (izquierdo)",
+"la": "Musculus flexor digitorum lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pie.005-d",
+"es": "Flexor digital lateral (derecho)",
+"la": "Musculus flexor digitorum lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pie.006-i",
+"es": "Tibial caudal (izquierdo)",
+"la": "Musculus tibialis caudalis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pie.006-d",
+"es": "Tibial caudal (derecho)",
+"la": "Musculus tibialis caudalis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pie.007-i",
+"es": "Poplíteo (izquierdo)",
+"la": "Musculus popliteus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pie.007-d",
+"es": "Poplíteo (derecho)",
+"la": "Musculus popliteus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pie.008-i",
+"es": "Tibial craneal (izquierdo)",
+"la": "Musculus tibialis cranialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pie.008-d",
+"es": "Tibial craneal (derecho)",
+"la": "Musculus tibialis cranialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pie.009-i",
+"es": "Fibular tercero (izquierdo)",
+"la": "Musculus fibularis tertius",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pie.009-d",
+"es": "Fibular tercero (derecho)",
+"la": "Musculus fibularis tertius",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pie.010-i",
+"es": "Extensor digital largo (izquierdo)",
+"la": "Musculus extensor digitorum longus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.pie.010-d",
+"es": "Extensor digital largo (derecho)",
+"la": "Musculus extensor digitorum longus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.pie.011-i",
+"es": "Extensor digital lateral (izquierdo)",
+"la": "Musculus extensor digitorum lateralis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.pie.011-d",
+"es": "Extensor digital lateral (derecho)",
+"la": "Musculus extensor digitorum lateralis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.tor.010-i",
+"es": "Cutáneo omobraquial (izquierdo)",
+"la": "Musculus cutaneus omobrachialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.tor.010-d",
+"es": "Cutáneo omobraquial (derecho)",
+"la": "Musculus cutaneus omobrachialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.tor.011-i",
+"es": "Fascia toracolumbar (izquierda)",
+"la": "Fascia thoracolumbalis",
+"sys": "mus",
+"layer": "fas"
+},
+{
+"id": "equ.mus.tor.011-d",
+"es": "Fascia toracolumbar (derecha)",
+"la": "Fascia thoracolumbalis",
+"sys": "mus",
+"layer": "fas"
+},
+{
+"id": "equ.mus.abd.008",
+"es": "Línea alba",
+"la": "Linea alba",
+"sys": "mus",
+"layer": "fas"
+}
+]
+}
