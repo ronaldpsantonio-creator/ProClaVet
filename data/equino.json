@@ -2559,14 +2559,14 @@
 },
 {
 "id": "equ.mus.cab.015-i",
-"es": "Cigomático (izquierdo)",
+"es": "Músculo cigomático (izquierdo)",
 "la": "Musculus zygomaticus",
 "sys": "mus",
 "layer": "msu"
 },
 {
 "id": "equ.mus.cab.015-d",
-"es": "Cigomático (derecho)",
+"es": "Músculo cigomático (derecho)",
 "la": "Musculus zygomaticus",
 "sys": "mus",
 "layer": "msu"
@@ -2615,14 +2615,14 @@
 },
 {
 "id": "equ.mus.cab.019-i",
-"es": "Temporal (izquierdo)",
+"es": "Músculo temporal (izquierdo)",
 "la": "Musculus temporalis",
 "sys": "mus",
 "layer": "mpr"
 },
 {
 "id": "equ.mus.cab.019-d",
-"es": "Temporal (derecho)",
+"es": "Músculo temporal (derecho)",
 "la": "Musculus temporalis",
 "sys": "mus",
 "layer": "mpr"
@@ -4234,14 +4234,14 @@
 },
 {
 "id": "equ.mus.pie.011-i",
-"es": "Extensor digital lateral (izquierdo)",
+"es": "Extensor digital lateral del miembro pélvico (izquierdo)",
 "la": "Musculus extensor digitorum lateralis",
 "sys": "mus",
 "layer": "msu"
 },
 {
 "id": "equ.mus.pie.011-d",
-"es": "Extensor digital lateral (derecho)",
+"es": "Extensor digital lateral del miembro pélvico (derecho)",
 "la": "Musculus extensor digitorum lateralis",
 "sys": "mus",
 "layer": "msu"
@@ -4534,14 +4534,14 @@
 },
 {
 "id": "equ.mus.pal.003-i",
-"es": "Palatino (izquierdo)",
+"es": "Músculo palatino (izquierdo)",
 "la": "Musculus palatinus",
 "sys": "mus",
 "layer": "mpr"
 },
 {
 "id": "equ.mus.pal.003-d",
-"es": "Palatino (derecho)",
+"es": "Músculo palatino (derecho)",
 "la": "Musculus palatinus",
 "sys": "mus",
 "layer": "mpr"
