@@ -3969,14 +3969,16 @@
 "es": "Cremáster (izquierdo)",
 "la": "Musculus cremaster",
 "sys": "mus",
-"layer": "mpr"
+"layer": "mpr",
+"sex": "m"
 },
 {
 "id": "equ.mus.abd.007-d",
 "es": "Cremáster (derecho)",
 "la": "Musculus cremaster",
 "sys": "mus",
-"layer": "mpr"
+"layer": "mpr",
+"sex": "m"
 },
 {
 "id": "equ.mus.cad.001-i",
@@ -4432,6 +4434,75 @@
 "la": "Linea alba",
 "sys": "mus",
 "layer": "fas"
+},
+{
+"id": "equ.mus.per.001-i",
+"es": "Elevador del ano (izquierdo)",
+"la": "Musculus levator ani",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.per.001-d",
+"es": "Elevador del ano (derecho)",
+"la": "Musculus levator ani",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.per.002",
+"es": "Esfínter anal externo",
+"la": "Musculus sphincter ani externus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.per.003-i",
+"es": "Isquiocavernoso (izquierdo)",
+"la": "Musculus ischiocavernosus",
+"sys": "mus",
+"layer": "mpr",
+"sex": "m"
+},
+{
+"id": "equ.mus.per.003-d",
+"es": "Isquiocavernoso (derecho)",
+"la": "Musculus ischiocavernosus",
+"sys": "mus",
+"layer": "mpr",
+"sex": "m"
+},
+{
+"id": "equ.mus.per.004",
+"es": "Bulboesponjoso",
+"la": "Musculus bulbospongiosus",
+"sys": "mus",
+"layer": "mpr",
+"sex": "m"
+},
+{
+"id": "equ.mus.per.005-i",
+"es": "Retractor del pene (izquierdo)",
+"la": "Musculus retractor penis",
+"sys": "mus",
+"layer": "mpr",
+"sex": "m"
+},
+{
+"id": "equ.mus.per.005-d",
+"es": "Retractor del pene (derecho)",
+"la": "Musculus retractor penis",
+"sys": "mus",
+"layer": "mpr",
+"sex": "m"
+},
+{
+"id": "equ.mus.per.006",
+"es": "Constrictor de la vulva",
+"la": "Musculus constrictor vulvae",
+"sys": "mus",
+"layer": "msu",
+"sex": "f"
 }
 ]
 }
