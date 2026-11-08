@@ -6778,6 +6778,181 @@
 "la": "Dens molaris tertius, mandibularis",
 "sys": "dig",
 "layer": "org"
+},
+{
+"id": "equ.dig.eso.004",
+"es": "Hiato esofágico del diafragma",
+"la": "Hiatus oesophageus",
+"sys": "dig",
+"layer": "org"
+},
+{
+"id": "equ.dig.per.001",
+"es": "Mesenterio (mesenterio común)",
+"la": "Mesenterium",
+"sys": "dig",
+"layer": "org"
+},
+{
+"id": "equ.dig.per.002",
+"es": "Raíz del mesenterio",
+"la": "Radix mesenterii",
+"sys": "dig",
+"layer": "org"
+},
+{
+"id": "equ.dig.per.003",
+"es": "Mesoduodeno",
+"la": "Mesoduodenum",
+"sys": "dig",
+"layer": "org"
+},
+{
+"id": "equ.dig.per.004",
+"es": "Mesoyeyuno",
+"la": "Mesojejunum",
+"sys": "dig",
+"layer": "org"
+},
+{
+"id": "equ.dig.per.005",
+"es": "Mesoíleon",
+"la": "Mesoileum",
+"sys": "dig",
+"layer": "org"
+},
+{
+"id": "equ.dig.per.006",
+"es": "Mesocolon ascendente",
+"la": "Mesocolon ascendens",
+"sys": "dig",
+"layer": "org"
+},
+{
+"id": "equ.dig.per.007",
+"es": "Mesocolon descendente",
+"la": "Mesocolon descendens",
+"sys": "dig",
+"layer": "org"
+},
+{
+"id": "equ.dig.per.008",
+"es": "Omento mayor",
+"la": "Omentum majus",
+"sys": "dig",
+"layer": "org"
+},
+{
+"id": "equ.dig.per.009",
+"es": "Omento menor",
+"la": "Omentum minus",
+"sys": "dig",
+"layer": "org"
+},
+{
+"id": "equ.dig.per.010",
+"es": "Bolsa omental",
+"la": "Bursa omentalis",
+"sys": "dig",
+"layer": "org"
+},
+{
+"id": "equ.dig.per.011",
+"es": "Foramen epiploico",
+"la": "Foramen epiploicum",
+"sys": "dig",
+"layer": "org"
+},
+{
+"id": "equ.dig.per.012",
+"es": "Ligamento gastrofrénico",
+"la": "Ligamentum gastrophrenicum",
+"sys": "dig",
+"layer": "org"
+},
+{
+"id": "equ.dig.per.013",
+"es": "Ligamento gastroesplénico",
+"la": "Ligamentum gastrosplenicum",
+"sys": "dig",
+"layer": "org"
+},
+{
+"id": "equ.dig.per.014",
+"es": "Ligamento hepatogástrico",
+"la": "Ligamentum hepatogastricum",
+"sys": "dig",
+"layer": "org"
+},
+{
+"id": "equ.dig.per.015",
+"es": "Ligamento hepatoduodenal",
+"la": "Ligamentum hepatoduodenale",
+"sys": "dig",
+"layer": "org"
+},
+{
+"id": "equ.dig.per.016",
+"es": "Ligamento falciforme del hígado",
+"la": "Ligamentum falciforme hepatis",
+"sys": "dig",
+"layer": "org"
+},
+{
+"id": "equ.dig.per.017",
+"es": "Ligamento redondo del hígado",
+"la": "Ligamentum teres hepatis",
+"sys": "dig",
+"layer": "org"
+},
+{
+"id": "equ.dig.per.018",
+"es": "Ligamento coronario del hígado",
+"la": "Ligamentum coronarium hepatis",
+"sys": "dig",
+"layer": "org"
+},
+{
+"id": "equ.dig.per.019",
+"es": "Ligamento triangular izquierdo del hígado",
+"la": "Ligamentum triangulare sinistrum",
+"sys": "dig",
+"layer": "org"
+},
+{
+"id": "equ.dig.per.020",
+"es": "Ligamento triangular derecho del hígado",
+"la": "Ligamentum triangulare dextrum",
+"sys": "dig",
+"layer": "org"
+},
+{
+"id": "equ.dig.per.021",
+"es": "Ligamento hepatorrenal",
+"la": "Ligamentum hepatorenale",
+"sys": "dig",
+"layer": "org"
+},
+{
+"id": "equ.dig.per.022",
+"es": "Pliegue ileocecal (ligamento ileocecal)",
+"la": "Plica ileocaecalis (Ligamentum ileocaecale)",
+"sys": "dig",
+"layer": "org"
+},
+{
+"id": "equ.dig.per.023",
+"es": "Pliegue cecocólico (ligamento cecocólico)",
+"la": "Plica caecocolica (Ligamentum caecocolicum)",
+"sys": "dig",
+"layer": "org"
+},
+{
+"id": "equ.dig.per.024",
+"es": "Ligamento nefroesplénico",
+"la": "Ligamentum nephrolienale",
+"sys": "dig",
+"layer": "org"
 }
 ]
 }
