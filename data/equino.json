@@ -2360,6 +2360,678 @@
 "la": "Ligamentum annulare plantare",
 "sys": "ske",
 "layer": "art"
+},
+{
+"id": "equ.mus.cab.001-i",
+"es": "Cutáneo de la cara (izquierdo)",
+"la": "Musculus cutaneus faciei",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.001-d",
+"es": "Cutáneo de la cara (derecho)",
+"la": "Musculus cutaneus faciei",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.002-i",
+"es": "Orbicular del ojo (izquierdo)",
+"la": "Musculus orbicularis oculi",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.002-d",
+"es": "Orbicular del ojo (derecho)",
+"la": "Musculus orbicularis oculi",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.003-i",
+"es": "Elevador del párpado superior (izquierdo)",
+"la": "Musculus levator palpebrae superioris",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.003-d",
+"es": "Elevador del párpado superior (derecho)",
+"la": "Musculus levator palpebrae superioris",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.004-i",
+"es": "Recto dorsal del bulbo (izquierdo)",
+"la": "Musculus rectus bulbi dorsalis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.004-d",
+"es": "Recto dorsal del bulbo (derecho)",
+"la": "Musculus rectus bulbi dorsalis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.005-i",
+"es": "Recto ventral del bulbo (izquierdo)",
+"la": "Musculus rectus bulbi ventralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.005-d",
+"es": "Recto ventral del bulbo (derecho)",
+"la": "Musculus rectus bulbi ventralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.006-i",
+"es": "Recto medial del bulbo (izquierdo)",
+"la": "Musculus rectus bulbi medialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.006-d",
+"es": "Recto medial del bulbo (derecho)",
+"la": "Musculus rectus bulbi medialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.007-i",
+"es": "Recto lateral del bulbo (izquierdo)",
+"la": "Musculus rectus bulbi lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.007-d",
+"es": "Recto lateral del bulbo (derecho)",
+"la": "Musculus rectus bulbi lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.008-i",
+"es": "Oblicuo dorsal del bulbo (izquierdo)",
+"la": "Musculus obliquus bulbi dorsalis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.008-d",
+"es": "Oblicuo dorsal del bulbo (derecho)",
+"la": "Musculus obliquus bulbi dorsalis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.009-i",
+"es": "Oblicuo ventral del bulbo (izquierdo)",
+"la": "Musculus obliquus bulbi ventralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.009-d",
+"es": "Oblicuo ventral del bulbo (derecho)",
+"la": "Musculus obliquus bulbi ventralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.010-i",
+"es": "Retractor del bulbo (izquierdo)",
+"la": "Musculus retractor bulbi",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.010-d",
+"es": "Retractor del bulbo (derecho)",
+"la": "Musculus retractor bulbi",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.011-i",
+"es": "Elevador nasolabial (izquierdo)",
+"la": "Musculus levator nasolabialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.011-d",
+"es": "Elevador nasolabial (derecho)",
+"la": "Musculus levator nasolabialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.012-i",
+"es": "Elevador del labio superior (izquierdo)",
+"la": "Musculus levator labii superioris",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.012-d",
+"es": "Elevador del labio superior (derecho)",
+"la": "Musculus levator labii superioris",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.013-i",
+"es": "Orbicular de la boca (izquierdo)",
+"la": "Musculus orbicularis oris",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.013-d",
+"es": "Orbicular de la boca (derecho)",
+"la": "Musculus orbicularis oris",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.014-i",
+"es": "Buccinador (izquierdo)",
+"la": "Musculus buccinator",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.014-d",
+"es": "Buccinador (derecho)",
+"la": "Musculus buccinator",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.015-i",
+"es": "Cigomático (izquierdo)",
+"la": "Musculus zygomaticus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.015-d",
+"es": "Cigomático (derecho)",
+"la": "Musculus zygomaticus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.016-i",
+"es": "Depresor del labio inferior (izquierdo)",
+"la": "Musculus depressor labii inferioris",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.016-d",
+"es": "Depresor del labio inferior (derecho)",
+"la": "Musculus depressor labii inferioris",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.017-i",
+"es": "Mentoniano (izquierdo)",
+"la": "Musculus mentalis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.017-d",
+"es": "Mentoniano (derecho)",
+"la": "Musculus mentalis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.018-i",
+"es": "Masetero (izquierdo)",
+"la": "Musculus masseter",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.018-d",
+"es": "Masetero (derecho)",
+"la": "Musculus masseter",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.019-i",
+"es": "Temporal (izquierdo)",
+"la": "Musculus temporalis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.019-d",
+"es": "Temporal (derecho)",
+"la": "Musculus temporalis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.020-i",
+"es": "Pterigoideo medial (izquierdo)",
+"la": "Musculus pterygoideus medialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.020-d",
+"es": "Pterigoideo medial (derecho)",
+"la": "Musculus pterygoideus medialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.021-i",
+"es": "Pterigoideo lateral (izquierdo)",
+"la": "Musculus pterygoideus lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.021-d",
+"es": "Pterigoideo lateral (derecho)",
+"la": "Musculus pterygoideus lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.022-i",
+"es": "Digástrico (izquierdo)",
+"la": "Musculus digastricus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.022-d",
+"es": "Digástrico (derecho)",
+"la": "Musculus digastricus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.023-i",
+"es": "Milohioideo (izquierdo)",
+"la": "Musculus mylohyoideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.023-d",
+"es": "Milohioideo (derecho)",
+"la": "Musculus mylohyoideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.024-i",
+"es": "Geniohioideo (izquierdo)",
+"la": "Musculus geniohyoideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.024-d",
+"es": "Geniohioideo (derecho)",
+"la": "Musculus geniohyoideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.025-i",
+"es": "Estilohioideo (izquierdo)",
+"la": "Musculus stylohyoideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.025-d",
+"es": "Estilohioideo (derecho)",
+"la": "Musculus stylohyoideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.026-i",
+"es": "Músculos auriculares (izquierdo)",
+"la": "Musculi auriculares",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.026-d",
+"es": "Músculos auriculares (derecho)",
+"la": "Musculi auriculares",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cue.001-i",
+"es": "Cutáneo del cuello (izquierdo)",
+"la": "Musculus cutaneus colli",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cue.001-d",
+"es": "Cutáneo del cuello (derecho)",
+"la": "Musculus cutaneus colli",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cue.002-i",
+"es": "Braquiocefálico (izquierdo)",
+"la": "Musculus brachiocephalicus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cue.002-d",
+"es": "Braquiocefálico (derecho)",
+"la": "Musculus brachiocephalicus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cue.003-i",
+"es": "Esternocefálico (izquierdo)",
+"la": "Musculus sternocephalicus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cue.003-d",
+"es": "Esternocefálico (derecho)",
+"la": "Musculus sternocephalicus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cue.004-i",
+"es": "Omohioideo (izquierdo)",
+"la": "Musculus omohyoideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.004-d",
+"es": "Omohioideo (derecho)",
+"la": "Musculus omohyoideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.005-i",
+"es": "Esternohioideo (izquierdo)",
+"la": "Musculus sternohyoideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.005-d",
+"es": "Esternohioideo (derecho)",
+"la": "Musculus sternohyoideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.006-i",
+"es": "Esternotiroideo (izquierdo)",
+"la": "Musculus sternothyroideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.006-d",
+"es": "Esternotiroideo (derecho)",
+"la": "Musculus sternothyroideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.007-i",
+"es": "Esplenio (izquierdo)",
+"la": "Musculus splenius",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cue.007-d",
+"es": "Esplenio (derecho)",
+"la": "Musculus splenius",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cue.008-i",
+"es": "Semiespinoso de la cabeza (izquierdo)",
+"la": "Musculus semispinalis capitis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.008-d",
+"es": "Semiespinoso de la cabeza (derecho)",
+"la": "Musculus semispinalis capitis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.009-i",
+"es": "Longuísimo de la cabeza (izquierdo)",
+"la": "Musculus longissimus capitis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.009-d",
+"es": "Longuísimo de la cabeza (derecho)",
+"la": "Musculus longissimus capitis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.010-i",
+"es": "Longuísimo del atlas (izquierdo)",
+"la": "Musculus longissimus atlantis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.010-d",
+"es": "Longuísimo del atlas (derecho)",
+"la": "Musculus longissimus atlantis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.011-i",
+"es": "Longuísimo del cuello (izquierdo)",
+"la": "Musculus longissimus cervicis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.011-d",
+"es": "Longuísimo del cuello (derecho)",
+"la": "Musculus longissimus cervicis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.012-i",
+"es": "Largo de la cabeza (izquierdo)",
+"la": "Musculus longus capitis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.012-d",
+"es": "Largo de la cabeza (derecho)",
+"la": "Musculus longus capitis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.013-i",
+"es": "Largo del cuello (izquierdo)",
+"la": "Musculus longus colli",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.013-d",
+"es": "Largo del cuello (derecho)",
+"la": "Musculus longus colli",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.014-i",
+"es": "Recto dorsal mayor de la cabeza (izquierdo)",
+"la": "Musculus rectus capitis dorsalis major",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.014-d",
+"es": "Recto dorsal mayor de la cabeza (derecho)",
+"la": "Musculus rectus capitis dorsalis major",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.015-i",
+"es": "Recto dorsal menor de la cabeza (izquierdo)",
+"la": "Musculus rectus capitis dorsalis minor",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.015-d",
+"es": "Recto dorsal menor de la cabeza (derecho)",
+"la": "Musculus rectus capitis dorsalis minor",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.016-i",
+"es": "Recto ventral de la cabeza (izquierdo)",
+"la": "Musculus rectus capitis ventralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.016-d",
+"es": "Recto ventral de la cabeza (derecho)",
+"la": "Musculus rectus capitis ventralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.017-i",
+"es": "Recto lateral de la cabeza (izquierdo)",
+"la": "Musculus rectus capitis lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.017-d",
+"es": "Recto lateral de la cabeza (derecho)",
+"la": "Musculus rectus capitis lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.018-i",
+"es": "Oblicuo craneal de la cabeza (izquierdo)",
+"la": "Musculus obliquus capitis cranialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.018-d",
+"es": "Oblicuo craneal de la cabeza (derecho)",
+"la": "Musculus obliquus capitis cranialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.019-i",
+"es": "Oblicuo caudal de la cabeza (izquierdo)",
+"la": "Musculus obliquus capitis caudalis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.019-d",
+"es": "Oblicuo caudal de la cabeza (derecho)",
+"la": "Musculus obliquus capitis caudalis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.020-i",
+"es": "Escaleno (izquierdo)",
+"la": "Musculus scalenus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.020-d",
+"es": "Escaleno (derecho)",
+"la": "Musculus scalenus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.021-i",
+"es": "Multífido del cuello (izquierdo)",
+"la": "Musculus multifidus cervicis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.021-d",
+"es": "Multífido del cuello (derecho)",
+"la": "Musculus multifidus cervicis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.022-i",
+"es": "Intertransversos del cuello (izquierdo)",
+"la": "Musculi intertransversarii cervicis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.022-d",
+"es": "Intertransversos del cuello (derecho)",
+"la": "Musculi intertransversarii cervicis",
+"sys": "mus",
+"layer": "mpr"
 }
 ]
 }
