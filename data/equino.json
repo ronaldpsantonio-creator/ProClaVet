@@ -3636,20 +3636,6 @@
 "layer": "mpr"
 },
 {
-"id": "equ.mus.bra.001-i",
-"es": "Tríceps braquial (izquierdo)",
-"la": "Musculus triceps brachii",
-"sys": "mus",
-"layer": "msu"
-},
-{
-"id": "equ.mus.bra.001-d",
-"es": "Tríceps braquial (derecho)",
-"la": "Musculus triceps brachii",
-"sys": "mus",
-"layer": "msu"
-},
-{
 "id": "equ.mus.bra.002-i",
 "es": "Tensor de la fascia del antebrazo (izquierdo)",
 "la": "Musculus tensor fasciae antebrachii",
@@ -3832,20 +3818,6 @@
 "layer": "msu"
 },
 {
-"id": "equ.mus.ant.009-i",
-"es": "Flexor digital profundo (izquierdo)",
-"la": "Musculus flexor digitorum profundus",
-"sys": "mus",
-"layer": "mpr"
-},
-{
-"id": "equ.mus.ant.009-d",
-"es": "Flexor digital profundo (derecho)",
-"la": "Musculus flexor digitorum profundus",
-"sys": "mus",
-"layer": "mpr"
-},
-{
 "id": "equ.mus.tor.009",
 "es": "Diafragma",
 "la": "Diaphragma",
@@ -3979,20 +3951,6 @@
 "la": "Musculus quadratus femoris",
 "sys": "mus",
 "layer": "mpr"
-},
-{
-"id": "equ.mus.fem.001-i",
-"es": "Bíceps femoral (izquierdo)",
-"la": "Musculus biceps femoris",
-"sys": "mus",
-"layer": "msu"
-},
-{
-"id": "equ.mus.fem.001-d",
-"es": "Bíceps femoral (derecho)",
-"la": "Musculus biceps femoris",
-"sys": "mus",
-"layer": "msu"
 },
 {
 "id": "equ.mus.fem.002-i",
@@ -4883,20 +4841,6 @@
 "layer": "msu"
 },
 {
-"id": "equ.mus.man.001-i",
-"es": "Lumbricales de la mano (izquierdo)",
-"la": "Musculi lumbricales",
-"sys": "mus",
-"layer": "mpr"
-},
-{
-"id": "equ.mus.man.001-d",
-"es": "Lumbricales de la mano (derecho)",
-"la": "Musculi lumbricales",
-"sys": "mus",
-"layer": "mpr"
-},
-{
 "id": "equ.mus.man.002-i",
 "es": "Interóseo medial de la mano (vestigial, variable) (izquierdo)",
 "la": "Musculus interosseus medialis",
@@ -5779,34 +5723,6 @@
 "layer": "mpr"
 },
 {
-"id": "equ.mus.dor.018-i",
-"es": "Intertransverso lumbar, espacio L4-L5 (izquierdo)",
-"la": "Musculus intertransversarius lumborum, spatium L4-L5",
-"sys": "mus",
-"layer": "mpr"
-},
-{
-"id": "equ.mus.dor.018-d",
-"es": "Intertransverso lumbar, espacio L4-L5 (derecho)",
-"la": "Musculus intertransversarius lumborum, spatium L4-L5",
-"sys": "mus",
-"layer": "mpr"
-},
-{
-"id": "equ.mus.dor.019-i",
-"es": "Intertransverso lumbar, espacio L5-L6 (izquierdo)",
-"la": "Musculus intertransversarius lumborum, spatium L5-L6",
-"sys": "mus",
-"layer": "mpr"
-},
-{
-"id": "equ.mus.dor.019-d",
-"es": "Intertransverso lumbar, espacio L5-L6 (derecho)",
-"la": "Musculus intertransversarius lumborum, spatium L5-L6",
-"sys": "mus",
-"layer": "mpr"
-},
-{
 "id": "equ.mus.cue.024-i",
 "es": "Interespinoso cervical (izquierdo)",
 "la": "Musculus interspinalis cervicis",
@@ -5861,6 +5777,279 @@
 "la": "Musculus intertransversarius ventralis cervicis",
 "sys": "mus",
 "layer": "mpr"
+},
+{
+"id": "equ.mus.bra.007-i",
+"es": "Tríceps braquial, cabeza larga (izquierdo)",
+"la": "Musculus triceps brachii, caput longum",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.bra.007-d",
+"es": "Tríceps braquial, cabeza larga (derecho)",
+"la": "Musculus triceps brachii, caput longum",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.bra.008-i",
+"es": "Tríceps braquial, cabeza lateral (izquierdo)",
+"la": "Musculus triceps brachii, caput laterale",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.bra.008-d",
+"es": "Tríceps braquial, cabeza lateral (derecho)",
+"la": "Musculus triceps brachii, caput laterale",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.bra.009-i",
+"es": "Tríceps braquial, cabeza medial (izquierdo)",
+"la": "Musculus triceps brachii, caput mediale",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.bra.009-d",
+"es": "Tríceps braquial, cabeza medial (derecho)",
+"la": "Musculus triceps brachii, caput mediale",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.fem.012-i",
+"es": "Bíceps femoral, cabeza vertebral (izquierdo)",
+"la": "Musculus biceps femoris, caput vertebrale",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.fem.012-d",
+"es": "Bíceps femoral, cabeza vertebral (derecho)",
+"la": "Musculus biceps femoris, caput vertebrale",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.fem.013-i",
+"es": "Bíceps femoral, cabeza pélvica (izquierdo)",
+"la": "Musculus biceps femoris, caput pelvinum",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.fem.013-d",
+"es": "Bíceps femoral, cabeza pélvica (derecho)",
+"la": "Musculus biceps femoris, caput pelvinum",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ant.010-i",
+"es": "Flexor digital profundo, cabeza humeral (izquierdo)",
+"la": "Musculus flexor digitorum profundus, caput humerale",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ant.010-d",
+"es": "Flexor digital profundo, cabeza humeral (derecho)",
+"la": "Musculus flexor digitorum profundus, caput humerale",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ant.011-i",
+"es": "Flexor digital profundo, cabeza ulnar (izquierdo)",
+"la": "Musculus flexor digitorum profundus, caput ulnare",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ant.011-d",
+"es": "Flexor digital profundo, cabeza ulnar (derecho)",
+"la": "Musculus flexor digitorum profundus, caput ulnare",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ant.012-i",
+"es": "Flexor digital profundo, cabeza radial (izquierdo)",
+"la": "Musculus flexor digitorum profundus, caput radiale",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ant.012-d",
+"es": "Flexor digital profundo, cabeza radial (derecho)",
+"la": "Musculus flexor digitorum profundus, caput radiale",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.man.004-i",
+"es": "Lumbrical medial de la mano (izquierdo)",
+"la": "Musculus lumbricalis medialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.man.004-d",
+"es": "Lumbrical medial de la mano (derecho)",
+"la": "Musculus lumbricalis medialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.man.005-i",
+"es": "Lumbrical lateral de la mano (izquierdo)",
+"la": "Musculus lumbricalis lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.man.005-d",
+"es": "Lumbrical lateral de la mano (derecho)",
+"la": "Musculus lumbricalis lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pes.002-i",
+"es": "Lumbrical medial del pie (izquierdo)",
+"la": "Musculus lumbricalis medialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pes.002-d",
+"es": "Lumbrical medial del pie (derecho)",
+"la": "Musculus lumbricalis medialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pes.003-i",
+"es": "Lumbrical lateral del pie (izquierdo)",
+"la": "Musculus lumbricalis lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pes.003-d",
+"es": "Lumbrical lateral del pie (derecho)",
+"la": "Musculus lumbricalis lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pes.004-i",
+"es": "Interóseo medial del pie (vestigial) (izquierdo)",
+"la": "Musculus interosseus medialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pes.004-d",
+"es": "Interóseo medial del pie (vestigial) (derecho)",
+"la": "Musculus interosseus medialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pes.005-i",
+"es": "Interóseo lateral del pie (vestigial) (izquierdo)",
+"la": "Musculus interosseus lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pes.005-d",
+"es": "Interóseo lateral del pie (vestigial) (derecho)",
+"la": "Musculus interosseus lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cad.010-i",
+"es": "Piriforme (izquierdo)",
+"la": "Musculus piriformis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cad.010-d",
+"es": "Piriforme (derecho)",
+"la": "Musculus piriformis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.045-i",
+"es": "Ceratohioideo (izquierdo)",
+"la": "Musculus ceratohyoideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.045-d",
+"es": "Ceratohioideo (derecho)",
+"la": "Musculus ceratohyoideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.046-i",
+"es": "Occipitohioideo (izquierdo)",
+"la": "Musculus occipitohyoideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.046-d",
+"es": "Occipitohioideo (derecho)",
+"la": "Musculus occipitohyoideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.047",
+"es": "Hioideo transverso",
+"la": "Musculus hyoideus transversus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.048-i",
+"es": "Depresor del labio superior (izquierdo)",
+"la": "Musculus depressor labii superioris",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.048-d",
+"es": "Depresor del labio superior (derecho)",
+"la": "Musculus depressor labii superioris",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.049-i",
+"es": "Transverso de la nariz (izquierdo)",
+"la": "Musculus transversus nasi",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.049-d",
+"es": "Transverso de la nariz (derecho)",
+"la": "Musculus transversus nasi",
+"sys": "mus",
+"layer": "msu"
 }
 ]
 }
