@@ -4503,6 +4503,335 @@
 "sys": "mus",
 "layer": "msu",
 "sex": "f"
+},
+{
+"id": "equ.mus.cab.027-i",
+"es": "Elevador medial del ángulo del ojo (izquierdo)",
+"la": "Musculus levator anguli oculi medialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.027-d",
+"es": "Elevador medial del ángulo del ojo (derecho)",
+"la": "Musculus levator anguli oculi medialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.028-i",
+"es": "Malar (izquierdo)",
+"la": "Musculus malaris",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.028-d",
+"es": "Malar (derecho)",
+"la": "Musculus malaris",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.029-i",
+"es": "Dilatador apical de la nariz (izquierdo)",
+"la": "Musculus dilatator naris apicalis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.029-d",
+"es": "Dilatador apical de la nariz (derecho)",
+"la": "Musculus dilatator naris apicalis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.030-i",
+"es": "Dilatador lateral de la nariz (izquierdo)",
+"la": "Musculus dilatator naris lateralis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.030-d",
+"es": "Dilatador lateral de la nariz (derecho)",
+"la": "Musculus dilatator naris lateralis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.031-i",
+"es": "Tensor del tímpano (izquierdo)",
+"la": "Musculus tensor tympani",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.031-d",
+"es": "Tensor del tímpano (derecho)",
+"la": "Musculus tensor tympani",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.032-i",
+"es": "Estapedio (izquierdo)",
+"la": "Musculus stapedius",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.032-d",
+"es": "Estapedio (derecho)",
+"la": "Musculus stapedius",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.023-i",
+"es": "Tirohioideo (izquierdo)",
+"la": "Musculus thyrohyoideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cue.023-d",
+"es": "Tirohioideo (derecho)",
+"la": "Musculus thyrohyoideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.len.001-i",
+"es": "Geniogloso (izquierdo)",
+"la": "Musculus genioglossus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.len.001-d",
+"es": "Geniogloso (derecho)",
+"la": "Musculus genioglossus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.len.002-i",
+"es": "Hiogloso (izquierdo)",
+"la": "Musculus hyoglossus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.len.002-d",
+"es": "Hiogloso (derecho)",
+"la": "Musculus hyoglossus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.len.003-i",
+"es": "Estilogloso (izquierdo)",
+"la": "Musculus styloglossus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.len.003-d",
+"es": "Estilogloso (derecho)",
+"la": "Musculus styloglossus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.len.004-i",
+"es": "Lingual propio (izquierdo)",
+"la": "Musculus lingualis proprius",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.len.004-d",
+"es": "Lingual propio (derecho)",
+"la": "Musculus lingualis proprius",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pal.001-i",
+"es": "Tensor del velo del paladar (izquierdo)",
+"la": "Musculus tensor veli palatini",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pal.001-d",
+"es": "Tensor del velo del paladar (derecho)",
+"la": "Musculus tensor veli palatini",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pal.002-i",
+"es": "Elevador del velo del paladar (izquierdo)",
+"la": "Musculus levator veli palatini",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pal.002-d",
+"es": "Elevador del velo del paladar (derecho)",
+"la": "Musculus levator veli palatini",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pal.003-i",
+"es": "Palatino (izquierdo)",
+"la": "Musculus palatinus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pal.003-d",
+"es": "Palatino (derecho)",
+"la": "Musculus palatinus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pal.004-i",
+"es": "Palatofaríngeo (izquierdo)",
+"la": "Musculus palatopharyngeus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.pal.004-d",
+"es": "Palatofaríngeo (derecho)",
+"la": "Musculus palatopharyngeus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.far.001-i",
+"es": "Constrictor rostral de la faringe (izquierdo)",
+"la": "Musculus constrictor pharyngis rostralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.far.001-d",
+"es": "Constrictor rostral de la faringe (derecho)",
+"la": "Musculus constrictor pharyngis rostralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.far.002-i",
+"es": "Constrictor medio de la faringe (izquierdo)",
+"la": "Musculus constrictor pharyngis medius",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.far.002-d",
+"es": "Constrictor medio de la faringe (derecho)",
+"la": "Musculus constrictor pharyngis medius",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.far.003-i",
+"es": "Constrictor caudal de la faringe (izquierdo)",
+"la": "Musculus constrictor pharyngis caudalis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.far.003-d",
+"es": "Constrictor caudal de la faringe (derecho)",
+"la": "Musculus constrictor pharyngis caudalis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.far.004-i",
+"es": "Estilofaríngeo caudal (izquierdo)",
+"la": "Musculus stylopharyngeus caudalis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.far.004-d",
+"es": "Estilofaríngeo caudal (derecho)",
+"la": "Musculus stylopharyngeus caudalis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.lar.001-i",
+"es": "Cricotiroideo (izquierdo)",
+"la": "Musculus cricothyroideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.lar.001-d",
+"es": "Cricotiroideo (derecho)",
+"la": "Musculus cricothyroideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.lar.002-i",
+"es": "Cricoaritenoideo dorsal (izquierdo)",
+"la": "Musculus cricoarytenoideus dorsalis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.lar.002-d",
+"es": "Cricoaritenoideo dorsal (derecho)",
+"la": "Musculus cricoarytenoideus dorsalis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.lar.003-i",
+"es": "Cricoaritenoideo lateral (izquierdo)",
+"la": "Musculus cricoarytenoideus lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.lar.003-d",
+"es": "Cricoaritenoideo lateral (derecho)",
+"la": "Musculus cricoarytenoideus lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.lar.004-i",
+"es": "Tiroaritenoideo (izquierdo)",
+"la": "Musculus thyroarytenoideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.lar.004-d",
+"es": "Tiroaritenoideo (derecho)",
+"la": "Musculus thyroarytenoideus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.lar.005",
+"es": "Aritenoideo transverso",
+"la": "Musculus arytenoideus transversus",
+"sys": "mus",
+"layer": "mpr"
 }
 ]
 }
