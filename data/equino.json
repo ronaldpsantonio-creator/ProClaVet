@@ -2712,20 +2712,6 @@
 "layer": "mpr"
 },
 {
-"id": "equ.mus.cab.026-i",
-"es": "Músculos auriculares (izquierdo)",
-"la": "Musculi auriculares",
-"sys": "mus",
-"layer": "msu"
-},
-{
-"id": "equ.mus.cab.026-d",
-"es": "Músculos auriculares (derecho)",
-"la": "Musculi auriculares",
-"sys": "mus",
-"layer": "msu"
-},
-{
 "id": "equ.mus.cue.001-i",
 "es": "Cutáneo del cuello (izquierdo)",
 "la": "Musculus cutaneus colli",
@@ -4832,6 +4818,167 @@
 "la": "Musculus arytenoideus transversus",
 "sys": "mus",
 "layer": "mpr"
+},
+{
+"id": "equ.mus.cab.033-i",
+"es": "Frontoescutular (izquierdo)",
+"la": "Musculus frontoscutularis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.033-d",
+"es": "Frontoescutular (derecho)",
+"la": "Musculus frontoscutularis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.034",
+"es": "Interescutular",
+"la": "Musculus interscutularis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.035-i",
+"es": "Escutuloauricular superficial dorsal (izquierdo)",
+"la": "Musculus scutuloauricularis superficialis dorsalis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.035-d",
+"es": "Escutuloauricular superficial dorsal (derecho)",
+"la": "Musculus scutuloauricularis superficialis dorsalis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.036-i",
+"es": "Escutuloauricular superficial medio (izquierdo)",
+"la": "Musculus scutuloauricularis superficialis medius",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.036-d",
+"es": "Escutuloauricular superficial medio (derecho)",
+"la": "Musculus scutuloauricularis superficialis medius",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.037-i",
+"es": "Escutuloauricular superficial accesorio (izquierdo)",
+"la": "Musculus scutuloauricularis superficialis accessorius",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.037-d",
+"es": "Escutuloauricular superficial accesorio (derecho)",
+"la": "Musculus scutuloauricularis superficialis accessorius",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.038-i",
+"es": "Escutuloauricular profundo mayor (izquierdo)",
+"la": "Musculus scutuloauricularis profundus major",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.038-d",
+"es": "Escutuloauricular profundo mayor (derecho)",
+"la": "Musculus scutuloauricularis profundus major",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.039-i",
+"es": "Escutuloauricular profundo menor (izquierdo)",
+"la": "Musculus scutuloauricularis profundus minor",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.039-d",
+"es": "Escutuloauricular profundo menor (derecho)",
+"la": "Musculus scutuloauricularis profundus minor",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.040-i",
+"es": "Cigomaticoauricular (izquierdo)",
+"la": "Musculus zygomaticoauricularis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.040-d",
+"es": "Cigomaticoauricular (derecho)",
+"la": "Musculus zygomaticoauricularis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.041-i",
+"es": "Cervicoauricular superficial (izquierdo)",
+"la": "Musculus cervicoauricularis superficialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.041-d",
+"es": "Cervicoauricular superficial (derecho)",
+"la": "Musculus cervicoauricularis superficialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.042-i",
+"es": "Cervicoauricular medio (izquierdo)",
+"la": "Musculus cervicoauricularis medius",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.042-d",
+"es": "Cervicoauricular medio (derecho)",
+"la": "Musculus cervicoauricularis medius",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.043-i",
+"es": "Cervicoauricular profundo (izquierdo)",
+"la": "Musculus cervicoauricularis profundus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.043-d",
+"es": "Cervicoauricular profundo (derecho)",
+"la": "Musculus cervicoauricularis profundus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.cab.044-i",
+"es": "Parotidoauricular (izquierdo)",
+"la": "Musculus parotidoauricularis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.cab.044-d",
+"es": "Parotidoauricular (derecho)",
+"la": "Musculus parotidoauricularis",
+"sys": "mus",
+"layer": "msu"
 }
 ]
 }
