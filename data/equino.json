@@ -10,14 +10,14 @@
 "layer": "org",
 "ph": {
 "p": [
-0.9,
-0.1,
+1.0,
+0.62,
 0
 ],
 "s": [
-0.5,
-0.6,
-0.5
+0.4,
+0.42,
+0.34
 ],
 "c": 11680328
 },
@@ -3030,6 +3030,930 @@
 "id": "equ.mus.cue.022-d",
 "es": "Intertransversos del cuello (derecho)",
 "la": "Musculi intertransversarii cervicis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.001-i",
+"es": "Iliocostal lumbar (izquierdo)",
+"la": "Musculus iliocostalis lumborum",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.dor.001-d",
+"es": "Iliocostal lumbar (derecho)",
+"la": "Musculus iliocostalis lumborum",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.dor.002-i",
+"es": "Iliocostal torácico (izquierdo)",
+"la": "Musculus iliocostalis thoracis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.dor.002-d",
+"es": "Iliocostal torácico (derecho)",
+"la": "Musculus iliocostalis thoracis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.dor.003-i",
+"es": "Longuísimo lumbar (izquierdo)",
+"la": "Musculus longissimus lumborum",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.dor.003-d",
+"es": "Longuísimo lumbar (derecho)",
+"la": "Musculus longissimus lumborum",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.dor.004-i",
+"es": "Longuísimo torácico (izquierdo)",
+"la": "Musculus longissimus thoracis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.dor.004-d",
+"es": "Longuísimo torácico (derecho)",
+"la": "Musculus longissimus thoracis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.dor.005-i",
+"es": "Espinal y semiespinoso torácico (izquierdo)",
+"la": "Musculus spinalis et semispinalis thoracis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.005-d",
+"es": "Espinal y semiespinoso torácico (derecho)",
+"la": "Musculus spinalis et semispinalis thoracis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.006-i",
+"es": "Multífido torácico (izquierdo)",
+"la": "Musculus multifidus thoracis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.006-d",
+"es": "Multífido torácico (derecho)",
+"la": "Musculus multifidus thoracis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.007-i",
+"es": "Multífido lumbar (izquierdo)",
+"la": "Musculus multifidus lumborum",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.007-d",
+"es": "Multífido lumbar (derecho)",
+"la": "Musculus multifidus lumborum",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.008-i",
+"es": "Rotadores (izquierdo)",
+"la": "Musculi rotatores",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.008-d",
+"es": "Rotadores (derecho)",
+"la": "Musculi rotatores",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.009-i",
+"es": "Interespinosos (izquierdo)",
+"la": "Musculi interspinales",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.009-d",
+"es": "Interespinosos (derecho)",
+"la": "Musculi interspinales",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.010-i",
+"es": "Intertransversos lumbares (izquierdo)",
+"la": "Musculi intertransversarii lumborum",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.dor.010-d",
+"es": "Intertransversos lumbares (derecho)",
+"la": "Musculi intertransversarii lumborum",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.001-i",
+"es": "Serrato dorsal craneal (izquierdo)",
+"la": "Musculus serratus dorsalis cranialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.tor.001-d",
+"es": "Serrato dorsal craneal (derecho)",
+"la": "Musculus serratus dorsalis cranialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.tor.002-i",
+"es": "Serrato dorsal caudal (izquierdo)",
+"la": "Musculus serratus dorsalis caudalis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.tor.002-d",
+"es": "Serrato dorsal caudal (derecho)",
+"la": "Musculus serratus dorsalis caudalis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.tor.003-i",
+"es": "Intercostales externos (izquierdo)",
+"la": "Musculi intercostales externi",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.003-d",
+"es": "Intercostales externos (derecho)",
+"la": "Musculi intercostales externi",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.004-i",
+"es": "Intercostales internos (izquierdo)",
+"la": "Musculi intercostales interni",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.004-d",
+"es": "Intercostales internos (derecho)",
+"la": "Musculi intercostales interni",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.005-i",
+"es": "Recto del tórax (izquierdo)",
+"la": "Musculus rectus thoracis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.005-d",
+"es": "Recto del tórax (derecho)",
+"la": "Musculus rectus thoracis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.006-i",
+"es": "Transverso del tórax (izquierdo)",
+"la": "Musculus transversus thoracis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.006-d",
+"es": "Transverso del tórax (derecho)",
+"la": "Musculus transversus thoracis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.007-i",
+"es": "Elevadores de las costillas (izquierdo)",
+"la": "Musculi levatores costarum",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.007-d",
+"es": "Elevadores de las costillas (derecho)",
+"la": "Musculi levatores costarum",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.008-i",
+"es": "Retractor de la costilla (izquierdo)",
+"la": "Musculus retractor costae",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.tor.008-d",
+"es": "Retractor de la costilla (derecho)",
+"la": "Musculus retractor costae",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.abd.001-i",
+"es": "Oblicuo externo del abdomen (izquierdo)",
+"la": "Musculus obliquus externus abdominis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.abd.001-d",
+"es": "Oblicuo externo del abdomen (derecho)",
+"la": "Musculus obliquus externus abdominis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.abd.002-i",
+"es": "Oblicuo interno del abdomen (izquierdo)",
+"la": "Musculus obliquus internus abdominis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.abd.002-d",
+"es": "Oblicuo interno del abdomen (derecho)",
+"la": "Musculus obliquus internus abdominis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.abd.003-i",
+"es": "Transverso del abdomen (izquierdo)",
+"la": "Musculus transversus abdominis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.abd.003-d",
+"es": "Transverso del abdomen (derecho)",
+"la": "Musculus transversus abdominis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.abd.004-i",
+"es": "Recto del abdomen (izquierdo)",
+"la": "Musculus rectus abdominis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.abd.004-d",
+"es": "Recto del abdomen (derecho)",
+"la": "Musculus rectus abdominis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.abd.005-i",
+"es": "Cutáneo del tronco (izquierdo)",
+"la": "Musculus cutaneus trunci",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.abd.005-d",
+"es": "Cutáneo del tronco (derecho)",
+"la": "Musculus cutaneus trunci",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.abd.006-i",
+"es": "Túnica flava del abdomen (izquierdo)",
+"la": "Tunica flava abdominis",
+"sys": "mus",
+"layer": "fas"
+},
+{
+"id": "equ.mus.abd.006-d",
+"es": "Túnica flava del abdomen (derecho)",
+"la": "Tunica flava abdominis",
+"sys": "mus",
+"layer": "fas"
+},
+{
+"id": "equ.mus.sub.001-i",
+"es": "Psoas mayor (izquierdo)",
+"la": "Musculus psoas major",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.sub.001-d",
+"es": "Psoas mayor (derecho)",
+"la": "Musculus psoas major",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.sub.002-i",
+"es": "Psoas menor (izquierdo)",
+"la": "Musculus psoas minor",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.sub.002-d",
+"es": "Psoas menor (derecho)",
+"la": "Musculus psoas minor",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.sub.003-i",
+"es": "Ilíaco (izquierdo)",
+"la": "Musculus iliacus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.sub.003-d",
+"es": "Ilíaco (derecho)",
+"la": "Musculus iliacus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.sub.004-i",
+"es": "Cuadrado lumbar (izquierdo)",
+"la": "Musculus quadratus lumborum",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.sub.004-d",
+"es": "Cuadrado lumbar (derecho)",
+"la": "Musculus quadratus lumborum",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.col.001-i",
+"es": "Sacrococcígeo dorsal (izquierdo)",
+"la": "Musculus sacrococcygeus dorsalis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.col.001-d",
+"es": "Sacrococcígeo dorsal (derecho)",
+"la": "Musculus sacrococcygeus dorsalis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.col.002-i",
+"es": "Sacrococcígeo lateral (izquierdo)",
+"la": "Musculus sacrococcygeus lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.col.002-d",
+"es": "Sacrococcígeo lateral (derecho)",
+"la": "Musculus sacrococcygeus lateralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.col.003-i",
+"es": "Sacrococcígeo ventral (izquierdo)",
+"la": "Musculus sacrococcygeus ventralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.col.003-d",
+"es": "Sacrococcígeo ventral (derecho)",
+"la": "Musculus sacrococcygeus ventralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.col.004-i",
+"es": "Intertransversos de la cola (izquierdo)",
+"la": "Musculi intertransversarii caudae",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.col.004-d",
+"es": "Intertransversos de la cola (derecho)",
+"la": "Musculi intertransversarii caudae",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.col.005-i",
+"es": "Coccígeo (izquierdo)",
+"la": "Musculus coccygeus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.col.005-d",
+"es": "Coccígeo (derecho)",
+"la": "Musculus coccygeus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ext.001-i",
+"es": "Trapecio cervical (izquierdo)",
+"la": "Musculus trapezius, pars cervicalis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ext.001-d",
+"es": "Trapecio cervical (derecho)",
+"la": "Musculus trapezius, pars cervicalis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ext.002-i",
+"es": "Trapecio torácico (izquierdo)",
+"la": "Musculus trapezius, pars thoracica",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ext.002-d",
+"es": "Trapecio torácico (derecho)",
+"la": "Musculus trapezius, pars thoracica",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ext.003-i",
+"es": "Romboides cervical (izquierdo)",
+"la": "Musculus rhomboideus cervicis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ext.003-d",
+"es": "Romboides cervical (derecho)",
+"la": "Musculus rhomboideus cervicis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ext.004-i",
+"es": "Romboides torácico (izquierdo)",
+"la": "Musculus rhomboideus thoracis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ext.004-d",
+"es": "Romboides torácico (derecho)",
+"la": "Musculus rhomboideus thoracis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ext.005-i",
+"es": "Dorsal ancho (izquierdo)",
+"la": "Musculus latissimus dorsi",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ext.005-d",
+"es": "Dorsal ancho (derecho)",
+"la": "Musculus latissimus dorsi",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ext.006-i",
+"es": "Omotransverso (izquierdo)",
+"la": "Musculus omotransversarius",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ext.006-d",
+"es": "Omotransverso (derecho)",
+"la": "Musculus omotransversarius",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ext.007-i",
+"es": "Serrato ventral cervical (izquierdo)",
+"la": "Musculus serratus ventralis cervicis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ext.007-d",
+"es": "Serrato ventral cervical (derecho)",
+"la": "Musculus serratus ventralis cervicis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ext.008-i",
+"es": "Serrato ventral torácico (izquierdo)",
+"la": "Musculus serratus ventralis thoracis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ext.008-d",
+"es": "Serrato ventral torácico (derecho)",
+"la": "Musculus serratus ventralis thoracis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ext.009-i",
+"es": "Pectoral descendente (izquierdo)",
+"la": "Musculus pectoralis descendens",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ext.009-d",
+"es": "Pectoral descendente (derecho)",
+"la": "Musculus pectoralis descendens",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ext.010-i",
+"es": "Pectoral transverso (izquierdo)",
+"la": "Musculus pectoralis transversus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ext.010-d",
+"es": "Pectoral transverso (derecho)",
+"la": "Musculus pectoralis transversus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ext.011-i",
+"es": "Pectoral profundo (ascendente) (izquierdo)",
+"la": "Musculus pectoralis profundus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ext.011-d",
+"es": "Pectoral profundo (ascendente) (derecho)",
+"la": "Musculus pectoralis profundus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ext.012-i",
+"es": "Subclavio (izquierdo)",
+"la": "Musculus subclavius",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ext.012-d",
+"es": "Subclavio (derecho)",
+"la": "Musculus subclavius",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.hom.001-i",
+"es": "Supraespinoso (izquierdo)",
+"la": "Musculus supraspinatus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.hom.001-d",
+"es": "Supraespinoso (derecho)",
+"la": "Musculus supraspinatus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.hom.002-i",
+"es": "Infraespinoso (izquierdo)",
+"la": "Musculus infraspinatus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.hom.002-d",
+"es": "Infraespinoso (derecho)",
+"la": "Musculus infraspinatus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.hom.003-i",
+"es": "Deltoides (izquierdo)",
+"la": "Musculus deltoideus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.hom.003-d",
+"es": "Deltoides (derecho)",
+"la": "Musculus deltoideus",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.hom.004-i",
+"es": "Redondo menor (izquierdo)",
+"la": "Musculus teres minor",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.hom.004-d",
+"es": "Redondo menor (derecho)",
+"la": "Musculus teres minor",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.hom.005-i",
+"es": "Redondo mayor (izquierdo)",
+"la": "Musculus teres major",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.hom.005-d",
+"es": "Redondo mayor (derecho)",
+"la": "Musculus teres major",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.hom.006-i",
+"es": "Subescapular (izquierdo)",
+"la": "Musculus subscapularis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.hom.006-d",
+"es": "Subescapular (derecho)",
+"la": "Musculus subscapularis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.bra.001-i",
+"es": "Tríceps braquial (izquierdo)",
+"la": "Musculus triceps brachii",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.bra.001-d",
+"es": "Tríceps braquial (derecho)",
+"la": "Musculus triceps brachii",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.bra.002-i",
+"es": "Tensor de la fascia del antebrazo (izquierdo)",
+"la": "Musculus tensor fasciae antebrachii",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.bra.002-d",
+"es": "Tensor de la fascia del antebrazo (derecho)",
+"la": "Musculus tensor fasciae antebrachii",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.bra.003-i",
+"es": "Ancóneo (izquierdo)",
+"la": "Musculus anconeus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.bra.003-d",
+"es": "Ancóneo (derecho)",
+"la": "Musculus anconeus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.bra.004-i",
+"es": "Bíceps braquial (izquierdo)",
+"la": "Musculus biceps brachii",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.bra.004-d",
+"es": "Bíceps braquial (derecho)",
+"la": "Musculus biceps brachii",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.bra.005-i",
+"es": "Braquial (izquierdo)",
+"la": "Musculus brachialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.bra.005-d",
+"es": "Braquial (derecho)",
+"la": "Musculus brachialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.bra.006-i",
+"es": "Coracobraquial (izquierdo)",
+"la": "Musculus coracobrachialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.bra.006-d",
+"es": "Coracobraquial (derecho)",
+"la": "Musculus coracobrachialis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ant.001-i",
+"es": "Extensor radial del carpo (izquierdo)",
+"la": "Musculus extensor carpi radialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ant.001-d",
+"es": "Extensor radial del carpo (derecho)",
+"la": "Musculus extensor carpi radialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ant.002-i",
+"es": "Extensor digital común (izquierdo)",
+"la": "Musculus extensor digitorum communis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ant.002-d",
+"es": "Extensor digital común (derecho)",
+"la": "Musculus extensor digitorum communis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ant.003-i",
+"es": "Extensor digital lateral (izquierdo)",
+"la": "Musculus extensor digitorum lateralis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ant.003-d",
+"es": "Extensor digital lateral (derecho)",
+"la": "Musculus extensor digitorum lateralis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ant.004-i",
+"es": "Extensor ulnar del carpo (ulnaris lateralis) (izquierdo)",
+"la": "Musculus extensor carpi ulnaris",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ant.004-d",
+"es": "Extensor ulnar del carpo (ulnaris lateralis) (derecho)",
+"la": "Musculus extensor carpi ulnaris",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ant.005-i",
+"es": "Extensor oblicuo del carpo (izquierdo)",
+"la": "Musculus extensor carpi obliquus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ant.005-d",
+"es": "Extensor oblicuo del carpo (derecho)",
+"la": "Musculus extensor carpi obliquus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ant.006-i",
+"es": "Flexor radial del carpo (izquierdo)",
+"la": "Musculus flexor carpi radialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ant.006-d",
+"es": "Flexor radial del carpo (derecho)",
+"la": "Musculus flexor carpi radialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ant.007-i",
+"es": "Flexor ulnar del carpo (izquierdo)",
+"la": "Musculus flexor carpi ulnaris",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ant.007-d",
+"es": "Flexor ulnar del carpo (derecho)",
+"la": "Musculus flexor carpi ulnaris",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ant.008-i",
+"es": "Flexor digital superficial (izquierdo)",
+"la": "Musculus flexor digitorum superficialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ant.008-d",
+"es": "Flexor digital superficial (derecho)",
+"la": "Musculus flexor digitorum superficialis",
+"sys": "mus",
+"layer": "msu"
+},
+{
+"id": "equ.mus.ant.009-i",
+"es": "Flexor digital profundo (izquierdo)",
+"la": "Musculus flexor digitorum profundus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.ant.009-d",
+"es": "Flexor digital profundo (derecho)",
+"la": "Musculus flexor digitorum profundus",
 "sys": "mus",
 "layer": "mpr"
 }
