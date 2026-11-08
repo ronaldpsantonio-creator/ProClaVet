@@ -1,0 +1,23 @@
+[
+{
+"id": "equ.mus.tor.009",
+"es": "Diafragma",
+"la": "Diaphragma",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.abd.007-i",
+"es": "Cremáster (izquierdo)",
+"la": "Musculus cremaster",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.abd.007-d",
+"es": "Cremáster (derecho)",
+"la": "Musculus cremaster",
+"sys": "mus",
+"layer": "mpr"
+}
+]
