@@ -4561,20 +4561,6 @@
 "layer": "mpr"
 },
 {
-"id": "equ.mus.far.001-i",
-"es": "Constrictor rostral de la faringe (izquierdo)",
-"la": "Musculus constrictor pharyngis rostralis",
-"sys": "mus",
-"layer": "mpr"
-},
-{
-"id": "equ.mus.far.001-d",
-"es": "Constrictor rostral de la faringe (derecho)",
-"la": "Musculus constrictor pharyngis rostralis",
-"sys": "mus",
-"layer": "mpr"
-},
-{
 "id": "equ.mus.far.002-i",
 "es": "Constrictor medio de la faringe (izquierdo)",
 "la": "Musculus constrictor pharyngis medius",
@@ -4585,20 +4571,6 @@
 "id": "equ.mus.far.002-d",
 "es": "Constrictor medio de la faringe (derecho)",
 "la": "Musculus constrictor pharyngis medius",
-"sys": "mus",
-"layer": "mpr"
-},
-{
-"id": "equ.mus.far.003-i",
-"es": "Constrictor caudal de la faringe (izquierdo)",
-"la": "Musculus constrictor pharyngis caudalis",
-"sys": "mus",
-"layer": "mpr"
-},
-{
-"id": "equ.mus.far.003-d",
-"es": "Constrictor caudal de la faringe (derecho)",
-"la": "Musculus constrictor pharyngis caudalis",
 "sys": "mus",
 "layer": "mpr"
 },
@@ -4655,20 +4627,6 @@
 "id": "equ.mus.lar.003-d",
 "es": "Cricoaritenoideo lateral (derecho)",
 "la": "Musculus cricoarytenoideus lateralis",
-"sys": "mus",
-"layer": "mpr"
-},
-{
-"id": "equ.mus.lar.004-i",
-"es": "Tiroaritenoideo (izquierdo)",
-"la": "Musculus thyroarytenoideus",
-"sys": "mus",
-"layer": "mpr"
-},
-{
-"id": "equ.mus.lar.004-d",
-"es": "Tiroaritenoideo (derecho)",
-"la": "Musculus thyroarytenoideus",
 "sys": "mus",
 "layer": "mpr"
 },
@@ -6951,6 +6909,1238 @@
 "id": "equ.dig.per.024",
 "es": "Ligamento nefroesplénico",
 "la": "Ligamentum nephrolienale",
+"sys": "dig",
+"layer": "org"
+},
+{
+"id": "equ.res.nar.001-i",
+"es": "Narina (ollar verdadero) (izquierda)",
+"la": "Naris",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.nar.001-d",
+"es": "Narina (ollar verdadero) (derecha)",
+"la": "Naris",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.nar.002-i",
+"es": "Divertículo nasal (falso ollar) (izquierdo)",
+"la": "Diverticulum nasi",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.nar.002-d",
+"es": "Divertículo nasal (falso ollar) (derecho)",
+"la": "Diverticulum nasi",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.nar.003-i",
+"es": "Cartílago alar (izquierda)",
+"la": "Cartilago alaris",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.nar.003-d",
+"es": "Cartílago alar (derecha)",
+"la": "Cartilago alaris",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.nar.004-i",
+"es": "Vestíbulo nasal (izquierdo)",
+"la": "Vestibulum nasi",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.nar.004-d",
+"es": "Vestíbulo nasal (derecho)",
+"la": "Vestibulum nasi",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.nar.005-i",
+"es": "Abertura del conducto nasolagrimal (izquierda)",
+"la": "Ostium ductus nasolacrimalis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.nar.005-d",
+"es": "Abertura del conducto nasolagrimal (derecha)",
+"la": "Ostium ductus nasolacrimalis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.cav.001-i",
+"es": "Cavidad nasal (izquierda)",
+"la": "Cavum nasi",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.cav.001-d",
+"es": "Cavidad nasal (derecha)",
+"la": "Cavum nasi",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.cav.002",
+"es": "Septo nasal",
+"la": "Septum nasi",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.cav.003-i",
+"es": "Concha nasal dorsal (izquierda)",
+"la": "Concha nasalis dorsalis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.cav.003-d",
+"es": "Concha nasal dorsal (derecha)",
+"la": "Concha nasalis dorsalis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.cav.004-i",
+"es": "Concha nasal ventral (izquierda)",
+"la": "Concha nasalis ventralis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.cav.004-d",
+"es": "Concha nasal ventral (derecha)",
+"la": "Concha nasalis ventralis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.cav.005-i",
+"es": "Conchas etmoidales (izquierda)",
+"la": "Conchae ethmoidales",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.cav.005-d",
+"es": "Conchas etmoidales (derecha)",
+"la": "Conchae ethmoidales",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.cav.006-i",
+"es": "Meato nasal dorsal (izquierdo)",
+"la": "Meatus nasi dorsalis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.cav.006-d",
+"es": "Meato nasal dorsal (derecho)",
+"la": "Meatus nasi dorsalis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.cav.007-i",
+"es": "Meato nasal medio (izquierdo)",
+"la": "Meatus nasi medius",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.cav.007-d",
+"es": "Meato nasal medio (derecho)",
+"la": "Meatus nasi medius",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.cav.008-i",
+"es": "Meato nasal ventral (izquierdo)",
+"la": "Meatus nasi ventralis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.cav.008-d",
+"es": "Meato nasal ventral (derecho)",
+"la": "Meatus nasi ventralis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.cav.009-i",
+"es": "Meato nasal común (izquierdo)",
+"la": "Meatus nasi communis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.cav.009-d",
+"es": "Meato nasal común (derecho)",
+"la": "Meatus nasi communis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.cav.010-i",
+"es": "Coana (izquierda)",
+"la": "Choana",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.cav.010-d",
+"es": "Coana (derecha)",
+"la": "Choana",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.sen.001-i",
+"es": "Seno frontal (izquierdo)",
+"la": "Sinus frontalis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.sen.001-d",
+"es": "Seno frontal (derecho)",
+"la": "Sinus frontalis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.sen.002-i",
+"es": "Seno conchal dorsal (izquierdo)",
+"la": "Sinus conchae dorsalis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.sen.002-d",
+"es": "Seno conchal dorsal (derecho)",
+"la": "Sinus conchae dorsalis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.sen.003-i",
+"es": "Seno conchal medio (izquierdo)",
+"la": "Sinus conchae mediae",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.sen.003-d",
+"es": "Seno conchal medio (derecho)",
+"la": "Sinus conchae mediae",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.sen.004-i",
+"es": "Seno conchal ventral (izquierdo)",
+"la": "Sinus conchae ventralis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.sen.004-d",
+"es": "Seno conchal ventral (derecho)",
+"la": "Sinus conchae ventralis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.sen.005-i",
+"es": "Seno maxilar rostral (izquierdo)",
+"la": "Sinus maxillaris rostralis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.sen.005-d",
+"es": "Seno maxilar rostral (derecho)",
+"la": "Sinus maxillaris rostralis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.sen.006-i",
+"es": "Seno maxilar caudal (izquierdo)",
+"la": "Sinus maxillaris caudalis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.sen.006-d",
+"es": "Seno maxilar caudal (derecho)",
+"la": "Sinus maxillaris caudalis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.sen.007-i",
+"es": "Seno esfenopalatino (izquierdo)",
+"la": "Sinus sphenopalatinus",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.sen.007-d",
+"es": "Seno esfenopalatino (derecho)",
+"la": "Sinus sphenopalatinus",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.sen.008-i",
+"es": "Abertura nasomaxilar (izquierda)",
+"la": "Apertura nasomaxillaris",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.sen.008-d",
+"es": "Abertura nasomaxilar (derecha)",
+"la": "Apertura nasomaxillaris",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.fan.001",
+"es": "Nasofaringe",
+"la": "Pars nasalis pharyngis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.fan.002-i",
+"es": "Arco palatofaríngeo (izquierdo)",
+"la": "Arcus palatopharyngeus",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.fan.002-d",
+"es": "Arco palatofaríngeo (derecho)",
+"la": "Arcus palatopharyngeus",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.fan.003-i",
+"es": "Abertura faríngea de la trompa auditiva (izquierda)",
+"la": "Ostium pharyngeum tubae auditivae",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.fan.003-d",
+"es": "Abertura faríngea de la trompa auditiva (derecha)",
+"la": "Ostium pharyngeum tubae auditivae",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.fan.004-i",
+"es": "Bolsa gutural (izquierda)",
+"la": "Diverticulum tubae auditivae",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.fan.004-d",
+"es": "Bolsa gutural (derecha)",
+"la": "Diverticulum tubae auditivae",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.fan.005-i",
+"es": "Compartimento medial de la bolsa gutural (izquierdo)",
+"la": "Compartimentum medialis diverticuli tubae auditivae",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.fan.005-d",
+"es": "Compartimento medial de la bolsa gutural (derecho)",
+"la": "Compartimentum medialis diverticuli tubae auditivae",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.fan.006-i",
+"es": "Compartimento lateral de la bolsa gutural (izquierdo)",
+"la": "Compartimentum lateralis diverticuli tubae auditivae",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.fan.006-d",
+"es": "Compartimento lateral de la bolsa gutural (derecho)",
+"la": "Compartimentum lateralis diverticuli tubae auditivae",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.fan.007",
+"es": "Septo mediano de las bolsas guturales",
+"la": "Septum medianum",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.lar.001",
+"es": "Cartílago epiglótico",
+"la": "Cartilago epiglottica",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.lar.002",
+"es": "Cartílago tiroides",
+"la": "Cartilago thyroidea",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.lar.003",
+"es": "Cartílago cricoides",
+"la": "Cartilago cricoidea",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.lar.004-i",
+"es": "Cartílago aritenoides (izquierdo)",
+"la": "Cartilago arytenoidea",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.lar.004-d",
+"es": "Cartílago aritenoides (derecho)",
+"la": "Cartilago arytenoidea",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.lar.005-i",
+"es": "Proceso muscular del aritenoides (izquierdo)",
+"la": "Processus muscularis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.lar.005-d",
+"es": "Proceso muscular del aritenoides (derecho)",
+"la": "Processus muscularis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.lar.006-i",
+"es": "Proceso vocal del aritenoides (izquierdo)",
+"la": "Processus vocalis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.lar.006-d",
+"es": "Proceso vocal del aritenoides (derecho)",
+"la": "Processus vocalis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.lar.007",
+"es": "Ligamento cricotiroideo",
+"la": "Ligamentum cricothyroideum",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.lar.008-i",
+"es": "Articulación cricoaritenoidea (izquierda)",
+"la": "Articulatio cricoarytenoidea",
+"sys": "res",
+"layer": "art"
+},
+{
+"id": "equ.res.lar.008-d",
+"es": "Articulación cricoaritenoidea (derecha)",
+"la": "Articulatio cricoarytenoidea",
+"sys": "res",
+"layer": "art"
+},
+{
+"id": "equ.res.lar.009-i",
+"es": "Articulación cricotiroidea (izquierda)",
+"la": "Articulatio cricothyroidea",
+"sys": "res",
+"layer": "art"
+},
+{
+"id": "equ.res.lar.009-d",
+"es": "Articulación cricotiroidea (derecha)",
+"la": "Articulatio cricothyroidea",
+"sys": "res",
+"layer": "art"
+},
+{
+"id": "equ.res.lar.010-i",
+"es": "Pliegue ariepiglótico (izquierdo)",
+"la": "Plica aryepiglottica",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.lar.010-d",
+"es": "Pliegue ariepiglótico (derecho)",
+"la": "Plica aryepiglottica",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.lar.011-i",
+"es": "Pliegue vocal (izquierdo)",
+"la": "Plica vocalis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.lar.011-d",
+"es": "Pliegue vocal (derecho)",
+"la": "Plica vocalis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.lar.012-i",
+"es": "Pliegue vestibular (izquierdo)",
+"la": "Plica vestibularis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.lar.012-d",
+"es": "Pliegue vestibular (derecho)",
+"la": "Plica vestibularis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.lar.013-i",
+"es": "Ventrículo laríngeo lateral (izquierdo)",
+"la": "Ventriculus laryngis lateralis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.lar.013-d",
+"es": "Ventrículo laríngeo lateral (derecho)",
+"la": "Ventriculus laryngis lateralis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.lar.014",
+"es": "Vestíbulo laríngeo",
+"la": "Vestibulum laryngis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.lar.015",
+"es": "Glotis (rima glótica)",
+"la": "Rima glottidis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.lar.016",
+"es": "Cavidad infraglótica",
+"la": "Cavum infraglotticum",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.tra.001",
+"es": "Tráquea, porción cervical",
+"la": "Trachea, pars cervicalis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.tra.002",
+"es": "Tráquea, porción torácica",
+"la": "Trachea, pars thoracica",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.tra.003",
+"es": "Cartílagos traqueales (50 a 60 anillos)",
+"la": "Cartilagines tracheales",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.tra.004",
+"es": "Ligamentos anulares de la tráquea (entre los anillos)",
+"la": "Ligamenta anularia",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.tra.005",
+"es": "Músculo traqueal",
+"la": "Musculus trachealis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.tra.006",
+"es": "Carina (bifurcación traqueal)",
+"la": "Carina tracheae",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.tra.007-i",
+"es": "Bronquio principal (izquierdo)",
+"la": "Bronchus principalis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.tra.007-d",
+"es": "Bronquio principal (derecho)",
+"la": "Bronchus principalis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.tra.008",
+"es": "Bronquio lobar craneal izquierdo",
+"la": "Bronchus lobaris cranialis sinister",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.tra.009",
+"es": "Bronquio lobar caudal izquierdo",
+"la": "Bronchus lobaris caudalis sinister",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.tra.010",
+"es": "Bronquio lobar craneal derecho",
+"la": "Bronchus lobaris cranialis dexter",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.tra.011",
+"es": "Bronquio lobar caudal derecho",
+"la": "Bronchus lobaris caudalis dexter",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.tra.012",
+"es": "Bronquio lobar accesorio derecho",
+"la": "Bronchus lobaris accessorius",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.pul.001-i",
+"es": "Pulmón (izquierdo)",
+"la": "Pulmo",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.pul.001-d",
+"es": "Pulmón (derecho)",
+"la": "Pulmo",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.pul.002",
+"es": "Lóbulo craneal del pulmón izquierdo, parte craneal",
+"la": "Lobus cranialis sinister, pars cranialis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.pul.003",
+"es": "Lóbulo craneal del pulmón izquierdo, parte caudal",
+"la": "Lobus cranialis sinister, pars caudalis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.pul.004",
+"es": "Lóbulo caudal del pulmón izquierdo",
+"la": "Lobus caudalis sinister",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.pul.005",
+"es": "Lóbulo craneal del pulmón derecho",
+"la": "Lobus cranialis dexter",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.pul.006",
+"es": "Lóbulo caudal del pulmón derecho",
+"la": "Lobus caudalis dexter",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.pul.007",
+"es": "Lóbulo accesorio del pulmón derecho",
+"la": "Lobus accessorius",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.pul.008-i",
+"es": "Raíz del pulmón (izquierda)",
+"la": "Radix pulmonis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.pul.008-d",
+"es": "Raíz del pulmón (derecha)",
+"la": "Radix pulmonis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.pul.009-i",
+"es": "Hilio del pulmón (izquierdo)",
+"la": "Hilus pulmonis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.pul.009-d",
+"es": "Hilio del pulmón (derecho)",
+"la": "Hilus pulmonis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.pul.010-i",
+"es": "Ápice del pulmón (izquierdo)",
+"la": "Apex pulmonis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.pul.010-d",
+"es": "Ápice del pulmón (derecho)",
+"la": "Apex pulmonis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.pul.011-i",
+"es": "Base del pulmón (izquierda)",
+"la": "Basis pulmonis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.pul.011-d",
+"es": "Base del pulmón (derecha)",
+"la": "Basis pulmonis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.pul.012-i",
+"es": "Borde basal del pulmón (izquierdo)",
+"la": "Margo basalis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.pul.012-d",
+"es": "Borde basal del pulmón (derecho)",
+"la": "Margo basalis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.pul.013-i",
+"es": "Incisura cardíaca (izquierda)",
+"la": "Incisura cardiaca",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.pul.013-d",
+"es": "Incisura cardíaca (derecha)",
+"la": "Incisura cardiaca",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.ple.001-i",
+"es": "Pleura visceral (pulmonar) (izquierda)",
+"la": "Pleura visceralis (pulmonalis)",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.ple.001-d",
+"es": "Pleura visceral (pulmonar) (derecha)",
+"la": "Pleura visceralis (pulmonalis)",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.ple.002-i",
+"es": "Pleura costal (izquierda)",
+"la": "Pleura costalis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.ple.002-d",
+"es": "Pleura costal (derecha)",
+"la": "Pleura costalis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.ple.003-i",
+"es": "Pleura diafragmática (izquierda)",
+"la": "Pleura diaphragmatica",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.ple.003-d",
+"es": "Pleura diafragmática (derecha)",
+"la": "Pleura diaphragmatica",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.ple.004-i",
+"es": "Pleura mediastínica (izquierda)",
+"la": "Pleura mediastinalis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.ple.004-d",
+"es": "Pleura mediastínica (derecha)",
+"la": "Pleura mediastinalis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.ple.005-i",
+"es": "Pleura pericárdica (izquierda)",
+"la": "Pleura pericardiaca",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.ple.005-d",
+"es": "Pleura pericárdica (derecha)",
+"la": "Pleura pericardiaca",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.ple.006-i",
+"es": "Cúpula pleural (izquierda)",
+"la": "Cupula pleurae",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.ple.006-d",
+"es": "Cúpula pleural (derecha)",
+"la": "Cupula pleurae",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.ple.007-i",
+"es": "Cavidad pleural (izquierda)",
+"la": "Cavum pleurae",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.ple.007-d",
+"es": "Cavidad pleural (derecha)",
+"la": "Cavum pleurae",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.ple.008-i",
+"es": "Receso costodiafragmático (izquierdo)",
+"la": "Recessus costodiaphragmaticus",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.ple.008-d",
+"es": "Receso costodiafragmático (derecho)",
+"la": "Recessus costodiaphragmaticus",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.ple.009-i",
+"es": "Línea de reflexión pleural (izquierda)",
+"la": "Linea reflexionis pleurae",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.ple.009-d",
+"es": "Línea de reflexión pleural (derecha)",
+"la": "Linea reflexionis pleurae",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.ple.010",
+"es": "Mediastino craneal",
+"la": "Mediastinum craniale",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.ple.011",
+"es": "Mediastino medio",
+"la": "Mediastinum medium",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.ple.012",
+"es": "Mediastino dorsal",
+"la": "Mediastinum dorsale",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.ple.013",
+"es": "Mediastino ventral",
+"la": "Mediastinum ventrale",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.ple.014",
+"es": "Mediastino caudal",
+"la": "Mediastinum caudale",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.ple.015",
+"es": "Pliegue de la vena cava (plica venae cavae)",
+"la": "Plica venae cavae",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.ple.016-i",
+"es": "Ligamento pulmonar (izquierdo)",
+"la": "Ligamentum pulmonale",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.ple.016-d",
+"es": "Ligamento pulmonar (derecho)",
+"la": "Ligamentum pulmonale",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.ple.017",
+"es": "Receso mediastínico",
+"la": "Recessus mediastinalis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.cav.011-i",
+"es": "Concha nasal media (izquierda)",
+"la": "Concha nasalis media",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.cav.011-d",
+"es": "Concha nasal media (derecha)",
+"la": "Concha nasalis media",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.sen.009-i",
+"es": "Abertura frontomaxilar (izquierda)",
+"la": "Apertura frontomaxillaris",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.sen.009-d",
+"es": "Abertura frontomaxilar (derecha)",
+"la": "Apertura frontomaxillaris",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.sen.010-i",
+"es": "Abertura conchomaxilar (izquierda)",
+"la": "Apertura conchomaxillaris",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.sen.010-d",
+"es": "Abertura conchomaxilar (derecha)",
+"la": "Apertura conchomaxillaris",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.sen.011-i",
+"es": "Septo maxilar (izquierdo)",
+"la": "Septum sinuum maxillarium",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.sen.011-d",
+"es": "Septo maxilar (derecho)",
+"la": "Septum sinuum maxillarium",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.sen.012",
+"es": "Septo del seno frontal",
+"la": "Septum sinuum frontalium",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.fan.008",
+"es": "Ostium intrafaríngeo",
+"la": "Ostium intrapharyngeum",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.lar.017-i",
+"es": "Proceso corniculado del aritenoides (izquierdo)",
+"la": "Processus corniculatus",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.lar.017-d",
+"es": "Proceso corniculado del aritenoides (derecho)",
+"la": "Processus corniculatus",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.lar.018-i",
+"es": "Ligamento vocal (izquierdo)",
+"la": "Ligamentum vocale",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.lar.018-d",
+"es": "Ligamento vocal (derecho)",
+"la": "Ligamentum vocale",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.lar.019-i",
+"es": "Ligamento vestibular (izquierdo)",
+"la": "Ligamentum vestibulare",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.lar.019-d",
+"es": "Ligamento vestibular (derecho)",
+"la": "Ligamentum vestibulare",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.lar.020",
+"es": "Ligamento cricotraqueal",
+"la": "Ligamentum cricotracheale",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.lar.021-i",
+"es": "Articulación tirohioidea (izquierda)",
+"la": "Articulatio thyrohyoidea",
+"sys": "res",
+"layer": "art"
+},
+{
+"id": "equ.res.lar.021-d",
+"es": "Articulación tirohioidea (derecha)",
+"la": "Articulatio thyrohyoidea",
+"sys": "res",
+"layer": "art"
+},
+{
+"id": "equ.res.lar.022",
+"es": "Epiglotis",
+"la": "Epiglottis",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.res.tra.013",
+"es": "Membrana traqueal dorsal",
+"la": "Paries membranaceus tracheae",
+"sys": "res",
+"layer": "org"
+},
+{
+"id": "equ.mus.lar.006-i",
+"es": "Tiroaritenoideo, porción vocal rostral (izquierdo)",
+"la": "Musculus thyroarytenoideus, pars vocalis rostralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.lar.006-d",
+"es": "Tiroaritenoideo, porción vocal rostral (derecho)",
+"la": "Musculus thyroarytenoideus, pars vocalis rostralis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.lar.007-i",
+"es": "Tiroaritenoideo, porción vocal caudal (izquierdo)",
+"la": "Musculus thyroarytenoideus, pars vocalis caudalis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.lar.007-d",
+"es": "Tiroaritenoideo, porción vocal caudal (derecho)",
+"la": "Musculus thyroarytenoideus, pars vocalis caudalis",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.lar.008",
+"es": "Hioepiglótico",
+"la": "Musculus hyoepiglotticus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.far.005-i",
+"es": "Pterigofaríngeo (izquierdo)",
+"la": "Musculus pterygopharyngeus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.far.005-d",
+"es": "Pterigofaríngeo (derecho)",
+"la": "Musculus pterygopharyngeus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.far.006-i",
+"es": "Tirofaríngeo (izquierdo)",
+"la": "Musculus thyropharyngeus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.far.006-d",
+"es": "Tirofaríngeo (derecho)",
+"la": "Musculus thyropharyngeus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.far.007-i",
+"es": "Cricofaríngeo (izquierdo)",
+"la": "Musculus cricopharyngeus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.mus.far.007-d",
+"es": "Cricofaríngeo (derecho)",
+"la": "Musculus cricopharyngeus",
+"sys": "mus",
+"layer": "mpr"
+},
+{
+"id": "equ.dig.fae.002",
+"es": "Orofaringe",
+"la": "Pars oralis pharyngis",
+"sys": "dig",
+"layer": "org"
+},
+{
+"id": "equ.dig.fae.003",
+"es": "Laringofaringe",
+"la": "Pars laryngea pharyngis",
 "sys": "dig",
 "layer": "org"
 }
