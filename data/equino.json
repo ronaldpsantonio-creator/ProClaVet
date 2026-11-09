@@ -9770,29 +9770,29 @@
 },
 {
 "id": "equ.car.amt.023-i",
-"es": "Arteria digital palmar medial (izquierda)",
-"la": "Arteria digitalis palmaris medialis",
+"es": "Arteria digital palmar propia medial (izquierda)",
+"la": "Arteria digitalis palmaris propria medialis",
 "sys": "car",
 "layer": "org"
 },
 {
 "id": "equ.car.amt.023-d",
-"es": "Arteria digital palmar medial (derecha)",
-"la": "Arteria digitalis palmaris medialis",
+"es": "Arteria digital palmar propia medial (derecha)",
+"la": "Arteria digitalis palmaris propria medialis",
 "sys": "car",
 "layer": "org"
 },
 {
 "id": "equ.car.amt.024-i",
-"es": "Arteria digital palmar lateral (izquierda)",
-"la": "Arteria digitalis palmaris lateralis",
+"es": "Arteria digital palmar propia lateral (izquierda)",
+"la": "Arteria digitalis palmaris propria lateralis",
 "sys": "car",
 "layer": "org"
 },
 {
 "id": "equ.car.amt.024-d",
-"es": "Arteria digital palmar lateral (derecha)",
-"la": "Arteria digitalis palmaris lateralis",
+"es": "Arteria digital palmar propia lateral (derecha)",
+"la": "Arteria digitalis palmaris propria lateralis",
 "sys": "car",
 "layer": "org"
 },
@@ -9807,6 +9807,62 @@
 "id": "equ.car.amt.025-d",
 "es": "Arco terminal (derecha)",
 "la": "Arcus terminalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.026-i",
+"es": "Arteria coronal (izquierda)",
+"la": "Arteria coronalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.026-d",
+"es": "Arteria coronal (derecha)",
+"la": "Arteria coronalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.027-i",
+"es": "Rama dorsal de la falange distal (izquierda)",
+"la": "Ramus dorsalis phalangis distalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.027-d",
+"es": "Rama dorsal de la falange distal (derecha)",
+"la": "Ramus dorsalis phalangis distalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.028-i",
+"es": "Rama dorsal de la falange media (izquierda)",
+"la": "Ramus dorsalis phalangis mediae",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.028-d",
+"es": "Rama dorsal de la falange media (derecha)",
+"la": "Ramus dorsalis phalangis mediae",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.029-i",
+"es": "Arco palmar superficial (izquierda)",
+"la": "Arcus palmaris superficialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.029-d",
+"es": "Arco palmar superficial (derecha)",
+"la": "Arcus palmaris superficialis",
 "sys": "car",
 "layer": "org"
 },
@@ -10078,29 +10134,29 @@
 },
 {
 "id": "equ.car.amp.020-i",
-"es": "Arteria digital plantar medial (izquierda)",
-"la": "Arteria digitalis plantaris medialis",
+"es": "Arteria digital plantar propia medial (izquierda)",
+"la": "Arteria digitalis plantaris propria medialis",
 "sys": "car",
 "layer": "org"
 },
 {
 "id": "equ.car.amp.020-d",
-"es": "Arteria digital plantar medial (derecha)",
-"la": "Arteria digitalis plantaris medialis",
+"es": "Arteria digital plantar propia medial (derecha)",
+"la": "Arteria digitalis plantaris propria medialis",
 "sys": "car",
 "layer": "org"
 },
 {
 "id": "equ.car.amp.021-i",
-"es": "Arteria digital plantar lateral (izquierda)",
-"la": "Arteria digitalis plantaris lateralis",
+"es": "Arteria digital plantar propia lateral (izquierda)",
+"la": "Arteria digitalis plantaris propria lateralis",
 "sys": "car",
 "layer": "org"
 },
 {
 "id": "equ.car.amp.021-d",
-"es": "Arteria digital plantar lateral (derecha)",
-"la": "Arteria digitalis plantaris lateralis",
+"es": "Arteria digital plantar propia lateral (derecha)",
+"la": "Arteria digitalis plantaris propria lateralis",
 "sys": "car",
 "layer": "org"
 },
@@ -11375,15 +11431,15 @@
 },
 {
 "id": "equ.car.vmt.014-i",
-"es": "Plexo venoso solar (izquierdo)",
-"la": "Plexus venosus solearis",
+"es": "Plexo ungular (plexo del casco) (izquierdo)",
+"la": "Plexus ungularis",
 "sys": "car",
 "layer": "org"
 },
 {
 "id": "equ.car.vmt.014-d",
-"es": "Plexo venoso solar (derecho)",
-"la": "Plexus venosus solearis",
+"es": "Plexo ungular (plexo del casco) (derecho)",
+"la": "Plexus ungularis",
 "sys": "car",
 "layer": "org"
 },
