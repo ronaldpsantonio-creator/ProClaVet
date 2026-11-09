@@ -8143,6 +8143,4131 @@
 "la": "Pars laryngea pharyngis",
 "sys": "dig",
 "layer": "org"
+},
+{
+"id": "equ.car.cor.002",
+"es": "Aurícula derecha",
+"la": "Atrium dextrum",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.003",
+"es": "Aurícula izquierda",
+"la": "Atrium sinistrum",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.004",
+"es": "Orejuela derecha",
+"la": "Auricula dextra",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.005",
+"es": "Orejuela izquierda",
+"la": "Auricula sinistra",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.006",
+"es": "Ventrículo derecho",
+"la": "Ventriculus dexter",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.007",
+"es": "Ventrículo izquierdo",
+"la": "Ventriculus sinister",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.008",
+"es": "Septo interauricular",
+"la": "Septum interatriale",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.009",
+"es": "Septo interventricular",
+"la": "Septum interventriculare",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.010",
+"es": "Fosa oval",
+"la": "Fossa ovalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.011",
+"es": "Limbo de la fosa oval",
+"la": "Limbus fossae ovalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.012",
+"es": "Válvula atrioventricular derecha (tricúspide)",
+"la": "Valva atrioventricularis dextra (Valva tricuspidalis)",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.013",
+"es": "Válvula atrioventricular izquierda (mitral)",
+"la": "Valva atrioventricularis sinistra (Valva mitralis)",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.014",
+"es": "Válvula del tronco pulmonar",
+"la": "Valva trunci pulmonalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.015",
+"es": "Válvula aórtica",
+"la": "Valva aortae",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.016",
+"es": "Cuerdas tendinosas",
+"la": "Chordae tendineae",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.017",
+"es": "Músculos papilares del ventrículo derecho",
+"la": "Musculi papillares ventriculi dextri",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.018",
+"es": "Músculos papilares del ventrículo izquierdo",
+"la": "Musculi papillares ventriculi sinistri",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.019",
+"es": "Trabéculas cárneas",
+"la": "Trabeculae carneae",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.020",
+"es": "Trabécula septomarginal (banda moderadora)",
+"la": "Trabecula septomarginalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.021",
+"es": "Músculos pectinados",
+"la": "Musculi pectinati",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.022",
+"es": "Cresta terminal",
+"la": "Crista terminalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.023",
+"es": "Seno de las venas cavas",
+"la": "Sinus venarum cavarum",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.024",
+"es": "Cono arterioso",
+"la": "Conus arteriosus",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.025",
+"es": "Cresta supraventricular",
+"la": "Crista supraventricularis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.026",
+"es": "Seno aórtico",
+"la": "Sinus aortae",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.027",
+"es": "Anillos fibrosos del corazón",
+"la": "Anuli fibrosi cordis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.028",
+"es": "Trígono fibroso derecho",
+"la": "Trigonum fibrosum dextrum",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.029",
+"es": "Trígono fibroso izquierdo",
+"la": "Trigonum fibrosum sinistrum",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.030",
+"es": "Miocardio",
+"la": "Myocardium",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.031",
+"es": "Endocardio",
+"la": "Endocardium",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.032",
+"es": "Epicardio",
+"la": "Epicardium",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.033",
+"es": "Base del corazón",
+"la": "Basis cordis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.034",
+"es": "Ápex del corazón",
+"la": "Apex cordis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.035",
+"es": "Surco coronario",
+"la": "Sulcus coronarius",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.036",
+"es": "Surco interventricular paraconal",
+"la": "Sulcus interventricularis paraconalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.cor.037",
+"es": "Surco interventricular subsinuoso",
+"la": "Sulcus interventricularis subsinuosus",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.con.001",
+"es": "Nodo sinoauricular",
+"la": "Nodus sinuatrialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.con.002",
+"es": "Nodo atrioventricular",
+"la": "Nodus atrioventricularis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.con.003",
+"es": "Haz atrioventricular (haz de His)",
+"la": "Fasciculus atrioventricularis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.con.004",
+"es": "Rama derecha del haz atrioventricular",
+"la": "Crus dextrum fasciculi atrioventricularis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.con.005",
+"es": "Rama izquierda del haz atrioventricular",
+"la": "Crus sinistrum fasciculi atrioventricularis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.con.006",
+"es": "Fibras de Purkinje (ramas subendocárdicas)",
+"la": "Rami subendocardiales",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.pcd.001",
+"es": "Pericardio fibroso",
+"la": "Pericardium fibrosum",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.pcd.002",
+"es": "Pericardio seroso",
+"la": "Pericardium serosum",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.pcd.003",
+"es": "Pericardio seroso, lámina parietal",
+"la": "Pericardium serosum, lamina parietalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.pcd.004",
+"es": "Cavidad pericárdica",
+"la": "Cavitas pericardialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.pcd.005",
+"es": "Ligamento esternopericárdico",
+"la": "Ligamentum sternopericardiacum",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.pcd.006",
+"es": "Ligamento frenicopericárdico",
+"la": "Ligamentum phrenicopericardiacum",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.pcd.007",
+"es": "Seno transverso del pericardio",
+"la": "Sinus transversus pericardii",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.pcd.008",
+"es": "Seno oblicuo del pericardio",
+"la": "Sinus obliquus pericardii",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vco.001",
+"es": "Arteria coronaria izquierda",
+"la": "Arteria coronaria sinistra",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vco.002",
+"es": "Rama interventricular paraconal",
+"la": "Ramus interventricularis paraconalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vco.003",
+"es": "Rama circunfleja",
+"la": "Ramus circumflexus",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vco.004",
+"es": "Rama interventricular subsinuosa",
+"la": "Ramus interventricularis subsinuosus",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vco.005",
+"es": "Arteria coronaria derecha",
+"la": "Arteria coronaria dextra",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vco.006",
+"es": "Gran vena cardíaca",
+"la": "Vena cordis magna",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vco.007",
+"es": "Vena cardíaca media",
+"la": "Vena cordis media",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vco.008",
+"es": "Vena interventricular paraconal",
+"la": "Vena interventricularis paraconalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vco.009",
+"es": "Vena interventricular subsinuosa",
+"la": "Vena interventricularis subsinuosa",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vco.010",
+"es": "Vena oblicua de la aurícula izquierda",
+"la": "Vena obliqua atrii sinistri",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vco.011",
+"es": "Venas cardíacas derechas",
+"la": "Venae cordis dextrae",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vco.012",
+"es": "Venas cardíacas mínimas",
+"la": "Venae cordis minimae",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vco.013",
+"es": "Seno coronario",
+"la": "Sinus coronarius",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.tpa.001",
+"es": "Tronco pulmonar",
+"la": "Truncus pulmonalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.tpa.002-i",
+"es": "Arteria pulmonar (izquierda)",
+"la": "Arteria pulmonalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.tpa.002-d",
+"es": "Arteria pulmonar (derecha)",
+"la": "Arteria pulmonalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.tpa.003",
+"es": "Venas pulmonares",
+"la": "Venae pulmonales",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.tpa.004",
+"es": "Ligamento arterioso",
+"la": "Ligamentum arteriosum",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.tpa.005",
+"es": "Aorta ascendente",
+"la": "Aorta ascendens",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.tpa.006",
+"es": "Bulbo aórtico",
+"la": "Bulbus aortae",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.tpa.007",
+"es": "Arco aórtico",
+"la": "Arcus aortae",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.tpa.008",
+"es": "Aorta torácica",
+"la": "Aorta thoracica",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.tpa.009",
+"es": "Aorta abdominal",
+"la": "Aorta abdominalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.tpa.010",
+"es": "Tronco braquiocefálico",
+"la": "Truncus brachiocephalicus",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.tpa.011",
+"es": "Tronco bicarotídeo",
+"la": "Truncus bicaroticus",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.tpa.012",
+"es": "Arteria broncoesofágica",
+"la": "Arteria bronchoesophagea",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.tpa.013",
+"es": "Arterias intercostales dorsales",
+"la": "Arteriae intercostales dorsales",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.tpa.014",
+"es": "Arterias lumbares",
+"la": "Arteriae lumbales",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.tpa.015-i",
+"es": "Arteria frénica caudal (izquierda)",
+"la": "Arteria phrenica caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.tpa.015-d",
+"es": "Arteria frénica caudal (derecha)",
+"la": "Arteria phrenica caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.tpa.016",
+"es": "Arteria sacra mediana",
+"la": "Arteria sacralis mediana",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.001-i",
+"es": "Arteria subclavia (izquierda)",
+"la": "Arteria subclavia",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.001-d",
+"es": "Arteria subclavia (derecha)",
+"la": "Arteria subclavia",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.002-i",
+"es": "Arteria carótida común (izquierda)",
+"la": "Arteria carotis communis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.002-d",
+"es": "Arteria carótida común (derecha)",
+"la": "Arteria carotis communis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.003-i",
+"es": "Arteria carótida interna (izquierda)",
+"la": "Arteria carotis interna",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.003-d",
+"es": "Arteria carótida interna (derecha)",
+"la": "Arteria carotis interna",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.004-i",
+"es": "Arteria carótida externa (izquierda)",
+"la": "Arteria carotis externa",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.004-d",
+"es": "Arteria carótida externa (derecha)",
+"la": "Arteria carotis externa",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.005-i",
+"es": "Arteria tiroidea craneal (izquierda)",
+"la": "Arteria thyroidea cranialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.005-d",
+"es": "Arteria tiroidea craneal (derecha)",
+"la": "Arteria thyroidea cranialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.006-i",
+"es": "Arteria laríngea craneal (izquierda)",
+"la": "Arteria laryngea cranialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.006-d",
+"es": "Arteria laríngea craneal (derecha)",
+"la": "Arteria laryngea cranialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.007-i",
+"es": "Arteria occipital (izquierda)",
+"la": "Arteria occipitalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.007-d",
+"es": "Arteria occipital (derecha)",
+"la": "Arteria occipitalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.008-i",
+"es": "Arteria faríngea ascendente (izquierda)",
+"la": "Arteria pharyngea ascendens",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.008-d",
+"es": "Arteria faríngea ascendente (derecha)",
+"la": "Arteria pharyngea ascendens",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.009-i",
+"es": "Tronco linguofacial (izquierdo)",
+"la": "Truncus linguofacialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.009-d",
+"es": "Tronco linguofacial (derecho)",
+"la": "Truncus linguofacialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.010-i",
+"es": "Arteria lingual (izquierda)",
+"la": "Arteria lingualis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.010-d",
+"es": "Arteria lingual (derecha)",
+"la": "Arteria lingualis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.011-i",
+"es": "Arteria facial (izquierda)",
+"la": "Arteria facialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.011-d",
+"es": "Arteria facial (derecha)",
+"la": "Arteria facialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.012-i",
+"es": "Arteria sublingual (izquierda)",
+"la": "Arteria sublingualis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.012-d",
+"es": "Arteria sublingual (derecha)",
+"la": "Arteria sublingualis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.013-i",
+"es": "Arteria submentoniana (izquierda)",
+"la": "Arteria submentalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.013-d",
+"es": "Arteria submentoniana (derecha)",
+"la": "Arteria submentalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.014-i",
+"es": "Arteria labial inferior (izquierda)",
+"la": "Arteria labialis inferior",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.014-d",
+"es": "Arteria labial inferior (derecha)",
+"la": "Arteria labialis inferior",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.015-i",
+"es": "Arteria labial superior (izquierda)",
+"la": "Arteria labialis superior",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.015-d",
+"es": "Arteria labial superior (derecha)",
+"la": "Arteria labialis superior",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.016-i",
+"es": "Arteria angular de la boca (izquierda)",
+"la": "Arteria angularis oris",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.016-d",
+"es": "Arteria angular de la boca (derecha)",
+"la": "Arteria angularis oris",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.017-i",
+"es": "Arteria palatina ascendente (izquierda)",
+"la": "Arteria palatina ascendens",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.017-d",
+"es": "Arteria palatina ascendente (derecha)",
+"la": "Arteria palatina ascendens",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.018-i",
+"es": "Arteria auricular caudal (izquierda)",
+"la": "Arteria auricularis caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.018-d",
+"es": "Arteria auricular caudal (derecha)",
+"la": "Arteria auricularis caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.019-i",
+"es": "Arteria temporal superficial (izquierda)",
+"la": "Arteria temporalis superficialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.019-d",
+"es": "Arteria temporal superficial (derecha)",
+"la": "Arteria temporalis superficialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.020-i",
+"es": "Arteria transversa de la cara (izquierda)",
+"la": "Arteria transversa faciei",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.020-d",
+"es": "Arteria transversa de la cara (derecha)",
+"la": "Arteria transversa faciei",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.021-i",
+"es": "Arteria auricular rostral (izquierda)",
+"la": "Arteria auricularis rostralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.021-d",
+"es": "Arteria auricular rostral (derecha)",
+"la": "Arteria auricularis rostralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.022-i",
+"es": "Arteria maxilar (izquierda)",
+"la": "Arteria maxillaris",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.022-d",
+"es": "Arteria maxilar (derecha)",
+"la": "Arteria maxillaris",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.023-i",
+"es": "Arteria alveolar inferior (izquierda)",
+"la": "Arteria alveolaris inferior",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.023-d",
+"es": "Arteria alveolar inferior (derecha)",
+"la": "Arteria alveolaris inferior",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.024-i",
+"es": "Arteria mentoniana (izquierda)",
+"la": "Arteria mentalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.024-d",
+"es": "Arteria mentoniana (derecha)",
+"la": "Arteria mentalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.025-i",
+"es": "Arteria bucal (izquierda)",
+"la": "Arteria buccalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.025-d",
+"es": "Arteria bucal (derecha)",
+"la": "Arteria buccalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.026-i",
+"es": "Arteria temporal profunda (izquierda)",
+"la": "Arteria temporalis profunda",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.026-d",
+"es": "Arteria temporal profunda (derecha)",
+"la": "Arteria temporalis profunda",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.027-i",
+"es": "Arteria meníngea media (izquierda)",
+"la": "Arteria meningea media",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.027-d",
+"es": "Arteria meníngea media (derecha)",
+"la": "Arteria meningea media",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.028-i",
+"es": "Arteria oftálmica externa (izquierda)",
+"la": "Arteria ophthalmica externa",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.028-d",
+"es": "Arteria oftálmica externa (derecha)",
+"la": "Arteria ophthalmica externa",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.029-i",
+"es": "Arteria supraorbitaria (izquierda)",
+"la": "Arteria supraorbitalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.029-d",
+"es": "Arteria supraorbitaria (derecha)",
+"la": "Arteria supraorbitalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.030-i",
+"es": "Arteria malar (izquierda)",
+"la": "Arteria malaris",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.030-d",
+"es": "Arteria malar (derecha)",
+"la": "Arteria malaris",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.031-i",
+"es": "Arteria infraorbitaria (izquierda)",
+"la": "Arteria infraorbitalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.031-d",
+"es": "Arteria infraorbitaria (derecha)",
+"la": "Arteria infraorbitalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.032-i",
+"es": "Arteria palatina descendente (izquierda)",
+"la": "Arteria palatina descendens",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.032-d",
+"es": "Arteria palatina descendente (derecha)",
+"la": "Arteria palatina descendens",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.033-i",
+"es": "Arteria palatina mayor (izquierda)",
+"la": "Arteria palatina major",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.033-d",
+"es": "Arteria palatina mayor (derecha)",
+"la": "Arteria palatina major",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.034-i",
+"es": "Arteria palatina menor (izquierda)",
+"la": "Arteria palatina minor",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.034-d",
+"es": "Arteria palatina menor (derecha)",
+"la": "Arteria palatina minor",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.035-i",
+"es": "Arteria esfenopalatina (izquierda)",
+"la": "Arteria sphenopalatina",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.035-d",
+"es": "Arteria esfenopalatina (derecha)",
+"la": "Arteria sphenopalatina",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.036-i",
+"es": "Arteria dorsal de la nariz (izquierda)",
+"la": "Arteria dorsalis nasi",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.036-d",
+"es": "Arteria dorsal de la nariz (derecha)",
+"la": "Arteria dorsalis nasi",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.037-i",
+"es": "Arteria oftálmica interna (izquierda)",
+"la": "Arteria ophthalmica interna",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.037-d",
+"es": "Arteria oftálmica interna (derecha)",
+"la": "Arteria ophthalmica interna",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.038",
+"es": "Círculo arterial del cerebro",
+"la": "Circulus arteriosus cerebri",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.039",
+"es": "Arteria basilar",
+"la": "Arteria basilaris",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.040-i",
+"es": "Arteria cerebral rostral (izquierda)",
+"la": "Arteria cerebri rostralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.040-d",
+"es": "Arteria cerebral rostral (derecha)",
+"la": "Arteria cerebri rostralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.041-i",
+"es": "Arteria cerebral media (izquierda)",
+"la": "Arteria cerebri media",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.041-d",
+"es": "Arteria cerebral media (derecha)",
+"la": "Arteria cerebri media",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.042-i",
+"es": "Arteria cerebral caudal (izquierda)",
+"la": "Arteria cerebri caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.042-d",
+"es": "Arteria cerebral caudal (derecha)",
+"la": "Arteria cerebri caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.043-i",
+"es": "Arteria comunicante caudal (izquierda)",
+"la": "Arteria communicans caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.043-d",
+"es": "Arteria comunicante caudal (derecha)",
+"la": "Arteria communicans caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.044-i",
+"es": "Arteria cerebelosa rostral (izquierda)",
+"la": "Arteria cerebelli rostralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.044-d",
+"es": "Arteria cerebelosa rostral (derecha)",
+"la": "Arteria cerebelli rostralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.045-i",
+"es": "Arteria cerebelosa caudal (izquierda)",
+"la": "Arteria cerebelli caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.045-d",
+"es": "Arteria cerebelosa caudal (derecha)",
+"la": "Arteria cerebelli caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.046",
+"es": "Arteria espinal ventral",
+"la": "Arteria spinalis ventralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.047-i",
+"es": "Arteria vertebral (izquierda)",
+"la": "Arteria vertebralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.047-d",
+"es": "Arteria vertebral (derecha)",
+"la": "Arteria vertebralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.048-i",
+"es": "Arteria cervical profunda (izquierda)",
+"la": "Arteria cervicalis profunda",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.048-d",
+"es": "Arteria cervical profunda (derecha)",
+"la": "Arteria cervicalis profunda",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.049-i",
+"es": "Arteria cervical superficial (izquierda)",
+"la": "Arteria cervicalis superficialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.049-d",
+"es": "Arteria cervical superficial (derecha)",
+"la": "Arteria cervicalis superficialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.050-i",
+"es": "Tronco costocervical (izquierdo)",
+"la": "Truncus costocervicalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.050-d",
+"es": "Tronco costocervical (derecho)",
+"la": "Truncus costocervicalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.051-i",
+"es": "Arteria intercostal suprema (izquierda)",
+"la": "Arteria intercostalis suprema",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.051-d",
+"es": "Arteria intercostal suprema (derecha)",
+"la": "Arteria intercostalis suprema",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.052-i",
+"es": "Arteria escapular dorsal (izquierda)",
+"la": "Arteria scapularis dorsalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.052-d",
+"es": "Arteria escapular dorsal (derecha)",
+"la": "Arteria scapularis dorsalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.053-i",
+"es": "Arteria torácica interna (izquierda)",
+"la": "Arteria thoracica interna",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.053-d",
+"es": "Arteria torácica interna (derecha)",
+"la": "Arteria thoracica interna",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.054-i",
+"es": "Arteria musculofrénica (izquierda)",
+"la": "Arteria musculophrenica",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.054-d",
+"es": "Arteria musculofrénica (derecha)",
+"la": "Arteria musculophrenica",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.055-i",
+"es": "Arteria epigástrica craneal (izquierda)",
+"la": "Arteria epigastrica cranialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.acc.055-d",
+"es": "Arteria epigástrica craneal (derecha)",
+"la": "Arteria epigastrica cranialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.001-i",
+"es": "Arteria axilar (izquierda)",
+"la": "Arteria axillaris",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.001-d",
+"es": "Arteria axilar (derecha)",
+"la": "Arteria axillaris",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.002-i",
+"es": "Arteria torácica externa (izquierda)",
+"la": "Arteria thoracica externa",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.002-d",
+"es": "Arteria torácica externa (derecha)",
+"la": "Arteria thoracica externa",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.003-i",
+"es": "Arteria subescapular (izquierda)",
+"la": "Arteria subscapularis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.003-d",
+"es": "Arteria subescapular (derecha)",
+"la": "Arteria subscapularis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.004-i",
+"es": "Arteria circunfleja humeral caudal (izquierda)",
+"la": "Arteria circumflexa humeri caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.004-d",
+"es": "Arteria circunfleja humeral caudal (derecha)",
+"la": "Arteria circumflexa humeri caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.005-i",
+"es": "Arteria circunfleja humeral craneal (izquierda)",
+"la": "Arteria circumflexa humeri cranialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.005-d",
+"es": "Arteria circunfleja humeral craneal (derecha)",
+"la": "Arteria circumflexa humeri cranialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.006-i",
+"es": "Arteria toracodorsal (izquierda)",
+"la": "Arteria thoracodorsalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.006-d",
+"es": "Arteria toracodorsal (derecha)",
+"la": "Arteria thoracodorsalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.007-i",
+"es": "Arteria circunfleja escapular (izquierda)",
+"la": "Arteria circumflexa scapulae",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.007-d",
+"es": "Arteria circunfleja escapular (derecha)",
+"la": "Arteria circumflexa scapulae",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.008-i",
+"es": "Arteria braquial (izquierda)",
+"la": "Arteria brachialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.008-d",
+"es": "Arteria braquial (derecha)",
+"la": "Arteria brachialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.009-i",
+"es": "Arteria braquial profunda (izquierda)",
+"la": "Arteria profunda brachii",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.009-d",
+"es": "Arteria braquial profunda (derecha)",
+"la": "Arteria profunda brachii",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.010-i",
+"es": "Arteria bicipital (izquierda)",
+"la": "Arteria bicipitalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.010-d",
+"es": "Arteria bicipital (derecha)",
+"la": "Arteria bicipitalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.011-i",
+"es": "Arteria colateral cubital (izquierda)",
+"la": "Arteria collateralis ulnaris",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.011-d",
+"es": "Arteria colateral cubital (derecha)",
+"la": "Arteria collateralis ulnaris",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.012-i",
+"es": "Arteria transversa del codo (izquierda)",
+"la": "Arteria transversa cubiti",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.012-d",
+"es": "Arteria transversa del codo (derecha)",
+"la": "Arteria transversa cubiti",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.013-i",
+"es": "Arteria interósea común (izquierda)",
+"la": "Arteria interossea communis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.013-d",
+"es": "Arteria interósea común (derecha)",
+"la": "Arteria interossea communis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.014-i",
+"es": "Arteria colateral radial (izquierda)",
+"la": "Arteria collateralis radialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.014-d",
+"es": "Arteria colateral radial (derecha)",
+"la": "Arteria collateralis radialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.015-i",
+"es": "Arteria mediana (izquierda)",
+"la": "Arteria mediana",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.015-d",
+"es": "Arteria mediana (derecha)",
+"la": "Arteria mediana",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.016-i",
+"es": "Arteria radial (izquierda)",
+"la": "Arteria radialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.016-d",
+"es": "Arteria radial (derecha)",
+"la": "Arteria radialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.017-i",
+"es": "Red carpiana dorsal (izquierda)",
+"la": "Rete carpi dorsale",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.017-d",
+"es": "Red carpiana dorsal (derecha)",
+"la": "Rete carpi dorsale",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.018-i",
+"es": "Red carpiana palmar (izquierda)",
+"la": "Rete carpi palmare",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.018-d",
+"es": "Red carpiana palmar (derecha)",
+"la": "Rete carpi palmare",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.019-i",
+"es": "Arteria metacarpiana palmar II (izquierda)",
+"la": "Arteria metacarpea palmaris II",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.019-d",
+"es": "Arteria metacarpiana palmar II (derecha)",
+"la": "Arteria metacarpea palmaris II",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.020-i",
+"es": "Arteria metacarpiana palmar III (izquierda)",
+"la": "Arteria metacarpea palmaris III",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.020-d",
+"es": "Arteria metacarpiana palmar III (derecha)",
+"la": "Arteria metacarpea palmaris III",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.021-i",
+"es": "Arteria digital palmar común II (izquierda)",
+"la": "Arteria digitalis palmaris communis II",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.021-d",
+"es": "Arteria digital palmar común II (derecha)",
+"la": "Arteria digitalis palmaris communis II",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.022-i",
+"es": "Arco palmar profundo (izquierda)",
+"la": "Arcus palmaris profundus",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.022-d",
+"es": "Arco palmar profundo (derecha)",
+"la": "Arcus palmaris profundus",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.023-i",
+"es": "Arteria digital palmar medial (izquierda)",
+"la": "Arteria digitalis palmaris medialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.023-d",
+"es": "Arteria digital palmar medial (derecha)",
+"la": "Arteria digitalis palmaris medialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.024-i",
+"es": "Arteria digital palmar lateral (izquierda)",
+"la": "Arteria digitalis palmaris lateralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.024-d",
+"es": "Arteria digital palmar lateral (derecha)",
+"la": "Arteria digitalis palmaris lateralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.025-i",
+"es": "Arco terminal (izquierda)",
+"la": "Arcus terminalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amt.025-d",
+"es": "Arco terminal (derecha)",
+"la": "Arcus terminalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.001-i",
+"es": "Arteria ilíaca externa (izquierda)",
+"la": "Arteria iliaca externa",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.001-d",
+"es": "Arteria ilíaca externa (derecha)",
+"la": "Arteria iliaca externa",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.002-i",
+"es": "Arteria ilíaca interna (izquierda)",
+"la": "Arteria iliaca interna",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.002-d",
+"es": "Arteria ilíaca interna (derecha)",
+"la": "Arteria iliaca interna",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.003-i",
+"es": "Arteria circunfleja ilíaca profunda (izquierda)",
+"la": "Arteria circumflexa ilium profunda",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.003-d",
+"es": "Arteria circunfleja ilíaca profunda (derecha)",
+"la": "Arteria circumflexa ilium profunda",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.004-i",
+"es": "Tronco pudendoepigástrico (izquierdo)",
+"la": "Truncus pudendoepigastricus",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.004-d",
+"es": "Tronco pudendoepigástrico (derecho)",
+"la": "Truncus pudendoepigastricus",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.005-i",
+"es": "Arteria pudenda externa (izquierda)",
+"la": "Arteria pudenda externa",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.005-d",
+"es": "Arteria pudenda externa (derecha)",
+"la": "Arteria pudenda externa",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.006-i",
+"es": "Arteria epigástrica caudal (izquierda)",
+"la": "Arteria epigastrica caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.006-d",
+"es": "Arteria epigástrica caudal (derecha)",
+"la": "Arteria epigastrica caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.007-i",
+"es": "Arteria femoral profunda (izquierda)",
+"la": "Arteria profunda femoris",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.007-d",
+"es": "Arteria femoral profunda (derecha)",
+"la": "Arteria profunda femoris",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.008-i",
+"es": "Arteria femoral (izquierda)",
+"la": "Arteria femoralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.008-d",
+"es": "Arteria femoral (derecha)",
+"la": "Arteria femoralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.009-i",
+"es": "Arteria circunfleja femoral lateral (izquierda)",
+"la": "Arteria circumflexa femoris lateralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.009-d",
+"es": "Arteria circunfleja femoral lateral (derecha)",
+"la": "Arteria circumflexa femoris lateralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.010-i",
+"es": "Arteria circunfleja femoral medial (izquierda)",
+"la": "Arteria circumflexa femoris medialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.010-d",
+"es": "Arteria circunfleja femoral medial (derecha)",
+"la": "Arteria circumflexa femoris medialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.011-i",
+"es": "Arteria safena (izquierda)",
+"la": "Arteria saphena",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.011-d",
+"es": "Arteria safena (derecha)",
+"la": "Arteria saphena",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.012-i",
+"es": "Arteria genicular descendente (izquierda)",
+"la": "Arteria genus descendens",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.012-d",
+"es": "Arteria genicular descendente (derecha)",
+"la": "Arteria genus descendens",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.013-i",
+"es": "Arteria poplítea (izquierda)",
+"la": "Arteria poplitea",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.013-d",
+"es": "Arteria poplítea (derecha)",
+"la": "Arteria poplitea",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.014-i",
+"es": "Arteria tibial caudal (izquierda)",
+"la": "Arteria tibialis caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.014-d",
+"es": "Arteria tibial caudal (derecha)",
+"la": "Arteria tibialis caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.015-i",
+"es": "Arteria tibial craneal (izquierda)",
+"la": "Arteria tibialis cranialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.015-d",
+"es": "Arteria tibial craneal (derecha)",
+"la": "Arteria tibialis cranialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.016-i",
+"es": "Arteria dorsal del pie (izquierda)",
+"la": "Arteria dorsalis pedis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.016-d",
+"es": "Arteria dorsal del pie (derecha)",
+"la": "Arteria dorsalis pedis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.017-i",
+"es": "Arteria tarsiana perforante (izquierda)",
+"la": "Arteria tarsea perforans",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.017-d",
+"es": "Arteria tarsiana perforante (derecha)",
+"la": "Arteria tarsea perforans",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.018-i",
+"es": "Arteria metatarsiana dorsal III (izquierda)",
+"la": "Arteria metatarsea dorsalis III",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.018-d",
+"es": "Arteria metatarsiana dorsal III (derecha)",
+"la": "Arteria metatarsea dorsalis III",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.019-i",
+"es": "Arco plantar profundo (izquierda)",
+"la": "Arcus plantaris profundus",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.019-d",
+"es": "Arco plantar profundo (derecha)",
+"la": "Arcus plantaris profundus",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.020-i",
+"es": "Arteria digital plantar medial (izquierda)",
+"la": "Arteria digitalis plantaris medialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.020-d",
+"es": "Arteria digital plantar medial (derecha)",
+"la": "Arteria digitalis plantaris medialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.021-i",
+"es": "Arteria digital plantar lateral (izquierda)",
+"la": "Arteria digitalis plantaris lateralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.021-d",
+"es": "Arteria digital plantar lateral (derecha)",
+"la": "Arteria digitalis plantaris lateralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.022-i",
+"es": "Arteria glútea craneal (izquierda)",
+"la": "Arteria glutea cranialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.022-d",
+"es": "Arteria glútea craneal (derecha)",
+"la": "Arteria glutea cranialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.023-i",
+"es": "Arteria glútea caudal (izquierda)",
+"la": "Arteria glutea caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.023-d",
+"es": "Arteria glútea caudal (derecha)",
+"la": "Arteria glutea caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.024-i",
+"es": "Arteria iliolumbar (izquierda)",
+"la": "Arteria iliolumbalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.024-d",
+"es": "Arteria iliolumbar (derecha)",
+"la": "Arteria iliolumbalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.025-i",
+"es": "Arteria umbilical (izquierda)",
+"la": "Arteria umbilicalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.025-d",
+"es": "Arteria umbilical (derecha)",
+"la": "Arteria umbilicalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.026-i",
+"es": "Arteria pudenda interna (izquierda)",
+"la": "Arteria pudenda interna",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.026-d",
+"es": "Arteria pudenda interna (derecha)",
+"la": "Arteria pudenda interna",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.027-i",
+"es": "Arteria perineal ventral (izquierda)",
+"la": "Arteria perinealis ventralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.027-d",
+"es": "Arteria perineal ventral (derecha)",
+"la": "Arteria perinealis ventralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.028-i",
+"es": "Arteria rectal caudal (izquierda)",
+"la": "Arteria rectalis caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.028-d",
+"es": "Arteria rectal caudal (derecha)",
+"la": "Arteria rectalis caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.029",
+"es": "Arteria caudal mediana",
+"la": "Arteria caudalis mediana",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.amp.030-i",
+"es": "Arteria del bulbo del pene (izquierda)",
+"la": "Arteria bulbi penis",
+"sys": "car",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.car.amp.030-d",
+"es": "Arteria del bulbo del pene (derecha)",
+"la": "Arteria bulbi penis",
+"sys": "car",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.car.amp.031-i",
+"es": "Arteria profunda del pene (izquierda)",
+"la": "Arteria profunda penis",
+"sys": "car",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.car.amp.031-d",
+"es": "Arteria profunda del pene (derecha)",
+"la": "Arteria profunda penis",
+"sys": "car",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.car.amp.032-i",
+"es": "Arteria dorsal del pene (izquierda)",
+"la": "Arteria dorsalis penis",
+"sys": "car",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.car.amp.032-d",
+"es": "Arteria dorsal del pene (derecha)",
+"la": "Arteria dorsalis penis",
+"sys": "car",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.car.amp.033-i",
+"es": "Arteria prostática (izquierda)",
+"la": "Arteria prostatica",
+"sys": "car",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.car.amp.033-d",
+"es": "Arteria prostática (derecha)",
+"la": "Arteria prostatica",
+"sys": "car",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.car.amp.034-i",
+"es": "Arteria del conducto deferente (izquierda)",
+"la": "Arteria ductus deferentis",
+"sys": "car",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.car.amp.034-d",
+"es": "Arteria del conducto deferente (derecha)",
+"la": "Arteria ductus deferentis",
+"sys": "car",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.car.amp.035-i",
+"es": "Arteria vaginal (izquierda)",
+"la": "Arteria vaginalis",
+"sys": "car",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.car.amp.035-d",
+"es": "Arteria vaginal (derecha)",
+"la": "Arteria vaginalis",
+"sys": "car",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.car.amp.036-i",
+"es": "Arteria uterina (izquierda)",
+"la": "Arteria uterina",
+"sys": "car",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.car.amp.036-d",
+"es": "Arteria uterina (derecha)",
+"la": "Arteria uterina",
+"sys": "car",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.car.amp.037-i",
+"es": "Arteria del clítoris (izquierda)",
+"la": "Arteria clitoridis",
+"sys": "car",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.car.amp.037-d",
+"es": "Arteria del clítoris (derecha)",
+"la": "Arteria clitoridis",
+"sys": "car",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.car.avi.001",
+"es": "Arteria celíaca",
+"la": "Arteria coeliaca",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.avi.002",
+"es": "Arteria gástrica izquierda",
+"la": "Arteria gastrica sinistra",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.avi.003",
+"es": "Arteria esplénica",
+"la": "Arteria splenica",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.avi.004",
+"es": "Arteria hepática",
+"la": "Arteria hepatica",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.avi.005",
+"es": "Arteria gástrica derecha",
+"la": "Arteria gastrica dextra",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.avi.006",
+"es": "Arteria gastroduodenal",
+"la": "Arteria gastroduodenalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.avi.007",
+"es": "Arteria gastroepiploica derecha",
+"la": "Arteria gastroepiploica dextra",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.avi.008",
+"es": "Arteria gastroepiploica izquierda",
+"la": "Arteria gastroepiploica sinistra",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.avi.009",
+"es": "Arteria pancreaticoduodenal craneal",
+"la": "Arteria pancreaticoduodenalis cranialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.avi.010",
+"es": "Arteria mesentérica craneal",
+"la": "Arteria mesenterica cranialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.avi.011",
+"es": "Arteria pancreaticoduodenal caudal",
+"la": "Arteria pancreaticoduodenalis caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.avi.012",
+"es": "Arterias yeyunales",
+"la": "Arteriae jejunales",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.avi.013",
+"es": "Arteria ileocólica",
+"la": "Arteria ileocolica",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.avi.014",
+"es": "Arteria cecal medial",
+"la": "Arteria caecalis medialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.avi.015",
+"es": "Arteria cecal lateral",
+"la": "Arteria caecalis lateralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.avi.016",
+"es": "Arteria cólica derecha",
+"la": "Arteria colica dextra",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.avi.017",
+"es": "Arteria cólica media",
+"la": "Arteria colica media",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.avi.018",
+"es": "Arteria mesentérica caudal",
+"la": "Arteria mesenterica caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.avi.019",
+"es": "Arteria cólica izquierda",
+"la": "Arteria colica sinistra",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.avi.020",
+"es": "Arteria rectal craneal",
+"la": "Arteria rectalis cranialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.avi.021-i",
+"es": "Arteria renal (izquierda)",
+"la": "Arteria renalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.avi.021-d",
+"es": "Arteria renal (derecha)",
+"la": "Arteria renalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.avi.022-i",
+"es": "Arteria testicular (izquierda)",
+"la": "Arteria testicularis",
+"sys": "car",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.car.avi.022-d",
+"es": "Arteria testicular (derecha)",
+"la": "Arteria testicularis",
+"sys": "car",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.car.avi.023-i",
+"es": "Arteria ovárica (izquierda)",
+"la": "Arteria ovarica",
+"sys": "car",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.car.avi.023-d",
+"es": "Arteria ovárica (derecha)",
+"la": "Arteria ovarica",
+"sys": "car",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.car.vcc.001-i",
+"es": "Vena yugular externa (izquierda)",
+"la": "Vena jugularis externa",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.001-d",
+"es": "Vena yugular externa (derecha)",
+"la": "Vena jugularis externa",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.002-i",
+"es": "Vena braquiocefálica (izquierda)",
+"la": "Vena brachiocephalica",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.002-d",
+"es": "Vena braquiocefálica (derecha)",
+"la": "Vena brachiocephalica",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.003-i",
+"es": "Vena linguofacial (izquierda)",
+"la": "Vena linguofacialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.003-d",
+"es": "Vena linguofacial (derecha)",
+"la": "Vena linguofacialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.004-i",
+"es": "Vena facial (izquierda)",
+"la": "Vena facialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.004-d",
+"es": "Vena facial (derecha)",
+"la": "Vena facialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.005-i",
+"es": "Vena lingual (izquierda)",
+"la": "Vena lingualis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.005-d",
+"es": "Vena lingual (derecha)",
+"la": "Vena lingualis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.006-i",
+"es": "Vena maxilar (izquierda)",
+"la": "Vena maxillaris",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.006-d",
+"es": "Vena maxilar (derecha)",
+"la": "Vena maxillaris",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.007-i",
+"es": "Vena facial profunda (izquierda)",
+"la": "Vena facialis profunda",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.007-d",
+"es": "Vena facial profunda (derecha)",
+"la": "Vena facialis profunda",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.008-i",
+"es": "Vena transversa de la cara (izquierda)",
+"la": "Vena transversa faciei",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.008-d",
+"es": "Vena transversa de la cara (derecha)",
+"la": "Vena transversa faciei",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.009-i",
+"es": "Vena angular del ojo (izquierda)",
+"la": "Vena angularis oculi",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.009-d",
+"es": "Vena angular del ojo (derecha)",
+"la": "Vena angularis oculi",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.010-i",
+"es": "Vena dorsal de la nariz (izquierda)",
+"la": "Vena dorsalis nasi",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.010-d",
+"es": "Vena dorsal de la nariz (derecha)",
+"la": "Vena dorsalis nasi",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.011-i",
+"es": "Vena infraorbitaria (izquierda)",
+"la": "Vena infraorbitalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.011-d",
+"es": "Vena infraorbitaria (derecha)",
+"la": "Vena infraorbitalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.012-i",
+"es": "Vena labial superior (izquierda)",
+"la": "Vena labialis superior",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.012-d",
+"es": "Vena labial superior (derecha)",
+"la": "Vena labialis superior",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.013-i",
+"es": "Vena labial inferior (izquierda)",
+"la": "Vena labialis inferior",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.013-d",
+"es": "Vena labial inferior (derecha)",
+"la": "Vena labialis inferior",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.014-i",
+"es": "Vena auricular caudal (izquierda)",
+"la": "Vena auricularis caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.014-d",
+"es": "Vena auricular caudal (derecha)",
+"la": "Vena auricularis caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.015-i",
+"es": "Vena occipital (izquierda)",
+"la": "Vena occipitalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.015-d",
+"es": "Vena occipital (derecha)",
+"la": "Vena occipitalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.016-i",
+"es": "Vena temporal superficial (izquierda)",
+"la": "Vena temporalis superficialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.016-d",
+"es": "Vena temporal superficial (derecha)",
+"la": "Vena temporalis superficialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.017-i",
+"es": "Vena tiroidea craneal (izquierda)",
+"la": "Vena thyroidea cranialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.017-d",
+"es": "Vena tiroidea craneal (derecha)",
+"la": "Vena thyroidea cranialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.018-i",
+"es": "Vena vertebral (izquierda)",
+"la": "Vena vertebralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.018-d",
+"es": "Vena vertebral (derecha)",
+"la": "Vena vertebralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.019-i",
+"es": "Vena cervical profunda (izquierda)",
+"la": "Vena cervicalis profunda",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.019-d",
+"es": "Vena cervical profunda (derecha)",
+"la": "Vena cervicalis profunda",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.020-i",
+"es": "Vena cervical superficial (izquierda)",
+"la": "Vena cervicalis superficialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.020-d",
+"es": "Vena cervical superficial (derecha)",
+"la": "Vena cervicalis superficialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.021-i",
+"es": "Vena torácica interna (izquierda)",
+"la": "Vena thoracica interna",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.021-d",
+"es": "Vena torácica interna (derecha)",
+"la": "Vena thoracica interna",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vcc.022",
+"es": "Plexo vertebral interno ventral",
+"la": "Plexus vertebralis internus ventralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.sdu.001",
+"es": "Seno sagital dorsal",
+"la": "Sinus sagittalis dorsalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.sdu.002",
+"es": "Seno recto",
+"la": "Sinus rectus",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.sdu.003-i",
+"es": "Seno transverso (izquierdo)",
+"la": "Sinus transversus",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.sdu.003-d",
+"es": "Seno transverso (derecho)",
+"la": "Sinus transversus",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.sdu.004-i",
+"es": "Seno sigmoideo (izquierdo)",
+"la": "Sinus sigmoideus",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.sdu.004-d",
+"es": "Seno sigmoideo (derecho)",
+"la": "Sinus sigmoideus",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.sdu.005-i",
+"es": "Seno cavernoso (izquierdo)",
+"la": "Sinus cavernosus",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.sdu.005-d",
+"es": "Seno cavernoso (derecho)",
+"la": "Sinus cavernosus",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.sdu.006-i",
+"es": "Seno petroso ventral (izquierdo)",
+"la": "Sinus petrosus ventralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.sdu.006-d",
+"es": "Seno petroso ventral (derecho)",
+"la": "Sinus petrosus ventralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.sdu.007-i",
+"es": "Seno petroso dorsal (izquierdo)",
+"la": "Sinus petrosus dorsalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.sdu.007-d",
+"es": "Seno petroso dorsal (derecho)",
+"la": "Sinus petrosus dorsalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vtr.001",
+"es": "Vena cava craneal",
+"la": "Vena cava cranialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vtr.002",
+"es": "Vena cava caudal",
+"la": "Vena cava caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vtr.003",
+"es": "Vena ácigos derecha",
+"la": "Vena azygos dextra",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vtr.004",
+"es": "Venas intercostales dorsales",
+"la": "Venae intercostales dorsales",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vtr.005",
+"es": "Venas lumbares",
+"la": "Venae lumbales",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vtr.006",
+"es": "Vena sacra mediana",
+"la": "Vena sacralis mediana",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vtr.007",
+"es": "Vena caudal mediana",
+"la": "Vena caudalis mediana",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vtr.008-i",
+"es": "Vena ilíaca común (izquierda)",
+"la": "Vena iliaca communis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vtr.008-d",
+"es": "Vena ilíaca común (derecha)",
+"la": "Vena iliaca communis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vtr.009-i",
+"es": "Vena ilíaca externa (izquierda)",
+"la": "Vena iliaca externa",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vtr.009-d",
+"es": "Vena ilíaca externa (derecha)",
+"la": "Vena iliaca externa",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vtr.010-i",
+"es": "Vena ilíaca interna (izquierda)",
+"la": "Vena iliaca interna",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vtr.010-d",
+"es": "Vena ilíaca interna (derecha)",
+"la": "Vena iliaca interna",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vtr.011-i",
+"es": "Vena circunfleja ilíaca profunda (izquierda)",
+"la": "Vena circumflexa ilium profunda",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vtr.011-d",
+"es": "Vena circunfleja ilíaca profunda (derecha)",
+"la": "Vena circumflexa ilium profunda",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vtr.012-i",
+"es": "Vena iliolumbar (izquierda)",
+"la": "Vena iliolumbalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vtr.012-d",
+"es": "Vena iliolumbar (derecha)",
+"la": "Vena iliolumbalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vtr.013-i",
+"es": "Vena glútea craneal (izquierda)",
+"la": "Vena glutea cranialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vtr.013-d",
+"es": "Vena glútea craneal (derecha)",
+"la": "Vena glutea cranialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vtr.014-i",
+"es": "Vena glútea caudal (izquierda)",
+"la": "Vena glutea caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vtr.014-d",
+"es": "Vena glútea caudal (derecha)",
+"la": "Vena glutea caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vtr.015-i",
+"es": "Vena pudenda interna (izquierda)",
+"la": "Vena pudenda interna",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vtr.015-d",
+"es": "Vena pudenda interna (derecha)",
+"la": "Vena pudenda interna",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vtr.016-i",
+"es": "Vena pudenda externa (izquierda)",
+"la": "Vena pudenda externa",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vtr.016-d",
+"es": "Vena pudenda externa (derecha)",
+"la": "Vena pudenda externa",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vtr.017-i",
+"es": "Vena epigástrica caudal (izquierda)",
+"la": "Vena epigastrica caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vtr.017-d",
+"es": "Vena epigástrica caudal (derecha)",
+"la": "Vena epigastrica caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vtr.018-i",
+"es": "Vena subcutánea abdominal (izquierda)",
+"la": "Vena subcutanea abdominis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vtr.018-d",
+"es": "Vena subcutánea abdominal (derecha)",
+"la": "Vena subcutanea abdominis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vtr.019-i",
+"es": "Vena dorsal del pene (izquierda)",
+"la": "Vena dorsalis penis",
+"sys": "car",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.car.vtr.019-d",
+"es": "Vena dorsal del pene (derecha)",
+"la": "Vena dorsalis penis",
+"sys": "car",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.car.vtr.020-i",
+"es": "Vena testicular (izquierda)",
+"la": "Vena testicularis",
+"sys": "car",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.car.vtr.020-d",
+"es": "Vena testicular (derecha)",
+"la": "Vena testicularis",
+"sys": "car",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.car.vtr.021-i",
+"es": "Vena ovárica (izquierda)",
+"la": "Vena ovarica",
+"sys": "car",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.car.vtr.021-d",
+"es": "Vena ovárica (derecha)",
+"la": "Vena ovarica",
+"sys": "car",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.car.vtr.022-i",
+"es": "Vena uterina (izquierda)",
+"la": "Vena uterina",
+"sys": "car",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.car.vtr.022-d",
+"es": "Vena uterina (derecha)",
+"la": "Vena uterina",
+"sys": "car",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.car.vtr.023-i",
+"es": "Vena vaginal (izquierda)",
+"la": "Vena vaginalis",
+"sys": "car",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.car.vtr.023-d",
+"es": "Vena vaginal (derecha)",
+"la": "Vena vaginalis",
+"sys": "car",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.car.vmt.001-i",
+"es": "Vena axilar (izquierda)",
+"la": "Vena axillaris",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmt.001-d",
+"es": "Vena axilar (derecha)",
+"la": "Vena axillaris",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmt.002-i",
+"es": "Vena subescapular (izquierda)",
+"la": "Vena subscapularis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmt.002-d",
+"es": "Vena subescapular (derecha)",
+"la": "Vena subscapularis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmt.003-i",
+"es": "Vena torácica externa (izquierda)",
+"la": "Vena thoracica externa",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmt.003-d",
+"es": "Vena torácica externa (derecha)",
+"la": "Vena thoracica externa",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmt.004-i",
+"es": "Vena braquial (izquierda)",
+"la": "Vena brachialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmt.004-d",
+"es": "Vena braquial (derecha)",
+"la": "Vena brachialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmt.005-i",
+"es": "Vena cefálica (izquierda)",
+"la": "Vena cephalica",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmt.005-d",
+"es": "Vena cefálica (derecha)",
+"la": "Vena cephalica",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmt.006-i",
+"es": "Vena cefálica accesoria (izquierda)",
+"la": "Vena cephalica accessoria",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmt.006-d",
+"es": "Vena cefálica accesoria (derecha)",
+"la": "Vena cephalica accessoria",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmt.007-i",
+"es": "Vena mediana cubital (izquierda)",
+"la": "Vena mediana cubiti",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmt.007-d",
+"es": "Vena mediana cubital (derecha)",
+"la": "Vena mediana cubiti",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmt.008-i",
+"es": "Vena colateral cubital (izquierda)",
+"la": "Vena collateralis ulnaris",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmt.008-d",
+"es": "Vena colateral cubital (derecha)",
+"la": "Vena collateralis ulnaris",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmt.009-i",
+"es": "Vena mediana (izquierda)",
+"la": "Vena mediana",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmt.009-d",
+"es": "Vena mediana (derecha)",
+"la": "Vena mediana",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmt.010-i",
+"es": "Vena radial (izquierda)",
+"la": "Vena radialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmt.010-d",
+"es": "Vena radial (derecha)",
+"la": "Vena radialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmt.011-i",
+"es": "Vena digital palmar medial (izquierda)",
+"la": "Vena digitalis palmaris medialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmt.011-d",
+"es": "Vena digital palmar medial (derecha)",
+"la": "Vena digitalis palmaris medialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmt.012-i",
+"es": "Vena digital palmar lateral (izquierda)",
+"la": "Vena digitalis palmaris lateralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmt.012-d",
+"es": "Vena digital palmar lateral (derecha)",
+"la": "Vena digitalis palmaris lateralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmt.013-i",
+"es": "Plexo venoso coronario (izquierdo)",
+"la": "Plexus venosus coronalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmt.013-d",
+"es": "Plexo venoso coronario (derecho)",
+"la": "Plexus venosus coronalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmt.014-i",
+"es": "Plexo venoso solar (izquierdo)",
+"la": "Plexus venosus solearis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmt.014-d",
+"es": "Plexo venoso solar (derecho)",
+"la": "Plexus venosus solearis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmp.001-i",
+"es": "Vena femoral (izquierda)",
+"la": "Vena femoralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmp.001-d",
+"es": "Vena femoral (derecha)",
+"la": "Vena femoralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmp.002-i",
+"es": "Vena femoral profunda (izquierda)",
+"la": "Vena profunda femoris",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmp.002-d",
+"es": "Vena femoral profunda (derecha)",
+"la": "Vena profunda femoris",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmp.003-i",
+"es": "Vena circunfleja femoral lateral (izquierda)",
+"la": "Vena circumflexa femoris lateralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmp.003-d",
+"es": "Vena circunfleja femoral lateral (derecha)",
+"la": "Vena circumflexa femoris lateralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmp.004-i",
+"es": "Vena circunfleja femoral medial (izquierda)",
+"la": "Vena circumflexa femoris medialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmp.004-d",
+"es": "Vena circunfleja femoral medial (derecha)",
+"la": "Vena circumflexa femoris medialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmp.005-i",
+"es": "Vena safena lateral (izquierda)",
+"la": "Vena saphena lateralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmp.005-d",
+"es": "Vena safena lateral (derecha)",
+"la": "Vena saphena lateralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmp.006-i",
+"es": "Vena safena medial (izquierda)",
+"la": "Vena saphena medialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmp.006-d",
+"es": "Vena safena medial (derecha)",
+"la": "Vena saphena medialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmp.007-i",
+"es": "Vena poplítea (izquierda)",
+"la": "Vena poplitea",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmp.007-d",
+"es": "Vena poplítea (derecha)",
+"la": "Vena poplitea",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmp.008-i",
+"es": "Vena tibial craneal (izquierda)",
+"la": "Vena tibialis cranialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmp.008-d",
+"es": "Vena tibial craneal (derecha)",
+"la": "Vena tibialis cranialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmp.009-i",
+"es": "Vena tibial caudal (izquierda)",
+"la": "Vena tibialis caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmp.009-d",
+"es": "Vena tibial caudal (derecha)",
+"la": "Vena tibialis caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmp.010-i",
+"es": "Vena digital plantar medial (izquierda)",
+"la": "Vena digitalis plantaris medialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmp.010-d",
+"es": "Vena digital plantar medial (derecha)",
+"la": "Vena digitalis plantaris medialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmp.011-i",
+"es": "Vena digital plantar lateral (izquierda)",
+"la": "Vena digitalis plantaris lateralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vmp.011-d",
+"es": "Vena digital plantar lateral (derecha)",
+"la": "Vena digitalis plantaris lateralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vvi.001",
+"es": "Vena porta",
+"la": "Vena portae",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vvi.002",
+"es": "Vena esplénica",
+"la": "Vena splenica",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vvi.003",
+"es": "Vena gástrica izquierda",
+"la": "Vena gastrica sinistra",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vvi.004",
+"es": "Vena gástrica derecha",
+"la": "Vena gastrica dextra",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vvi.005",
+"es": "Vena gastroepiploica derecha",
+"la": "Vena gastroepiploica dextra",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vvi.006",
+"es": "Vena gastroepiploica izquierda",
+"la": "Vena gastroepiploica sinistra",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vvi.007",
+"es": "Vena mesentérica craneal",
+"la": "Vena mesenterica cranialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vvi.008",
+"es": "Vena mesentérica caudal",
+"la": "Vena mesenterica caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vvi.009",
+"es": "Venas yeyunales",
+"la": "Venae jejunales",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vvi.010",
+"es": "Vena ileocólica",
+"la": "Vena ileocolica",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vvi.011",
+"es": "Vena cecal medial",
+"la": "Vena caecalis medialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vvi.012",
+"es": "Vena cecal lateral",
+"la": "Vena caecalis lateralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vvi.013",
+"es": "Vena cólica derecha",
+"la": "Vena colica dextra",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vvi.014",
+"es": "Vena cólica media",
+"la": "Vena colica media",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vvi.015",
+"es": "Vena cólica izquierda",
+"la": "Vena colica sinistra",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vvi.016",
+"es": "Vena rectal craneal",
+"la": "Vena rectalis cranialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vvi.017",
+"es": "Venas hepáticas",
+"la": "Venae hepaticae",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vvi.018-i",
+"es": "Vena renal (izquierda)",
+"la": "Vena renalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.vvi.018-d",
+"es": "Vena renal (derecha)",
+"la": "Vena renalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.fet.001",
+"es": "Vena umbilical",
+"la": "Vena umbilicalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.fet.002",
+"es": "Conducto venoso",
+"la": "Ductus venosus",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.fet.003",
+"es": "Conducto arterioso",
+"la": "Ductus arteriosus",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.fet.004",
+"es": "Foramen oval",
+"la": "Foramen ovale",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.fet.005",
+"es": "Ligamento redondo del hígado",
+"la": "Ligamentum teres hepatis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.fet.006",
+"es": "Ligamento venoso",
+"la": "Ligamentum venosum",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.fet.007-i",
+"es": "Ligamento umbilical lateral (izquierdo)",
+"la": "Ligamentum umbilicale laterale",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.fet.007-d",
+"es": "Ligamento umbilical lateral (derecho)",
+"la": "Ligamentum umbilicale laterale",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lco.001",
+"es": "Conducto torácico",
+"la": "Ductus thoracicus",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lco.002",
+"es": "Cisterna del quilo",
+"la": "Cisterna chyli",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lco.003",
+"es": "Conducto linfático derecho",
+"la": "Ductus lymphaticus dexter",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lco.004",
+"es": "Troncos lumbares",
+"la": "Trunci lumbales",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lco.005",
+"es": "Tronco intestinal",
+"la": "Truncus intestinalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lco.006-i",
+"es": "Tronco yugular (izquierdo)",
+"la": "Truncus jugularis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lco.006-d",
+"es": "Tronco yugular (derecho)",
+"la": "Truncus jugularis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lco.007-i",
+"es": "Tronco traqueal (izquierdo)",
+"la": "Truncus trachealis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lco.007-d",
+"es": "Tronco traqueal (derecho)",
+"la": "Truncus trachealis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.001-i",
+"es": "Ganglio parotídeo (izquierdo)",
+"la": "Lymphonodus parotideus",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.001-d",
+"es": "Ganglio parotídeo (derecho)",
+"la": "Lymphonodus parotideus",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.002-i",
+"es": "Ganglio mandibular (izquierdo)",
+"la": "Lymphonodus mandibularis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.002-d",
+"es": "Ganglio mandibular (derecho)",
+"la": "Lymphonodus mandibularis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.003-i",
+"es": "Ganglio retrofaríngeo medial (izquierdo)",
+"la": "Lymphonodus retropharyngeus medialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.003-d",
+"es": "Ganglio retrofaríngeo medial (derecho)",
+"la": "Lymphonodus retropharyngeus medialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.004-i",
+"es": "Ganglio retrofaríngeo lateral (izquierdo)",
+"la": "Lymphonodus retropharyngeus lateralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.004-d",
+"es": "Ganglio retrofaríngeo lateral (derecho)",
+"la": "Lymphonodus retropharyngeus lateralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.005-i",
+"es": "Ganglio cervical superficial (izquierdo)",
+"la": "Lymphonodus cervicalis superficialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.005-d",
+"es": "Ganglio cervical superficial (derecho)",
+"la": "Lymphonodus cervicalis superficialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.006-i",
+"es": "Ganglio cervical profundo craneal (izquierdo)",
+"la": "Lymphonodus cervicalis profundus cranialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.006-d",
+"es": "Ganglio cervical profundo craneal (derecho)",
+"la": "Lymphonodus cervicalis profundus cranialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.007-i",
+"es": "Ganglio cervical profundo medio (izquierdo)",
+"la": "Lymphonodus cervicalis profundus medius",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.007-d",
+"es": "Ganglio cervical profundo medio (derecho)",
+"la": "Lymphonodus cervicalis profundus medius",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.008-i",
+"es": "Ganglio cervical profundo caudal (izquierdo)",
+"la": "Lymphonodus cervicalis profundus caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.008-d",
+"es": "Ganglio cervical profundo caudal (derecho)",
+"la": "Lymphonodus cervicalis profundus caudalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.009-i",
+"es": "Ganglio axilar (izquierdo)",
+"la": "Lymphonodus axillaris",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.009-d",
+"es": "Ganglio axilar (derecho)",
+"la": "Lymphonodus axillaris",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.010",
+"es": "Ganglios esternales",
+"la": "Lymphonodi sternales",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.011",
+"es": "Ganglios intercostales",
+"la": "Lymphonodi intercostales",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.012",
+"es": "Ganglios torácicos aórticos",
+"la": "Lymphonodi thoracici aortici",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.013",
+"es": "Ganglios mediastínicos craneales",
+"la": "Lymphonodi mediastinales craniales",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.014",
+"es": "Ganglios mediastínicos medios",
+"la": "Lymphonodi mediastinales medii",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.015",
+"es": "Ganglios mediastínicos caudales",
+"la": "Lymphonodi mediastinales caudales",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.016",
+"es": "Ganglios traqueobronquiales izquierdos",
+"la": "Lymphonodi tracheobronchales sinistri",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.017",
+"es": "Ganglios traqueobronquiales derechos",
+"la": "Lymphonodi tracheobronchales dextri",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.018",
+"es": "Ganglios traqueobronquiales medios",
+"la": "Lymphonodi tracheobronchales medii",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.019",
+"es": "Ganglios traqueobronquiales craneales",
+"la": "Lymphonodi tracheobronchales craniales",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.020",
+"es": "Ganglios pulmonares",
+"la": "Lymphonodi pulmonales",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.021",
+"es": "Ganglios lumbares aórticos",
+"la": "Lymphonodi lumbales aortici",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.022",
+"es": "Ganglios renales",
+"la": "Lymphonodi renales",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.023",
+"es": "Ganglios celíacos",
+"la": "Lymphonodi coeliaci",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.024",
+"es": "Ganglios gástricos",
+"la": "Lymphonodi gastrici",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.025",
+"es": "Ganglios esplénicos",
+"la": "Lymphonodi splenici",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.026",
+"es": "Ganglios hepáticos",
+"la": "Lymphonodi hepatici",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.027",
+"es": "Ganglios pancreaticoduodenales",
+"la": "Lymphonodi pancreaticoduodenales",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.028",
+"es": "Ganglios mesentéricos craneales",
+"la": "Lymphonodi mesenterici craniales",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.029",
+"es": "Ganglios mesentéricos caudales",
+"la": "Lymphonodi mesenterici caudales",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.030",
+"es": "Ganglios yeyunales",
+"la": "Lymphonodi jejunales",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.031",
+"es": "Ganglios cecales",
+"la": "Lymphonodi caecales",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.032",
+"es": "Ganglios cólicos",
+"la": "Lymphonodi colici",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.033-i",
+"es": "Ganglio ilíaco medial (izquierdo)",
+"la": "Lymphonodus iliacus medialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.033-d",
+"es": "Ganglio ilíaco medial (derecho)",
+"la": "Lymphonodus iliacus medialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.034-i",
+"es": "Ganglio ilíaco lateral (izquierdo)",
+"la": "Lymphonodus iliacus lateralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.034-d",
+"es": "Ganglio ilíaco lateral (derecho)",
+"la": "Lymphonodus iliacus lateralis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.035",
+"es": "Ganglios hipogástricos",
+"la": "Lymphonodi hypogastrici",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.036-i",
+"es": "Ganglio subilíaco (izquierdo)",
+"la": "Lymphonodus subiliacus",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.036-d",
+"es": "Ganglio subilíaco (derecho)",
+"la": "Lymphonodus subiliacus",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.037-i",
+"es": "Ganglio inguinal superficial (izquierdo)",
+"la": "Lymphonodus inguinalis superficialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.037-d",
+"es": "Ganglio inguinal superficial (derecho)",
+"la": "Lymphonodus inguinalis superficialis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.038-i",
+"es": "Ganglio inguinal profundo (izquierdo)",
+"la": "Lymphonodus inguinalis profundus",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.038-d",
+"es": "Ganglio inguinal profundo (derecho)",
+"la": "Lymphonodus inguinalis profundus",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.039-i",
+"es": "Ganglio poplíteo (izquierdo)",
+"la": "Lymphonodus popliteus",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lin.039-d",
+"es": "Ganglio poplíteo (derecho)",
+"la": "Lymphonodus popliteus",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lor.001",
+"es": "Bazo",
+"la": "Splen (Lien)",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lor.002",
+"es": "Extremidad dorsal del bazo",
+"la": "Extremitas dorsalis splenis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lor.003",
+"es": "Extremidad ventral del bazo",
+"la": "Extremitas ventralis splenis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lor.004",
+"es": "Cara parietal del bazo",
+"la": "Facies parietalis splenis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lor.005",
+"es": "Cara visceral del bazo",
+"la": "Facies visceralis splenis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lor.006",
+"es": "Hilio del bazo",
+"la": "Hilus splenicus",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lor.007",
+"es": "Ligamento nefroesplénico",
+"la": "Ligamentum nephrosplenicum",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lor.008",
+"es": "Timo",
+"la": "Thymus",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lor.009",
+"es": "Timo, porción cervical",
+"la": "Thymus, pars cervicalis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lor.010",
+"es": "Timo, porción torácica",
+"la": "Thymus, pars thoracica",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lor.011",
+"es": "Tonsila lingual",
+"la": "Tonsilla lingualis",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lor.012",
+"es": "Tonsila palatina",
+"la": "Tonsilla palatina",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lor.013",
+"es": "Tonsila faríngea",
+"la": "Tonsilla pharyngea",
+"sys": "car",
+"layer": "org"
+},
+{
+"id": "equ.car.lor.014",
+"es": "Nódulos linfáticos agregados (placas de Peyer)",
+"la": "Noduli lymphatici aggregati",
+"sys": "car",
+"layer": "org"
 }
 ]
 }
