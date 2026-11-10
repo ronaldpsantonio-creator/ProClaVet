@@ -151,3 +151,16 @@ La interfaz declara capas específicas para piel (pel), sistema vascular (vas), 
 ### Estado de estos hallazgos
 - Confirmado: JSON válido, IDs únicos, campos básicos presentes, clasificación de capas observada, falta de ficha poblada, ruta GLB del corazón no encontrada y declaración de licencias sin modelos incorporados.
 - Pendiente: decidir la clasificación anatómica correcta registro por registro; validar la exhaustividad y nomenclatura con atlas/NAV/Dyce; revisar duplicados aparentes según región/lateralidad; verificar comportamiento real del visor en dispositivos.
+
+
+## 8. Revisión de documentación de respaldo
+
+- docs/FUENTES_VERIFICACION.md declara expresamente que el contenido sigue siendo borrador y que no sustituye la revisión contra la NAV 6.ª edición (2017) y atlas veterinarios.
+- La tabla de fuentes combina material académico, artículos revisados por pares, manual clínico, fuentes secundarias y apuntes de baja confianza. Cada afirmación debe heredar el nivel de confianza de su fuente.
+- Los borradores musculares de cabeza/cuello y miembro torácico indican que no tienen modelos 3D y que las capas y la nomenclatura requieren verificación.
+- El documento muscular de cabeza/cuello declara que no es exhaustivo e identifica grupos aún no incluidos o asignados a otros sistemas.
+- Los documentos de pendientes del sistema nervioso, tegumentario y urinario/reproductor reconocen que parte de sus nombres y estructuras se escribieron de memoria o desde WikiVet y aún no se contrastaron con la NAV.
+- El sistema esquelético está descrito en el changelog como borrador con formas esquemáticas provisionales; el listado de articulaciones/ligamentos también se identifica como borrador sin formas 3D.
+
+### Implicación para la auditoría anatómica
+No se debe marcar un sistema como anatómicamente completo solo porque tenga un gran número de registros. La revisión se hará contra una fuente veterinaria primaria o académica de referencia, anotando por cada bloque qué fue confirmado, qué está ausente, qué requiere aclaración y qué no se pudo verificar. Los términos latinos deberán normalizarse según la nomenclatura veterinaria aplicable y respetar diferencias específicas del caballo.
