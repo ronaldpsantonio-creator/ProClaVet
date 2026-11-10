@@ -1,0 +1,92 @@
+PENDIENTES DEL SISTEMA TEGUMENTARIO EQUINO (verificar con la NAV 6.ª ed. 2017 y con Dyce)
+
+Convención: sys "teg", capa "org" (se mueve a la capa 1, Piel y tejido subcutáneo, al corregir las capas).
+Casco: las mismas estructuras se cargan para el miembro torácico (grupo cmt) y el pélvico (grupo cmp), izquierdo y derecho, con el mismo nombre en español; el ID indica el miembro, como se decidió para la mano y el pie.
+
+A) POR VERIFICAR
+- Todo lo de la sección C está escrito de memoria o desde WikiVet y no contrastado con la NAV, en especial los nombres latinos del casco (perioplo, estratos de la muralla, talón, rodete coronario, cojinete digital), castañas, espolones, cernejas, crin y tupé.
+- Los estratos de la epidermis y de la dermis son estructuras histológicas, incluidas como referencia.
+
+B) NO INCLUIDO TODAVÍA
+- Pliegues cutáneos (flanco, babilla, axila), remolinos y pigmentación.
+- Receptores cutáneos y terminaciones nerviosas; nervios cutáneos (los principales ya están en el sistema nervioso).
+- Glándulas especiales por región; glándula mamaria y glándulas prepuciales/clitorianas (ya están en el reproductor); glándulas ceruminosas y tarsales (van con sentidos).
+- Músculos cutáneos (ya están en el sistema muscular) y cartílagos ungulares (en el esquelético).
+
+C) ESTRUCTURAS MARCADAS PARA VERIFICAR
+equ.teg.pie.003	Estrato basal de la epidermis	Stratum basale
+equ.teg.pie.004	Estrato espinoso de la epidermis	Stratum spinosum
+equ.teg.pie.005	Estrato granuloso de la epidermis	Stratum granulosum
+equ.teg.pie.006	Estrato lúcido de la epidermis	Stratum lucidum
+equ.teg.pie.007	Estrato córneo de la epidermis	Stratum corneum
+equ.teg.pie.009	Estrato papilar de la dermis	Stratum papillare
+equ.teg.pie.010	Estrato reticular de la dermis	Stratum reticulare
+equ.teg.pie.011	Papilas dérmicas	Papillae dermales
+equ.teg.pie.013	Panículo adiposo	Panniculus adiposus
+equ.teg.pel.007	Vaina radicular del pelo	Vagina radicularis
+equ.teg.pel.009	Pelos táctiles (vibrisas)	Pili tactiles
+equ.teg.pel.010	Tupé (copete)	Cirrus capitis
+equ.teg.pel.011	Crin	Juba
+equ.teg.pel.012	Crin de la cola	Pili caudae
+equ.teg.pel.013	Cerneja del miembro torácico	Cirrus metacarpeus
+equ.teg.pel.014	Cerneja del miembro pélvico	Cirrus metatarseus
+equ.teg.gla.001	Glándulas sudoríparas	Glandulae sudoriferae
+equ.teg.gla.002	Glándulas sebáceas	Glandulae sebaceae
+equ.teg.esp.001	Castaña del miembro torácico	Castanea membri thoracici
+equ.teg.esp.002	Castaña del miembro pélvico	Castanea membri pelvini
+equ.teg.esp.003	Espolón del miembro torácico	Calcar metacarpeum
+equ.teg.esp.004	Espolón del miembro pélvico	Calcar metatarseum
+equ.teg.cmt.004	Pinza	Pars dorsalis parietis ungulae
+equ.teg.cmt.005	Cuarta parte lateral de la muralla	Pars lateralis parietis ungulae
+equ.teg.cmt.006	Cuarta parte medial de la muralla	Pars medialis parietis ungulae
+equ.teg.cmt.007	Ángulo de la muralla	Angulus parietis ungulae
+equ.teg.cmt.008	Barra de la muralla	Pars inflexa parietis ungulae
+equ.teg.cmt.011	Perioplo	Perioplum
+equ.teg.cmt.012	Estrato externo de la muralla	Stratum externum parietis
+equ.teg.cmt.013	Estrato medio de la muralla	Stratum medium parietis
+equ.teg.cmt.014	Estrato interno de la muralla	Stratum internum parietis
+equ.teg.cmt.015	Láminas epidérmicas	Lamellae epidermales
+equ.teg.cmt.016	Línea blanca	Zona alba
+equ.teg.cmt.018	Cuerpo de la suela	Corpus soleae
+equ.teg.cmt.019	Ángulos de la suela	Crura soleae
+equ.teg.cmt.021	Vértice de la ranilla	Apex cunei
+equ.teg.cmt.022	Base de la ranilla	Basis cunei
+equ.teg.cmt.023	Surco central de la ranilla	Sulcus cunealis centralis
+equ.teg.cmt.024	Surcos colaterales de la ranilla	Sulci paracuneales
+equ.teg.cmt.025	Ramas de la ranilla	Crura cunei
+equ.teg.cmt.026	Talón (bulbo del casco)	Torus ungulae
+equ.teg.cmt.028	Corion del limbo	Corium limbi
+equ.teg.cmt.029	Rodete coronario	Pulvinus coronalis
+equ.teg.cmt.030	Corion coronario	Corium coronae
+equ.teg.cmt.031	Corion de la muralla	Corium parietis
+equ.teg.cmt.032	Láminas dérmicas	Lamellae dermales
+equ.teg.cmt.033	Corion de la suela	Corium soleae
+equ.teg.cmt.034	Corion de la ranilla	Corium cunei
+equ.teg.cmt.035	Cojinete digital	Corpus digitale
+equ.teg.cmp.004	Pinza	Pars dorsalis parietis ungulae
+equ.teg.cmp.005	Cuarta parte lateral de la muralla	Pars lateralis parietis ungulae
+equ.teg.cmp.006	Cuarta parte medial de la muralla	Pars medialis parietis ungulae
+equ.teg.cmp.007	Ángulo de la muralla	Angulus parietis ungulae
+equ.teg.cmp.008	Barra de la muralla	Pars inflexa parietis ungulae
+equ.teg.cmp.011	Perioplo	Perioplum
+equ.teg.cmp.012	Estrato externo de la muralla	Stratum externum parietis
+equ.teg.cmp.013	Estrato medio de la muralla	Stratum medium parietis
+equ.teg.cmp.014	Estrato interno de la muralla	Stratum internum parietis
+equ.teg.cmp.015	Láminas epidérmicas	Lamellae epidermales
+equ.teg.cmp.016	Línea blanca	Zona alba
+equ.teg.cmp.018	Cuerpo de la suela	Corpus soleae
+equ.teg.cmp.019	Ángulos de la suela	Crura soleae
+equ.teg.cmp.021	Vértice de la ranilla	Apex cunei
+equ.teg.cmp.022	Base de la ranilla	Basis cunei
+equ.teg.cmp.023	Surco central de la ranilla	Sulcus cunealis centralis
+equ.teg.cmp.024	Surcos colaterales de la ranilla	Sulci paracuneales
+equ.teg.cmp.025	Ramas de la ranilla	Crura cunei
+equ.teg.cmp.026	Talón (bulbo del casco)	Torus ungulae
+equ.teg.cmp.028	Corion del limbo	Corium limbi
+equ.teg.cmp.029	Rodete coronario	Pulvinus coronalis
+equ.teg.cmp.030	Corion coronario	Corium coronae
+equ.teg.cmp.031	Corion de la muralla	Corium parietis
+equ.teg.cmp.032	Láminas dérmicas	Lamellae dermales
+equ.teg.cmp.033	Corion de la suela	Corium soleae
+equ.teg.cmp.034	Corion de la ranilla	Corium cunei
+equ.teg.cmp.035	Cojinete digital	Corpus digitale
