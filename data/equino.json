@@ -23864,6 +23864,1259 @@
 "sys": "rep",
 "layer": "org",
 "sex": "f"
+},
+{
+"id": "equ.teg.pie.001",
+"es": "Piel",
+"la": "Cutis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.pie.002",
+"es": "Epidermis",
+"la": "Epidermis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.pie.003",
+"es": "Estrato basal de la epidermis",
+"la": "Stratum basale",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.pie.004",
+"es": "Estrato espinoso de la epidermis",
+"la": "Stratum spinosum",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.pie.005",
+"es": "Estrato granuloso de la epidermis",
+"la": "Stratum granulosum",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.pie.006",
+"es": "Estrato lúcido de la epidermis",
+"la": "Stratum lucidum",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.pie.007",
+"es": "Estrato córneo de la epidermis",
+"la": "Stratum corneum",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.pie.008",
+"es": "Dermis",
+"la": "Dermis [Corium]",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.pie.009",
+"es": "Estrato papilar de la dermis",
+"la": "Stratum papillare",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.pie.010",
+"es": "Estrato reticular de la dermis",
+"la": "Stratum reticulare",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.pie.011",
+"es": "Papilas dérmicas",
+"la": "Papillae dermales",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.pie.012",
+"es": "Tela subcutánea",
+"la": "Tela subcutanea",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.pie.013",
+"es": "Panículo adiposo",
+"la": "Panniculus adiposus",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.pel.001",
+"es": "Pelo",
+"la": "Pilus",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.pel.002",
+"es": "Folículo piloso",
+"la": "Folliculus pili",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.pel.003",
+"es": "Raíz del pelo",
+"la": "Radix pili",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.pel.004",
+"es": "Tallo del pelo",
+"la": "Scapus pili",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.pel.005",
+"es": "Bulbo del pelo",
+"la": "Bulbus pili",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.pel.006",
+"es": "Papila del pelo",
+"la": "Papilla pili",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.pel.007",
+"es": "Vaina radicular del pelo",
+"la": "Vagina radicularis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.pel.008",
+"es": "Músculo erector del pelo",
+"la": "M. arrector pili",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.pel.009",
+"es": "Pelos táctiles (vibrisas)",
+"la": "Pili tactiles",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.pel.010",
+"es": "Tupé (copete)",
+"la": "Cirrus capitis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.pel.011",
+"es": "Crin",
+"la": "Juba",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.pel.012",
+"es": "Crin de la cola",
+"la": "Pili caudae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.pel.013-i",
+"es": "Cerneja del miembro torácico (izquierda)",
+"la": "Cirrus metacarpeus",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.pel.013-d",
+"es": "Cerneja del miembro torácico (derecha)",
+"la": "Cirrus metacarpeus",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.pel.014-i",
+"es": "Cerneja del miembro pélvico (izquierda)",
+"la": "Cirrus metatarseus",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.pel.014-d",
+"es": "Cerneja del miembro pélvico (derecha)",
+"la": "Cirrus metatarseus",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.gla.001",
+"es": "Glándulas sudoríparas",
+"la": "Glandulae sudoriferae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.gla.002",
+"es": "Glándulas sebáceas",
+"la": "Glandulae sebaceae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.esp.001-i",
+"es": "Castaña del miembro torácico (izquierda)",
+"la": "Castanea membri thoracici",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.esp.001-d",
+"es": "Castaña del miembro torácico (derecha)",
+"la": "Castanea membri thoracici",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.esp.002-i",
+"es": "Castaña del miembro pélvico (izquierda)",
+"la": "Castanea membri pelvini",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.esp.002-d",
+"es": "Castaña del miembro pélvico (derecha)",
+"la": "Castanea membri pelvini",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.esp.003-i",
+"es": "Espolón del miembro torácico (izquierdo)",
+"la": "Calcar metacarpeum",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.esp.003-d",
+"es": "Espolón del miembro torácico (derecho)",
+"la": "Calcar metacarpeum",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.esp.004-i",
+"es": "Espolón del miembro pélvico (izquierdo)",
+"la": "Calcar metatarseum",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.esp.004-d",
+"es": "Espolón del miembro pélvico (derecho)",
+"la": "Calcar metatarseum",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.001-i",
+"es": "Casco (izquierdo)",
+"la": "Ungula",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.001-d",
+"es": "Casco (derecho)",
+"la": "Ungula",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.002-i",
+"es": "Epidermis del casco (izquierda)",
+"la": "Epidermis ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.002-d",
+"es": "Epidermis del casco (derecha)",
+"la": "Epidermis ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.003-i",
+"es": "Muralla del casco (izquierda)",
+"la": "Paries ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.003-d",
+"es": "Muralla del casco (derecha)",
+"la": "Paries ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.004-i",
+"es": "Pinza (izquierda)",
+"la": "Pars dorsalis parietis ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.004-d",
+"es": "Pinza (derecha)",
+"la": "Pars dorsalis parietis ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.005-i",
+"es": "Cuarta parte lateral de la muralla (izquierda)",
+"la": "Pars lateralis parietis ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.005-d",
+"es": "Cuarta parte lateral de la muralla (derecha)",
+"la": "Pars lateralis parietis ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.006-i",
+"es": "Cuarta parte medial de la muralla (izquierda)",
+"la": "Pars medialis parietis ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.006-d",
+"es": "Cuarta parte medial de la muralla (derecha)",
+"la": "Pars medialis parietis ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.007-i",
+"es": "Ángulo de la muralla (izquierdo)",
+"la": "Angulus parietis ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.007-d",
+"es": "Ángulo de la muralla (derecho)",
+"la": "Angulus parietis ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.008-i",
+"es": "Barra de la muralla (izquierda)",
+"la": "Pars inflexa parietis ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.008-d",
+"es": "Barra de la muralla (derecha)",
+"la": "Pars inflexa parietis ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.009-i",
+"es": "Borde coronario (izquierdo)",
+"la": "Margo coronalis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.009-d",
+"es": "Borde coronario (derecho)",
+"la": "Margo coronalis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.010-i",
+"es": "Borde solear (izquierdo)",
+"la": "Margo solearis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.010-d",
+"es": "Borde solear (derecho)",
+"la": "Margo solearis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.011-i",
+"es": "Perioplo (izquierdo)",
+"la": "Perioplum",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.011-d",
+"es": "Perioplo (derecho)",
+"la": "Perioplum",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.012-i",
+"es": "Estrato externo de la muralla (izquierdo)",
+"la": "Stratum externum parietis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.012-d",
+"es": "Estrato externo de la muralla (derecho)",
+"la": "Stratum externum parietis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.013-i",
+"es": "Estrato medio de la muralla (izquierdo)",
+"la": "Stratum medium parietis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.013-d",
+"es": "Estrato medio de la muralla (derecho)",
+"la": "Stratum medium parietis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.014-i",
+"es": "Estrato interno de la muralla (izquierdo)",
+"la": "Stratum internum parietis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.014-d",
+"es": "Estrato interno de la muralla (derecho)",
+"la": "Stratum internum parietis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.015-i",
+"es": "Láminas epidérmicas (izquierdas)",
+"la": "Lamellae epidermales",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.015-d",
+"es": "Láminas epidérmicas (derechas)",
+"la": "Lamellae epidermales",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.016-i",
+"es": "Línea blanca (izquierda)",
+"la": "Zona alba",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.016-d",
+"es": "Línea blanca (derecha)",
+"la": "Zona alba",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.017-i",
+"es": "Suela (izquierda)",
+"la": "Solea ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.017-d",
+"es": "Suela (derecha)",
+"la": "Solea ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.018-i",
+"es": "Cuerpo de la suela (izquierdo)",
+"la": "Corpus soleae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.018-d",
+"es": "Cuerpo de la suela (derecho)",
+"la": "Corpus soleae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.019-i",
+"es": "Ángulos de la suela (izquierdos)",
+"la": "Crura soleae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.019-d",
+"es": "Ángulos de la suela (derechos)",
+"la": "Crura soleae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.020-i",
+"es": "Ranilla (izquierda)",
+"la": "Cuneus ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.020-d",
+"es": "Ranilla (derecha)",
+"la": "Cuneus ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.021-i",
+"es": "Vértice de la ranilla (izquierdo)",
+"la": "Apex cunei",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.021-d",
+"es": "Vértice de la ranilla (derecho)",
+"la": "Apex cunei",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.022-i",
+"es": "Base de la ranilla (izquierda)",
+"la": "Basis cunei",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.022-d",
+"es": "Base de la ranilla (derecha)",
+"la": "Basis cunei",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.023-i",
+"es": "Surco central de la ranilla (izquierdo)",
+"la": "Sulcus cunealis centralis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.023-d",
+"es": "Surco central de la ranilla (derecho)",
+"la": "Sulcus cunealis centralis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.024-i",
+"es": "Surcos colaterales de la ranilla (izquierdos)",
+"la": "Sulci paracuneales",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.024-d",
+"es": "Surcos colaterales de la ranilla (derechos)",
+"la": "Sulci paracuneales",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.025-i",
+"es": "Ramas de la ranilla (izquierdas)",
+"la": "Crura cunei",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.025-d",
+"es": "Ramas de la ranilla (derechas)",
+"la": "Crura cunei",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.026-i",
+"es": "Talón (bulbo del casco) (izquierdo)",
+"la": "Torus ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.026-d",
+"es": "Talón (bulbo del casco) (derecho)",
+"la": "Torus ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.027-i",
+"es": "Dermis del casco (izquierda)",
+"la": "Corium ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.027-d",
+"es": "Dermis del casco (derecha)",
+"la": "Corium ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.028-i",
+"es": "Corion del limbo (izquierdo)",
+"la": "Corium limbi",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.028-d",
+"es": "Corion del limbo (derecho)",
+"la": "Corium limbi",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.029-i",
+"es": "Rodete coronario (izquierdo)",
+"la": "Pulvinus coronalis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.029-d",
+"es": "Rodete coronario (derecho)",
+"la": "Pulvinus coronalis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.030-i",
+"es": "Corion coronario (izquierdo)",
+"la": "Corium coronae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.030-d",
+"es": "Corion coronario (derecho)",
+"la": "Corium coronae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.031-i",
+"es": "Corion de la muralla (izquierdo)",
+"la": "Corium parietis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.031-d",
+"es": "Corion de la muralla (derecho)",
+"la": "Corium parietis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.032-i",
+"es": "Láminas dérmicas (izquierdas)",
+"la": "Lamellae dermales",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.032-d",
+"es": "Láminas dérmicas (derechas)",
+"la": "Lamellae dermales",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.033-i",
+"es": "Corion de la suela (izquierdo)",
+"la": "Corium soleae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.033-d",
+"es": "Corion de la suela (derecho)",
+"la": "Corium soleae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.034-i",
+"es": "Corion de la ranilla (izquierdo)",
+"la": "Corium cunei",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.034-d",
+"es": "Corion de la ranilla (derecho)",
+"la": "Corium cunei",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.035-i",
+"es": "Cojinete digital (izquierdo)",
+"la": "Corpus digitale",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmt.035-d",
+"es": "Cojinete digital (derecho)",
+"la": "Corpus digitale",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.001-i",
+"es": "Casco (izquierdo)",
+"la": "Ungula",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.001-d",
+"es": "Casco (derecho)",
+"la": "Ungula",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.002-i",
+"es": "Epidermis del casco (izquierda)",
+"la": "Epidermis ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.002-d",
+"es": "Epidermis del casco (derecha)",
+"la": "Epidermis ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.003-i",
+"es": "Muralla del casco (izquierda)",
+"la": "Paries ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.003-d",
+"es": "Muralla del casco (derecha)",
+"la": "Paries ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.004-i",
+"es": "Pinza (izquierda)",
+"la": "Pars dorsalis parietis ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.004-d",
+"es": "Pinza (derecha)",
+"la": "Pars dorsalis parietis ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.005-i",
+"es": "Cuarta parte lateral de la muralla (izquierda)",
+"la": "Pars lateralis parietis ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.005-d",
+"es": "Cuarta parte lateral de la muralla (derecha)",
+"la": "Pars lateralis parietis ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.006-i",
+"es": "Cuarta parte medial de la muralla (izquierda)",
+"la": "Pars medialis parietis ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.006-d",
+"es": "Cuarta parte medial de la muralla (derecha)",
+"la": "Pars medialis parietis ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.007-i",
+"es": "Ángulo de la muralla (izquierdo)",
+"la": "Angulus parietis ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.007-d",
+"es": "Ángulo de la muralla (derecho)",
+"la": "Angulus parietis ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.008-i",
+"es": "Barra de la muralla (izquierda)",
+"la": "Pars inflexa parietis ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.008-d",
+"es": "Barra de la muralla (derecha)",
+"la": "Pars inflexa parietis ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.009-i",
+"es": "Borde coronario (izquierdo)",
+"la": "Margo coronalis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.009-d",
+"es": "Borde coronario (derecho)",
+"la": "Margo coronalis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.010-i",
+"es": "Borde solear (izquierdo)",
+"la": "Margo solearis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.010-d",
+"es": "Borde solear (derecho)",
+"la": "Margo solearis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.011-i",
+"es": "Perioplo (izquierdo)",
+"la": "Perioplum",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.011-d",
+"es": "Perioplo (derecho)",
+"la": "Perioplum",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.012-i",
+"es": "Estrato externo de la muralla (izquierdo)",
+"la": "Stratum externum parietis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.012-d",
+"es": "Estrato externo de la muralla (derecho)",
+"la": "Stratum externum parietis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.013-i",
+"es": "Estrato medio de la muralla (izquierdo)",
+"la": "Stratum medium parietis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.013-d",
+"es": "Estrato medio de la muralla (derecho)",
+"la": "Stratum medium parietis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.014-i",
+"es": "Estrato interno de la muralla (izquierdo)",
+"la": "Stratum internum parietis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.014-d",
+"es": "Estrato interno de la muralla (derecho)",
+"la": "Stratum internum parietis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.015-i",
+"es": "Láminas epidérmicas (izquierdas)",
+"la": "Lamellae epidermales",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.015-d",
+"es": "Láminas epidérmicas (derechas)",
+"la": "Lamellae epidermales",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.016-i",
+"es": "Línea blanca (izquierda)",
+"la": "Zona alba",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.016-d",
+"es": "Línea blanca (derecha)",
+"la": "Zona alba",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.017-i",
+"es": "Suela (izquierda)",
+"la": "Solea ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.017-d",
+"es": "Suela (derecha)",
+"la": "Solea ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.018-i",
+"es": "Cuerpo de la suela (izquierdo)",
+"la": "Corpus soleae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.018-d",
+"es": "Cuerpo de la suela (derecho)",
+"la": "Corpus soleae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.019-i",
+"es": "Ángulos de la suela (izquierdos)",
+"la": "Crura soleae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.019-d",
+"es": "Ángulos de la suela (derechos)",
+"la": "Crura soleae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.020-i",
+"es": "Ranilla (izquierda)",
+"la": "Cuneus ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.020-d",
+"es": "Ranilla (derecha)",
+"la": "Cuneus ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.021-i",
+"es": "Vértice de la ranilla (izquierdo)",
+"la": "Apex cunei",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.021-d",
+"es": "Vértice de la ranilla (derecho)",
+"la": "Apex cunei",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.022-i",
+"es": "Base de la ranilla (izquierda)",
+"la": "Basis cunei",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.022-d",
+"es": "Base de la ranilla (derecha)",
+"la": "Basis cunei",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.023-i",
+"es": "Surco central de la ranilla (izquierdo)",
+"la": "Sulcus cunealis centralis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.023-d",
+"es": "Surco central de la ranilla (derecho)",
+"la": "Sulcus cunealis centralis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.024-i",
+"es": "Surcos colaterales de la ranilla (izquierdos)",
+"la": "Sulci paracuneales",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.024-d",
+"es": "Surcos colaterales de la ranilla (derechos)",
+"la": "Sulci paracuneales",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.025-i",
+"es": "Ramas de la ranilla (izquierdas)",
+"la": "Crura cunei",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.025-d",
+"es": "Ramas de la ranilla (derechas)",
+"la": "Crura cunei",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.026-i",
+"es": "Talón (bulbo del casco) (izquierdo)",
+"la": "Torus ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.026-d",
+"es": "Talón (bulbo del casco) (derecho)",
+"la": "Torus ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.027-i",
+"es": "Dermis del casco (izquierda)",
+"la": "Corium ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.027-d",
+"es": "Dermis del casco (derecha)",
+"la": "Corium ungulae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.028-i",
+"es": "Corion del limbo (izquierdo)",
+"la": "Corium limbi",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.028-d",
+"es": "Corion del limbo (derecho)",
+"la": "Corium limbi",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.029-i",
+"es": "Rodete coronario (izquierdo)",
+"la": "Pulvinus coronalis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.029-d",
+"es": "Rodete coronario (derecho)",
+"la": "Pulvinus coronalis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.030-i",
+"es": "Corion coronario (izquierdo)",
+"la": "Corium coronae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.030-d",
+"es": "Corion coronario (derecho)",
+"la": "Corium coronae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.031-i",
+"es": "Corion de la muralla (izquierdo)",
+"la": "Corium parietis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.031-d",
+"es": "Corion de la muralla (derecho)",
+"la": "Corium parietis",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.032-i",
+"es": "Láminas dérmicas (izquierdas)",
+"la": "Lamellae dermales",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.032-d",
+"es": "Láminas dérmicas (derechas)",
+"la": "Lamellae dermales",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.033-i",
+"es": "Corion de la suela (izquierdo)",
+"la": "Corium soleae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.033-d",
+"es": "Corion de la suela (derecho)",
+"la": "Corium soleae",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.034-i",
+"es": "Corion de la ranilla (izquierdo)",
+"la": "Corium cunei",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.034-d",
+"es": "Corion de la ranilla (derecho)",
+"la": "Corium cunei",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.035-i",
+"es": "Cojinete digital (izquierdo)",
+"la": "Corpus digitale",
+"sys": "teg",
+"layer": "org"
+},
+{
+"id": "equ.teg.cmp.035-d",
+"es": "Cojinete digital (derecho)",
+"la": "Corpus digitale",
+"sys": "teg",
+"layer": "org"
 }
 ]
 }
