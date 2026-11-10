@@ -164,3 +164,72 @@ La interfaz declara capas específicas para piel (pel), sistema vascular (vas), 
 
 ### Implicación para la auditoría anatómica
 No se debe marcar un sistema como anatómicamente completo solo porque tenga un gran número de registros. La revisión se hará contra una fuente veterinaria primaria o académica de referencia, anotando por cada bloque qué fue confirmado, qué está ausente, qué requiere aclaración y qué no se pudo verificar. Los términos latinos deberán normalizarse según la nomenclatura veterinaria aplicable y respetar diferencias específicas del caballo.
+
+
+
+## 9. Auditoría anatómica del cráneo equino — primera pasada (2026-11-10)
+
+### Alcance y método
+Se revisó el bloque inicial de estructuras craneales de `data/equino.json` en la rama `audit/equinos-general-2026-11-10`. La comparación preliminar se hizo con:
+- Sisson, *A Text-book of Veterinary Anatomy* (1911), sección de osteología equina: cráneo, huesos del cráneo, cara y articulaciones craneales. Es una referencia histórica útil para el inventario descriptivo, pero no sustituye la NAV vigente.
+- University of Minnesota, *CVM Large Animal Anatomy*, capítulo 10 “Head” (revisión primavera 2024), con descripciones equinas del cráneo, mandíbula, paladar, base craneal y particularidades de la especie.
+- *Textbook of Veterinary Anatomy* (Elsevier, Dyce et al.), fragmento disponible sobre rasgos del cráneo equino, usado como contraste secundario.
+
+### Inventario que ya aparece en el bloque craneal
+El bloque revisado contiene 28 registros de huesos craneofaciales:
+- Neurocráneo: occipital; basisfenoides; presfenoides; etmoides; interparietal; parietales (2); frontales (2); temporales (2).
+- Viscerocráneo: nasales (2); lagrimales (2); cigomáticos (2); maxilares (2); incisivos/premaxilares (2); palatinos (2); pterigoides (2); vómer (1).
+- Mandíbula: dos hemimandíbulas, una por lado.
+Además, hay 6 registros de huesecillos auditivos: martillo, yunque y estribo, bilaterales. El bloque, por tanto, incluye los tres huesecillos de cada oído.
+
+### Hallazgos preliminares
+1. **Base del cráneo — nomenclatura a normalizar (pendiente):** el JSON registra “Basisfenoides” y “Presfenoides” como dos entradas. Es una separación anatómica descriptiva útil; debe comprobarse la forma latina y el tratamiento de las partes del hueso esfenoides según NAV, evitando duplicar un hueso compuesto o confundir partes adultas fusionadas con huesos independientes.
+2. **Incisivo/premaxilar — nombre español a normalizar (probable):** la entrada “Incisivo” con latín `Os incisivum` corresponde al premaxilar. Recomendar “hueso incisivo (premaxilar)” para que el estudiante reconozca ambos términos, sujeto a la terminología española que se adopte.
+3. **Mandíbula — representación razonable:** el uso de dos hemimandíbulas laterales es didácticamente válido; la ficha debe explicar que se unen rostralmente mediante la sínfisis mandibular y que en el adulto puede ocurrir sinostosis.
+4. **Huesecillos auditivos — inventario completo en esta sección:** están representados martillo, yunque y estribo de ambos lados. No añadir “hueso orbicular” como cuarto huesecillo independiente sin justificación moderna; referencias antiguas pueden tratar el elemento lenticular como parte del yunque.
+5. **Hioides — no localizado en el bloque craneal inspeccionado:** el aparato hioideo es parte importante de la anatomía de la cabeza equina, pero no aparece entre los registros craneales revisados. Antes de declararlo ausente del catálogo completo, se debe buscar en todo el JSON y comprobar si está registrado bajo otro grupo o sistema.
+6. **Conchas/turbinados nasales — no localizados en el bloque craneal inspeccionado:** Sisson incluye concha/turbinal dorsal y ventral en el inventario facial. Se debe buscar en todo el catálogo, pues podrían estar clasificadas bajo respiratorio. No crear registros duplicados hasta completar esa búsqueda.
+7. **Huesos pequeños/partes fusionadas:** verificar si el hueso interparietal se presenta como elemento independiente en la etapa/edad elegida y documentar la fusión con estructuras vecinas en el adulto. No asumir que cada centro de osificación persiste como hueso separado.
+8. **Calidad de los registros:** los nombres craneales revisados carecen de ficha descriptiva, referencias, relaciones anatómicas y modelos 3D asociados. El inventario nominal no acredita todavía geometría anatómica ni contenido docente completo.
+
+### Particularidades equinas que deben incluirse en fichas y láminas
+- Órbita ósea completa.
+- Cresta facial prominente, continuación rostral del arco cigomático.
+- Escotadura nasoincisiva entre incisivo y nasal.
+- Foramen infraorbitario y canal infraorbitario.
+- Proceso supraorbitario y foramen supraorbitario.
+- Fosa temporal relativamente poco profunda.
+- Paladar duro formado principalmente por maxilares, con participación caudal de los palatinos.
+- Cóanas separadas por el tabique nasal, con participación del vómer.
+- Cóndilos occipitales y procesos paracondilares.
+- Porciones escamosa, petrosa y mastoidea del temporal; incluir bulla timpánica y meato acústico externo como accidentes/partes, no como huesos independientes.
+- Articulación temporomandibular y sínfisis mandibular.
+
+Estas son estructuras y accidentes anatómicos que deben documentarse; no todas son huesos independientes ni deben convertirse automáticamente en registros de osteología.
+
+### Matriz de estado del primer pase
+
+| Elemento | Estado | Acción |
+|---|---|---|
+| Occipital, frontal, parietal, temporal | Presente | Verificar partes y accidentes |
+| Esfenoides (base y presfenoides) | Presente, nomenclatura pendiente | Contrastar NAV y fusión |
+| Etmoides e interparietal | Presente | Verificar límites y edad |
+| Nasal, lagrimal, cigomático, maxilar | Presente bilateral | Revisar fichas y accidentes |
+| Incisivo/premaxilar | Presente bilateral | Normalizar nombre visible |
+| Palatino y pterigoides | Presente bilateral | Revisar procesos y láminas |
+| Vómer | Presente | Documentar tabique nasal |
+| Mandíbula | Presente como dos hemimandíbulas | Documentar sínfisis y procesos |
+| Martillo, yunque, estribo | Presente bilateral | Mantener como huesecillos auditivos |
+| Aparato hioideo | No visto en el bloque craneal | Buscar en catálogo completo |
+| Conchas nasales dorsal/ventral | No vistas en el bloque craneal | Buscar en catálogo completo |
+| Dientes/alvéolos | No incluidos en el bloque óseo revisado | Verificar ubicación y alcance del sistema digestivo |
+| Suturas, forámenes, procesos, cavidades y senos | No son huesos independientes | Incorporar como accidentes/estructuras relacionadas en fichas |
+
+### Conclusión provisional
+El bloque craneal tiene una base de inventario razonable: incluye los principales huesos del neurocráneo y viscerocráneo, mandíbula y los seis huesecillos auditivos. Sin embargo, **no puede declararse completo**: falta comprobar en el catálogo completo el aparato hioideo y las conchas nasales, normalizar el tratamiento del esfenoides y del premaxilar, y añadir fichas académicas con particularidades equinas. Tampoco hay evidencia de modelos 3D craneales reales en esta revisión.
+
+### Fuentes consultadas
+- Sisson, S. (1911). *A Text-book of Veterinary Anatomy*. W. B. Saunders. Secciones “The Bones of the Skull”, “Bones of the Cranium”, “Bones of the Face” y “The Articulations of the Skull”. Texto disponible en Project Gutenberg: https://www.gutenberg.org/files/75996/75996-h/75996-h.htm
+- University of Minnesota, College of Veterinary Medicine. *CVM Large Animal Anatomy*, capítulo 10 “Head”, revisión primavera 2024: https://open.lib.umn.edu/largeanimalanatomy/chapter/neck-head/
+- Dyce, Sack & Wensing. *Textbook of Veterinary Anatomy*, capítulo de cráneo equino (fragmento de consulta): https://elsevier-elibrary.com/contents/fullcontent/58986/epubcontent_v2/OEBPS/B9781416066071000025.htm
+
