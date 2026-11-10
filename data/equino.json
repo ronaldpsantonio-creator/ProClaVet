@@ -21477,6 +21477,2393 @@
 "la": "N. intercostalis 17",
 "sys": "ner",
 "layer": "org"
+},
+{
+"id": "equ.uri.rin.001-i",
+"es": "Riñón (izquierdo)",
+"la": "Ren",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.001-d",
+"es": "Riñón (derecho)",
+"la": "Ren",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.002-i",
+"es": "Cápsula fibrosa del riñón (izquierda)",
+"la": "Capsula fibrosa renis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.002-d",
+"es": "Cápsula fibrosa del riñón (derecha)",
+"la": "Capsula fibrosa renis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.003-i",
+"es": "Cápsula adiposa del riñón (izquierda)",
+"la": "Capsula adiposa renis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.003-d",
+"es": "Cápsula adiposa del riñón (derecha)",
+"la": "Capsula adiposa renis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.004-i",
+"es": "Fascia renal (izquierda)",
+"la": "Fascia renalis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.004-d",
+"es": "Fascia renal (derecha)",
+"la": "Fascia renalis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.005-i",
+"es": "Hilio renal (izquierdo)",
+"la": "Hilum renale",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.005-d",
+"es": "Hilio renal (derecho)",
+"la": "Hilum renale",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.006-i",
+"es": "Seno renal (izquierdo)",
+"la": "Sinus renalis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.006-d",
+"es": "Seno renal (derecho)",
+"la": "Sinus renalis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.007-i",
+"es": "Corteza renal (izquierda)",
+"la": "Cortex renalis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.007-d",
+"es": "Corteza renal (derecha)",
+"la": "Cortex renalis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.008-i",
+"es": "Médula renal (izquierda)",
+"la": "Medulla renalis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.008-d",
+"es": "Médula renal (derecha)",
+"la": "Medulla renalis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.009-i",
+"es": "Cresta renal (izquierda)",
+"la": "Crista renalis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.009-d",
+"es": "Cresta renal (derecha)",
+"la": "Crista renalis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.010-i",
+"es": "Pirámide renal (izquierda)",
+"la": "Pyramis renalis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.010-d",
+"es": "Pirámide renal (derecha)",
+"la": "Pyramis renalis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.011-i",
+"es": "Columnas renales (izquierdas)",
+"la": "Columnae renales",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.011-d",
+"es": "Columnas renales (derechas)",
+"la": "Columnae renales",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.012-i",
+"es": "Pelvis renal (izquierda)",
+"la": "Pelvis renalis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.012-d",
+"es": "Pelvis renal (derecha)",
+"la": "Pelvis renalis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.013-i",
+"es": "Recesos terminales de la pelvis renal (izquierdos)",
+"la": "Recessus terminales pelvis renalis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.013-d",
+"es": "Recesos terminales de la pelvis renal (derechos)",
+"la": "Recessus terminales pelvis renalis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.014-i",
+"es": "Arterias interlobares del riñón (izquierdas)",
+"la": "Aa. interlobares renis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.014-d",
+"es": "Arterias interlobares del riñón (derechas)",
+"la": "Aa. interlobares renis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.015-i",
+"es": "Arterias arcuatas del riñón (izquierdas)",
+"la": "Aa. arcuatae renis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.015-d",
+"es": "Arterias arcuatas del riñón (derechas)",
+"la": "Aa. arcuatae renis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.016-i",
+"es": "Arterias interlobulares del riñón (izquierdas)",
+"la": "Aa. interlobulares renis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.016-d",
+"es": "Arterias interlobulares del riñón (derechas)",
+"la": "Aa. interlobulares renis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.017-i",
+"es": "Venas interlobares del riñón (izquierdas)",
+"la": "Vv. interlobares renis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.017-d",
+"es": "Venas interlobares del riñón (derechas)",
+"la": "Vv. interlobares renis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.018-i",
+"es": "Venas arcuatas del riñón (izquierdas)",
+"la": "Vv. arcuatae renis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.018-d",
+"es": "Venas arcuatas del riñón (derechas)",
+"la": "Vv. arcuatae renis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.019-i",
+"es": "Venas interlobulares del riñón (izquierdas)",
+"la": "Vv. interlobulares renis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.rin.019-d",
+"es": "Venas interlobulares del riñón (derechas)",
+"la": "Vv. interlobulares renis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.ure.001-i",
+"es": "Uréter (izquierdo)",
+"la": "Ureter",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.ure.001-d",
+"es": "Uréter (derecho)",
+"la": "Ureter",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.ure.002-i",
+"es": "Parte abdominal del uréter (izquierda)",
+"la": "Pars abdominalis ureteris",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.ure.002-d",
+"es": "Parte abdominal del uréter (derecha)",
+"la": "Pars abdominalis ureteris",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.ure.003-i",
+"es": "Parte pélvica del uréter (izquierda)",
+"la": "Pars pelvina ureteris",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.ure.003-d",
+"es": "Parte pélvica del uréter (derecha)",
+"la": "Pars pelvina ureteris",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.ure.004-i",
+"es": "Ostio ureteral (izquierdo)",
+"la": "Ostium ureteris",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.ure.004-d",
+"es": "Ostio ureteral (derecho)",
+"la": "Ostium ureteris",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.ure.005-i",
+"es": "Pliegue ureteral (izquierdo)",
+"la": "Plica ureterica",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.ure.005-d",
+"es": "Pliegue ureteral (derecho)",
+"la": "Plica ureterica",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.vej.001",
+"es": "Vejiga urinaria",
+"la": "Vesica urinaria",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.vej.002",
+"es": "Vértice de la vejiga",
+"la": "Apex vesicae",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.vej.003",
+"es": "Cuerpo de la vejiga",
+"la": "Corpus vesicae",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.vej.004",
+"es": "Cuello de la vejiga",
+"la": "Cervix vesicae",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.vej.005",
+"es": "Trígono de la vejiga",
+"la": "Trigonum vesicae",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.vej.006",
+"es": "Músculo detrusor de la vejiga",
+"la": "M. detrusor vesicae",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.vej.007-i",
+"es": "Ligamento lateral de la vejiga (izquierdo)",
+"la": "Ligamentum vesicae laterale",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.vej.007-d",
+"es": "Ligamento lateral de la vejiga (derecho)",
+"la": "Ligamentum vesicae laterale",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.vej.008",
+"es": "Ligamento medio de la vejiga",
+"la": "Ligamentum vesicae medianum",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.vej.009-i",
+"es": "Ligamento redondo de la vejiga (izquierdo)",
+"la": "Ligamentum teres vesicae",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.vej.009-d",
+"es": "Ligamento redondo de la vejiga (derecho)",
+"la": "Ligamentum teres vesicae",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.vej.010",
+"es": "Ostio uretral interno",
+"la": "Ostium urethrae internum",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.uet.001",
+"es": "Músculo uretral",
+"la": "M. urethralis",
+"sys": "uri",
+"layer": "org"
+},
+{
+"id": "equ.uri.uet.002",
+"es": "Uretra de la hembra",
+"la": "Urethra feminina",
+"sys": "uri",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.uri.uet.003",
+"es": "Ostio uretral externo de la hembra",
+"la": "Ostium urethrae externum",
+"sys": "uri",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.uri.uet.004",
+"es": "Uretra del macho",
+"la": "Urethra masculina",
+"sys": "uri",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.uri.uet.005",
+"es": "Parte pélvica de la uretra",
+"la": "Pars pelvina urethrae",
+"sys": "uri",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.uri.uet.006",
+"es": "Parte esponjosa de la uretra",
+"la": "Pars spongiosa urethrae",
+"sys": "uri",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.uri.uet.007",
+"es": "Colículo seminal",
+"la": "Colliculus seminalis",
+"sys": "uri",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.uri.uet.008",
+"es": "Ostio uretral externo del macho",
+"la": "Ostium urethrae externum",
+"sys": "uri",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.001",
+"es": "Escroto",
+"la": "Scrotum",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.002",
+"es": "Rafe escrotal",
+"la": "Raphe scroti",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.003",
+"es": "Túnica dartos",
+"la": "Tunica dartos",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.004",
+"es": "Septo escrotal",
+"la": "Septum scroti",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.005-i",
+"es": "Fascia espermática externa (izquierda)",
+"la": "Fascia spermatica externa",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.005-d",
+"es": "Fascia espermática externa (derecha)",
+"la": "Fascia spermatica externa",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.006-i",
+"es": "Fascia espermática interna (izquierda)",
+"la": "Fascia spermatica interna",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.006-d",
+"es": "Fascia espermática interna (derecha)",
+"la": "Fascia spermatica interna",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.007-i",
+"es": "Túnica vaginal (izquierda)",
+"la": "Tunica vaginalis testis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.007-d",
+"es": "Túnica vaginal (derecha)",
+"la": "Tunica vaginalis testis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.008-i",
+"es": "Lámina parietal de la túnica vaginal (izquierda)",
+"la": "Lamina parietalis tunicae vaginalis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.008-d",
+"es": "Lámina parietal de la túnica vaginal (derecha)",
+"la": "Lamina parietalis tunicae vaginalis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.009-i",
+"es": "Lámina visceral de la túnica vaginal (izquierda)",
+"la": "Lamina visceralis tunicae vaginalis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.009-d",
+"es": "Lámina visceral de la túnica vaginal (derecha)",
+"la": "Lamina visceralis tunicae vaginalis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.010-i",
+"es": "Cavidad vaginal (izquierda)",
+"la": "Cavum vaginale",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.010-d",
+"es": "Cavidad vaginal (derecha)",
+"la": "Cavum vaginale",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.011-i",
+"es": "Anillo vaginal (izquierdo)",
+"la": "Anulus vaginalis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.011-d",
+"es": "Anillo vaginal (derecho)",
+"la": "Anulus vaginalis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.012-i",
+"es": "Canal inguinal (izquierdo)",
+"la": "Canalis inguinalis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.012-d",
+"es": "Canal inguinal (derecho)",
+"la": "Canalis inguinalis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.013-i",
+"es": "Anillo inguinal superficial (izquierdo)",
+"la": "Anulus inguinalis superficialis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.013-d",
+"es": "Anillo inguinal superficial (derecho)",
+"la": "Anulus inguinalis superficialis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.014-i",
+"es": "Anillo inguinal profundo (izquierdo)",
+"la": "Anulus inguinalis profundus",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.014-d",
+"es": "Anillo inguinal profundo (derecho)",
+"la": "Anulus inguinalis profundus",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.015-i",
+"es": "Cordón espermático (izquierdo)",
+"la": "Funiculus spermaticus",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.015-d",
+"es": "Cordón espermático (derecho)",
+"la": "Funiculus spermaticus",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.016-i",
+"es": "Mesorquio (izquierdo)",
+"la": "Mesorchium",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.016-d",
+"es": "Mesorquio (derecho)",
+"la": "Mesorchium",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.017-i",
+"es": "Mesoepidídimo (izquierdo)",
+"la": "Mesepididymis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.017-d",
+"es": "Mesoepidídimo (derecho)",
+"la": "Mesepididymis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.018-i",
+"es": "Mesoconducto deferente (izquierdo)",
+"la": "Mesoductus deferens",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.018-d",
+"es": "Mesoconducto deferente (derecho)",
+"la": "Mesoductus deferens",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.019-i",
+"es": "Pliegue del conducto deferente (izquierdo)",
+"la": "Plica ductus deferentis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.019-d",
+"es": "Pliegue del conducto deferente (derecho)",
+"la": "Plica ductus deferentis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.020-i",
+"es": "Ligamento de la cola del epidídimo (izquierdo)",
+"la": "Ligamentum caudae epididymidis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.020-d",
+"es": "Ligamento de la cola del epidídimo (derecho)",
+"la": "Ligamentum caudae epididymidis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.021-i",
+"es": "Ligamento propio del testículo (izquierdo)",
+"la": "Ligamentum testis proprium",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.021-d",
+"es": "Ligamento propio del testículo (derecho)",
+"la": "Ligamentum testis proprium",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.022-i",
+"es": "Gubernáculo del testículo (izquierdo)",
+"la": "Gubernaculum testis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.esc.022-d",
+"es": "Gubernáculo del testículo (derecho)",
+"la": "Gubernaculum testis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.001-i",
+"es": "Testículo (izquierdo)",
+"la": "Testis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.001-d",
+"es": "Testículo (derecho)",
+"la": "Testis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.002-i",
+"es": "Extremidad capitada del testículo (izquierda)",
+"la": "Extremitas capitata testis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.002-d",
+"es": "Extremidad capitada del testículo (derecha)",
+"la": "Extremitas capitata testis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.003-i",
+"es": "Extremidad caudada del testículo (izquierda)",
+"la": "Extremitas caudata testis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.003-d",
+"es": "Extremidad caudada del testículo (derecha)",
+"la": "Extremitas caudata testis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.004-i",
+"es": "Margen libre del testículo (izquierdo)",
+"la": "Margo liber testis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.004-d",
+"es": "Margen libre del testículo (derecho)",
+"la": "Margo liber testis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.005-i",
+"es": "Margen epididimal del testículo (izquierdo)",
+"la": "Margo epididymalis testis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.005-d",
+"es": "Margen epididimal del testículo (derecho)",
+"la": "Margo epididymalis testis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.006-i",
+"es": "Cara lateral del testículo (izquierda)",
+"la": "Facies lateralis testis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.006-d",
+"es": "Cara lateral del testículo (derecha)",
+"la": "Facies lateralis testis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.007-i",
+"es": "Cara medial del testículo (izquierda)",
+"la": "Facies medialis testis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.007-d",
+"es": "Cara medial del testículo (derecha)",
+"la": "Facies medialis testis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.008-i",
+"es": "Túnica albugínea del testículo (izquierda)",
+"la": "Tunica albuginea testis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.008-d",
+"es": "Túnica albugínea del testículo (derecha)",
+"la": "Tunica albuginea testis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.009-i",
+"es": "Mediastino del testículo (izquierdo)",
+"la": "Mediastinum testis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.009-d",
+"es": "Mediastino del testículo (derecho)",
+"la": "Mediastinum testis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.010-i",
+"es": "Parénquima testicular (izquierdo)",
+"la": "Parenchyma testis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.010-d",
+"es": "Parénquima testicular (derecho)",
+"la": "Parenchyma testis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.011-i",
+"es": "Lobulillos del testículo (izquierdos)",
+"la": "Lobuli testis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.011-d",
+"es": "Lobulillos del testículo (derechos)",
+"la": "Lobuli testis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.012-i",
+"es": "Túbulos seminíferos (izquierdos)",
+"la": "Tubuli seminiferi",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.012-d",
+"es": "Túbulos seminíferos (derechos)",
+"la": "Tubuli seminiferi",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.013-i",
+"es": "Red testicular (izquierda)",
+"la": "Rete testis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.013-d",
+"es": "Red testicular (derecha)",
+"la": "Rete testis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.014-i",
+"es": "Conductillos eferentes (izquierdos)",
+"la": "Ductuli efferentes testis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.014-d",
+"es": "Conductillos eferentes (derechos)",
+"la": "Ductuli efferentes testis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.015-i",
+"es": "Apéndice del testículo (izquierdo)",
+"la": "Appendix testis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.015-d",
+"es": "Apéndice del testículo (derecho)",
+"la": "Appendix testis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.016-i",
+"es": "Epidídimo (izquierdo)",
+"la": "Epididymis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.016-d",
+"es": "Epidídimo (derecho)",
+"la": "Epididymis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.017-i",
+"es": "Cabeza del epidídimo (izquierda)",
+"la": "Caput epididymidis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.017-d",
+"es": "Cabeza del epidídimo (derecha)",
+"la": "Caput epididymidis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.018-i",
+"es": "Cuerpo del epidídimo (izquierdo)",
+"la": "Corpus epididymidis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.018-d",
+"es": "Cuerpo del epidídimo (derecho)",
+"la": "Corpus epididymidis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.019-i",
+"es": "Cola del epidídimo (izquierda)",
+"la": "Cauda epididymidis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.019-d",
+"es": "Cola del epidídimo (derecha)",
+"la": "Cauda epididymidis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.020-i",
+"es": "Conducto del epidídimo (izquierdo)",
+"la": "Ductus epididymidis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.020-d",
+"es": "Conducto del epidídimo (derecho)",
+"la": "Ductus epididymidis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.021-i",
+"es": "Apéndice del epidídimo (izquierdo)",
+"la": "Appendix epididymidis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.021-d",
+"es": "Apéndice del epidídimo (derecho)",
+"la": "Appendix epididymidis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.022-i",
+"es": "Bolsa testicular (izquierda)",
+"la": "Bursa testicularis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.022-d",
+"es": "Bolsa testicular (derecha)",
+"la": "Bursa testicularis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.023-i",
+"es": "Conducto deferente (izquierdo)",
+"la": "Ductus deferens",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.023-d",
+"es": "Conducto deferente (derecho)",
+"la": "Ductus deferens",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.024-i",
+"es": "Ampolla del conducto deferente (izquierda)",
+"la": "Ampulla ductus deferentis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.024-d",
+"es": "Ampolla del conducto deferente (derecha)",
+"la": "Ampulla ductus deferentis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.025-i",
+"es": "Plexo pampiniforme (izquierdo)",
+"la": "Plexus pampiniformis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.tes.025-d",
+"es": "Plexo pampiniforme (derecho)",
+"la": "Plexus pampiniformis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.gla.001-i",
+"es": "Glándula vesicular (izquierda)",
+"la": "Glandula vesicularis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.gla.001-d",
+"es": "Glándula vesicular (derecha)",
+"la": "Glandula vesicularis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.gla.002-i",
+"es": "Glándula ampular (izquierda)",
+"la": "Glandula ampullae ductus deferentis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.gla.002-d",
+"es": "Glándula ampular (derecha)",
+"la": "Glandula ampullae ductus deferentis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.gla.003",
+"es": "Próstata",
+"la": "Prostata",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.gla.004-i",
+"es": "Lóbulo de la próstata (izquierdo)",
+"la": "Lobus prostatae",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.gla.004-d",
+"es": "Lóbulo de la próstata (derecho)",
+"la": "Lobus prostatae",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.gla.005",
+"es": "Istmo de la próstata",
+"la": "Isthmus prostatae",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.gla.006-i",
+"es": "Glándula bulbouretral (izquierda)",
+"la": "Glandula bulbourethralis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.gla.006-d",
+"es": "Glándula bulbouretral (derecha)",
+"la": "Glandula bulbourethralis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.pen.001",
+"es": "Pene",
+"la": "Penis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.pen.002",
+"es": "Raíz del pene",
+"la": "Radix penis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.pen.003",
+"es": "Cuerpo del pene",
+"la": "Corpus penis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.pen.004-i",
+"es": "Pilar del pene (izquierdo)",
+"la": "Crus penis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.pen.004-d",
+"es": "Pilar del pene (derecho)",
+"la": "Crus penis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.pen.005",
+"es": "Cuerpo cavernoso del pene",
+"la": "Corpus cavernosum penis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.pen.006",
+"es": "Túnica albugínea del cuerpo cavernoso",
+"la": "Tunica albuginea corporis cavernosi",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.pen.007",
+"es": "Septo del pene",
+"la": "Septum penis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.pen.008",
+"es": "Cuerpo esponjoso del pene",
+"la": "Corpus spongiosum penis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.pen.009",
+"es": "Bulbo del pene",
+"la": "Bulbus penis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.pen.010",
+"es": "Glande del pene",
+"la": "Glans penis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.pen.011",
+"es": "Corona del glande",
+"la": "Corona glandis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.pen.012",
+"es": "Cuello del glande",
+"la": "Collum glandis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.pen.013",
+"es": "Fosa del glande",
+"la": "Fossa glandis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.pen.014",
+"es": "Proceso uretral",
+"la": "Processus urethralis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.pen.015",
+"es": "Seno uretral",
+"la": "Sinus urethralis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.pen.016",
+"es": "Cuerpo esponjoso del glande",
+"la": "Corpus spongiosum glandis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.pen.017",
+"es": "Fascia del pene",
+"la": "Fascia penis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.pen.018",
+"es": "Ligamento suspensorio del pene",
+"la": "Ligamentum suspensorium penis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.pen.019",
+"es": "Prepucio",
+"la": "Preputium",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.pen.020",
+"es": "Lámina externa del prepucio",
+"la": "Lamina externa preputii",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.pen.021",
+"es": "Lámina interna del prepucio",
+"la": "Lamina interna preputii",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.pen.022",
+"es": "Ostio prepucial",
+"la": "Ostium preputiale",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.pen.023",
+"es": "Anillo prepucial",
+"la": "Anulus preputialis",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.pen.024",
+"es": "Cavidad prepucial",
+"la": "Cavum preputiale",
+"sys": "rep",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.rep.ova.001-i",
+"es": "Ovario (izquierdo)",
+"la": "Ovarium",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.001-d",
+"es": "Ovario (derecho)",
+"la": "Ovarium",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.002-i",
+"es": "Extremidad tubárica del ovario (izquierda)",
+"la": "Extremitas tubaria ovarii",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.002-d",
+"es": "Extremidad tubárica del ovario (derecha)",
+"la": "Extremitas tubaria ovarii",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.003-i",
+"es": "Extremidad uterina del ovario (izquierda)",
+"la": "Extremitas uterina ovarii",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.003-d",
+"es": "Extremidad uterina del ovario (derecha)",
+"la": "Extremitas uterina ovarii",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.004-i",
+"es": "Margen libre del ovario (izquierdo)",
+"la": "Margo liber ovarii",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.004-d",
+"es": "Margen libre del ovario (derecho)",
+"la": "Margo liber ovarii",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.005-i",
+"es": "Margen mesovárico del ovario (izquierdo)",
+"la": "Margo mesovaricus ovarii",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.005-d",
+"es": "Margen mesovárico del ovario (derecho)",
+"la": "Margo mesovaricus ovarii",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.006-i",
+"es": "Fosa de la ovulación (izquierda)",
+"la": "Fossa ovulationis",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.006-d",
+"es": "Fosa de la ovulación (derecha)",
+"la": "Fossa ovulationis",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.007-i",
+"es": "Túnica albugínea del ovario (izquierda)",
+"la": "Tunica albuginea ovarii",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.007-d",
+"es": "Túnica albugínea del ovario (derecha)",
+"la": "Tunica albuginea ovarii",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.008-i",
+"es": "Zona parenquimatosa del ovario (izquierda)",
+"la": "Zona parenchymatosa ovarii",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.008-d",
+"es": "Zona parenquimatosa del ovario (derecha)",
+"la": "Zona parenchymatosa ovarii",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.009-i",
+"es": "Zona vasculosa del ovario (izquierda)",
+"la": "Zona vasculosa ovarii",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.009-d",
+"es": "Zona vasculosa del ovario (derecha)",
+"la": "Zona vasculosa ovarii",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.010-i",
+"es": "Folículos ováricos (izquierdos)",
+"la": "Folliculi ovarici vesiculosi",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.010-d",
+"es": "Folículos ováricos (derechos)",
+"la": "Folliculi ovarici vesiculosi",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.011-i",
+"es": "Cuerpo lúteo (izquierdo)",
+"la": "Corpus luteum",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.011-d",
+"es": "Cuerpo lúteo (derecho)",
+"la": "Corpus luteum",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.012-i",
+"es": "Cuerpo albicans (izquierdo)",
+"la": "Corpus albicans",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.012-d",
+"es": "Cuerpo albicans (derecho)",
+"la": "Corpus albicans",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.013-i",
+"es": "Bolsa ovárica (izquierda)",
+"la": "Bursa ovarica",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.013-d",
+"es": "Bolsa ovárica (derecha)",
+"la": "Bursa ovarica",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.014-i",
+"es": "Mesovario (izquierdo)",
+"la": "Mesovarium",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.014-d",
+"es": "Mesovario (derecho)",
+"la": "Mesovarium",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.015-i",
+"es": "Mesosalpinx (izquierdo)",
+"la": "Mesosalpinx",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.015-d",
+"es": "Mesosalpinx (derecho)",
+"la": "Mesosalpinx",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.016-i",
+"es": "Mesometrio (izquierdo)",
+"la": "Mesometrium",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.016-d",
+"es": "Mesometrio (derecho)",
+"la": "Mesometrium",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.017-i",
+"es": "Ligamento propio del ovario (izquierdo)",
+"la": "Ligamentum ovarii proprium",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.017-d",
+"es": "Ligamento propio del ovario (derecho)",
+"la": "Ligamentum ovarii proprium",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.018-i",
+"es": "Ligamento suspensorio del ovario (izquierdo)",
+"la": "Ligamentum suspensorium ovarii",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.018-d",
+"es": "Ligamento suspensorio del ovario (derecho)",
+"la": "Ligamentum suspensorium ovarii",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.019-i",
+"es": "Ligamento ancho del útero (izquierdo)",
+"la": "Ligamentum latum uteri",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.019-d",
+"es": "Ligamento ancho del útero (derecho)",
+"la": "Ligamentum latum uteri",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.020-i",
+"es": "Tubo uterino (izquierdo)",
+"la": "Tuba uterina",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.020-d",
+"es": "Tubo uterino (derecho)",
+"la": "Tuba uterina",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.021-i",
+"es": "Infundíbulo del tubo uterino (izquierdo)",
+"la": "Infundibulum tubae uterinae",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.021-d",
+"es": "Infundíbulo del tubo uterino (derecho)",
+"la": "Infundibulum tubae uterinae",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.022-i",
+"es": "Fimbrias del tubo uterino (izquierdas)",
+"la": "Fimbriae tubae uterinae",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.022-d",
+"es": "Fimbrias del tubo uterino (derechas)",
+"la": "Fimbriae tubae uterinae",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.023-i",
+"es": "Ampolla del tubo uterino (izquierda)",
+"la": "Ampulla tubae uterinae",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.023-d",
+"es": "Ampolla del tubo uterino (derecha)",
+"la": "Ampulla tubae uterinae",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.024-i",
+"es": "Istmo del tubo uterino (izquierdo)",
+"la": "Isthmus tubae uterinae",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.024-d",
+"es": "Istmo del tubo uterino (derecho)",
+"la": "Isthmus tubae uterinae",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.025-i",
+"es": "Ostio abdominal del tubo uterino (izquierdo)",
+"la": "Ostium abdominale tubae uterinae",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.025-d",
+"es": "Ostio abdominal del tubo uterino (derecho)",
+"la": "Ostium abdominale tubae uterinae",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.026-i",
+"es": "Ostio uterino del tubo uterino (izquierdo)",
+"la": "Ostium uterinum tubae uterinae",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.026-d",
+"es": "Ostio uterino del tubo uterino (derecho)",
+"la": "Ostium uterinum tubae uterinae",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.027-i",
+"es": "Papila uterina (izquierda)",
+"la": "Papilla uterina",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ova.027-d",
+"es": "Papila uterina (derecha)",
+"la": "Papilla uterina",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ute.001",
+"es": "Útero",
+"la": "Uterus",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ute.002-i",
+"es": "Cuerno uterino (izquierdo)",
+"la": "Cornu uteri",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ute.002-d",
+"es": "Cuerno uterino (derecho)",
+"la": "Cornu uteri",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ute.003",
+"es": "Cuerpo del útero",
+"la": "Corpus uteri",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ute.004",
+"es": "Cérvix uterino",
+"la": "Cervix uteri",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ute.005",
+"es": "Canal cervical",
+"la": "Canalis cervicis uteri",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ute.006",
+"es": "Ostio uterino interno",
+"la": "Ostium uteri internum",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ute.007",
+"es": "Ostio uterino externo",
+"la": "Ostium uteri externum",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ute.008",
+"es": "Porción vaginal del cérvix",
+"la": "Portio vaginalis cervicis",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ute.009",
+"es": "Endometrio",
+"la": "Endometrium",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ute.010",
+"es": "Miometrio",
+"la": "Myometrium",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ute.011",
+"es": "Perimetrio",
+"la": "Perimetrium",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ute.012-i",
+"es": "Pliegues endometriales (izquierdos)",
+"la": "Plicae endometriales",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ute.012-d",
+"es": "Pliegues endometriales (derechos)",
+"la": "Plicae endometriales",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ute.013-i",
+"es": "Ligamento redondo del útero (izquierdo)",
+"la": "Ligamentum teres uteri",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.ute.013-d",
+"es": "Ligamento redondo del útero (derecho)",
+"la": "Ligamentum teres uteri",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.vag.001",
+"es": "Vagina",
+"la": "Vagina",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.vag.002",
+"es": "Fórnix de la vagina",
+"la": "Fornix vaginae",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.vag.003",
+"es": "Vestíbulo de la vagina",
+"la": "Vestibulum vaginae",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.vag.004",
+"es": "Himen",
+"la": "Hymen",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.vag.005-i",
+"es": "Glándulas vestibulares mayores (izquierdas)",
+"la": "Glandulae vestibulares majores",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.vag.005-d",
+"es": "Glándulas vestibulares mayores (derechas)",
+"la": "Glandulae vestibulares majores",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.vag.006-i",
+"es": "Glándulas vestibulares menores (izquierdas)",
+"la": "Glandulae vestibulares minores",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.vag.006-d",
+"es": "Glándulas vestibulares menores (derechas)",
+"la": "Glandulae vestibulares minores",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.vag.007-i",
+"es": "Bulbo del vestíbulo (izquierdo)",
+"la": "Bulbus vestibuli",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.vag.007-d",
+"es": "Bulbo del vestíbulo (derecho)",
+"la": "Bulbus vestibuli",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.vag.008",
+"es": "Vulva",
+"la": "Vulva",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.vag.009-i",
+"es": "Labios de la vulva (izquierdos)",
+"la": "Labia vulvae",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.vag.009-d",
+"es": "Labios de la vulva (derechos)",
+"la": "Labia vulvae",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.vag.010",
+"es": "Comisura dorsal de los labios vulvares",
+"la": "Commissura labiorum dorsalis",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.vag.011",
+"es": "Comisura ventral de los labios vulvares",
+"la": "Commissura labiorum ventralis",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.vag.012",
+"es": "Hendidura vulvar",
+"la": "Rima vulvae",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.vag.013",
+"es": "Clítoris",
+"la": "Clitoris",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.vag.014",
+"es": "Cuerpo del clítoris",
+"la": "Corpus clitoridis",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.vag.015",
+"es": "Glande del clítoris",
+"la": "Glans clitoridis",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.vag.016-i",
+"es": "Pilar del clítoris (izquierdo)",
+"la": "Crus clitoridis",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.vag.016-d",
+"es": "Pilar del clítoris (derecho)",
+"la": "Crus clitoridis",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.vag.017",
+"es": "Prepucio del clítoris",
+"la": "Preputium clitoridis",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.vag.018",
+"es": "Fosa del clítoris",
+"la": "Fossa clitoridis",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.vag.019",
+"es": "Senos del clítoris",
+"la": "Sinus clitoridis",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.mam.001-i",
+"es": "Glándula mamaria (izquierda)",
+"la": "Mamma",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.mam.001-d",
+"es": "Glándula mamaria (derecha)",
+"la": "Mamma",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.mam.002-i",
+"es": "Cuerpo de la glándula mamaria (izquierdo)",
+"la": "Corpus mammae",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.mam.002-d",
+"es": "Cuerpo de la glándula mamaria (derecho)",
+"la": "Corpus mammae",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.mam.003-i",
+"es": "Pezón (izquierdo)",
+"la": "Papilla mammae",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.mam.003-d",
+"es": "Pezón (derecho)",
+"la": "Papilla mammae",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.mam.004-i",
+"es": "Seno lactífero (izquierdo)",
+"la": "Sinus lactiferus",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.mam.004-d",
+"es": "Seno lactífero (derecho)",
+"la": "Sinus lactiferus",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.mam.005-i",
+"es": "Conducto papilar (izquierdo)",
+"la": "Ductus papillaris",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.mam.005-d",
+"es": "Conducto papilar (derecho)",
+"la": "Ductus papillaris",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.mam.006-i",
+"es": "Ostio papilar (izquierdo)",
+"la": "Ostium papillare",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.mam.006-d",
+"es": "Ostio papilar (derecho)",
+"la": "Ostium papillare",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.mam.007-i",
+"es": "Aparato suspensorio de la glándula mamaria (izquierdo)",
+"la": "Apparatus suspensorius mammarum",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.mam.007-d",
+"es": "Aparato suspensorio de la glándula mamaria (derecho)",
+"la": "Apparatus suspensorius mammarum",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.fet.001",
+"es": "Placenta",
+"la": "Placenta",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.fet.002",
+"es": "Corion",
+"la": "Chorion",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.fet.003",
+"es": "Amnios",
+"la": "Amnion",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.fet.004",
+"es": "Alantoides",
+"la": "Allantois",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.rep.fet.005",
+"es": "Cordón umbilical",
+"la": "Funiculus umbilicalis",
+"sys": "rep",
+"layer": "org",
+"sex": "f"
 }
 ]
 }
