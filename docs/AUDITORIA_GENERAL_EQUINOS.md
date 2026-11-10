@@ -233,3 +233,60 @@ El bloque craneal tiene una base de inventario razonable: incluye los principale
 - University of Minnesota, College of Veterinary Medicine. *CVM Large Animal Anatomy*, capítulo 10 “Head”, revisión primavera 2024: https://open.lib.umn.edu/largeanimalanatomy/chapter/neck-head/
 - Dyce, Sack & Wensing. *Textbook of Veterinary Anatomy*, capítulo de cráneo equino (fragmento de consulta): https://elsevier-elibrary.com/contents/fullcontent/58986/epubcontent_v2/OEBPS/B9781416066071000025.htm
 
+
+
+
+## 10. Corroboración externa y corrección de hallazgos craneales (2026-11-10)
+
+### Fuentes contrastadas
+Se contrastó el inventario con el capítulo “10 Head” de *CVM Large Animal Anatomy* (University of Minnesota, revisión 2024), *Textbook of Veterinary Anatomy* (Dyce, Sack & Wensing; capítulos de cráneo, cavidad nasal y aparato hioideo), WikiVet (cráneo y aparato hioideo equinos), IVIS (enfermedades de cavidad nasal/senos paranasales) y el artículo primario de imagenología correlacionada del aparato hioideo equino (CT, micro-CT e histología; 2021). WikiVet se usa como fuente secundaria didáctica, no como autoridad única. La evidencia de anatomía aplicada y el artículo de imagenología tienen mayor peso para particularidades del caballo.
+
+### Corrección importante: conchas nasales SÍ están en el catálogo
+La primera pasada dijo que no se habían localizado en el bloque craneal. La búsqueda posterior en el JSON completo confirma que ya existen en el sistema respiratorio:
+- `equ.res.cav.003-i/d`: concha nasal dorsal, bilateral.
+- `equ.res.cav.004-i/d`: concha nasal ventral, bilateral.
+- `equ.res.cav.005-i/d`: conchas etmoidales, bilateral.
+- También aparecen registros de concha nasal media y senos conchales en el bloque respiratorio.
+Por tanto, **no deben agregarse de nuevo**. La tarea pendiente es revisar nomenclatura, clasificación por capa (actualmente `org`) y relaciones anatómicas; confirmar si “conchas etmoidales” representa adecuadamente las endoturbinadas y si la concha media se está distinguiendo correctamente. WikiVet describe dorsal, media y ventral y los meatos; Dyce identifica dorsal, ventral, media y etmoidales. El capítulo de Minnesota describe conchas/turbinados bilaterales y sus funciones. La fuente IVIS confirma las conchas dorsal y ventral equinas y el patrón de meatos.
+
+### Confirmación del aparato hioideo: ausencia de huesos, presencia de estructuras relacionadas
+La búsqueda global de `data/equino.json` no encontró registros de los huesos del aparato hioideo (p. ej., basihioides, estilohioides, ceratohioides, tirohioides o epihioides/queratohioides como huesos). Sí encontró:
+- Músculos hioideos en el sistema muscular.
+- Dos registros de articulación tirohioidea en el sistema respiratorio.
+- Ramas nerviosas estilohioideas en el sistema nervioso.
+Esto no equivale a tener representado el aparato óseo. Se confirma como **ausencia del inventario óseo actual**, no como ausencia anatómica del caballo.
+El aparato equino comprende pares de tympanohyoid, stylohyoid, epihyoid y ceratohyoid, además del basihyoid impar con procesos thyrohyoid; la literatura describe que el epihyoid puede fusionarse tempranamente con el stylohyoid. El basihyoid posee un proceso lingual prominente. Se debe modelar con cautela, reflejando la fusión y la variación descriptas, y distinguir hueso de cartílago tympanohyoid.
+
+### Confirmaciones del cráneo equino
+La fuente universitaria de Minnesota confirma:
+- Órbita con anillo óseo completo.
+- Arco cigomático que continúa rostralmente como cresta facial.
+- Escotadura nasoincisiva.
+- Foramen infraorbitario y canal infraorbitario.
+- Fosa temporal relativamente poco profunda.
+- Paladar duro principalmente maxilar, con borde caudal palatino; vómer en la formación del tabique nasal.
+- Cóndilos occipitales y procesos paracondilares.
+- Mandíbula bilateral unida por sínfisis mandibular; procesos coronoides y condilares y articulación temporomandibular.
+- Base craneal ventral con basioccipital y basisfenoides, separados en animales jóvenes por la sincondrosis esfeno-occipital, que se fusiona con la edad.
+
+### Ajustes necesarios al primer informe
+1. Se corrige la afirmación de que las conchas nasales no estaban en el catálogo: sí están, dentro del sistema respiratorio.
+2. Se mantiene la conclusión de que el aparato hioideo óseo no está registrado como tal, aunque existen músculos y articulación relacionada.
+3. El catálogo registra basisfenoides y presfenoides, pero la fuente de Minnesota destaca basioccipital y basisfenoides para la base ventral del cráneo; se requiere verificar si el registro actual está omitiendo basioccipital como hueso separado y cómo se debe representar presfenoides según NAV/edad.
+4. La afirmación de que el hueso interparietal podría persistir como pieza separada requiere revisión específica: WikiVet señala particularidades equinas en la fusión del interparietal; no asumir una regla sin edad y fuente anatómica explícitas.
+
+### Decisión de auditoría
+- Conchas nasales: presentes; no duplicar.
+- Aparato hioideo óseo: ausente del catálogo como inventario; agregar a la matriz de faltantes.
+- Accidentes craneales y particularidades: mantener como contenido de fichas/relaciones, no convertir automáticamente en huesos.
+- Nomenclatura de base craneal, hueso interparietal y clasificación de capas: pendiente de cotejo final con NAV y atlas anatómico de referencia.
+
+### Referencias web
+- University of Minnesota, CVM Large Animal Anatomy, “10 Head” (revised Spring 2024): https://open.lib.umn.edu/largeanimalanatomy/chapter/neck-head/
+- Dyce, Sack & Wensing, *Textbook of Veterinary Anatomy*, capítulo de cráneo equino: https://elsevier-elibrary.com/contents/fullcontent/58986/epubcontent_v2/OEBPS/B9781416066071000025.htm
+- Dyce, Sack & Wensing, *Textbook of Veterinary Anatomy*, cavidad nasal y senos paranasales: https://elsevier-elibrary.com/contents/fullcontent/58986/epubcontent_v2/OEBPS/B9781416066071000256.htm
+- Dyce, Sack & Wensing, *Textbook of Veterinary Anatomy*, aparato hioideo/laringe: https://elsevier-elibrary.com/contents/fullcontent/58986/epubcontent_v2/OEBPS/B9781416066071000049.htm
+- “Correlated Imaging of the Equine Hyoid Apparatus Using CT, Micro-CT, and Histology” (2021): https://pmc.ncbi.nlm.nih.gov/articles/PMC8287096/
+- WikiVet, “Hyoid Apparatus – Anatomy & Physiology”: https://en.wikivet.net/Hyoid_Apparatus_-_Anatomy_%26_Physiology
+- WikiVet, “Equine Upper Respiratory Tract – Horse Anatomy”: https://en.wikivet.net/index.php?title=Equine_Upper_Respiratory_Tract_-_Horse_Anatomy
+- IVIS, “Diseases of the Nasal Cavities and Paranasal Sinuses”: https://www.ivis.org/library/equine-respiratory-diseases/diseases-of-nasal-cavities-and-paranasal-sinuses
