@@ -12324,6 +12324,9159 @@
 "la": "Noduli lymphatici aggregati",
 "sys": "car",
 "layer": "org"
+},
+{
+"id": "equ.ner.enc.001",
+"es": "Encéfalo",
+"la": "Encephalon",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.enc.002",
+"es": "Telencéfalo",
+"la": "Telencephalon",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.enc.003",
+"es": "Diencéfalo",
+"la": "Diencephalon",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.enc.004",
+"es": "Mesencéfalo",
+"la": "Mesencephalon",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.enc.005",
+"es": "Metencéfalo",
+"la": "Metencephalon",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.enc.006",
+"es": "Mielencéfalo",
+"la": "Myelencephalon",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.enc.007",
+"es": "Rombencéfalo",
+"la": "Rhombencephalon",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.enc.008",
+"es": "Tallo encefálico",
+"la": "Truncus encephali",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.001-i",
+"es": "Hemisferio cerebral (izquierdo)",
+"la": "Hemispherium cerebri",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.001-d",
+"es": "Hemisferio cerebral (derecho)",
+"la": "Hemispherium cerebri",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.002",
+"es": "Fisura longitudinal del cerebro",
+"la": "Fissura longitudinalis cerebri",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.003",
+"es": "Fisura transversa del cerebro",
+"la": "Fissura transversa cerebri",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.004-i",
+"es": "Lóbulo frontal (izquierdo)",
+"la": "Lobus frontalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.004-d",
+"es": "Lóbulo frontal (derecho)",
+"la": "Lobus frontalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.005-i",
+"es": "Lóbulo parietal (izquierdo)",
+"la": "Lobus parietalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.005-d",
+"es": "Lóbulo parietal (derecho)",
+"la": "Lobus parietalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.006-i",
+"es": "Lóbulo occipital (izquierdo)",
+"la": "Lobus occipitalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.006-d",
+"es": "Lóbulo occipital (derecho)",
+"la": "Lobus occipitalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.007-i",
+"es": "Lóbulo temporal (izquierdo)",
+"la": "Lobus temporalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.007-d",
+"es": "Lóbulo temporal (derecho)",
+"la": "Lobus temporalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.008-i",
+"es": "Lóbulo piriforme (izquierdo)",
+"la": "Lobus piriformis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.008-d",
+"es": "Lóbulo piriforme (derecho)",
+"la": "Lobus piriformis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.009-i",
+"es": "Corteza cerebral (izquierda)",
+"la": "Cortex cerebri",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.009-d",
+"es": "Corteza cerebral (derecha)",
+"la": "Cortex cerebri",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.010-i",
+"es": "Giro cingulado (izquierdo)",
+"la": "Gyrus cinguli",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.010-d",
+"es": "Giro cingulado (derecho)",
+"la": "Gyrus cinguli",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.011-i",
+"es": "Giro parahipocampal (izquierdo)",
+"la": "Gyrus parahippocampalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.011-d",
+"es": "Giro parahipocampal (derecho)",
+"la": "Gyrus parahippocampalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.012-i",
+"es": "Giro dentado (izquierdo)",
+"la": "Gyrus dentatus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.012-d",
+"es": "Giro dentado (derecho)",
+"la": "Gyrus dentatus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.013-i",
+"es": "Surco rinal lateral (izquierdo)",
+"la": "Sulcus rhinalis lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.013-d",
+"es": "Surco rinal lateral (derecho)",
+"la": "Sulcus rhinalis lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.014-i",
+"es": "Bulbo olfatorio (izquierdo)",
+"la": "Bulbus olfactorius",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.014-d",
+"es": "Bulbo olfatorio (derecho)",
+"la": "Bulbus olfactorius",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.015-i",
+"es": "Pedúnculo olfatorio (izquierdo)",
+"la": "Pedunculus olfactorius",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.015-d",
+"es": "Pedúnculo olfatorio (derecho)",
+"la": "Pedunculus olfactorius",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.016-i",
+"es": "Tracto olfatorio lateral (izquierdo)",
+"la": "Tractus olfactorius lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.016-d",
+"es": "Tracto olfatorio lateral (derecho)",
+"la": "Tractus olfactorius lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.017-i",
+"es": "Estría olfatoria lateral (izquierda)",
+"la": "Stria olfactoria lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.017-d",
+"es": "Estría olfatoria lateral (derecha)",
+"la": "Stria olfactoria lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.018-i",
+"es": "Estría olfatoria medial (izquierda)",
+"la": "Stria olfactoria medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.018-d",
+"es": "Estría olfatoria medial (derecha)",
+"la": "Stria olfactoria medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.019-i",
+"es": "Tubérculo olfatorio (izquierdo)",
+"la": "Tuberculum olfactorium",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.019-d",
+"es": "Tubérculo olfatorio (derecho)",
+"la": "Tuberculum olfactorium",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.020-i",
+"es": "Núcleo olfatorio anterior (izquierdo)",
+"la": "Nucleus olfactorius anterior",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.020-d",
+"es": "Núcleo olfatorio anterior (derecho)",
+"la": "Nucleus olfactorius anterior",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.021-i",
+"es": "Hipocampo (izquierdo)",
+"la": "Hippocampus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.021-d",
+"es": "Hipocampo (derecho)",
+"la": "Hippocampus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.022-i",
+"es": "Fimbria del hipocampo (izquierda)",
+"la": "Fimbria hippocampi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.022-d",
+"es": "Fimbria del hipocampo (derecha)",
+"la": "Fimbria hippocampi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.023-i",
+"es": "Subículo (izquierdo)",
+"la": "Subiculum",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.023-d",
+"es": "Subículo (derecho)",
+"la": "Subiculum",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.024-i",
+"es": "Columna del fórnix (izquierda)",
+"la": "Columna fornicis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.024-d",
+"es": "Columna del fórnix (derecha)",
+"la": "Columna fornicis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.025",
+"es": "Cuerpo del fórnix",
+"la": "Corpus fornicis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.026-i",
+"es": "Pilar del fórnix (izquierdo)",
+"la": "Crus fornicis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.026-d",
+"es": "Pilar del fórnix (derecho)",
+"la": "Crus fornicis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.027",
+"es": "Comisura del fórnix",
+"la": "Commissura fornicis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.028",
+"es": "Septo pelúcido",
+"la": "Septum pellucidum",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.029-i",
+"es": "Núcleos septales (izquierdos)",
+"la": "Nuclei septales",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.029-d",
+"es": "Núcleos septales (derechos)",
+"la": "Nuclei septales",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.030-i",
+"es": "Cuerpo amigdalino (izquierdo)",
+"la": "Corpus amygdaloideum",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.030-d",
+"es": "Cuerpo amigdalino (derecho)",
+"la": "Corpus amygdaloideum",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.031",
+"es": "Cuerpo calloso",
+"la": "Corpus callosum",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.032",
+"es": "Rodilla del cuerpo calloso",
+"la": "Genu corporis callosi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.033",
+"es": "Tronco del cuerpo calloso",
+"la": "Truncus corporis callosi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.034",
+"es": "Esplenio del cuerpo calloso",
+"la": "Splenium corporis callosi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.035",
+"es": "Comisura rostral",
+"la": "Commissura rostralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.036-i",
+"es": "Cápsula interna (izquierda)",
+"la": "Capsula interna",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.036-d",
+"es": "Cápsula interna (derecha)",
+"la": "Capsula interna",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.037-i",
+"es": "Cápsula externa (izquierda)",
+"la": "Capsula externa",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.037-d",
+"es": "Cápsula externa (derecha)",
+"la": "Capsula externa",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.038-i",
+"es": "Cápsula extrema (izquierda)",
+"la": "Capsula extrema",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.038-d",
+"es": "Cápsula extrema (derecha)",
+"la": "Capsula extrema",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.039-i",
+"es": "Corona radiada (izquierda)",
+"la": "Corona radiata",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.039-d",
+"es": "Corona radiada (derecha)",
+"la": "Corona radiata",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.040-i",
+"es": "Cingulum (izquierdo)",
+"la": "Cingulum",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.040-d",
+"es": "Cingulum (derecho)",
+"la": "Cingulum",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.041-i",
+"es": "Estría terminal (izquierda)",
+"la": "Stria terminalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.041-d",
+"es": "Estría terminal (derecha)",
+"la": "Stria terminalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.042-i",
+"es": "Cuerpo estriado (izquierdo)",
+"la": "Corpus striatum",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.042-d",
+"es": "Cuerpo estriado (derecho)",
+"la": "Corpus striatum",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.043-i",
+"es": "Núcleo caudado (izquierdo)",
+"la": "Nucleus caudatus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.043-d",
+"es": "Núcleo caudado (derecho)",
+"la": "Nucleus caudatus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.044-i",
+"es": "Cabeza del núcleo caudado (izquierda)",
+"la": "Caput nuclei caudati",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.044-d",
+"es": "Cabeza del núcleo caudado (derecha)",
+"la": "Caput nuclei caudati",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.045-i",
+"es": "Cuerpo del núcleo caudado (izquierdo)",
+"la": "Corpus nuclei caudati",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.045-d",
+"es": "Cuerpo del núcleo caudado (derecho)",
+"la": "Corpus nuclei caudati",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.046-i",
+"es": "Cola del núcleo caudado (izquierda)",
+"la": "Cauda nuclei caudati",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.046-d",
+"es": "Cola del núcleo caudado (derecha)",
+"la": "Cauda nuclei caudati",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.047-i",
+"es": "Putamen (izquierdo)",
+"la": "Putamen",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.047-d",
+"es": "Putamen (derecho)",
+"la": "Putamen",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.048-i",
+"es": "Globo pálido (izquierdo)",
+"la": "Globus pallidus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.048-d",
+"es": "Globo pálido (derecho)",
+"la": "Globus pallidus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.049-i",
+"es": "Claustro (izquierdo)",
+"la": "Claustrum",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.049-d",
+"es": "Claustro (derecho)",
+"la": "Claustrum",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.050-i",
+"es": "Núcleo accumbens (izquierdo)",
+"la": "Nucleus accumbens",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tel.050-d",
+"es": "Núcleo accumbens (derecho)",
+"la": "Nucleus accumbens",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.001-i",
+"es": "Tálamo (izquierdo)",
+"la": "Thalamus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.001-d",
+"es": "Tálamo (derecho)",
+"la": "Thalamus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.002",
+"es": "Adherencia intertalámica",
+"la": "Adhesio interthalamica",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.003-i",
+"es": "Núcleos anteriores del tálamo (izquierdos)",
+"la": "Nuclei anteriores thalami",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.003-d",
+"es": "Núcleos anteriores del tálamo (derechos)",
+"la": "Nuclei anteriores thalami",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.004-i",
+"es": "Núcleos mediales del tálamo (izquierdos)",
+"la": "Nuclei mediales thalami",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.004-d",
+"es": "Núcleos mediales del tálamo (derechos)",
+"la": "Nuclei mediales thalami",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.005-i",
+"es": "Núcleos laterales del tálamo (izquierdos)",
+"la": "Nuclei laterales thalami",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.005-d",
+"es": "Núcleos laterales del tálamo (derechos)",
+"la": "Nuclei laterales thalami",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.006-i",
+"es": "Núcleos ventrales del tálamo (izquierdos)",
+"la": "Nuclei ventrales thalami",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.006-d",
+"es": "Núcleos ventrales del tálamo (derechos)",
+"la": "Nuclei ventrales thalami",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.007-i",
+"es": "Núcleos intralaminares del tálamo (izquierdos)",
+"la": "Nuclei intralaminares thalami",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.007-d",
+"es": "Núcleos intralaminares del tálamo (derechos)",
+"la": "Nuclei intralaminares thalami",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.008-i",
+"es": "Núcleos de la línea media del tálamo (izquierdos)",
+"la": "Nuclei mediani thalami",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.008-d",
+"es": "Núcleos de la línea media del tálamo (derechos)",
+"la": "Nuclei mediani thalami",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.009-i",
+"es": "Núcleo reticular del tálamo (izquierdo)",
+"la": "Nucleus reticularis thalami",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.009-d",
+"es": "Núcleo reticular del tálamo (derecho)",
+"la": "Nucleus reticularis thalami",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.010-i",
+"es": "Cuerpo geniculado lateral (izquierdo)",
+"la": "Corpus geniculatum laterale",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.010-d",
+"es": "Cuerpo geniculado lateral (derecho)",
+"la": "Corpus geniculatum laterale",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.011-i",
+"es": "Cuerpo geniculado medial (izquierdo)",
+"la": "Corpus geniculatum mediale",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.011-d",
+"es": "Cuerpo geniculado medial (derecho)",
+"la": "Corpus geniculatum mediale",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.012",
+"es": "Epitálamo",
+"la": "Epithalamus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.013-i",
+"es": "Habénula (izquierda)",
+"la": "Habenula",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.013-d",
+"es": "Habénula (derecha)",
+"la": "Habenula",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.014",
+"es": "Comisura habenular",
+"la": "Commissura habenularum",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.015",
+"es": "Comisura caudal",
+"la": "Commissura caudalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.016-i",
+"es": "Estría medular del tálamo (izquierda)",
+"la": "Stria medullaris thalami",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.016-d",
+"es": "Estría medular del tálamo (derecha)",
+"la": "Stria medullaris thalami",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.017",
+"es": "Subtálamo",
+"la": "Subthalamus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.018-i",
+"es": "Núcleo subtalámico (izquierdo)",
+"la": "Nucleus subthalamicus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.018-d",
+"es": "Núcleo subtalámico (derecho)",
+"la": "Nucleus subthalamicus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.019-i",
+"es": "Zona incierta (izquierda)",
+"la": "Zona incerta",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.019-d",
+"es": "Zona incierta (derecha)",
+"la": "Zona incerta",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.020",
+"es": "Hipotálamo",
+"la": "Hypothalamus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.021",
+"es": "Quiasma óptico",
+"la": "Chiasma opticum",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.022-i",
+"es": "Tracto óptico (izquierdo)",
+"la": "Tractus opticus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.022-d",
+"es": "Tracto óptico (derecho)",
+"la": "Tractus opticus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.023",
+"es": "Túber cinéreo",
+"la": "Tuber cinereum",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.024",
+"es": "Infundíbulo",
+"la": "Infundibulum",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.025-i",
+"es": "Cuerpo mamilar (izquierdo)",
+"la": "Corpus mamillare",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.025-d",
+"es": "Cuerpo mamilar (derecho)",
+"la": "Corpus mamillare",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.026-i",
+"es": "Núcleo supraóptico (izquierdo)",
+"la": "Nucleus supraopticus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.026-d",
+"es": "Núcleo supraóptico (derecho)",
+"la": "Nucleus supraopticus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.027-i",
+"es": "Núcleo paraventricular (izquierdo)",
+"la": "Nucleus paraventricularis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.027-d",
+"es": "Núcleo paraventricular (derecho)",
+"la": "Nucleus paraventricularis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.028-i",
+"es": "Núcleo ventromedial del hipotálamo (izquierdo)",
+"la": "Nucleus ventromedialis hypothalami",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.028-d",
+"es": "Núcleo ventromedial del hipotálamo (derecho)",
+"la": "Nucleus ventromedialis hypothalami",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.029-i",
+"es": "Núcleo dorsomedial del hipotálamo (izquierdo)",
+"la": "Nucleus dorsomedialis hypothalami",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.029-d",
+"es": "Núcleo dorsomedial del hipotálamo (derecho)",
+"la": "Nucleus dorsomedialis hypothalami",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.030-i",
+"es": "Núcleo arqueado (izquierdo)",
+"la": "Nucleus arcuatus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.030-d",
+"es": "Núcleo arqueado (derecho)",
+"la": "Nucleus arcuatus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.031-i",
+"es": "Núcleo supraquiasmático (izquierdo)",
+"la": "Nucleus suprachiasmaticus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.031-d",
+"es": "Núcleo supraquiasmático (derecho)",
+"la": "Nucleus suprachiasmaticus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.032-i",
+"es": "Área hipotalámica lateral (izquierda)",
+"la": "Area hypothalamica lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.die.032-d",
+"es": "Área hipotalámica lateral (derecha)",
+"la": "Area hypothalamica lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mes.001",
+"es": "Techo mesencefálico",
+"la": "Tectum mesencephali",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mes.002-i",
+"es": "Colículo rostral (izquierdo)",
+"la": "Colliculus rostralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mes.002-d",
+"es": "Colículo rostral (derecho)",
+"la": "Colliculus rostralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mes.003-i",
+"es": "Colículo caudal (izquierdo)",
+"la": "Colliculus caudalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mes.003-d",
+"es": "Colículo caudal (derecho)",
+"la": "Colliculus caudalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mes.004-i",
+"es": "Brazo del colículo rostral (izquierdo)",
+"la": "Brachium colliculi rostralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mes.004-d",
+"es": "Brazo del colículo rostral (derecho)",
+"la": "Brachium colliculi rostralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mes.005-i",
+"es": "Brazo del colículo caudal (izquierdo)",
+"la": "Brachium colliculi caudalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mes.005-d",
+"es": "Brazo del colículo caudal (derecho)",
+"la": "Brachium colliculi caudalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mes.006-i",
+"es": "Pedúnculo cerebral (izquierdo)",
+"la": "Pedunculus cerebralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mes.006-d",
+"es": "Pedúnculo cerebral (derecho)",
+"la": "Pedunculus cerebralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mes.007-i",
+"es": "Pie del pedúnculo cerebral (izquierdo)",
+"la": "Crus cerebri",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mes.007-d",
+"es": "Pie del pedúnculo cerebral (derecho)",
+"la": "Crus cerebri",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mes.008",
+"es": "Tegmento mesencefálico",
+"la": "Tegmentum mesencephali",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mes.009-i",
+"es": "Sustancia negra (izquierda)",
+"la": "Substantia nigra",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mes.009-d",
+"es": "Sustancia negra (derecha)",
+"la": "Substantia nigra",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mes.010-i",
+"es": "Núcleo rojo (izquierdo)",
+"la": "Nucleus ruber",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mes.010-d",
+"es": "Núcleo rojo (derecho)",
+"la": "Nucleus ruber",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mes.011",
+"es": "Sustancia gris central",
+"la": "Substantia grisea centralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mes.012",
+"es": "Fosa interpeduncular",
+"la": "Fossa interpeduncularis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mes.013",
+"es": "Núcleo interpeduncular",
+"la": "Nucleus interpeduncularis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mes.014-i",
+"es": "Área tegmental ventral (izquierda)",
+"la": "Area tegmentalis ventralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mes.014-d",
+"es": "Área tegmental ventral (derecha)",
+"la": "Area tegmentalis ventralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mes.015",
+"es": "Decusación tegmental ventral",
+"la": "Decussatio tegmentalis ventralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mes.016",
+"es": "Decusación de los pedúnculos cerebelosos rostrales",
+"la": "Decussatio pedunculorum cerebellarium rostralium",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mes.017-i",
+"es": "Núcleo del lemnisco lateral (izquierdo)",
+"la": "Nucleus lemnisci lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mes.017-d",
+"es": "Núcleo del lemnisco lateral (derecho)",
+"la": "Nucleus lemnisci lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mes.018-i",
+"es": "Núcleo pretectal (izquierdo)",
+"la": "Nucleus pretectalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mes.018-d",
+"es": "Núcleo pretectal (derecho)",
+"la": "Nucleus pretectalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mes.019",
+"es": "Formación reticular",
+"la": "Formatio reticularis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.001",
+"es": "Puente",
+"la": "Pons",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.002-i",
+"es": "Núcleos del puente (izquierdos)",
+"la": "Nuclei pontis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.002-d",
+"es": "Núcleos del puente (derechos)",
+"la": "Nuclei pontis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.003",
+"es": "Fibras transversas del puente",
+"la": "Fibrae pontis transversae",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.004",
+"es": "Cuerpo trapezoide",
+"la": "Corpus trapezoideum",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.005-i",
+"es": "Núcleo del cuerpo trapezoide (izquierdo)",
+"la": "Nucleus corporis trapezoidei",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.005-d",
+"es": "Núcleo del cuerpo trapezoide (derecho)",
+"la": "Nucleus corporis trapezoidei",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.006-i",
+"es": "Locus cerúleo (izquierdo)",
+"la": "Locus caeruleus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.006-d",
+"es": "Locus cerúleo (derecho)",
+"la": "Locus caeruleus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.007",
+"es": "Núcleos del rafe",
+"la": "Nuclei raphes",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.008",
+"es": "Cerebelo",
+"la": "Cerebellum",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.009",
+"es": "Vermis cerebeloso",
+"la": "Vermis cerebelli",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.010-i",
+"es": "Hemisferio cerebeloso (izquierdo)",
+"la": "Hemispherium cerebelli",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.010-d",
+"es": "Hemisferio cerebeloso (derecho)",
+"la": "Hemispherium cerebelli",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.011",
+"es": "Corteza cerebelosa",
+"la": "Cortex cerebelli",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.012",
+"es": "Cuerpo medular del cerebelo",
+"la": "Corpus medullare cerebelli",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.013",
+"es": "Árbol de la vida del cerebelo",
+"la": "Arbor vitae cerebelli",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.014",
+"es": "Lóbulo rostral del cerebelo",
+"la": "Lobus rostralis cerebelli",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.015",
+"es": "Lóbulo caudal del cerebelo",
+"la": "Lobus caudalis cerebelli",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.016",
+"es": "Língula del cerebelo",
+"la": "Lingula cerebelli",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.017",
+"es": "Lóbulo central del cerebelo",
+"la": "Lobulus centralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.018",
+"es": "Culmen",
+"la": "Culmen",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.019",
+"es": "Declive",
+"la": "Declive",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.020",
+"es": "Túber del vermis",
+"la": "Tuber vermis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.021",
+"es": "Pirámide del vermis",
+"la": "Pyramis vermis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.022",
+"es": "Úvula del vermis",
+"la": "Uvula vermis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.023",
+"es": "Nódulo",
+"la": "Nodulus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.024",
+"es": "Lóbulo flóculonodular",
+"la": "Lobus flocculonodularis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.025-i",
+"es": "Flóculo (izquierdo)",
+"la": "Flocculus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.025-d",
+"es": "Flóculo (derecho)",
+"la": "Flocculus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.026-i",
+"es": "Paraflóculo dorsal (izquierdo)",
+"la": "Paraflocculus dorsalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.026-d",
+"es": "Paraflóculo dorsal (derecho)",
+"la": "Paraflocculus dorsalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.027-i",
+"es": "Paraflóculo ventral (izquierdo)",
+"la": "Paraflocculus ventralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.027-d",
+"es": "Paraflóculo ventral (derecho)",
+"la": "Paraflocculus ventralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.028-i",
+"es": "Lóbulo paramediano (izquierdo)",
+"la": "Lobulus paramedianus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.028-d",
+"es": "Lóbulo paramediano (derecho)",
+"la": "Lobulus paramedianus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.029-i",
+"es": "Lóbulo ansiforme (izquierdo)",
+"la": "Lobulus ansiformis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.029-d",
+"es": "Lóbulo ansiforme (derecho)",
+"la": "Lobulus ansiformis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.030-i",
+"es": "Lóbulo simple (izquierdo)",
+"la": "Lobulus simplex",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.030-d",
+"es": "Lóbulo simple (derecho)",
+"la": "Lobulus simplex",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.031",
+"es": "Fisura prima",
+"la": "Fissura prima",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.032",
+"es": "Fisura posterolateral",
+"la": "Fissura posterolateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.033",
+"es": "Fisura uvulonodular",
+"la": "Fissura uvulonodularis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.034-i",
+"es": "Pedúnculo cerebeloso rostral (izquierdo)",
+"la": "Pedunculus cerebellaris rostralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.034-d",
+"es": "Pedúnculo cerebeloso rostral (derecho)",
+"la": "Pedunculus cerebellaris rostralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.035-i",
+"es": "Pedúnculo cerebeloso medio (izquierdo)",
+"la": "Pedunculus cerebellaris medius",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.035-d",
+"es": "Pedúnculo cerebeloso medio (derecho)",
+"la": "Pedunculus cerebellaris medius",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.036-i",
+"es": "Pedúnculo cerebeloso caudal (izquierdo)",
+"la": "Pedunculus cerebellaris caudalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.036-d",
+"es": "Pedúnculo cerebeloso caudal (derecho)",
+"la": "Pedunculus cerebellaris caudalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.037-i",
+"es": "Núcleo fastigial (izquierdo)",
+"la": "Nucleus fastigii",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.037-d",
+"es": "Núcleo fastigial (derecho)",
+"la": "Nucleus fastigii",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.038-i",
+"es": "Núcleo interpuesto (izquierdo)",
+"la": "Nucleus interpositus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.038-d",
+"es": "Núcleo interpuesto (derecho)",
+"la": "Nucleus interpositus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.039-i",
+"es": "Núcleo lateral del cerebelo (dentado) (izquierdo)",
+"la": "Nucleus lateralis cerebelli [dentatus]",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.039-d",
+"es": "Núcleo lateral del cerebelo (dentado) (derecho)",
+"la": "Nucleus lateralis cerebelli [dentatus]",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.040",
+"es": "Velo medular rostral",
+"la": "Velum medullare rostrale",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.met.041",
+"es": "Velo medular caudal",
+"la": "Velum medullare caudale",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mie.001",
+"es": "Bulbo raquídeo",
+"la": "Medulla oblongata",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mie.002-i",
+"es": "Pirámide del bulbo raquídeo (izquierda)",
+"la": "Pyramis medullae oblongatae",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mie.002-d",
+"es": "Pirámide del bulbo raquídeo (derecha)",
+"la": "Pyramis medullae oblongatae",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mie.003",
+"es": "Decusación de las pirámides",
+"la": "Decussatio pyramidum",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mie.004-i",
+"es": "Núcleo olivar caudal (izquierdo)",
+"la": "Nucleus olivaris caudalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mie.004-d",
+"es": "Núcleo olivar caudal (derecho)",
+"la": "Nucleus olivaris caudalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mie.005-i",
+"es": "Núcleo olivar accesorio medial (izquierdo)",
+"la": "Nucleus olivaris accessorius medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mie.005-d",
+"es": "Núcleo olivar accesorio medial (derecho)",
+"la": "Nucleus olivaris accessorius medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mie.006-i",
+"es": "Núcleo olivar accesorio dorsal (izquierdo)",
+"la": "Nucleus olivaris accessorius dorsalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mie.006-d",
+"es": "Núcleo olivar accesorio dorsal (derecho)",
+"la": "Nucleus olivaris accessorius dorsalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mie.007-i",
+"es": "Núcleo grácil (izquierdo)",
+"la": "Nucleus gracilis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mie.007-d",
+"es": "Núcleo grácil (derecho)",
+"la": "Nucleus gracilis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mie.008-i",
+"es": "Núcleo cuneiforme medial (izquierdo)",
+"la": "Nucleus cuneatus medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mie.008-d",
+"es": "Núcleo cuneiforme medial (derecho)",
+"la": "Nucleus cuneatus medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mie.009-i",
+"es": "Núcleo cuneiforme lateral (izquierdo)",
+"la": "Nucleus cuneatus lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mie.009-d",
+"es": "Núcleo cuneiforme lateral (derecho)",
+"la": "Nucleus cuneatus lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mie.010-i",
+"es": "Núcleo reticular lateral (izquierdo)",
+"la": "Nucleus reticularis lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mie.010-d",
+"es": "Núcleo reticular lateral (derecho)",
+"la": "Nucleus reticularis lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mie.011",
+"es": "Obex",
+"la": "Obex",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mie.012",
+"es": "Área postrema",
+"la": "Area postrema",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mie.013",
+"es": "Fosa romboidea",
+"la": "Fossa rhomboidea",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mie.014-i",
+"es": "Colículo facial (izquierdo)",
+"la": "Colliculus facialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mie.014-d",
+"es": "Colículo facial (derecho)",
+"la": "Colliculus facialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mie.015-i",
+"es": "Eminencia medial (izquierda)",
+"la": "Eminentia medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mie.015-d",
+"es": "Eminencia medial (derecha)",
+"la": "Eminentia medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mie.016",
+"es": "Estrías medulares del cuarto ventrículo",
+"la": "Striae medullares ventriculi quarti",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.mie.017",
+"es": "Surco limitante",
+"la": "Sulcus limitans",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.001-i",
+"es": "Núcleo del nervio oculomotor (izquierdo)",
+"la": "Nucleus n. oculomotorii",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.001-d",
+"es": "Núcleo del nervio oculomotor (derecho)",
+"la": "Nucleus n. oculomotorii",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.002-i",
+"es": "Núcleo parasimpático del nervio oculomotor (izquierdo)",
+"la": "Nucleus parasympathicus n. oculomotorii",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.002-d",
+"es": "Núcleo parasimpático del nervio oculomotor (derecho)",
+"la": "Nucleus parasympathicus n. oculomotorii",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.003-i",
+"es": "Núcleo del nervio troclear (izquierdo)",
+"la": "Nucleus n. trochlearis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.003-d",
+"es": "Núcleo del nervio troclear (derecho)",
+"la": "Nucleus n. trochlearis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.004-i",
+"es": "Núcleo del nervio abducente (izquierdo)",
+"la": "Nucleus n. abducentis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.004-d",
+"es": "Núcleo del nervio abducente (derecho)",
+"la": "Nucleus n. abducentis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.005-i",
+"es": "Núcleo del nervio hipogloso (izquierdo)",
+"la": "Nucleus n. hypoglossi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.005-d",
+"es": "Núcleo del nervio hipogloso (derecho)",
+"la": "Nucleus n. hypoglossi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.006-i",
+"es": "Núcleo motor del nervio trigémino (izquierdo)",
+"la": "Nucleus motorius n. trigemini",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.006-d",
+"es": "Núcleo motor del nervio trigémino (derecho)",
+"la": "Nucleus motorius n. trigemini",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.007-i",
+"es": "Núcleo mesencefálico del nervio trigémino (izquierdo)",
+"la": "Nucleus mesencephalicus n. trigemini",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.007-d",
+"es": "Núcleo mesencefálico del nervio trigémino (derecho)",
+"la": "Nucleus mesencephalicus n. trigemini",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.008-i",
+"es": "Núcleo sensitivo principal del nervio trigémino (izquierdo)",
+"la": "Nucleus sensorius principalis n. trigemini",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.008-d",
+"es": "Núcleo sensitivo principal del nervio trigémino (derecho)",
+"la": "Nucleus sensorius principalis n. trigemini",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.009-i",
+"es": "Núcleo del tracto espinal del nervio trigémino (izquierdo)",
+"la": "Nucleus tractus spinalis n. trigemini",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.009-d",
+"es": "Núcleo del tracto espinal del nervio trigémino (derecho)",
+"la": "Nucleus tractus spinalis n. trigemini",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.010-i",
+"es": "Núcleo del nervio facial (izquierdo)",
+"la": "Nucleus n. facialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.010-d",
+"es": "Núcleo del nervio facial (derecho)",
+"la": "Nucleus n. facialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.011-i",
+"es": "Núcleo ambiguo (izquierdo)",
+"la": "Nucleus ambiguus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.011-d",
+"es": "Núcleo ambiguo (derecho)",
+"la": "Nucleus ambiguus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.012-i",
+"es": "Núcleo del nervio accesorio (izquierdo)",
+"la": "Nucleus n. accessorii",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.012-d",
+"es": "Núcleo del nervio accesorio (derecho)",
+"la": "Nucleus n. accessorii",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.013-i",
+"es": "Núcleo del tracto solitario (izquierdo)",
+"la": "Nucleus tractus solitarii",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.013-d",
+"es": "Núcleo del tracto solitario (derecho)",
+"la": "Nucleus tractus solitarii",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.014-i",
+"es": "Núcleo salivatorio rostral (izquierdo)",
+"la": "Nucleus salivatorius rostralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.014-d",
+"es": "Núcleo salivatorio rostral (derecho)",
+"la": "Nucleus salivatorius rostralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.015-i",
+"es": "Núcleo salivatorio caudal (izquierdo)",
+"la": "Nucleus salivatorius caudalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.015-d",
+"es": "Núcleo salivatorio caudal (derecho)",
+"la": "Nucleus salivatorius caudalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.016-i",
+"es": "Núcleo dorsal del nervio vago (izquierdo)",
+"la": "Nucleus dorsalis n. vagi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.016-d",
+"es": "Núcleo dorsal del nervio vago (derecho)",
+"la": "Nucleus dorsalis n. vagi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.017-i",
+"es": "Núcleo vestibular medial (izquierdo)",
+"la": "Nucleus vestibularis medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.017-d",
+"es": "Núcleo vestibular medial (derecho)",
+"la": "Nucleus vestibularis medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.018-i",
+"es": "Núcleo vestibular lateral (izquierdo)",
+"la": "Nucleus vestibularis lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.018-d",
+"es": "Núcleo vestibular lateral (derecho)",
+"la": "Nucleus vestibularis lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.019-i",
+"es": "Núcleo vestibular rostral (izquierdo)",
+"la": "Nucleus vestibularis rostralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.019-d",
+"es": "Núcleo vestibular rostral (derecho)",
+"la": "Nucleus vestibularis rostralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.020-i",
+"es": "Núcleo vestibular caudal (izquierdo)",
+"la": "Nucleus vestibularis caudalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.020-d",
+"es": "Núcleo vestibular caudal (derecho)",
+"la": "Nucleus vestibularis caudalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.021-i",
+"es": "Núcleo coclear dorsal (izquierdo)",
+"la": "Nucleus cochlearis dorsalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.021-d",
+"es": "Núcleo coclear dorsal (derecho)",
+"la": "Nucleus cochlearis dorsalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.022-i",
+"es": "Núcleo coclear ventral (izquierdo)",
+"la": "Nucleus cochlearis ventralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.nuc.022-d",
+"es": "Núcleo coclear ventral (derecho)",
+"la": "Nucleus cochlearis ventralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.001-i",
+"es": "Tracto corticoespinal (izquierdo)",
+"la": "Tractus corticospinalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.001-d",
+"es": "Tracto corticoespinal (derecho)",
+"la": "Tractus corticospinalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.002-i",
+"es": "Tracto rubroespinal (izquierdo)",
+"la": "Tractus rubrospinalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.002-d",
+"es": "Tracto rubroespinal (derecho)",
+"la": "Tractus rubrospinalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.003-i",
+"es": "Tracto reticuloespinal (izquierdo)",
+"la": "Tractus reticulospinalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.003-d",
+"es": "Tracto reticuloespinal (derecho)",
+"la": "Tractus reticulospinalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.004-i",
+"es": "Tracto vestibuloespinal lateral (izquierdo)",
+"la": "Tractus vestibulospinalis lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.004-d",
+"es": "Tracto vestibuloespinal lateral (derecho)",
+"la": "Tractus vestibulospinalis lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.005-i",
+"es": "Tracto vestibuloespinal medial (izquierdo)",
+"la": "Tractus vestibulospinalis medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.005-d",
+"es": "Tracto vestibuloespinal medial (derecho)",
+"la": "Tractus vestibulospinalis medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.006-i",
+"es": "Tracto tectoespinal (izquierdo)",
+"la": "Tractus tectospinalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.006-d",
+"es": "Tracto tectoespinal (derecho)",
+"la": "Tractus tectospinalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.007-i",
+"es": "Tracto olivoespinal (izquierdo)",
+"la": "Tractus olivospinalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.007-d",
+"es": "Tracto olivoespinal (derecho)",
+"la": "Tractus olivospinalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.008-i",
+"es": "Fascículo longitudinal medial (izquierdo)",
+"la": "Fasciculus longitudinalis medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.008-d",
+"es": "Fascículo longitudinal medial (derecho)",
+"la": "Fasciculus longitudinalis medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.009-i",
+"es": "Fascículo longitudinal dorsal (izquierdo)",
+"la": "Fasciculus longitudinalis dorsalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.009-d",
+"es": "Fascículo longitudinal dorsal (derecho)",
+"la": "Fasciculus longitudinalis dorsalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.010-i",
+"es": "Fascículo grácil (izquierdo)",
+"la": "Fasciculus gracilis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.010-d",
+"es": "Fascículo grácil (derecho)",
+"la": "Fasciculus gracilis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.011-i",
+"es": "Fascículo cuneiforme (izquierdo)",
+"la": "Fasciculus cuneatus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.011-d",
+"es": "Fascículo cuneiforme (derecho)",
+"la": "Fasciculus cuneatus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.012-i",
+"es": "Tracto espinocerebeloso dorsal (izquierdo)",
+"la": "Tractus spinocerebellaris dorsalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.012-d",
+"es": "Tracto espinocerebeloso dorsal (derecho)",
+"la": "Tractus spinocerebellaris dorsalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.013-i",
+"es": "Tracto espinocerebeloso ventral (izquierdo)",
+"la": "Tractus spinocerebellaris ventralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.013-d",
+"es": "Tracto espinocerebeloso ventral (derecho)",
+"la": "Tractus spinocerebellaris ventralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.014-i",
+"es": "Tracto espinocerebeloso rostral (izquierdo)",
+"la": "Tractus spinocerebellaris rostralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.014-d",
+"es": "Tracto espinocerebeloso rostral (derecho)",
+"la": "Tractus spinocerebellaris rostralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.015-i",
+"es": "Tracto espinotalámico (izquierdo)",
+"la": "Tractus spinothalamicus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.015-d",
+"es": "Tracto espinotalámico (derecho)",
+"la": "Tractus spinothalamicus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.016-i",
+"es": "Tracto espinorreticular (izquierdo)",
+"la": "Tractus spinoreticularis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.016-d",
+"es": "Tracto espinorreticular (derecho)",
+"la": "Tractus spinoreticularis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.017-i",
+"es": "Tracto espinotectal (izquierdo)",
+"la": "Tractus spinotectalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.017-d",
+"es": "Tracto espinotectal (derecho)",
+"la": "Tractus spinotectalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.018-i",
+"es": "Fascículo propio (izquierdo)",
+"la": "Fasciculus proprius",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.018-d",
+"es": "Fascículo propio (derecho)",
+"la": "Fasciculus proprius",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.019-i",
+"es": "Tracto dorsolateral (izquierdo)",
+"la": "Tractus dorsolateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.019-d",
+"es": "Tracto dorsolateral (derecho)",
+"la": "Tractus dorsolateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.020-i",
+"es": "Lemnisco medial (izquierdo)",
+"la": "Lemniscus medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.020-d",
+"es": "Lemnisco medial (derecho)",
+"la": "Lemniscus medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.021-i",
+"es": "Lemnisco lateral (izquierdo)",
+"la": "Lemniscus lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.021-d",
+"es": "Lemnisco lateral (derecho)",
+"la": "Lemniscus lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.022-i",
+"es": "Lemnisco espinal (izquierdo)",
+"la": "Lemniscus spinalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.022-d",
+"es": "Lemnisco espinal (derecho)",
+"la": "Lemniscus spinalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.023-i",
+"es": "Lemnisco trigeminal (izquierdo)",
+"la": "Lemniscus trigeminalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.023-d",
+"es": "Lemnisco trigeminal (derecho)",
+"la": "Lemniscus trigeminalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.024-i",
+"es": "Tracto mesencefálico del nervio trigémino (izquierdo)",
+"la": "Tractus mesencephalicus n. trigemini",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.024-d",
+"es": "Tracto mesencefálico del nervio trigémino (derecho)",
+"la": "Tractus mesencephalicus n. trigemini",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.025-i",
+"es": "Tracto espinal del nervio trigémino (izquierdo)",
+"la": "Tractus spinalis n. trigemini",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.025-d",
+"es": "Tracto espinal del nervio trigémino (derecho)",
+"la": "Tractus spinalis n. trigemini",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.026-i",
+"es": "Tracto solitario (izquierdo)",
+"la": "Tractus solitarius",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.026-d",
+"es": "Tracto solitario (derecho)",
+"la": "Tractus solitarius",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.027-i",
+"es": "Radiación óptica (izquierda)",
+"la": "Radiatio optica",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.027-d",
+"es": "Radiación óptica (derecha)",
+"la": "Radiatio optica",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.028-i",
+"es": "Fascículo retroflejo (izquierdo)",
+"la": "Fasciculus retroflexus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.028-d",
+"es": "Fascículo retroflejo (derecho)",
+"la": "Fasciculus retroflexus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.029-i",
+"es": "Fascículo mamilotalámico (izquierdo)",
+"la": "Fasciculus mamillothalamicus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.029-d",
+"es": "Fascículo mamilotalámico (derecho)",
+"la": "Fasciculus mamillothalamicus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.030-i",
+"es": "Fascículo telencefálico medial (izquierdo)",
+"la": "Fasciculus telencephalicus medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tra.030-d",
+"es": "Fascículo telencefálico medial (derecho)",
+"la": "Fasciculus telencephalicus medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.men.001",
+"es": "Meninges",
+"la": "Meninges",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.men.002",
+"es": "Duramadre craneal",
+"la": "Dura mater encephali",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.men.003",
+"es": "Duramadre espinal",
+"la": "Dura mater spinalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.men.004",
+"es": "Hoz del cerebro",
+"la": "Falx cerebri",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.men.005",
+"es": "Tentorio membranoso del cerebelo",
+"la": "Tentorium cerebelli membranaceum",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.men.006",
+"es": "Diafragma de la silla",
+"la": "Diaphragma sellae",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.men.007",
+"es": "Aracnoides craneal",
+"la": "Arachnoidea encephali",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.men.008",
+"es": "Aracnoides espinal",
+"la": "Arachnoidea spinalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.men.009",
+"es": "Piamadre craneal",
+"la": "Pia mater encephali",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.men.010",
+"es": "Piamadre espinal",
+"la": "Pia mater spinalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.men.011",
+"es": "Espacio epidural",
+"la": "Spatium epidurale",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.men.012",
+"es": "Espacio subdural",
+"la": "Spatium subdurale",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.men.013",
+"es": "Espacio subaracnoideo",
+"la": "Spatium subarachnoideum",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.men.014",
+"es": "Cisterna cerebelomedular",
+"la": "Cisterna cerebellomedullaris",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.men.015",
+"es": "Cisterna interpeduncular",
+"la": "Cisterna interpeduncularis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.men.016",
+"es": "Cisterna quiasmática",
+"la": "Cisterna chiasmatica",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.men.017",
+"es": "Cisterna lumbar",
+"la": "Cisterna lumbalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.men.018",
+"es": "Granulaciones aracnoideas",
+"la": "Granulationes arachnoideae",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.men.019-i",
+"es": "Ligamento denticulado (izquierdo)",
+"la": "Lig. denticulatum",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.men.019-d",
+"es": "Ligamento denticulado (derecho)",
+"la": "Lig. denticulatum",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.men.020-i",
+"es": "Plexo coroideo del ventrículo lateral (izquierdo)",
+"la": "Plexus choroideus ventriculi lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.men.020-d",
+"es": "Plexo coroideo del ventrículo lateral (derecho)",
+"la": "Plexus choroideus ventriculi lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.men.021",
+"es": "Plexo coroideo del tercer ventrículo",
+"la": "Plexus choroideus ventriculi tertii",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.men.022",
+"es": "Plexo coroideo del cuarto ventrículo",
+"la": "Plexus choroideus ventriculi quarti",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.men.023",
+"es": "Tela coroidea del tercer ventrículo",
+"la": "Tela choroidea ventriculi tertii",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.men.024",
+"es": "Tela coroidea del cuarto ventrículo",
+"la": "Tela choroidea ventriculi quarti",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.ven.001-i",
+"es": "Ventrículo lateral (izquierdo)",
+"la": "Ventriculus lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.ven.001-d",
+"es": "Ventrículo lateral (derecho)",
+"la": "Ventriculus lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.ven.002-i",
+"es": "Agujero interventricular (izquierdo)",
+"la": "Foramen interventriculare",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.ven.002-d",
+"es": "Agujero interventricular (derecho)",
+"la": "Foramen interventriculare",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.ven.003-i",
+"es": "Cuerno temporal del ventrículo lateral (izquierdo)",
+"la": "Cornu temporale ventriculi lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.ven.003-d",
+"es": "Cuerno temporal del ventrículo lateral (derecho)",
+"la": "Cornu temporale ventriculi lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.ven.004-i",
+"es": "Ventrículo del bulbo olfatorio (izquierdo)",
+"la": "Ventriculus bulbi olfactorii",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.ven.004-d",
+"es": "Ventrículo del bulbo olfatorio (derecho)",
+"la": "Ventriculus bulbi olfactorii",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.ven.005",
+"es": "Tercer ventrículo",
+"la": "Ventriculus tertius",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.ven.006",
+"es": "Receso del infundíbulo",
+"la": "Recessus infundibuli",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.ven.007",
+"es": "Receso supraóptico",
+"la": "Recessus supraopticus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.ven.008",
+"es": "Receso suprapineal",
+"la": "Recessus suprapinealis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.ven.009",
+"es": "Receso pineal",
+"la": "Recessus pinealis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.ven.010",
+"es": "Acueducto mesencefálico",
+"la": "Aqueductus mesencephali",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.ven.011",
+"es": "Cuarto ventrículo",
+"la": "Ventriculus quartus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.ven.012-i",
+"es": "Receso lateral del cuarto ventrículo (izquierdo)",
+"la": "Recessus lateralis ventriculi quarti",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.ven.012-d",
+"es": "Receso lateral del cuarto ventrículo (derecho)",
+"la": "Recessus lateralis ventriculi quarti",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.ven.013-i",
+"es": "Apertura lateral del cuarto ventrículo (izquierda)",
+"la": "Apertura lateralis ventriculi quarti",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.ven.013-d",
+"es": "Apertura lateral del cuarto ventrículo (derecha)",
+"la": "Apertura lateralis ventriculi quarti",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.ven.014",
+"es": "Conducto central",
+"la": "Canalis centralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.001",
+"es": "Médula espinal",
+"la": "Medulla spinalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.002",
+"es": "Intumescencia cervical",
+"la": "Intumescentia cervicalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.003",
+"es": "Intumescencia lumbar",
+"la": "Intumescentia lumbalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.004",
+"es": "Cono medular",
+"la": "Conus medullaris",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.005",
+"es": "Filum terminal",
+"la": "Filum terminale",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.006",
+"es": "Cauda equina",
+"la": "Cauda equina",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.007",
+"es": "Fisura mediana ventral",
+"la": "Fissura mediana ventralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.008",
+"es": "Surco mediano dorsal",
+"la": "Sulcus medianus dorsalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.009",
+"es": "Septo mediano dorsal",
+"la": "Septum medianum dorsale",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.010-i",
+"es": "Surco lateral dorsal (izquierdo)",
+"la": "Sulcus lateralis dorsalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.010-d",
+"es": "Surco lateral dorsal (derecho)",
+"la": "Sulcus lateralis dorsalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.011-i",
+"es": "Surco lateral ventral (izquierdo)",
+"la": "Sulcus lateralis ventralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.011-d",
+"es": "Surco lateral ventral (derecho)",
+"la": "Sulcus lateralis ventralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.012",
+"es": "Sustancia gris de la médula espinal",
+"la": "Substantia grisea medullae spinalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.013-i",
+"es": "Asta dorsal (izquierda)",
+"la": "Cornu dorsale",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.013-d",
+"es": "Asta dorsal (derecha)",
+"la": "Cornu dorsale",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.014-i",
+"es": "Asta ventral (izquierda)",
+"la": "Cornu ventrale",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.014-d",
+"es": "Asta ventral (derecha)",
+"la": "Cornu ventrale",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.015-i",
+"es": "Asta lateral (izquierda)",
+"la": "Cornu laterale",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.015-d",
+"es": "Asta lateral (derecha)",
+"la": "Cornu laterale",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.016-i",
+"es": "Sustancia gelatinosa (izquierda)",
+"la": "Substantia gelatinosa",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.016-d",
+"es": "Sustancia gelatinosa (derecha)",
+"la": "Substantia gelatinosa",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.017-i",
+"es": "Núcleo propio del asta dorsal (izquierdo)",
+"la": "Nucleus proprius cornu dorsalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.017-d",
+"es": "Núcleo propio del asta dorsal (derecho)",
+"la": "Nucleus proprius cornu dorsalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.018-i",
+"es": "Núcleo torácico (izquierdo)",
+"la": "Nucleus thoracicus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.018-d",
+"es": "Núcleo torácico (derecho)",
+"la": "Nucleus thoracicus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.019",
+"es": "Comisura gris",
+"la": "Commissura grisea",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.020",
+"es": "Comisura blanca",
+"la": "Commissura alba",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.021",
+"es": "Sustancia blanca de la médula espinal",
+"la": "Substantia alba medullae spinalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.022-i",
+"es": "Funículo dorsal (izquierdo)",
+"la": "Funiculus dorsalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.022-d",
+"es": "Funículo dorsal (derecho)",
+"la": "Funiculus dorsalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.023-i",
+"es": "Funículo lateral (izquierdo)",
+"la": "Funiculus lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.023-d",
+"es": "Funículo lateral (derecho)",
+"la": "Funiculus lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.024-i",
+"es": "Funículo ventral (izquierdo)",
+"la": "Funiculus ventralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.024-d",
+"es": "Funículo ventral (derecho)",
+"la": "Funiculus ventralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.025-i",
+"es": "Raíz dorsal del nervio espinal (representativa) (izquierda)",
+"la": "Radix dorsalis n. spinalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.025-d",
+"es": "Raíz dorsal del nervio espinal (representativa) (derecha)",
+"la": "Radix dorsalis n. spinalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.026-i",
+"es": "Raíz ventral del nervio espinal (representativa) (izquierda)",
+"la": "Radix ventralis n. spinalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.026-d",
+"es": "Raíz ventral del nervio espinal (representativa) (derecha)",
+"la": "Radix ventralis n. spinalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cer.001-i",
+"es": "Plexo cervical (izquierdo)",
+"la": "Plexus cervicalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cer.001-d",
+"es": "Plexo cervical (derecho)",
+"la": "Plexus cervicalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cer.002-i",
+"es": "Nervio transverso del cuello (izquierdo)",
+"la": "N. transversus colli",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cer.002-d",
+"es": "Nervio transverso del cuello (derecho)",
+"la": "N. transversus colli",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cer.003-i",
+"es": "Nervio auricular mayor (izquierdo)",
+"la": "N. auricularis magnus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cer.003-d",
+"es": "Nervio auricular mayor (derecho)",
+"la": "N. auricularis magnus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cer.004-i",
+"es": "Nervios supraclaviculares (izquierdos)",
+"la": "Nn. supraclaviculares",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cer.004-d",
+"es": "Nervios supraclaviculares (derechos)",
+"la": "Nn. supraclaviculares",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cer.005-i",
+"es": "Nervio frénico (izquierdo)",
+"la": "N. phrenicus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cer.005-d",
+"es": "Nervio frénico (derecho)",
+"la": "N. phrenicus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cer.006-i",
+"es": "Asa cervical (izquierda)",
+"la": "Ansa cervicalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cer.006-d",
+"es": "Asa cervical (derecha)",
+"la": "Ansa cervicalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.001-i",
+"es": "Nervios olfatorios (I) (izquierdos)",
+"la": "Nn. olfactorii",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.001-d",
+"es": "Nervios olfatorios (I) (derechos)",
+"la": "Nn. olfactorii",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.002-i",
+"es": "Nervio óptico (II) (izquierdo)",
+"la": "N. opticus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.002-d",
+"es": "Nervio óptico (II) (derecho)",
+"la": "N. opticus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.003-i",
+"es": "Nervio oculomotor (III) (izquierdo)",
+"la": "N. oculomotorius",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.003-d",
+"es": "Nervio oculomotor (III) (derecho)",
+"la": "N. oculomotorius",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.004-i",
+"es": "Rama dorsal del nervio oculomotor (izquierda)",
+"la": "Ramus dorsalis n. oculomotorii",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.004-d",
+"es": "Rama dorsal del nervio oculomotor (derecha)",
+"la": "Ramus dorsalis n. oculomotorii",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.005-i",
+"es": "Rama ventral del nervio oculomotor (izquierda)",
+"la": "Ramus ventralis n. oculomotorii",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.005-d",
+"es": "Rama ventral del nervio oculomotor (derecha)",
+"la": "Ramus ventralis n. oculomotorii",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.006-i",
+"es": "Nervio troclear (IV) (izquierdo)",
+"la": "N. trochlearis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.006-d",
+"es": "Nervio troclear (IV) (derecho)",
+"la": "N. trochlearis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.007-i",
+"es": "Nervio trigémino (V) (izquierdo)",
+"la": "N. trigeminus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.007-d",
+"es": "Nervio trigémino (V) (derecho)",
+"la": "N. trigeminus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.008-i",
+"es": "Ganglio trigeminal (izquierdo)",
+"la": "Ganglion trigeminale",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.008-d",
+"es": "Ganglio trigeminal (derecho)",
+"la": "Ganglion trigeminale",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.009-i",
+"es": "Raíz sensitiva del nervio trigémino (izquierda)",
+"la": "Radix sensoria n. trigemini",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.009-d",
+"es": "Raíz sensitiva del nervio trigémino (derecha)",
+"la": "Radix sensoria n. trigemini",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.010-i",
+"es": "Raíz motora del nervio trigémino (izquierda)",
+"la": "Radix motoria n. trigemini",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.010-d",
+"es": "Raíz motora del nervio trigémino (derecha)",
+"la": "Radix motoria n. trigemini",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.011-i",
+"es": "Nervio oftálmico (V1) (izquierdo)",
+"la": "N. ophthalmicus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.011-d",
+"es": "Nervio oftálmico (V1) (derecho)",
+"la": "N. ophthalmicus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.012-i",
+"es": "Nervio lagrimal (izquierdo)",
+"la": "N. lacrimalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.012-d",
+"es": "Nervio lagrimal (derecho)",
+"la": "N. lacrimalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.013-i",
+"es": "Nervio frontal (izquierdo)",
+"la": "N. frontalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.013-d",
+"es": "Nervio frontal (derecho)",
+"la": "N. frontalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.014-i",
+"es": "Nervio supraorbitario (izquierdo)",
+"la": "N. supraorbitalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.014-d",
+"es": "Nervio supraorbitario (derecho)",
+"la": "N. supraorbitalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.015-i",
+"es": "Nervio nasociliar (izquierdo)",
+"la": "N. nasociliaris",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.015-d",
+"es": "Nervio nasociliar (derecho)",
+"la": "N. nasociliaris",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.016-i",
+"es": "Nervio etmoidal (izquierdo)",
+"la": "N. ethmoidalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.016-d",
+"es": "Nervio etmoidal (derecho)",
+"la": "N. ethmoidalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.017-i",
+"es": "Nervio infratroclear (izquierdo)",
+"la": "N. infratrochlearis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.017-d",
+"es": "Nervio infratroclear (derecho)",
+"la": "N. infratrochlearis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.018-i",
+"es": "Nervios ciliares largos (izquierdos)",
+"la": "Nn. ciliares longi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.018-d",
+"es": "Nervios ciliares largos (derechos)",
+"la": "Nn. ciliares longi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.019-i",
+"es": "Nervio maxilar (V2) (izquierdo)",
+"la": "N. maxillaris",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.019-d",
+"es": "Nervio maxilar (V2) (derecho)",
+"la": "N. maxillaris",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.020-i",
+"es": "Nervio cigomático (izquierdo)",
+"la": "N. zygomaticus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.020-d",
+"es": "Nervio cigomático (derecho)",
+"la": "N. zygomaticus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.021-i",
+"es": "Nervio cigomaticotemporal (izquierdo)",
+"la": "N. zygomaticotemporalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.021-d",
+"es": "Nervio cigomaticotemporal (derecho)",
+"la": "N. zygomaticotemporalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.022-i",
+"es": "Nervio cigomaticofacial (izquierdo)",
+"la": "N. zygomaticofacialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.022-d",
+"es": "Nervio cigomaticofacial (derecho)",
+"la": "N. zygomaticofacialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.023-i",
+"es": "Nervio pterigopalatino (izquierdo)",
+"la": "N. pterygopalatinus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.023-d",
+"es": "Nervio pterigopalatino (derecho)",
+"la": "N. pterygopalatinus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.024-i",
+"es": "Ganglio pterigopalatino (izquierdo)",
+"la": "Ganglion pterygopalatinum",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.024-d",
+"es": "Ganglio pterigopalatino (derecho)",
+"la": "Ganglion pterygopalatinum",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.025-i",
+"es": "Nervio infraorbitario (izquierdo)",
+"la": "N. infraorbitalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.025-d",
+"es": "Nervio infraorbitario (derecho)",
+"la": "N. infraorbitalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.026-i",
+"es": "Ramas alveolares superiores (izquierdas)",
+"la": "Rami alveolares superiores",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.026-d",
+"es": "Ramas alveolares superiores (derechas)",
+"la": "Rami alveolares superiores",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.027-i",
+"es": "Nervio palatino mayor (izquierdo)",
+"la": "N. palatinus major",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.027-d",
+"es": "Nervio palatino mayor (derecho)",
+"la": "N. palatinus major",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.028-i",
+"es": "Nervios palatinos menores (izquierdos)",
+"la": "Nn. palatini minores",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.028-d",
+"es": "Nervios palatinos menores (derechos)",
+"la": "Nn. palatini minores",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.029-i",
+"es": "Ramas nasales externas (izquierdas)",
+"la": "Rami nasales externi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.029-d",
+"es": "Ramas nasales externas (derechas)",
+"la": "Rami nasales externi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.030-i",
+"es": "Ramas labiales superiores (izquierdas)",
+"la": "Rami labiales maxillares",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.030-d",
+"es": "Ramas labiales superiores (derechas)",
+"la": "Rami labiales maxillares",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.031-i",
+"es": "Nervio mandibular (V3) (izquierdo)",
+"la": "N. mandibularis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.031-d",
+"es": "Nervio mandibular (V3) (derecho)",
+"la": "N. mandibularis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.032-i",
+"es": "Nervio masticador (izquierdo)",
+"la": "N. masticatorius",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.032-d",
+"es": "Nervio masticador (derecho)",
+"la": "N. masticatorius",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.033-i",
+"es": "Nervio maseterino (izquierdo)",
+"la": "N. massetericus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.033-d",
+"es": "Nervio maseterino (derecho)",
+"la": "N. massetericus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.034-i",
+"es": "Nervios temporales profundos (izquierdos)",
+"la": "Nn. temporales profundi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.034-d",
+"es": "Nervios temporales profundos (derechos)",
+"la": "Nn. temporales profundi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.035-i",
+"es": "Nervio pterigoideo lateral (izquierdo)",
+"la": "N. pterygoideus lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.035-d",
+"es": "Nervio pterigoideo lateral (derecho)",
+"la": "N. pterygoideus lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.036-i",
+"es": "Nervio pterigoideo medial (izquierdo)",
+"la": "N. pterygoideus medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.036-d",
+"es": "Nervio pterigoideo medial (derecho)",
+"la": "N. pterygoideus medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.037-i",
+"es": "Nervio tensor del velo del paladar (izquierdo)",
+"la": "N. tensoris veli palatini",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.037-d",
+"es": "Nervio tensor del velo del paladar (derecho)",
+"la": "N. tensoris veli palatini",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.038-i",
+"es": "Nervio tensor del tímpano (izquierdo)",
+"la": "N. tensoris tympani",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.038-d",
+"es": "Nervio tensor del tímpano (derecho)",
+"la": "N. tensoris tympani",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.039-i",
+"es": "Nervio bucal (izquierdo)",
+"la": "N. buccalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.039-d",
+"es": "Nervio bucal (derecho)",
+"la": "N. buccalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.040-i",
+"es": "Nervio auriculotemporal (izquierdo)",
+"la": "N. auriculotemporalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.040-d",
+"es": "Nervio auriculotemporal (derecho)",
+"la": "N. auriculotemporalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.041-i",
+"es": "Nervio lingual (izquierdo)",
+"la": "N. lingualis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.041-d",
+"es": "Nervio lingual (derecho)",
+"la": "N. lingualis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.042-i",
+"es": "Nervio alveolar inferior (izquierdo)",
+"la": "N. alveolaris mandibularis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.042-d",
+"es": "Nervio alveolar inferior (derecho)",
+"la": "N. alveolaris mandibularis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.043-i",
+"es": "Nervio milohioideo (izquierdo)",
+"la": "N. mylohyoideus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.043-d",
+"es": "Nervio milohioideo (derecho)",
+"la": "N. mylohyoideus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.044-i",
+"es": "Nervio mentoniano (izquierdo)",
+"la": "N. mentalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.044-d",
+"es": "Nervio mentoniano (derecho)",
+"la": "N. mentalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.045-i",
+"es": "Ganglio ótico (izquierdo)",
+"la": "Ganglion oticum",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.045-d",
+"es": "Ganglio ótico (derecho)",
+"la": "Ganglion oticum",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.046-i",
+"es": "Ganglio mandibular (nervioso) (izquierdo)",
+"la": "Ganglion mandibulare",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.046-d",
+"es": "Ganglio mandibular (nervioso) (derecho)",
+"la": "Ganglion mandibulare",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.047-i",
+"es": "Nervio abducente (VI) (izquierdo)",
+"la": "N. abducens",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.047-d",
+"es": "Nervio abducente (VI) (derecho)",
+"la": "N. abducens",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.048-i",
+"es": "Nervio facial (VII) (izquierdo)",
+"la": "N. facialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.048-d",
+"es": "Nervio facial (VII) (derecho)",
+"la": "N. facialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.049-i",
+"es": "Ganglio geniculado (izquierdo)",
+"la": "Ganglion geniculi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.049-d",
+"es": "Ganglio geniculado (derecho)",
+"la": "Ganglion geniculi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.050-i",
+"es": "Nervio petroso mayor (izquierdo)",
+"la": "N. petrosus major",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.050-d",
+"es": "Nervio petroso mayor (derecho)",
+"la": "N. petrosus major",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.051-i",
+"es": "Nervio estapedio (izquierdo)",
+"la": "N. stapedius",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.051-d",
+"es": "Nervio estapedio (derecho)",
+"la": "N. stapedius",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.052-i",
+"es": "Cuerda del tímpano (izquierda)",
+"la": "Chorda tympani",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.052-d",
+"es": "Cuerda del tímpano (derecha)",
+"la": "Chorda tympani",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.053-i",
+"es": "Nervio auricular interno (izquierdo)",
+"la": "N. auricularis internus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.053-d",
+"es": "Nervio auricular interno (derecho)",
+"la": "N. auricularis internus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.054-i",
+"es": "Nervio auricular caudal (izquierdo)",
+"la": "N. auricularis caudalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.054-d",
+"es": "Nervio auricular caudal (derecho)",
+"la": "N. auricularis caudalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.055-i",
+"es": "Nervio auriculopalpebral (izquierdo)",
+"la": "N. auriculopalpebralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.055-d",
+"es": "Nervio auriculopalpebral (derecho)",
+"la": "N. auriculopalpebralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.056-i",
+"es": "Ramas auriculares rostrales (izquierdas)",
+"la": "Rami auriculares rostrales",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.056-d",
+"es": "Ramas auriculares rostrales (derechas)",
+"la": "Rami auriculares rostrales",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.057-i",
+"es": "Nervio palpebral (izquierdo)",
+"la": "N. palpebralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.057-d",
+"es": "Nervio palpebral (derecho)",
+"la": "N. palpebralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.058-i",
+"es": "Rama bucal dorsal (izquierda)",
+"la": "Ramus buccalis dorsalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.058-d",
+"es": "Rama bucal dorsal (derecha)",
+"la": "Ramus buccalis dorsalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.059-i",
+"es": "Rama bucal ventral (izquierda)",
+"la": "Ramus buccalis ventralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.059-d",
+"es": "Rama bucal ventral (derecha)",
+"la": "Ramus buccalis ventralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.060-i",
+"es": "Rama cervical del nervio facial (izquierda)",
+"la": "Ramus colli",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.060-d",
+"es": "Rama cervical del nervio facial (derecha)",
+"la": "Ramus colli",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.061-i",
+"es": "Rama digástrica (izquierda)",
+"la": "Ramus digastricus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.061-d",
+"es": "Rama digástrica (derecha)",
+"la": "Ramus digastricus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.062-i",
+"es": "Rama estilohioidea (izquierda)",
+"la": "Ramus stylohyoideus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.062-d",
+"es": "Rama estilohioidea (derecha)",
+"la": "Ramus stylohyoideus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.063-i",
+"es": "Nervio vestibulococlear (VIII) (izquierdo)",
+"la": "N. vestibulocochlearis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.063-d",
+"es": "Nervio vestibulococlear (VIII) (derecho)",
+"la": "N. vestibulocochlearis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.064-i",
+"es": "Parte vestibular del nervio vestibulococlear (izquierda)",
+"la": "Pars vestibularis n. vestibulocochlearis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.064-d",
+"es": "Parte vestibular del nervio vestibulococlear (derecha)",
+"la": "Pars vestibularis n. vestibulocochlearis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.065-i",
+"es": "Parte coclear del nervio vestibulococlear (izquierda)",
+"la": "Pars cochlearis n. vestibulocochlearis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.065-d",
+"es": "Parte coclear del nervio vestibulococlear (derecha)",
+"la": "Pars cochlearis n. vestibulocochlearis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.066-i",
+"es": "Ganglio vestibular (izquierdo)",
+"la": "Ganglion vestibulare",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.066-d",
+"es": "Ganglio vestibular (derecho)",
+"la": "Ganglion vestibulare",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.067-i",
+"es": "Ganglio espiral de la cóclea (izquierdo)",
+"la": "Ganglion spirale cochleae",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.067-d",
+"es": "Ganglio espiral de la cóclea (derecho)",
+"la": "Ganglion spirale cochleae",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.068-i",
+"es": "Nervio glosofaríngeo (IX) (izquierdo)",
+"la": "N. glossopharyngeus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.068-d",
+"es": "Nervio glosofaríngeo (IX) (derecho)",
+"la": "N. glossopharyngeus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.069-i",
+"es": "Ganglio proximal del nervio glosofaríngeo (izquierdo)",
+"la": "Ganglion proximale n. glossopharyngei",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.069-d",
+"es": "Ganglio proximal del nervio glosofaríngeo (derecho)",
+"la": "Ganglion proximale n. glossopharyngei",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.070-i",
+"es": "Ganglio distal del nervio glosofaríngeo (izquierdo)",
+"la": "Ganglion distale n. glossopharyngei",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.070-d",
+"es": "Ganglio distal del nervio glosofaríngeo (derecho)",
+"la": "Ganglion distale n. glossopharyngei",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.071-i",
+"es": "Nervio timpánico (izquierdo)",
+"la": "N. tympanicus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.071-d",
+"es": "Nervio timpánico (derecho)",
+"la": "N. tympanicus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.072-i",
+"es": "Nervio petroso menor (izquierdo)",
+"la": "N. petrosus minor",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.072-d",
+"es": "Nervio petroso menor (derecho)",
+"la": "N. petrosus minor",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.073-i",
+"es": "Rama del seno carotídeo (izquierda)",
+"la": "Ramus sinus carotici",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.073-d",
+"es": "Rama del seno carotídeo (derecha)",
+"la": "Ramus sinus carotici",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.074-i",
+"es": "Ramas faríngeas del nervio glosofaríngeo (izquierdas)",
+"la": "Rami pharyngei n. glossopharyngei",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.074-d",
+"es": "Ramas faríngeas del nervio glosofaríngeo (derechas)",
+"la": "Rami pharyngei n. glossopharyngei",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.075-i",
+"es": "Ramas linguales del nervio glosofaríngeo (izquierdas)",
+"la": "Rami linguales n. glossopharyngei",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.075-d",
+"es": "Ramas linguales del nervio glosofaríngeo (derechas)",
+"la": "Rami linguales n. glossopharyngei",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.076-i",
+"es": "Rama del músculo estilofaríngeo caudal (izquierda)",
+"la": "Ramus m. stylopharyngei caudalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.076-d",
+"es": "Rama del músculo estilofaríngeo caudal (derecha)",
+"la": "Ramus m. stylopharyngei caudalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.077-i",
+"es": "Nervio vago (X) (izquierdo)",
+"la": "N. vagus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.077-d",
+"es": "Nervio vago (X) (derecho)",
+"la": "N. vagus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.078-i",
+"es": "Ganglio proximal del nervio vago (izquierdo)",
+"la": "Ganglion proximale n. vagi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.078-d",
+"es": "Ganglio proximal del nervio vago (derecho)",
+"la": "Ganglion proximale n. vagi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.079-i",
+"es": "Ganglio distal del nervio vago (izquierdo)",
+"la": "Ganglion distale n. vagi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.079-d",
+"es": "Ganglio distal del nervio vago (derecho)",
+"la": "Ganglion distale n. vagi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.080-i",
+"es": "Rama auricular del nervio vago (izquierda)",
+"la": "Ramus auricularis n. vagi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.080-d",
+"es": "Rama auricular del nervio vago (derecha)",
+"la": "Ramus auricularis n. vagi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.081-i",
+"es": "Ramas faríngeas del nervio vago (izquierdas)",
+"la": "Rami pharyngei n. vagi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.081-d",
+"es": "Ramas faríngeas del nervio vago (derechas)",
+"la": "Rami pharyngei n. vagi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.082-i",
+"es": "Nervio laríngeo craneal (izquierdo)",
+"la": "N. laryngeus cranialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.082-d",
+"es": "Nervio laríngeo craneal (derecho)",
+"la": "N. laryngeus cranialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.083-i",
+"es": "Rama externa del nervio laríngeo craneal (izquierda)",
+"la": "Ramus externus n. laryngei cranialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.083-d",
+"es": "Rama externa del nervio laríngeo craneal (derecha)",
+"la": "Ramus externus n. laryngei cranialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.084-i",
+"es": "Rama interna del nervio laríngeo craneal (izquierda)",
+"la": "Ramus internus n. laryngei cranialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.084-d",
+"es": "Rama interna del nervio laríngeo craneal (derecha)",
+"la": "Ramus internus n. laryngei cranialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.085-i",
+"es": "Nervio laríngeo recurrente (izquierdo)",
+"la": "N. laryngeus recurrens",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.085-d",
+"es": "Nervio laríngeo recurrente (derecho)",
+"la": "N. laryngeus recurrens",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.086-i",
+"es": "Nervio laríngeo caudal (izquierdo)",
+"la": "N. laryngeus caudalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.086-d",
+"es": "Nervio laríngeo caudal (derecho)",
+"la": "N. laryngeus caudalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.087-i",
+"es": "Ramas traqueales del nervio vago (izquierdas)",
+"la": "Rami tracheales",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.087-d",
+"es": "Ramas traqueales del nervio vago (derechas)",
+"la": "Rami tracheales",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.088-i",
+"es": "Ramas esofágicas del nervio vago (izquierdas)",
+"la": "Rami esophagei",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.088-d",
+"es": "Ramas esofágicas del nervio vago (derechas)",
+"la": "Rami esophagei",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.089-i",
+"es": "Ramas cardíacas del nervio vago (izquierdas)",
+"la": "Rami cardiaci n. vagi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.089-d",
+"es": "Ramas cardíacas del nervio vago (derechas)",
+"la": "Rami cardiaci n. vagi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.090-i",
+"es": "Ramas bronquiales del nervio vago (izquierdas)",
+"la": "Rami bronchiales",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.090-d",
+"es": "Ramas bronquiales del nervio vago (derechas)",
+"la": "Rami bronchiales",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.091",
+"es": "Tronco vagal dorsal",
+"la": "Truncus vagalis dorsalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.092",
+"es": "Tronco vagal ventral",
+"la": "Truncus vagalis ventralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.093-i",
+"es": "Tronco vagosimpático (izquierdo)",
+"la": "Truncus vagosympathicus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.093-d",
+"es": "Tronco vagosimpático (derecho)",
+"la": "Truncus vagosympathicus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.094-i",
+"es": "Nervio accesorio (XI) (izquierdo)",
+"la": "N. accessorius",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.094-d",
+"es": "Nervio accesorio (XI) (derecho)",
+"la": "N. accessorius",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.095-i",
+"es": "Raíz craneal del nervio accesorio (izquierda)",
+"la": "Radix cranialis n. accessorii",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.095-d",
+"es": "Raíz craneal del nervio accesorio (derecha)",
+"la": "Radix cranialis n. accessorii",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.096-i",
+"es": "Raíz espinal del nervio accesorio (izquierda)",
+"la": "Radix spinalis n. accessorii",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.096-d",
+"es": "Raíz espinal del nervio accesorio (derecha)",
+"la": "Radix spinalis n. accessorii",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.097-i",
+"es": "Rama dorsal del nervio accesorio (izquierda)",
+"la": "Ramus dorsalis n. accessorii",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.097-d",
+"es": "Rama dorsal del nervio accesorio (derecha)",
+"la": "Ramus dorsalis n. accessorii",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.098-i",
+"es": "Rama ventral del nervio accesorio (izquierda)",
+"la": "Ramus ventralis n. accessorii",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.098-d",
+"es": "Rama ventral del nervio accesorio (derecha)",
+"la": "Ramus ventralis n. accessorii",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.099-i",
+"es": "Nervio hipogloso (XII) (izquierdo)",
+"la": "N. hypoglossus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.099-d",
+"es": "Nervio hipogloso (XII) (derecho)",
+"la": "N. hypoglossus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.100-i",
+"es": "Ramas linguales del nervio hipogloso (izquierdas)",
+"la": "Rami linguales n. hypoglossi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.cra.100-d",
+"es": "Ramas linguales del nervio hipogloso (derechas)",
+"la": "Rami linguales n. hypoglossi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.001-i",
+"es": "Nervio costoabdominal (izquierdo)",
+"la": "N. costoabdominalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.001-d",
+"es": "Nervio costoabdominal (derecho)",
+"la": "N. costoabdominalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.002-i",
+"es": "Nervio iliohipogástrico (izquierdo)",
+"la": "N. iliohypogastricus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.002-d",
+"es": "Nervio iliohipogástrico (derecho)",
+"la": "N. iliohypogastricus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.003-i",
+"es": "Nervio ilioinguinal (izquierdo)",
+"la": "N. ilioinguinalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.003-d",
+"es": "Nervio ilioinguinal (derecho)",
+"la": "N. ilioinguinalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.004-i",
+"es": "Nervio genitofemoral (izquierdo)",
+"la": "N. genitofemoralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.004-d",
+"es": "Nervio genitofemoral (derecho)",
+"la": "N. genitofemoralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.005-i",
+"es": "Nervio cutáneo femoral lateral (izquierdo)",
+"la": "N. cutaneus femoris lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.005-d",
+"es": "Nervio cutáneo femoral lateral (derecho)",
+"la": "N. cutaneus femoris lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.006-i",
+"es": "Nervio cutáneo femoral caudal (izquierdo)",
+"la": "N. cutaneus femoris caudalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.006-d",
+"es": "Nervio cutáneo femoral caudal (derecho)",
+"la": "N. cutaneus femoris caudalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.007-i",
+"es": "Nervios cluniales craneales (izquierdos)",
+"la": "Nn. clunium craniales",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.007-d",
+"es": "Nervios cluniales craneales (derechos)",
+"la": "Nn. clunium craniales",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.008-i",
+"es": "Nervios cluniales medios (izquierdos)",
+"la": "Nn. clunium medii",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.008-d",
+"es": "Nervios cluniales medios (derechos)",
+"la": "Nn. clunium medii",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.009-i",
+"es": "Nervios cluniales caudales (izquierdos)",
+"la": "Nn. clunium caudales",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.009-d",
+"es": "Nervios cluniales caudales (derechos)",
+"la": "Nn. clunium caudales",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.010-i",
+"es": "Nervio pudendo (izquierdo)",
+"la": "N. pudendus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.010-d",
+"es": "Nervio pudendo (derecho)",
+"la": "N. pudendus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.011-i",
+"es": "Nervios rectales caudales (izquierdos)",
+"la": "Nn. rectales caudales",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.011-d",
+"es": "Nervios rectales caudales (derechos)",
+"la": "Nn. rectales caudales",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.012-i",
+"es": "Nervio perineal superficial (izquierdo)",
+"la": "N. perinealis superficialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.012-d",
+"es": "Nervio perineal superficial (derecho)",
+"la": "N. perinealis superficialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.013-i",
+"es": "Nervio dorsal del pene (izquierdo)",
+"la": "N. dorsalis penis",
+"sys": "ner",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.ner.tro.013-d",
+"es": "Nervio dorsal del pene (derecho)",
+"la": "N. dorsalis penis",
+"sys": "ner",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.ner.tro.014-i",
+"es": "Nervio dorsal del clítoris (izquierdo)",
+"la": "N. dorsalis clitoridis",
+"sys": "ner",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.ner.tro.014-d",
+"es": "Nervio dorsal del clítoris (derecho)",
+"la": "N. dorsalis clitoridis",
+"sys": "ner",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.ner.tro.015-i",
+"es": "Nervios escrotales dorsales (izquierdos)",
+"la": "Nn. scrotales dorsales",
+"sys": "ner",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.ner.tro.015-d",
+"es": "Nervios escrotales dorsales (derechos)",
+"la": "Nn. scrotales dorsales",
+"sys": "ner",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.ner.tro.016-i",
+"es": "Nervios labiales dorsales (izquierdos)",
+"la": "Nn. labiales dorsales",
+"sys": "ner",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.ner.tro.016-d",
+"es": "Nervios labiales dorsales (derechos)",
+"la": "Nn. labiales dorsales",
+"sys": "ner",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.ner.bra.001-i",
+"es": "Plexo braquial (izquierdo)",
+"la": "Plexus brachialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.001-d",
+"es": "Plexo braquial (derecho)",
+"la": "Plexus brachialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.002-i",
+"es": "Nervio supraescapular (izquierdo)",
+"la": "N. suprascapularis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.002-d",
+"es": "Nervio supraescapular (derecho)",
+"la": "N. suprascapularis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.003-i",
+"es": "Nervios subescapulares (izquierdos)",
+"la": "Nn. subscapulares",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.003-d",
+"es": "Nervios subescapulares (derechos)",
+"la": "Nn. subscapulares",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.004-i",
+"es": "Nervio axilar (izquierdo)",
+"la": "N. axillaris",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.004-d",
+"es": "Nervio axilar (derecho)",
+"la": "N. axillaris",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.005-i",
+"es": "Nervio musculocutáneo (izquierdo)",
+"la": "N. musculocutaneus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.005-d",
+"es": "Nervio musculocutáneo (derecho)",
+"la": "N. musculocutaneus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.006-i",
+"es": "Nervio mediano (izquierdo)",
+"la": "N. medianus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.006-d",
+"es": "Nervio mediano (derecho)",
+"la": "N. medianus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.007-i",
+"es": "Nervio cubital (izquierdo)",
+"la": "N. ulnaris",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.007-d",
+"es": "Nervio cubital (derecho)",
+"la": "N. ulnaris",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.008-i",
+"es": "Nervio radial (izquierdo)",
+"la": "N. radialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.008-d",
+"es": "Nervio radial (derecho)",
+"la": "N. radialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.009-i",
+"es": "Nervio toracodorsal (izquierdo)",
+"la": "N. thoracodorsalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.009-d",
+"es": "Nervio toracodorsal (derecho)",
+"la": "N. thoracodorsalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.010-i",
+"es": "Nervio torácico lateral (izquierdo)",
+"la": "N. thoracicus lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.010-d",
+"es": "Nervio torácico lateral (derecho)",
+"la": "N. thoracicus lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.011-i",
+"es": "Nervio torácico largo (izquierdo)",
+"la": "N. thoracicus longus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.011-d",
+"es": "Nervio torácico largo (derecho)",
+"la": "N. thoracicus longus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.012-i",
+"es": "Nervios pectorales craneales (izquierdos)",
+"la": "Nn. pectorales craniales",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.012-d",
+"es": "Nervios pectorales craneales (derechos)",
+"la": "Nn. pectorales craniales",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.013-i",
+"es": "Nervios pectorales caudales (izquierdos)",
+"la": "Nn. pectorales caudales",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.013-d",
+"es": "Nervios pectorales caudales (derechos)",
+"la": "Nn. pectorales caudales",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.014-i",
+"es": "Nervio cutáneo medial del antebrazo (izquierdo)",
+"la": "N. cutaneus antebrachii medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.014-d",
+"es": "Nervio cutáneo medial del antebrazo (derecho)",
+"la": "N. cutaneus antebrachii medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.015-i",
+"es": "Nervio cutáneo lateral del antebrazo (izquierdo)",
+"la": "N. cutaneus antebrachii lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.015-d",
+"es": "Nervio cutáneo lateral del antebrazo (derecho)",
+"la": "N. cutaneus antebrachii lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.016-i",
+"es": "Nervio cutáneo craneal del antebrazo (izquierdo)",
+"la": "N. cutaneus antebrachii cranialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.016-d",
+"es": "Nervio cutáneo craneal del antebrazo (derecho)",
+"la": "N. cutaneus antebrachii cranialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.017-i",
+"es": "Nervio cutáneo caudal del antebrazo (izquierdo)",
+"la": "N. cutaneus antebrachii caudalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.017-d",
+"es": "Nervio cutáneo caudal del antebrazo (derecho)",
+"la": "N. cutaneus antebrachii caudalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.018-i",
+"es": "Rama superficial del nervio radial (izquierda)",
+"la": "Ramus superficialis n. radialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.018-d",
+"es": "Rama superficial del nervio radial (derecha)",
+"la": "Ramus superficialis n. radialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.019-i",
+"es": "Rama profunda del nervio radial (izquierda)",
+"la": "Ramus profundus n. radialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.019-d",
+"es": "Rama profunda del nervio radial (derecha)",
+"la": "Ramus profundus n. radialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.020-i",
+"es": "Rama dorsal del nervio cubital (izquierda)",
+"la": "Ramus dorsalis n. ulnaris",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.020-d",
+"es": "Rama dorsal del nervio cubital (derecha)",
+"la": "Ramus dorsalis n. ulnaris",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.021-i",
+"es": "Rama palmar del nervio cubital (izquierda)",
+"la": "Ramus palmaris n. ulnaris",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.021-d",
+"es": "Rama palmar del nervio cubital (derecha)",
+"la": "Ramus palmaris n. ulnaris",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.022-i",
+"es": "Nervio palmar medial (izquierdo)",
+"la": "N. palmaris medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.022-d",
+"es": "Nervio palmar medial (derecho)",
+"la": "N. palmaris medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.023-i",
+"es": "Nervio palmar lateral (izquierdo)",
+"la": "N. palmaris lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.023-d",
+"es": "Nervio palmar lateral (derecho)",
+"la": "N. palmaris lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.024-i",
+"es": "Nervio metacarpiano palmar medial (izquierdo)",
+"la": "N. metacarpeus palmaris medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.024-d",
+"es": "Nervio metacarpiano palmar medial (derecho)",
+"la": "N. metacarpeus palmaris medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.025-i",
+"es": "Nervio metacarpiano palmar lateral (izquierdo)",
+"la": "N. metacarpeus palmaris lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.025-d",
+"es": "Nervio metacarpiano palmar lateral (derecho)",
+"la": "N. metacarpeus palmaris lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.026-i",
+"es": "Nervio digital palmar medial (izquierdo)",
+"la": "N. digitalis palmaris medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.026-d",
+"es": "Nervio digital palmar medial (derecho)",
+"la": "N. digitalis palmaris medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.027-i",
+"es": "Nervio digital palmar lateral (izquierdo)",
+"la": "N. digitalis palmaris lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.bra.027-d",
+"es": "Nervio digital palmar lateral (derecho)",
+"la": "N. digitalis palmaris lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.001-i",
+"es": "Plexo lumbosacro (izquierdo)",
+"la": "Plexus lumbosacralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.001-d",
+"es": "Plexo lumbosacro (derecho)",
+"la": "Plexus lumbosacralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.002-i",
+"es": "Plexo lumbar (izquierdo)",
+"la": "Plexus lumbalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.002-d",
+"es": "Plexo lumbar (derecho)",
+"la": "Plexus lumbalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.003-i",
+"es": "Plexo sacro (izquierdo)",
+"la": "Plexus sacralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.003-d",
+"es": "Plexo sacro (derecho)",
+"la": "Plexus sacralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.004-i",
+"es": "Tronco lumbosacro (izquierdo)",
+"la": "Truncus lumbosacralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.004-d",
+"es": "Tronco lumbosacro (derecho)",
+"la": "Truncus lumbosacralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.005-i",
+"es": "Nervio femoral (izquierdo)",
+"la": "N. femoralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.005-d",
+"es": "Nervio femoral (derecho)",
+"la": "N. femoralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.006-i",
+"es": "Nervio safeno (izquierdo)",
+"la": "N. saphenus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.006-d",
+"es": "Nervio safeno (derecho)",
+"la": "N. saphenus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.007-i",
+"es": "Nervio obturador (izquierdo)",
+"la": "N. obturatorius",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.007-d",
+"es": "Nervio obturador (derecho)",
+"la": "N. obturatorius",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.008-i",
+"es": "Nervio glúteo craneal (izquierdo)",
+"la": "N. gluteus cranialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.008-d",
+"es": "Nervio glúteo craneal (derecho)",
+"la": "N. gluteus cranialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.009-i",
+"es": "Nervio glúteo caudal (izquierdo)",
+"la": "N. gluteus caudalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.009-d",
+"es": "Nervio glúteo caudal (derecho)",
+"la": "N. gluteus caudalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.010-i",
+"es": "Nervio ciático (izquierdo)",
+"la": "N. ischiadicus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.010-d",
+"es": "Nervio ciático (derecho)",
+"la": "N. ischiadicus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.011-i",
+"es": "Nervio tibial (izquierdo)",
+"la": "N. tibialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.011-d",
+"es": "Nervio tibial (derecho)",
+"la": "N. tibialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.012-i",
+"es": "Nervio fibular común (izquierdo)",
+"la": "N. fibularis communis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.012-d",
+"es": "Nervio fibular común (derecho)",
+"la": "N. fibularis communis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.013-i",
+"es": "Nervio fibular superficial (izquierdo)",
+"la": "N. fibularis superficialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.013-d",
+"es": "Nervio fibular superficial (derecho)",
+"la": "N. fibularis superficialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.014-i",
+"es": "Nervio fibular profundo (izquierdo)",
+"la": "N. fibularis profundus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.014-d",
+"es": "Nervio fibular profundo (derecho)",
+"la": "N. fibularis profundus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.015-i",
+"es": "Nervio cutáneo sural lateral (izquierdo)",
+"la": "N. cutaneus surae lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.015-d",
+"es": "Nervio cutáneo sural lateral (derecho)",
+"la": "N. cutaneus surae lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.016-i",
+"es": "Nervio cutáneo sural caudal (izquierdo)",
+"la": "N. cutaneus surae caudalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.016-d",
+"es": "Nervio cutáneo sural caudal (derecho)",
+"la": "N. cutaneus surae caudalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.017-i",
+"es": "Nervio plantar medial (izquierdo)",
+"la": "N. plantaris medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.017-d",
+"es": "Nervio plantar medial (derecho)",
+"la": "N. plantaris medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.018-i",
+"es": "Nervio plantar lateral (izquierdo)",
+"la": "N. plantaris lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.018-d",
+"es": "Nervio plantar lateral (derecho)",
+"la": "N. plantaris lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.019-i",
+"es": "Nervio metatarsiano plantar medial (izquierdo)",
+"la": "N. metatarseus plantaris medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.019-d",
+"es": "Nervio metatarsiano plantar medial (derecho)",
+"la": "N. metatarseus plantaris medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.020-i",
+"es": "Nervio metatarsiano plantar lateral (izquierdo)",
+"la": "N. metatarseus plantaris lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.020-d",
+"es": "Nervio metatarsiano plantar lateral (derecho)",
+"la": "N. metatarseus plantaris lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.021-i",
+"es": "Nervio digital plantar medial (izquierdo)",
+"la": "N. digitalis plantaris medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.021-d",
+"es": "Nervio digital plantar medial (derecho)",
+"la": "N. digitalis plantaris medialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.022-i",
+"es": "Nervio digital plantar lateral (izquierdo)",
+"la": "N. digitalis plantaris lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.lum.022-d",
+"es": "Nervio digital plantar lateral (derecho)",
+"la": "N. digitalis plantaris lateralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.001-i",
+"es": "Tronco simpático (izquierdo)",
+"la": "Truncus sympathicus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.001-d",
+"es": "Tronco simpático (derecho)",
+"la": "Truncus sympathicus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.002-i",
+"es": "Parte cervical del tronco simpático (izquierda)",
+"la": "Pars cervicalis trunci sympathici",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.002-d",
+"es": "Parte cervical del tronco simpático (derecha)",
+"la": "Pars cervicalis trunci sympathici",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.003-i",
+"es": "Parte torácica del tronco simpático (izquierda)",
+"la": "Pars thoracica trunci sympathici",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.003-d",
+"es": "Parte torácica del tronco simpático (derecha)",
+"la": "Pars thoracica trunci sympathici",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.004-i",
+"es": "Parte lumbar del tronco simpático (izquierda)",
+"la": "Pars lumbalis trunci sympathici",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.004-d",
+"es": "Parte lumbar del tronco simpático (derecha)",
+"la": "Pars lumbalis trunci sympathici",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.005-i",
+"es": "Parte sacra del tronco simpático (izquierda)",
+"la": "Pars sacralis trunci sympathici",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.005-d",
+"es": "Parte sacra del tronco simpático (derecha)",
+"la": "Pars sacralis trunci sympathici",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.006-i",
+"es": "Ganglio cervical craneal (izquierdo)",
+"la": "Ganglion cervicale craniale",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.006-d",
+"es": "Ganglio cervical craneal (derecho)",
+"la": "Ganglion cervicale craniale",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.007-i",
+"es": "Ganglio cervical medio (izquierdo)",
+"la": "Ganglion cervicale medium",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.007-d",
+"es": "Ganglio cervical medio (derecho)",
+"la": "Ganglion cervicale medium",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.008-i",
+"es": "Ganglio cervicotorácico (estrellado) (izquierdo)",
+"la": "Ganglion cervicothoracicum [stellatum]",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.008-d",
+"es": "Ganglio cervicotorácico (estrellado) (derecho)",
+"la": "Ganglion cervicothoracicum [stellatum]",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.009-i",
+"es": "Ganglios torácicos del tronco simpático (izquierdos)",
+"la": "Ganglia thoracica",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.009-d",
+"es": "Ganglios torácicos del tronco simpático (derechos)",
+"la": "Ganglia thoracica",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.010-i",
+"es": "Ganglios lumbares del tronco simpático (izquierdos)",
+"la": "Ganglia lumbalia",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.010-d",
+"es": "Ganglios lumbares del tronco simpático (derechos)",
+"la": "Ganglia lumbalia",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.011-i",
+"es": "Ganglios sacros del tronco simpático (izquierdos)",
+"la": "Ganglia sacralia",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.011-d",
+"es": "Ganglios sacros del tronco simpático (derechos)",
+"la": "Ganglia sacralia",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.012",
+"es": "Ganglio impar",
+"la": "Ganglion impar",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.013-i",
+"es": "Ramos comunicantes blancos (izquierdos)",
+"la": "Rami communicantes albi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.013-d",
+"es": "Ramos comunicantes blancos (derechos)",
+"la": "Rami communicantes albi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.014-i",
+"es": "Ramos comunicantes grises (izquierdos)",
+"la": "Rami communicantes grisei",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.014-d",
+"es": "Ramos comunicantes grises (derechos)",
+"la": "Rami communicantes grisei",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.015-i",
+"es": "Nervio vertebral (izquierdo)",
+"la": "N. vertebralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.015-d",
+"es": "Nervio vertebral (derecho)",
+"la": "N. vertebralis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.016-i",
+"es": "Asa subclavia (izquierda)",
+"la": "Ansa subclavia",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.016-d",
+"es": "Asa subclavia (derecha)",
+"la": "Ansa subclavia",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.017-i",
+"es": "Nervio carotídeo interno (izquierdo)",
+"la": "N. caroticus internus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.017-d",
+"es": "Nervio carotídeo interno (derecho)",
+"la": "N. caroticus internus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.018-i",
+"es": "Nervios carotídeos externos (izquierdos)",
+"la": "Nn. carotici externi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.018-d",
+"es": "Nervios carotídeos externos (derechos)",
+"la": "Nn. carotici externi",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.019-i",
+"es": "Plexo carotídeo interno (izquierdo)",
+"la": "Plexus caroticus internus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.019-d",
+"es": "Plexo carotídeo interno (derecho)",
+"la": "Plexus caroticus internus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.020-i",
+"es": "Plexo carotídeo externo (izquierdo)",
+"la": "Plexus caroticus externus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.020-d",
+"es": "Plexo carotídeo externo (derecho)",
+"la": "Plexus caroticus externus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.021-i",
+"es": "Nervio petroso profundo (izquierdo)",
+"la": "N. petrosus profundus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.021-d",
+"es": "Nervio petroso profundo (derecho)",
+"la": "N. petrosus profundus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.022-i",
+"es": "Nervio del conducto pterigoideo (izquierdo)",
+"la": "N. canalis pterygoidei",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.022-d",
+"es": "Nervio del conducto pterigoideo (derecho)",
+"la": "N. canalis pterygoidei",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.023-i",
+"es": "Ganglio ciliar (izquierdo)",
+"la": "Ganglion ciliare",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.023-d",
+"es": "Ganglio ciliar (derecho)",
+"la": "Ganglion ciliare",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.024-i",
+"es": "Nervios ciliares cortos (izquierdos)",
+"la": "Nn. ciliares breves",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.024-d",
+"es": "Nervios ciliares cortos (derechos)",
+"la": "Nn. ciliares breves",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.025",
+"es": "Plexo cardíaco",
+"la": "Plexus cardiacus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.026-i",
+"es": "Plexo pulmonar (izquierdo)",
+"la": "Plexus pulmonalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.026-d",
+"es": "Plexo pulmonar (derecho)",
+"la": "Plexus pulmonalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.027",
+"es": "Plexo esofágico",
+"la": "Plexus esophageus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.028-i",
+"es": "Nervio esplácnico mayor (izquierdo)",
+"la": "N. splanchnicus major",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.028-d",
+"es": "Nervio esplácnico mayor (derecho)",
+"la": "N. splanchnicus major",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.029-i",
+"es": "Nervio esplácnico menor (izquierdo)",
+"la": "N. splanchnicus minor",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.029-d",
+"es": "Nervio esplácnico menor (derecho)",
+"la": "N. splanchnicus minor",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.030-i",
+"es": "Nervios esplácnicos lumbares (izquierdos)",
+"la": "Nn. splanchnici lumbales",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.030-d",
+"es": "Nervios esplácnicos lumbares (derechos)",
+"la": "Nn. splanchnici lumbales",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.031-i",
+"es": "Nervios esplácnicos sacros (izquierdos)",
+"la": "Nn. splanchnici sacrales",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.031-d",
+"es": "Nervios esplácnicos sacros (derechos)",
+"la": "Nn. splanchnici sacrales",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.032-i",
+"es": "Ganglio celíaco (izquierdo)",
+"la": "Ganglion coeliacum",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.032-d",
+"es": "Ganglio celíaco (derecho)",
+"la": "Ganglion coeliacum",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.033-i",
+"es": "Ganglio mesentérico craneal (izquierdo)",
+"la": "Ganglion mesentericum craniale",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.033-d",
+"es": "Ganglio mesentérico craneal (derecho)",
+"la": "Ganglion mesentericum craniale",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.034-i",
+"es": "Ganglio mesentérico caudal (izquierdo)",
+"la": "Ganglion mesentericum caudale",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.034-d",
+"es": "Ganglio mesentérico caudal (derecho)",
+"la": "Ganglion mesentericum caudale",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.035-i",
+"es": "Ganglio aorticorrenal (izquierdo)",
+"la": "Ganglion aorticorenale",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.035-d",
+"es": "Ganglio aorticorrenal (derecho)",
+"la": "Ganglion aorticorenale",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.036",
+"es": "Plexo aórtico torácico",
+"la": "Plexus aorticus thoracicus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.037",
+"es": "Plexo aórtico abdominal",
+"la": "Plexus aorticus abdominalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.038",
+"es": "Plexo celíaco",
+"la": "Plexus coeliacus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.039",
+"es": "Plexo mesentérico craneal",
+"la": "Plexus mesentericus cranialis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.040",
+"es": "Plexo mesentérico caudal",
+"la": "Plexus mesentericus caudalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.041",
+"es": "Plexo intermesentérico",
+"la": "Plexus intermesentericus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.042",
+"es": "Plexo hepático",
+"la": "Plexus hepaticus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.043",
+"es": "Plexo esplénico",
+"la": "Plexus lienalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.044",
+"es": "Plexo gástrico",
+"la": "Plexus gastricus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.045-i",
+"es": "Plexo renal (izquierdo)",
+"la": "Plexus renalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.045-d",
+"es": "Plexo renal (derecho)",
+"la": "Plexus renalis",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.046",
+"es": "Plexo hipogástrico",
+"la": "Plexus hypogastricus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.047-i",
+"es": "Nervio hipogástrico (izquierdo)",
+"la": "N. hypogastricus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.047-d",
+"es": "Nervio hipogástrico (derecho)",
+"la": "N. hypogastricus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.048-i",
+"es": "Plexo pélvico (izquierdo)",
+"la": "Plexus pelvinus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.048-d",
+"es": "Plexo pélvico (derecho)",
+"la": "Plexus pelvinus",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.049-i",
+"es": "Ganglios pélvicos (izquierdos)",
+"la": "Ganglia pelvina",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.049-d",
+"es": "Ganglios pélvicos (derechos)",
+"la": "Ganglia pelvina",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.050-i",
+"es": "Nervios pélvicos (izquierdos)",
+"la": "Nn. pelvini",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.050-d",
+"es": "Nervios pélvicos (derechos)",
+"la": "Nn. pelvini",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.aut.051-i",
+"es": "Plexo testicular (izquierdo)",
+"la": "Plexus testicularis",
+"sys": "ner",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.ner.aut.051-d",
+"es": "Plexo testicular (derecho)",
+"la": "Plexus testicularis",
+"sys": "ner",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.ner.aut.052-i",
+"es": "Plexo ovárico (izquierdo)",
+"la": "Plexus ovaricus",
+"sys": "ner",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.ner.aut.052-d",
+"es": "Plexo ovárico (derecho)",
+"la": "Plexus ovaricus",
+"sys": "ner",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.ner.aut.053",
+"es": "Plexo prostático",
+"la": "Plexus prostaticus",
+"sys": "ner",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.ner.aut.054",
+"es": "Plexo uterovaginal",
+"la": "Plexus uterovaginalis",
+"sys": "ner",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.ner.aut.055-i",
+"es": "Nervios cavernosos del pene (izquierdos)",
+"la": "Nn. cavernosi penis",
+"sys": "ner",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.ner.aut.055-d",
+"es": "Nervios cavernosos del pene (derechos)",
+"la": "Nn. cavernosi penis",
+"sys": "ner",
+"layer": "org",
+"sex": "m"
+},
+{
+"id": "equ.ner.aut.056-i",
+"es": "Nervios cavernosos del clítoris (izquierdos)",
+"la": "Nn. cavernosi clitoridis",
+"sys": "ner",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.ner.aut.056-d",
+"es": "Nervios cavernosos del clítoris (derechos)",
+"la": "Nn. cavernosi clitoridis",
+"sys": "ner",
+"layer": "org",
+"sex": "f"
+},
+{
+"id": "equ.ner.med.027",
+"es": "Segmento medular cervical C1",
+"la": "Segmentum medullae spinalis cervicale C1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.028",
+"es": "Segmento medular cervical C2",
+"la": "Segmentum medullae spinalis cervicale C2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.029",
+"es": "Segmento medular cervical C3",
+"la": "Segmentum medullae spinalis cervicale C3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.030",
+"es": "Segmento medular cervical C4",
+"la": "Segmentum medullae spinalis cervicale C4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.031",
+"es": "Segmento medular cervical C5",
+"la": "Segmentum medullae spinalis cervicale C5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.032",
+"es": "Segmento medular cervical C6",
+"la": "Segmentum medullae spinalis cervicale C6",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.033",
+"es": "Segmento medular cervical C7",
+"la": "Segmentum medullae spinalis cervicale C7",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.034",
+"es": "Segmento medular cervical C8",
+"la": "Segmentum medullae spinalis cervicale C8",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.035",
+"es": "Segmento medular torácico T1",
+"la": "Segmentum medullae spinalis thoracicum T1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.036",
+"es": "Segmento medular torácico T2",
+"la": "Segmentum medullae spinalis thoracicum T2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.037",
+"es": "Segmento medular torácico T3",
+"la": "Segmentum medullae spinalis thoracicum T3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.038",
+"es": "Segmento medular torácico T4",
+"la": "Segmentum medullae spinalis thoracicum T4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.039",
+"es": "Segmento medular torácico T5",
+"la": "Segmentum medullae spinalis thoracicum T5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.040",
+"es": "Segmento medular torácico T6",
+"la": "Segmentum medullae spinalis thoracicum T6",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.041",
+"es": "Segmento medular torácico T7",
+"la": "Segmentum medullae spinalis thoracicum T7",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.042",
+"es": "Segmento medular torácico T8",
+"la": "Segmentum medullae spinalis thoracicum T8",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.043",
+"es": "Segmento medular torácico T9",
+"la": "Segmentum medullae spinalis thoracicum T9",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.044",
+"es": "Segmento medular torácico T10",
+"la": "Segmentum medullae spinalis thoracicum T10",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.045",
+"es": "Segmento medular torácico T11",
+"la": "Segmentum medullae spinalis thoracicum T11",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.046",
+"es": "Segmento medular torácico T12",
+"la": "Segmentum medullae spinalis thoracicum T12",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.047",
+"es": "Segmento medular torácico T13",
+"la": "Segmentum medullae spinalis thoracicum T13",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.048",
+"es": "Segmento medular torácico T14",
+"la": "Segmentum medullae spinalis thoracicum T14",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.049",
+"es": "Segmento medular torácico T15",
+"la": "Segmentum medullae spinalis thoracicum T15",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.050",
+"es": "Segmento medular torácico T16",
+"la": "Segmentum medullae spinalis thoracicum T16",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.051",
+"es": "Segmento medular torácico T17",
+"la": "Segmentum medullae spinalis thoracicum T17",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.052",
+"es": "Segmento medular torácico T18",
+"la": "Segmentum medullae spinalis thoracicum T18",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.053",
+"es": "Segmento medular lumbar L1",
+"la": "Segmentum medullae spinalis lumbale L1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.054",
+"es": "Segmento medular lumbar L2",
+"la": "Segmentum medullae spinalis lumbale L2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.055",
+"es": "Segmento medular lumbar L3",
+"la": "Segmentum medullae spinalis lumbale L3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.056",
+"es": "Segmento medular lumbar L4",
+"la": "Segmentum medullae spinalis lumbale L4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.057",
+"es": "Segmento medular lumbar L5",
+"la": "Segmentum medullae spinalis lumbale L5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.058",
+"es": "Segmento medular lumbar L6",
+"la": "Segmentum medullae spinalis lumbale L6",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.059",
+"es": "Segmento medular sacro S1",
+"la": "Segmentum medullae spinalis sacrale S1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.060",
+"es": "Segmento medular sacro S2",
+"la": "Segmentum medullae spinalis sacrale S2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.061",
+"es": "Segmento medular sacro S3",
+"la": "Segmentum medullae spinalis sacrale S3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.062",
+"es": "Segmento medular sacro S4",
+"la": "Segmentum medullae spinalis sacrale S4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.063",
+"es": "Segmento medular sacro S5",
+"la": "Segmentum medullae spinalis sacrale S5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.064",
+"es": "Segmento medular caudal Cd1",
+"la": "Segmentum medullae spinalis caudale Cd1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.065",
+"es": "Segmento medular caudal Cd2",
+"la": "Segmentum medullae spinalis caudale Cd2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.066",
+"es": "Segmento medular caudal Cd3",
+"la": "Segmentum medullae spinalis caudale Cd3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.067",
+"es": "Segmento medular caudal Cd4",
+"la": "Segmentum medullae spinalis caudale Cd4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.med.068",
+"es": "Segmento medular caudal Cd5",
+"la": "Segmentum medullae spinalis caudale Cd5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.001-i",
+"es": "Nervio cervical C1 (izquierdo)",
+"la": "N. cervicalis C1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.001-d",
+"es": "Nervio cervical C1 (derecho)",
+"la": "N. cervicalis C1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.002-i",
+"es": "Nervio cervical C2 (izquierdo)",
+"la": "N. cervicalis C2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.002-d",
+"es": "Nervio cervical C2 (derecho)",
+"la": "N. cervicalis C2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.003-i",
+"es": "Nervio cervical C3 (izquierdo)",
+"la": "N. cervicalis C3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.003-d",
+"es": "Nervio cervical C3 (derecho)",
+"la": "N. cervicalis C3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.004-i",
+"es": "Nervio cervical C4 (izquierdo)",
+"la": "N. cervicalis C4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.004-d",
+"es": "Nervio cervical C4 (derecho)",
+"la": "N. cervicalis C4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.005-i",
+"es": "Nervio cervical C5 (izquierdo)",
+"la": "N. cervicalis C5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.005-d",
+"es": "Nervio cervical C5 (derecho)",
+"la": "N. cervicalis C5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.006-i",
+"es": "Nervio cervical C6 (izquierdo)",
+"la": "N. cervicalis C6",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.006-d",
+"es": "Nervio cervical C6 (derecho)",
+"la": "N. cervicalis C6",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.007-i",
+"es": "Nervio cervical C7 (izquierdo)",
+"la": "N. cervicalis C7",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.007-d",
+"es": "Nervio cervical C7 (derecho)",
+"la": "N. cervicalis C7",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.008-i",
+"es": "Nervio cervical C8 (izquierdo)",
+"la": "N. cervicalis C8",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.008-d",
+"es": "Nervio cervical C8 (derecho)",
+"la": "N. cervicalis C8",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.009-i",
+"es": "Nervio torácico T1 (izquierdo)",
+"la": "N. thoracicus T1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.009-d",
+"es": "Nervio torácico T1 (derecho)",
+"la": "N. thoracicus T1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.010-i",
+"es": "Nervio torácico T2 (izquierdo)",
+"la": "N. thoracicus T2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.010-d",
+"es": "Nervio torácico T2 (derecho)",
+"la": "N. thoracicus T2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.011-i",
+"es": "Nervio torácico T3 (izquierdo)",
+"la": "N. thoracicus T3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.011-d",
+"es": "Nervio torácico T3 (derecho)",
+"la": "N. thoracicus T3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.012-i",
+"es": "Nervio torácico T4 (izquierdo)",
+"la": "N. thoracicus T4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.012-d",
+"es": "Nervio torácico T4 (derecho)",
+"la": "N. thoracicus T4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.013-i",
+"es": "Nervio torácico T5 (izquierdo)",
+"la": "N. thoracicus T5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.013-d",
+"es": "Nervio torácico T5 (derecho)",
+"la": "N. thoracicus T5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.014-i",
+"es": "Nervio torácico T6 (izquierdo)",
+"la": "N. thoracicus T6",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.014-d",
+"es": "Nervio torácico T6 (derecho)",
+"la": "N. thoracicus T6",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.015-i",
+"es": "Nervio torácico T7 (izquierdo)",
+"la": "N. thoracicus T7",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.015-d",
+"es": "Nervio torácico T7 (derecho)",
+"la": "N. thoracicus T7",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.016-i",
+"es": "Nervio torácico T8 (izquierdo)",
+"la": "N. thoracicus T8",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.016-d",
+"es": "Nervio torácico T8 (derecho)",
+"la": "N. thoracicus T8",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.017-i",
+"es": "Nervio torácico T9 (izquierdo)",
+"la": "N. thoracicus T9",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.017-d",
+"es": "Nervio torácico T9 (derecho)",
+"la": "N. thoracicus T9",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.018-i",
+"es": "Nervio torácico T10 (izquierdo)",
+"la": "N. thoracicus T10",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.018-d",
+"es": "Nervio torácico T10 (derecho)",
+"la": "N. thoracicus T10",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.019-i",
+"es": "Nervio torácico T11 (izquierdo)",
+"la": "N. thoracicus T11",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.019-d",
+"es": "Nervio torácico T11 (derecho)",
+"la": "N. thoracicus T11",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.020-i",
+"es": "Nervio torácico T12 (izquierdo)",
+"la": "N. thoracicus T12",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.020-d",
+"es": "Nervio torácico T12 (derecho)",
+"la": "N. thoracicus T12",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.021-i",
+"es": "Nervio torácico T13 (izquierdo)",
+"la": "N. thoracicus T13",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.021-d",
+"es": "Nervio torácico T13 (derecho)",
+"la": "N. thoracicus T13",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.022-i",
+"es": "Nervio torácico T14 (izquierdo)",
+"la": "N. thoracicus T14",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.022-d",
+"es": "Nervio torácico T14 (derecho)",
+"la": "N. thoracicus T14",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.023-i",
+"es": "Nervio torácico T15 (izquierdo)",
+"la": "N. thoracicus T15",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.023-d",
+"es": "Nervio torácico T15 (derecho)",
+"la": "N. thoracicus T15",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.024-i",
+"es": "Nervio torácico T16 (izquierdo)",
+"la": "N. thoracicus T16",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.024-d",
+"es": "Nervio torácico T16 (derecho)",
+"la": "N. thoracicus T16",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.025-i",
+"es": "Nervio torácico T17 (izquierdo)",
+"la": "N. thoracicus T17",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.025-d",
+"es": "Nervio torácico T17 (derecho)",
+"la": "N. thoracicus T17",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.026-i",
+"es": "Nervio torácico T18 (izquierdo)",
+"la": "N. thoracicus T18",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.026-d",
+"es": "Nervio torácico T18 (derecho)",
+"la": "N. thoracicus T18",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.027-i",
+"es": "Nervio lumbar L1 (izquierdo)",
+"la": "N. lumbalis L1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.027-d",
+"es": "Nervio lumbar L1 (derecho)",
+"la": "N. lumbalis L1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.028-i",
+"es": "Nervio lumbar L2 (izquierdo)",
+"la": "N. lumbalis L2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.028-d",
+"es": "Nervio lumbar L2 (derecho)",
+"la": "N. lumbalis L2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.029-i",
+"es": "Nervio lumbar L3 (izquierdo)",
+"la": "N. lumbalis L3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.029-d",
+"es": "Nervio lumbar L3 (derecho)",
+"la": "N. lumbalis L3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.030-i",
+"es": "Nervio lumbar L4 (izquierdo)",
+"la": "N. lumbalis L4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.030-d",
+"es": "Nervio lumbar L4 (derecho)",
+"la": "N. lumbalis L4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.031-i",
+"es": "Nervio lumbar L5 (izquierdo)",
+"la": "N. lumbalis L5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.031-d",
+"es": "Nervio lumbar L5 (derecho)",
+"la": "N. lumbalis L5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.032-i",
+"es": "Nervio lumbar L6 (izquierdo)",
+"la": "N. lumbalis L6",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.032-d",
+"es": "Nervio lumbar L6 (derecho)",
+"la": "N. lumbalis L6",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.033-i",
+"es": "Nervio sacro S1 (izquierdo)",
+"la": "N. sacralis S1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.033-d",
+"es": "Nervio sacro S1 (derecho)",
+"la": "N. sacralis S1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.034-i",
+"es": "Nervio sacro S2 (izquierdo)",
+"la": "N. sacralis S2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.034-d",
+"es": "Nervio sacro S2 (derecho)",
+"la": "N. sacralis S2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.035-i",
+"es": "Nervio sacro S3 (izquierdo)",
+"la": "N. sacralis S3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.035-d",
+"es": "Nervio sacro S3 (derecho)",
+"la": "N. sacralis S3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.036-i",
+"es": "Nervio sacro S4 (izquierdo)",
+"la": "N. sacralis S4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.036-d",
+"es": "Nervio sacro S4 (derecho)",
+"la": "N. sacralis S4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.037-i",
+"es": "Nervio sacro S5 (izquierdo)",
+"la": "N. sacralis S5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.037-d",
+"es": "Nervio sacro S5 (derecho)",
+"la": "N. sacralis S5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.038-i",
+"es": "Nervio caudal Cd1 (izquierdo)",
+"la": "N. caudalis Cd1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.038-d",
+"es": "Nervio caudal Cd1 (derecho)",
+"la": "N. caudalis Cd1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.039-i",
+"es": "Nervio caudal Cd2 (izquierdo)",
+"la": "N. caudalis Cd2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.039-d",
+"es": "Nervio caudal Cd2 (derecho)",
+"la": "N. caudalis Cd2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.040-i",
+"es": "Nervio caudal Cd3 (izquierdo)",
+"la": "N. caudalis Cd3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.040-d",
+"es": "Nervio caudal Cd3 (derecho)",
+"la": "N. caudalis Cd3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.041-i",
+"es": "Nervio caudal Cd4 (izquierdo)",
+"la": "N. caudalis Cd4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.041-d",
+"es": "Nervio caudal Cd4 (derecho)",
+"la": "N. caudalis Cd4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.042-i",
+"es": "Nervio caudal Cd5 (izquierdo)",
+"la": "N. caudalis Cd5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.042-d",
+"es": "Nervio caudal Cd5 (derecho)",
+"la": "N. caudalis Cd5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.043-i",
+"es": "Rama dorsal del nervio cervical C1 (izquierda)",
+"la": "Ramus dorsalis n. cervicalis C1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.043-d",
+"es": "Rama dorsal del nervio cervical C1 (derecha)",
+"la": "Ramus dorsalis n. cervicalis C1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.044-i",
+"es": "Rama dorsal del nervio cervical C2 (izquierda)",
+"la": "Ramus dorsalis n. cervicalis C2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.044-d",
+"es": "Rama dorsal del nervio cervical C2 (derecha)",
+"la": "Ramus dorsalis n. cervicalis C2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.045-i",
+"es": "Rama dorsal del nervio cervical C3 (izquierda)",
+"la": "Ramus dorsalis n. cervicalis C3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.045-d",
+"es": "Rama dorsal del nervio cervical C3 (derecha)",
+"la": "Ramus dorsalis n. cervicalis C3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.046-i",
+"es": "Rama dorsal del nervio cervical C4 (izquierda)",
+"la": "Ramus dorsalis n. cervicalis C4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.046-d",
+"es": "Rama dorsal del nervio cervical C4 (derecha)",
+"la": "Ramus dorsalis n. cervicalis C4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.047-i",
+"es": "Rama dorsal del nervio cervical C5 (izquierda)",
+"la": "Ramus dorsalis n. cervicalis C5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.047-d",
+"es": "Rama dorsal del nervio cervical C5 (derecha)",
+"la": "Ramus dorsalis n. cervicalis C5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.048-i",
+"es": "Rama dorsal del nervio cervical C6 (izquierda)",
+"la": "Ramus dorsalis n. cervicalis C6",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.048-d",
+"es": "Rama dorsal del nervio cervical C6 (derecha)",
+"la": "Ramus dorsalis n. cervicalis C6",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.049-i",
+"es": "Rama dorsal del nervio cervical C7 (izquierda)",
+"la": "Ramus dorsalis n. cervicalis C7",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.049-d",
+"es": "Rama dorsal del nervio cervical C7 (derecha)",
+"la": "Ramus dorsalis n. cervicalis C7",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.050-i",
+"es": "Rama dorsal del nervio cervical C8 (izquierda)",
+"la": "Ramus dorsalis n. cervicalis C8",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.050-d",
+"es": "Rama dorsal del nervio cervical C8 (derecha)",
+"la": "Ramus dorsalis n. cervicalis C8",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.051-i",
+"es": "Rama dorsal del nervio torácico T1 (izquierda)",
+"la": "Ramus dorsalis n. thoracicus T1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.051-d",
+"es": "Rama dorsal del nervio torácico T1 (derecha)",
+"la": "Ramus dorsalis n. thoracicus T1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.052-i",
+"es": "Rama dorsal del nervio torácico T2 (izquierda)",
+"la": "Ramus dorsalis n. thoracicus T2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.052-d",
+"es": "Rama dorsal del nervio torácico T2 (derecha)",
+"la": "Ramus dorsalis n. thoracicus T2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.053-i",
+"es": "Rama dorsal del nervio torácico T3 (izquierda)",
+"la": "Ramus dorsalis n. thoracicus T3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.053-d",
+"es": "Rama dorsal del nervio torácico T3 (derecha)",
+"la": "Ramus dorsalis n. thoracicus T3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.054-i",
+"es": "Rama dorsal del nervio torácico T4 (izquierda)",
+"la": "Ramus dorsalis n. thoracicus T4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.054-d",
+"es": "Rama dorsal del nervio torácico T4 (derecha)",
+"la": "Ramus dorsalis n. thoracicus T4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.055-i",
+"es": "Rama dorsal del nervio torácico T5 (izquierda)",
+"la": "Ramus dorsalis n. thoracicus T5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.055-d",
+"es": "Rama dorsal del nervio torácico T5 (derecha)",
+"la": "Ramus dorsalis n. thoracicus T5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.056-i",
+"es": "Rama dorsal del nervio torácico T6 (izquierda)",
+"la": "Ramus dorsalis n. thoracicus T6",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.056-d",
+"es": "Rama dorsal del nervio torácico T6 (derecha)",
+"la": "Ramus dorsalis n. thoracicus T6",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.057-i",
+"es": "Rama dorsal del nervio torácico T7 (izquierda)",
+"la": "Ramus dorsalis n. thoracicus T7",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.057-d",
+"es": "Rama dorsal del nervio torácico T7 (derecha)",
+"la": "Ramus dorsalis n. thoracicus T7",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.058-i",
+"es": "Rama dorsal del nervio torácico T8 (izquierda)",
+"la": "Ramus dorsalis n. thoracicus T8",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.058-d",
+"es": "Rama dorsal del nervio torácico T8 (derecha)",
+"la": "Ramus dorsalis n. thoracicus T8",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.059-i",
+"es": "Rama dorsal del nervio torácico T9 (izquierda)",
+"la": "Ramus dorsalis n. thoracicus T9",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.059-d",
+"es": "Rama dorsal del nervio torácico T9 (derecha)",
+"la": "Ramus dorsalis n. thoracicus T9",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.060-i",
+"es": "Rama dorsal del nervio torácico T10 (izquierda)",
+"la": "Ramus dorsalis n. thoracicus T10",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.060-d",
+"es": "Rama dorsal del nervio torácico T10 (derecha)",
+"la": "Ramus dorsalis n. thoracicus T10",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.061-i",
+"es": "Rama dorsal del nervio torácico T11 (izquierda)",
+"la": "Ramus dorsalis n. thoracicus T11",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.061-d",
+"es": "Rama dorsal del nervio torácico T11 (derecha)",
+"la": "Ramus dorsalis n. thoracicus T11",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.062-i",
+"es": "Rama dorsal del nervio torácico T12 (izquierda)",
+"la": "Ramus dorsalis n. thoracicus T12",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.062-d",
+"es": "Rama dorsal del nervio torácico T12 (derecha)",
+"la": "Ramus dorsalis n. thoracicus T12",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.063-i",
+"es": "Rama dorsal del nervio torácico T13 (izquierda)",
+"la": "Ramus dorsalis n. thoracicus T13",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.063-d",
+"es": "Rama dorsal del nervio torácico T13 (derecha)",
+"la": "Ramus dorsalis n. thoracicus T13",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.064-i",
+"es": "Rama dorsal del nervio torácico T14 (izquierda)",
+"la": "Ramus dorsalis n. thoracicus T14",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.064-d",
+"es": "Rama dorsal del nervio torácico T14 (derecha)",
+"la": "Ramus dorsalis n. thoracicus T14",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.065-i",
+"es": "Rama dorsal del nervio torácico T15 (izquierda)",
+"la": "Ramus dorsalis n. thoracicus T15",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.065-d",
+"es": "Rama dorsal del nervio torácico T15 (derecha)",
+"la": "Ramus dorsalis n. thoracicus T15",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.066-i",
+"es": "Rama dorsal del nervio torácico T16 (izquierda)",
+"la": "Ramus dorsalis n. thoracicus T16",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.066-d",
+"es": "Rama dorsal del nervio torácico T16 (derecha)",
+"la": "Ramus dorsalis n. thoracicus T16",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.067-i",
+"es": "Rama dorsal del nervio torácico T17 (izquierda)",
+"la": "Ramus dorsalis n. thoracicus T17",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.067-d",
+"es": "Rama dorsal del nervio torácico T17 (derecha)",
+"la": "Ramus dorsalis n. thoracicus T17",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.068-i",
+"es": "Rama dorsal del nervio torácico T18 (izquierda)",
+"la": "Ramus dorsalis n. thoracicus T18",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.068-d",
+"es": "Rama dorsal del nervio torácico T18 (derecha)",
+"la": "Ramus dorsalis n. thoracicus T18",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.069-i",
+"es": "Rama dorsal del nervio lumbar L1 (izquierda)",
+"la": "Ramus dorsalis n. lumbalis L1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.069-d",
+"es": "Rama dorsal del nervio lumbar L1 (derecha)",
+"la": "Ramus dorsalis n. lumbalis L1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.070-i",
+"es": "Rama dorsal del nervio lumbar L2 (izquierda)",
+"la": "Ramus dorsalis n. lumbalis L2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.070-d",
+"es": "Rama dorsal del nervio lumbar L2 (derecha)",
+"la": "Ramus dorsalis n. lumbalis L2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.071-i",
+"es": "Rama dorsal del nervio lumbar L3 (izquierda)",
+"la": "Ramus dorsalis n. lumbalis L3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.071-d",
+"es": "Rama dorsal del nervio lumbar L3 (derecha)",
+"la": "Ramus dorsalis n. lumbalis L3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.072-i",
+"es": "Rama dorsal del nervio lumbar L4 (izquierda)",
+"la": "Ramus dorsalis n. lumbalis L4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.072-d",
+"es": "Rama dorsal del nervio lumbar L4 (derecha)",
+"la": "Ramus dorsalis n. lumbalis L4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.073-i",
+"es": "Rama dorsal del nervio lumbar L5 (izquierda)",
+"la": "Ramus dorsalis n. lumbalis L5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.073-d",
+"es": "Rama dorsal del nervio lumbar L5 (derecha)",
+"la": "Ramus dorsalis n. lumbalis L5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.074-i",
+"es": "Rama dorsal del nervio lumbar L6 (izquierda)",
+"la": "Ramus dorsalis n. lumbalis L6",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.074-d",
+"es": "Rama dorsal del nervio lumbar L6 (derecha)",
+"la": "Ramus dorsalis n. lumbalis L6",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.075-i",
+"es": "Rama dorsal del nervio sacro S1 (izquierda)",
+"la": "Ramus dorsalis n. sacralis S1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.075-d",
+"es": "Rama dorsal del nervio sacro S1 (derecha)",
+"la": "Ramus dorsalis n. sacralis S1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.076-i",
+"es": "Rama dorsal del nervio sacro S2 (izquierda)",
+"la": "Ramus dorsalis n. sacralis S2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.076-d",
+"es": "Rama dorsal del nervio sacro S2 (derecha)",
+"la": "Ramus dorsalis n. sacralis S2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.077-i",
+"es": "Rama dorsal del nervio sacro S3 (izquierda)",
+"la": "Ramus dorsalis n. sacralis S3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.077-d",
+"es": "Rama dorsal del nervio sacro S3 (derecha)",
+"la": "Ramus dorsalis n. sacralis S3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.078-i",
+"es": "Rama dorsal del nervio sacro S4 (izquierda)",
+"la": "Ramus dorsalis n. sacralis S4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.078-d",
+"es": "Rama dorsal del nervio sacro S4 (derecha)",
+"la": "Ramus dorsalis n. sacralis S4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.079-i",
+"es": "Rama dorsal del nervio sacro S5 (izquierda)",
+"la": "Ramus dorsalis n. sacralis S5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.079-d",
+"es": "Rama dorsal del nervio sacro S5 (derecha)",
+"la": "Ramus dorsalis n. sacralis S5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.080-i",
+"es": "Rama dorsal del nervio caudal Cd1 (izquierda)",
+"la": "Ramus dorsalis n. caudalis Cd1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.080-d",
+"es": "Rama dorsal del nervio caudal Cd1 (derecha)",
+"la": "Ramus dorsalis n. caudalis Cd1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.081-i",
+"es": "Rama dorsal del nervio caudal Cd2 (izquierda)",
+"la": "Ramus dorsalis n. caudalis Cd2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.081-d",
+"es": "Rama dorsal del nervio caudal Cd2 (derecha)",
+"la": "Ramus dorsalis n. caudalis Cd2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.082-i",
+"es": "Rama dorsal del nervio caudal Cd3 (izquierda)",
+"la": "Ramus dorsalis n. caudalis Cd3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.082-d",
+"es": "Rama dorsal del nervio caudal Cd3 (derecha)",
+"la": "Ramus dorsalis n. caudalis Cd3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.083-i",
+"es": "Rama dorsal del nervio caudal Cd4 (izquierda)",
+"la": "Ramus dorsalis n. caudalis Cd4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.083-d",
+"es": "Rama dorsal del nervio caudal Cd4 (derecha)",
+"la": "Ramus dorsalis n. caudalis Cd4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.084-i",
+"es": "Rama dorsal del nervio caudal Cd5 (izquierda)",
+"la": "Ramus dorsalis n. caudalis Cd5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.084-d",
+"es": "Rama dorsal del nervio caudal Cd5 (derecha)",
+"la": "Ramus dorsalis n. caudalis Cd5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.085-i",
+"es": "Rama ventral del nervio cervical C1 (izquierda)",
+"la": "Ramus ventralis n. cervicalis C1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.085-d",
+"es": "Rama ventral del nervio cervical C1 (derecha)",
+"la": "Ramus ventralis n. cervicalis C1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.086-i",
+"es": "Rama ventral del nervio cervical C2 (izquierda)",
+"la": "Ramus ventralis n. cervicalis C2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.086-d",
+"es": "Rama ventral del nervio cervical C2 (derecha)",
+"la": "Ramus ventralis n. cervicalis C2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.087-i",
+"es": "Rama ventral del nervio cervical C3 (izquierda)",
+"la": "Ramus ventralis n. cervicalis C3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.087-d",
+"es": "Rama ventral del nervio cervical C3 (derecha)",
+"la": "Ramus ventralis n. cervicalis C3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.088-i",
+"es": "Rama ventral del nervio cervical C4 (izquierda)",
+"la": "Ramus ventralis n. cervicalis C4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.088-d",
+"es": "Rama ventral del nervio cervical C4 (derecha)",
+"la": "Ramus ventralis n. cervicalis C4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.089-i",
+"es": "Rama ventral del nervio cervical C5 (izquierda)",
+"la": "Ramus ventralis n. cervicalis C5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.089-d",
+"es": "Rama ventral del nervio cervical C5 (derecha)",
+"la": "Ramus ventralis n. cervicalis C5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.090-i",
+"es": "Rama ventral del nervio cervical C6 (izquierda)",
+"la": "Ramus ventralis n. cervicalis C6",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.090-d",
+"es": "Rama ventral del nervio cervical C6 (derecha)",
+"la": "Ramus ventralis n. cervicalis C6",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.091-i",
+"es": "Rama ventral del nervio cervical C7 (izquierda)",
+"la": "Ramus ventralis n. cervicalis C7",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.091-d",
+"es": "Rama ventral del nervio cervical C7 (derecha)",
+"la": "Ramus ventralis n. cervicalis C7",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.092-i",
+"es": "Rama ventral del nervio cervical C8 (izquierda)",
+"la": "Ramus ventralis n. cervicalis C8",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.092-d",
+"es": "Rama ventral del nervio cervical C8 (derecha)",
+"la": "Ramus ventralis n. cervicalis C8",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.093-i",
+"es": "Rama ventral del nervio torácico T1 (izquierda)",
+"la": "Ramus ventralis n. thoracicus T1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.093-d",
+"es": "Rama ventral del nervio torácico T1 (derecha)",
+"la": "Ramus ventralis n. thoracicus T1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.094-i",
+"es": "Rama ventral del nervio torácico T2 (izquierda)",
+"la": "Ramus ventralis n. thoracicus T2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.094-d",
+"es": "Rama ventral del nervio torácico T2 (derecha)",
+"la": "Ramus ventralis n. thoracicus T2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.095-i",
+"es": "Rama ventral del nervio torácico T3 (izquierda)",
+"la": "Ramus ventralis n. thoracicus T3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.095-d",
+"es": "Rama ventral del nervio torácico T3 (derecha)",
+"la": "Ramus ventralis n. thoracicus T3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.096-i",
+"es": "Rama ventral del nervio torácico T4 (izquierda)",
+"la": "Ramus ventralis n. thoracicus T4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.096-d",
+"es": "Rama ventral del nervio torácico T4 (derecha)",
+"la": "Ramus ventralis n. thoracicus T4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.097-i",
+"es": "Rama ventral del nervio torácico T5 (izquierda)",
+"la": "Ramus ventralis n. thoracicus T5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.097-d",
+"es": "Rama ventral del nervio torácico T5 (derecha)",
+"la": "Ramus ventralis n. thoracicus T5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.098-i",
+"es": "Rama ventral del nervio torácico T6 (izquierda)",
+"la": "Ramus ventralis n. thoracicus T6",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.098-d",
+"es": "Rama ventral del nervio torácico T6 (derecha)",
+"la": "Ramus ventralis n. thoracicus T6",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.099-i",
+"es": "Rama ventral del nervio torácico T7 (izquierda)",
+"la": "Ramus ventralis n. thoracicus T7",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.099-d",
+"es": "Rama ventral del nervio torácico T7 (derecha)",
+"la": "Ramus ventralis n. thoracicus T7",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.100-i",
+"es": "Rama ventral del nervio torácico T8 (izquierda)",
+"la": "Ramus ventralis n. thoracicus T8",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.100-d",
+"es": "Rama ventral del nervio torácico T8 (derecha)",
+"la": "Ramus ventralis n. thoracicus T8",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.101-i",
+"es": "Rama ventral del nervio torácico T9 (izquierda)",
+"la": "Ramus ventralis n. thoracicus T9",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.101-d",
+"es": "Rama ventral del nervio torácico T9 (derecha)",
+"la": "Ramus ventralis n. thoracicus T9",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.102-i",
+"es": "Rama ventral del nervio torácico T10 (izquierda)",
+"la": "Ramus ventralis n. thoracicus T10",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.102-d",
+"es": "Rama ventral del nervio torácico T10 (derecha)",
+"la": "Ramus ventralis n. thoracicus T10",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.103-i",
+"es": "Rama ventral del nervio torácico T11 (izquierda)",
+"la": "Ramus ventralis n. thoracicus T11",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.103-d",
+"es": "Rama ventral del nervio torácico T11 (derecha)",
+"la": "Ramus ventralis n. thoracicus T11",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.104-i",
+"es": "Rama ventral del nervio torácico T12 (izquierda)",
+"la": "Ramus ventralis n. thoracicus T12",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.104-d",
+"es": "Rama ventral del nervio torácico T12 (derecha)",
+"la": "Ramus ventralis n. thoracicus T12",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.105-i",
+"es": "Rama ventral del nervio torácico T13 (izquierda)",
+"la": "Ramus ventralis n. thoracicus T13",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.105-d",
+"es": "Rama ventral del nervio torácico T13 (derecha)",
+"la": "Ramus ventralis n. thoracicus T13",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.106-i",
+"es": "Rama ventral del nervio torácico T14 (izquierda)",
+"la": "Ramus ventralis n. thoracicus T14",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.106-d",
+"es": "Rama ventral del nervio torácico T14 (derecha)",
+"la": "Ramus ventralis n. thoracicus T14",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.107-i",
+"es": "Rama ventral del nervio torácico T15 (izquierda)",
+"la": "Ramus ventralis n. thoracicus T15",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.107-d",
+"es": "Rama ventral del nervio torácico T15 (derecha)",
+"la": "Ramus ventralis n. thoracicus T15",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.108-i",
+"es": "Rama ventral del nervio torácico T16 (izquierda)",
+"la": "Ramus ventralis n. thoracicus T16",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.108-d",
+"es": "Rama ventral del nervio torácico T16 (derecha)",
+"la": "Ramus ventralis n. thoracicus T16",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.109-i",
+"es": "Rama ventral del nervio torácico T17 (izquierda)",
+"la": "Ramus ventralis n. thoracicus T17",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.109-d",
+"es": "Rama ventral del nervio torácico T17 (derecha)",
+"la": "Ramus ventralis n. thoracicus T17",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.110-i",
+"es": "Rama ventral del nervio torácico T18 (izquierda)",
+"la": "Ramus ventralis n. thoracicus T18",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.110-d",
+"es": "Rama ventral del nervio torácico T18 (derecha)",
+"la": "Ramus ventralis n. thoracicus T18",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.111-i",
+"es": "Rama ventral del nervio lumbar L1 (izquierda)",
+"la": "Ramus ventralis n. lumbalis L1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.111-d",
+"es": "Rama ventral del nervio lumbar L1 (derecha)",
+"la": "Ramus ventralis n. lumbalis L1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.112-i",
+"es": "Rama ventral del nervio lumbar L2 (izquierda)",
+"la": "Ramus ventralis n. lumbalis L2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.112-d",
+"es": "Rama ventral del nervio lumbar L2 (derecha)",
+"la": "Ramus ventralis n. lumbalis L2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.113-i",
+"es": "Rama ventral del nervio lumbar L3 (izquierda)",
+"la": "Ramus ventralis n. lumbalis L3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.113-d",
+"es": "Rama ventral del nervio lumbar L3 (derecha)",
+"la": "Ramus ventralis n. lumbalis L3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.114-i",
+"es": "Rama ventral del nervio lumbar L4 (izquierda)",
+"la": "Ramus ventralis n. lumbalis L4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.114-d",
+"es": "Rama ventral del nervio lumbar L4 (derecha)",
+"la": "Ramus ventralis n. lumbalis L4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.115-i",
+"es": "Rama ventral del nervio lumbar L5 (izquierda)",
+"la": "Ramus ventralis n. lumbalis L5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.115-d",
+"es": "Rama ventral del nervio lumbar L5 (derecha)",
+"la": "Ramus ventralis n. lumbalis L5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.116-i",
+"es": "Rama ventral del nervio lumbar L6 (izquierda)",
+"la": "Ramus ventralis n. lumbalis L6",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.116-d",
+"es": "Rama ventral del nervio lumbar L6 (derecha)",
+"la": "Ramus ventralis n. lumbalis L6",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.117-i",
+"es": "Rama ventral del nervio sacro S1 (izquierda)",
+"la": "Ramus ventralis n. sacralis S1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.117-d",
+"es": "Rama ventral del nervio sacro S1 (derecha)",
+"la": "Ramus ventralis n. sacralis S1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.118-i",
+"es": "Rama ventral del nervio sacro S2 (izquierda)",
+"la": "Ramus ventralis n. sacralis S2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.118-d",
+"es": "Rama ventral del nervio sacro S2 (derecha)",
+"la": "Ramus ventralis n. sacralis S2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.119-i",
+"es": "Rama ventral del nervio sacro S3 (izquierda)",
+"la": "Ramus ventralis n. sacralis S3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.119-d",
+"es": "Rama ventral del nervio sacro S3 (derecha)",
+"la": "Ramus ventralis n. sacralis S3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.120-i",
+"es": "Rama ventral del nervio sacro S4 (izquierda)",
+"la": "Ramus ventralis n. sacralis S4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.120-d",
+"es": "Rama ventral del nervio sacro S4 (derecha)",
+"la": "Ramus ventralis n. sacralis S4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.121-i",
+"es": "Rama ventral del nervio sacro S5 (izquierda)",
+"la": "Ramus ventralis n. sacralis S5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.121-d",
+"es": "Rama ventral del nervio sacro S5 (derecha)",
+"la": "Ramus ventralis n. sacralis S5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.122-i",
+"es": "Rama ventral del nervio caudal Cd1 (izquierda)",
+"la": "Ramus ventralis n. caudalis Cd1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.122-d",
+"es": "Rama ventral del nervio caudal Cd1 (derecha)",
+"la": "Ramus ventralis n. caudalis Cd1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.123-i",
+"es": "Rama ventral del nervio caudal Cd2 (izquierda)",
+"la": "Ramus ventralis n. caudalis Cd2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.123-d",
+"es": "Rama ventral del nervio caudal Cd2 (derecha)",
+"la": "Ramus ventralis n. caudalis Cd2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.124-i",
+"es": "Rama ventral del nervio caudal Cd3 (izquierda)",
+"la": "Ramus ventralis n. caudalis Cd3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.124-d",
+"es": "Rama ventral del nervio caudal Cd3 (derecha)",
+"la": "Ramus ventralis n. caudalis Cd3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.125-i",
+"es": "Rama ventral del nervio caudal Cd4 (izquierda)",
+"la": "Ramus ventralis n. caudalis Cd4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.125-d",
+"es": "Rama ventral del nervio caudal Cd4 (derecha)",
+"la": "Ramus ventralis n. caudalis Cd4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.126-i",
+"es": "Rama ventral del nervio caudal Cd5 (izquierda)",
+"la": "Ramus ventralis n. caudalis Cd5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.126-d",
+"es": "Rama ventral del nervio caudal Cd5 (derecha)",
+"la": "Ramus ventralis n. caudalis Cd5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.127-i",
+"es": "Ganglio espinal C1 (izquierdo)",
+"la": "Ganglion spinale C1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.127-d",
+"es": "Ganglio espinal C1 (derecho)",
+"la": "Ganglion spinale C1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.128-i",
+"es": "Ganglio espinal C2 (izquierdo)",
+"la": "Ganglion spinale C2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.128-d",
+"es": "Ganglio espinal C2 (derecho)",
+"la": "Ganglion spinale C2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.129-i",
+"es": "Ganglio espinal C3 (izquierdo)",
+"la": "Ganglion spinale C3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.129-d",
+"es": "Ganglio espinal C3 (derecho)",
+"la": "Ganglion spinale C3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.130-i",
+"es": "Ganglio espinal C4 (izquierdo)",
+"la": "Ganglion spinale C4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.130-d",
+"es": "Ganglio espinal C4 (derecho)",
+"la": "Ganglion spinale C4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.131-i",
+"es": "Ganglio espinal C5 (izquierdo)",
+"la": "Ganglion spinale C5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.131-d",
+"es": "Ganglio espinal C5 (derecho)",
+"la": "Ganglion spinale C5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.132-i",
+"es": "Ganglio espinal C6 (izquierdo)",
+"la": "Ganglion spinale C6",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.132-d",
+"es": "Ganglio espinal C6 (derecho)",
+"la": "Ganglion spinale C6",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.133-i",
+"es": "Ganglio espinal C7 (izquierdo)",
+"la": "Ganglion spinale C7",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.133-d",
+"es": "Ganglio espinal C7 (derecho)",
+"la": "Ganglion spinale C7",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.134-i",
+"es": "Ganglio espinal C8 (izquierdo)",
+"la": "Ganglion spinale C8",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.134-d",
+"es": "Ganglio espinal C8 (derecho)",
+"la": "Ganglion spinale C8",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.135-i",
+"es": "Ganglio espinal T1 (izquierdo)",
+"la": "Ganglion spinale T1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.135-d",
+"es": "Ganglio espinal T1 (derecho)",
+"la": "Ganglion spinale T1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.136-i",
+"es": "Ganglio espinal T2 (izquierdo)",
+"la": "Ganglion spinale T2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.136-d",
+"es": "Ganglio espinal T2 (derecho)",
+"la": "Ganglion spinale T2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.137-i",
+"es": "Ganglio espinal T3 (izquierdo)",
+"la": "Ganglion spinale T3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.137-d",
+"es": "Ganglio espinal T3 (derecho)",
+"la": "Ganglion spinale T3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.138-i",
+"es": "Ganglio espinal T4 (izquierdo)",
+"la": "Ganglion spinale T4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.138-d",
+"es": "Ganglio espinal T4 (derecho)",
+"la": "Ganglion spinale T4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.139-i",
+"es": "Ganglio espinal T5 (izquierdo)",
+"la": "Ganglion spinale T5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.139-d",
+"es": "Ganglio espinal T5 (derecho)",
+"la": "Ganglion spinale T5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.140-i",
+"es": "Ganglio espinal T6 (izquierdo)",
+"la": "Ganglion spinale T6",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.140-d",
+"es": "Ganglio espinal T6 (derecho)",
+"la": "Ganglion spinale T6",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.141-i",
+"es": "Ganglio espinal T7 (izquierdo)",
+"la": "Ganglion spinale T7",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.141-d",
+"es": "Ganglio espinal T7 (derecho)",
+"la": "Ganglion spinale T7",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.142-i",
+"es": "Ganglio espinal T8 (izquierdo)",
+"la": "Ganglion spinale T8",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.142-d",
+"es": "Ganglio espinal T8 (derecho)",
+"la": "Ganglion spinale T8",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.143-i",
+"es": "Ganglio espinal T9 (izquierdo)",
+"la": "Ganglion spinale T9",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.143-d",
+"es": "Ganglio espinal T9 (derecho)",
+"la": "Ganglion spinale T9",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.144-i",
+"es": "Ganglio espinal T10 (izquierdo)",
+"la": "Ganglion spinale T10",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.144-d",
+"es": "Ganglio espinal T10 (derecho)",
+"la": "Ganglion spinale T10",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.145-i",
+"es": "Ganglio espinal T11 (izquierdo)",
+"la": "Ganglion spinale T11",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.145-d",
+"es": "Ganglio espinal T11 (derecho)",
+"la": "Ganglion spinale T11",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.146-i",
+"es": "Ganglio espinal T12 (izquierdo)",
+"la": "Ganglion spinale T12",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.146-d",
+"es": "Ganglio espinal T12 (derecho)",
+"la": "Ganglion spinale T12",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.147-i",
+"es": "Ganglio espinal T13 (izquierdo)",
+"la": "Ganglion spinale T13",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.147-d",
+"es": "Ganglio espinal T13 (derecho)",
+"la": "Ganglion spinale T13",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.148-i",
+"es": "Ganglio espinal T14 (izquierdo)",
+"la": "Ganglion spinale T14",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.148-d",
+"es": "Ganglio espinal T14 (derecho)",
+"la": "Ganglion spinale T14",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.149-i",
+"es": "Ganglio espinal T15 (izquierdo)",
+"la": "Ganglion spinale T15",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.149-d",
+"es": "Ganglio espinal T15 (derecho)",
+"la": "Ganglion spinale T15",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.150-i",
+"es": "Ganglio espinal T16 (izquierdo)",
+"la": "Ganglion spinale T16",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.150-d",
+"es": "Ganglio espinal T16 (derecho)",
+"la": "Ganglion spinale T16",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.151-i",
+"es": "Ganglio espinal T17 (izquierdo)",
+"la": "Ganglion spinale T17",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.151-d",
+"es": "Ganglio espinal T17 (derecho)",
+"la": "Ganglion spinale T17",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.152-i",
+"es": "Ganglio espinal T18 (izquierdo)",
+"la": "Ganglion spinale T18",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.152-d",
+"es": "Ganglio espinal T18 (derecho)",
+"la": "Ganglion spinale T18",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.153-i",
+"es": "Ganglio espinal L1 (izquierdo)",
+"la": "Ganglion spinale L1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.153-d",
+"es": "Ganglio espinal L1 (derecho)",
+"la": "Ganglion spinale L1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.154-i",
+"es": "Ganglio espinal L2 (izquierdo)",
+"la": "Ganglion spinale L2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.154-d",
+"es": "Ganglio espinal L2 (derecho)",
+"la": "Ganglion spinale L2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.155-i",
+"es": "Ganglio espinal L3 (izquierdo)",
+"la": "Ganglion spinale L3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.155-d",
+"es": "Ganglio espinal L3 (derecho)",
+"la": "Ganglion spinale L3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.156-i",
+"es": "Ganglio espinal L4 (izquierdo)",
+"la": "Ganglion spinale L4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.156-d",
+"es": "Ganglio espinal L4 (derecho)",
+"la": "Ganglion spinale L4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.157-i",
+"es": "Ganglio espinal L5 (izquierdo)",
+"la": "Ganglion spinale L5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.157-d",
+"es": "Ganglio espinal L5 (derecho)",
+"la": "Ganglion spinale L5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.158-i",
+"es": "Ganglio espinal L6 (izquierdo)",
+"la": "Ganglion spinale L6",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.158-d",
+"es": "Ganglio espinal L6 (derecho)",
+"la": "Ganglion spinale L6",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.159-i",
+"es": "Ganglio espinal S1 (izquierdo)",
+"la": "Ganglion spinale S1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.159-d",
+"es": "Ganglio espinal S1 (derecho)",
+"la": "Ganglion spinale S1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.160-i",
+"es": "Ganglio espinal S2 (izquierdo)",
+"la": "Ganglion spinale S2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.160-d",
+"es": "Ganglio espinal S2 (derecho)",
+"la": "Ganglion spinale S2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.161-i",
+"es": "Ganglio espinal S3 (izquierdo)",
+"la": "Ganglion spinale S3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.161-d",
+"es": "Ganglio espinal S3 (derecho)",
+"la": "Ganglion spinale S3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.162-i",
+"es": "Ganglio espinal S4 (izquierdo)",
+"la": "Ganglion spinale S4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.162-d",
+"es": "Ganglio espinal S4 (derecho)",
+"la": "Ganglion spinale S4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.163-i",
+"es": "Ganglio espinal S5 (izquierdo)",
+"la": "Ganglion spinale S5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.163-d",
+"es": "Ganglio espinal S5 (derecho)",
+"la": "Ganglion spinale S5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.164-i",
+"es": "Ganglio espinal Cd1 (izquierdo)",
+"la": "Ganglion spinale Cd1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.164-d",
+"es": "Ganglio espinal Cd1 (derecho)",
+"la": "Ganglion spinale Cd1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.165-i",
+"es": "Ganglio espinal Cd2 (izquierdo)",
+"la": "Ganglion spinale Cd2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.165-d",
+"es": "Ganglio espinal Cd2 (derecho)",
+"la": "Ganglion spinale Cd2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.166-i",
+"es": "Ganglio espinal Cd3 (izquierdo)",
+"la": "Ganglion spinale Cd3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.166-d",
+"es": "Ganglio espinal Cd3 (derecho)",
+"la": "Ganglion spinale Cd3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.167-i",
+"es": "Ganglio espinal Cd4 (izquierdo)",
+"la": "Ganglion spinale Cd4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.167-d",
+"es": "Ganglio espinal Cd4 (derecho)",
+"la": "Ganglion spinale Cd4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.168-i",
+"es": "Ganglio espinal Cd5 (izquierdo)",
+"la": "Ganglion spinale Cd5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.esp.168-d",
+"es": "Ganglio espinal Cd5 (derecho)",
+"la": "Ganglion spinale Cd5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.017-i",
+"es": "Nervio intercostal 1 (izquierdo)",
+"la": "N. intercostalis 1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.017-d",
+"es": "Nervio intercostal 1 (derecho)",
+"la": "N. intercostalis 1",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.018-i",
+"es": "Nervio intercostal 2 (izquierdo)",
+"la": "N. intercostalis 2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.018-d",
+"es": "Nervio intercostal 2 (derecho)",
+"la": "N. intercostalis 2",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.019-i",
+"es": "Nervio intercostal 3 (izquierdo)",
+"la": "N. intercostalis 3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.019-d",
+"es": "Nervio intercostal 3 (derecho)",
+"la": "N. intercostalis 3",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.020-i",
+"es": "Nervio intercostal 4 (izquierdo)",
+"la": "N. intercostalis 4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.020-d",
+"es": "Nervio intercostal 4 (derecho)",
+"la": "N. intercostalis 4",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.021-i",
+"es": "Nervio intercostal 5 (izquierdo)",
+"la": "N. intercostalis 5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.021-d",
+"es": "Nervio intercostal 5 (derecho)",
+"la": "N. intercostalis 5",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.022-i",
+"es": "Nervio intercostal 6 (izquierdo)",
+"la": "N. intercostalis 6",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.022-d",
+"es": "Nervio intercostal 6 (derecho)",
+"la": "N. intercostalis 6",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.023-i",
+"es": "Nervio intercostal 7 (izquierdo)",
+"la": "N. intercostalis 7",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.023-d",
+"es": "Nervio intercostal 7 (derecho)",
+"la": "N. intercostalis 7",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.024-i",
+"es": "Nervio intercostal 8 (izquierdo)",
+"la": "N. intercostalis 8",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.024-d",
+"es": "Nervio intercostal 8 (derecho)",
+"la": "N. intercostalis 8",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.025-i",
+"es": "Nervio intercostal 9 (izquierdo)",
+"la": "N. intercostalis 9",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.025-d",
+"es": "Nervio intercostal 9 (derecho)",
+"la": "N. intercostalis 9",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.026-i",
+"es": "Nervio intercostal 10 (izquierdo)",
+"la": "N. intercostalis 10",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.026-d",
+"es": "Nervio intercostal 10 (derecho)",
+"la": "N. intercostalis 10",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.027-i",
+"es": "Nervio intercostal 11 (izquierdo)",
+"la": "N. intercostalis 11",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.027-d",
+"es": "Nervio intercostal 11 (derecho)",
+"la": "N. intercostalis 11",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.028-i",
+"es": "Nervio intercostal 12 (izquierdo)",
+"la": "N. intercostalis 12",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.028-d",
+"es": "Nervio intercostal 12 (derecho)",
+"la": "N. intercostalis 12",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.029-i",
+"es": "Nervio intercostal 13 (izquierdo)",
+"la": "N. intercostalis 13",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.029-d",
+"es": "Nervio intercostal 13 (derecho)",
+"la": "N. intercostalis 13",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.030-i",
+"es": "Nervio intercostal 14 (izquierdo)",
+"la": "N. intercostalis 14",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.030-d",
+"es": "Nervio intercostal 14 (derecho)",
+"la": "N. intercostalis 14",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.031-i",
+"es": "Nervio intercostal 15 (izquierdo)",
+"la": "N. intercostalis 15",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.031-d",
+"es": "Nervio intercostal 15 (derecho)",
+"la": "N. intercostalis 15",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.032-i",
+"es": "Nervio intercostal 16 (izquierdo)",
+"la": "N. intercostalis 16",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.032-d",
+"es": "Nervio intercostal 16 (derecho)",
+"la": "N. intercostalis 16",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.033-i",
+"es": "Nervio intercostal 17 (izquierdo)",
+"la": "N. intercostalis 17",
+"sys": "ner",
+"layer": "org"
+},
+{
+"id": "equ.ner.tro.033-d",
+"es": "Nervio intercostal 17 (derecho)",
+"la": "N. intercostalis 17",
+"sys": "ner",
+"layer": "org"
 }
 ]
 }
