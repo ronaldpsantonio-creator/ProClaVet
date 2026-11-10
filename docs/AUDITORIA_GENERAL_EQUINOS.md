@@ -290,3 +290,37 @@ La fuente universitaria de Minnesota confirma:
 - WikiVet, “Hyoid Apparatus – Anatomy & Physiology”: https://en.wikivet.net/Hyoid_Apparatus_-_Anatomy_%26_Physiology
 - WikiVet, “Equine Upper Respiratory Tract – Horse Anatomy”: https://en.wikivet.net/index.php?title=Equine_Upper_Respiratory_Tract_-_Horse_Anatomy
 - IVIS, “Diseases of the Nasal Cavities and Paranasal Sinuses”: https://www.ivis.org/library/equine-respiratory-diseases/diseases-of-nasal-cavities-and-paranasal-sinuses
+
+
+## 11. Incorporación controlada del inventario craneal faltante (2026-11-10)
+
+Se actualizó `data/equino.json` únicamente en la rama de auditoría `audit/equinos-general-2026-11-10`. Antes de insertar, se volvió a consultar el catálogo completo y se comprobó que los IDs nuevos no existieran.
+
+### Registros incorporados
+Se añadieron 10 registros óseos:
+- `equ.ske.cra.018`: basioccipital (porción basilar del occipital), para representar explícitamente la región/bone element de la base craneal que la fuente universitaria distingue del basisfenoides. Su separación anatómica debe interpretarse con la edad: la sincondrosis esfeno-occipital se fusiona durante el desarrollo.
+- `equ.ske.hyo.001`: basihioides, impar.
+- `equ.ske.hyo.002-i/d`: tirohioides, pares.
+- `equ.ske.hyo.003-i/d`: ceratohioides, pares.
+- `equ.ske.hyo.004-i/d`: estilohioides, pares.
+- `equ.ske.hyo.005-i/d`: epihioides, pares; la ficha debe advertir que pueden fusionarse tempranamente con los estilohioides.
+
+Todos los registros nuevos usan `sys: "ske"` y `layer: "oss"`, coherentes con el inventario óseo existente. No se agregaron duplicados de conchas nasales, huesecillos auditivos, mandíbula ni huesos faciales ya presentes.
+
+### Estructura deliberadamente no añadida como hueso
+El tympanohyoid/tympanohyoid cartilage conecta el proceso estiloides del temporal con el estilohioides. Las fuentes de imagenología equina lo describen como cartílago (fibrocartílago en el estudio de 2021; cartílago hialino en la serie de TC publicada en 2025). Por ello no se incorporó como registro óseo en la capa `oss`. Debe documentarse como estructura cartilaginosa/elemento de unión en una ficha del aparato hioideo cuando el modelo de datos permita clasificarlo correctamente.
+
+### Pendientes que no deben resolverse por duplicación
+- El hueso interparietal requiere ficha con advertencia de fusión/variación relacionada con edad; no debe suponerse una pieza independiente constante en adultos.
+- Basisfenoides y presfenoides ya están en el catálogo. Se conservan; falta documentar sus partes, relaciones y desarrollo.
+- Las conchas nasales dorsal, media, ventral y etmoidales ya existen en el bloque respiratorio; no se duplicaron. La capa y la ubicación funcional en el visor requieren revisión posterior.
+- El registro general “Occipital” se conserva. El nuevo basioccipital permite detallar la porción basilar/elemento de desarrollo sin eliminar el registro general; las fichas deberán explicar la fusión con el resto del occipital según edad.
+
+### Verificación y alcance
+La actualización añade registros al catálogo de datos, no modelos GLB ni fichas descriptivas completas. La mera presencia en JSON no demuestra que cada estructura ya se visualice como geometría anatómica 3D. Antes de cerrar el cráneo se debe probar el visor, revisar filtros/capas y completar fichas con descripción, ubicación, articulaciones, relaciones y variaciones por edad.
+
+### Fuentes de corroboración
+- University of Minnesota, *CVM Large Animal Anatomy*, “Head”: https://pressbooks.umn.edu/largeanimalanatomy/chapter/neck-head/ — distingue basioccipital y basisfenoides y describe la sincondrosis esfeno-occipital, además del aparato hioideo equino.
+- “Correlated Imaging of the Equine Hyoid Apparatus Using CT, Micro-CT, and Histology” (2021): https://pmc.ncbi.nlm.nih.gov/articles/PMC8287096/ — describe los elementos pares/impares del aparato y la fusión temprana del epihioides con el estilohioides.
+- “Computed tomographic signs of hyoid apparatus disease in 165 horses” (2025): https://pmc.ncbi.nlm.nih.gov/articles/PMC12492637/ — corrobora componentes, articulaciones y naturaleza cartilaginosa del tympanohyoid.
+- Dyce, Sack & Wensing, *Textbook of Veterinary Anatomy*, capítulo de cráneo equino: https://elsevier-elibrary.com/contents/fullcontent/58986/epubcontent_v2/OEBPS/B9781416066071000025.htm
