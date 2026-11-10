@@ -103,3 +103,51 @@ Para cada sistema se elaborará una lista de estructuras esperadas, existentes, 
 ## 6. Estado
 
 **Auditoría iniciada.** Los conteos y hallazgos de esta nota son una línea base preliminar obtenida de la revisión inicial del repositorio. No representan todavía una validación anatómica completa ni certifican que los 3,543 registros sean correctos o exhaustivos.
+
+
+## 7. Resultados de la primera pasada técnica (2026-11-10)
+
+### Integridad básica del JSON
+- El archivo se parsea correctamente como JSON.
+- Se encontraron 3,543 registros y todos tienen ID, nombre español y nombre latino.
+- No se detectaron IDs duplicados.
+- Todos los IDs revisados cumplen el patrón técnico actual: equ.<sistema>.<grupo>.<número> con sufijo opcional de lateralidad.
+- No se detectaron códigos de sistema fuera de los nueve códigos declarados por la aplicación.
+- No se detectaron códigos de capa fuera del conjunto de capas conocido por el visor.
+- Los nombres españoles se repiten en 90 grupos y los latinos en 1,400 grupos. Los ejemplos revisados corresponden mayoritariamente a estructuras homónimas de miembros torácicos/pélvicos y a estructuras bilaterales. No se deben eliminar como duplicados sin comprobar el ID, región y lateralidad.
+
+### Hallazgo prioritario: asignación de capas
+Matriz observada de sistema por capa:
+
+| Sistema | Capa | Registros |
+|---|---|---:|
+| Cardiovascular | org | 594 |
+| Esquelético | oss | 205 |
+| Esquelético | art | 129 |
+| Muscular | msu | 133 |
+| Muscular | mpr | 393 |
+| Muscular | fas | 5 |
+| Digestivo | org | 131 |
+| Respiratorio | org | 157 |
+| Respiratorio | art | 6 |
+| Nervioso | org | 1,305 |
+| Urinario | org | 68 |
+| Reproductor | org | 238 |
+| Tegumentario | org | 179 |
+
+La interfaz declara capas específicas para piel (pel), sistema vascular (vas), sistema nervioso (ner) y cavidades (cav), pero actualmente no hay registros asignados a esas capas. Los 1,305 registros nerviosos y los 179 tegumentarios están todos en org. Los 594 cardiovasculares también están en org. Esto confirma una inconsistencia de clasificación que debe corregirse con revisión anatómica, no mediante reasignación automática sin inspección.
+
+### Hallazgo prioritario: modelos 3D
+- El único registro con ruta de modelo apunta a models/equino/organs/equ.car.cor.001.glb.
+- La ruta no se pudo recuperar en GitHub (respuesta 404); por tanto, el archivo no está presente en esa ubicación de la rama auditada.
+- docs/LICENCIAS.md declara que todavía no hay ningún modelo real incorporado.
+- El marcador del corazón es provisional; no debe presentarse como un modelo anatómico real.
+- Por ahora no hay evidencia de modelos GLB reales incorporados en el repositorio.
+
+### Fichas
+- Ninguno de los 3,543 registros tiene un objeto ficha poblado.
+- La interfaz ya contiene una plantilla de 12 campos, pero los datos académicos todavía no están incorporados.
+
+### Estado de estos hallazgos
+- Confirmado: JSON válido, IDs únicos, campos básicos presentes, clasificación de capas observada, falta de ficha poblada, ruta GLB del corazón no encontrada y declaración de licencias sin modelos incorporados.
+- Pendiente: decidir la clasificación anatómica correcta registro por registro; validar la exhaustividad y nomenclatura con atlas/NAV/Dyce; revisar duplicados aparentes según región/lateralidad; verificar comportamiento real del visor en dispositivos.
