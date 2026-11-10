@@ -1,0 +1,327 @@
+PENDIENTES DEL SISTEMA NERVIOSO EQUINO (para verificar con la NAV 6.ª ed. 2017, p. 118-147, y con Dyce)
+
+Convención: sys "ner", capa "org" (igual que el circulatorio). Cuando se corrijan las capas, estas estructuras pasan a la capa 8.
+
+A) NOMBRES O PRESENCIA POR VERIFICAR
+- Los nombres marcados abajo se escribieron de memoria o desde WikiVet y no están contrastados con la NAV.
+- Segmentos medulares, nervios espinales, ramas dorsal/ventral, ganglios espinales e intercostales: la NAV da nombres colectivos (Nn. cervicales, etc.); la numeración individual (C1, T1...) y el número de segmentos caudales (5) deben confirmarse.
+- Raíces dorsal y ventral: solo hay una entrada representativa por lado, no una por segmento.
+
+B) NO INCLUIDO TODAVÍA (agregar cuando se confirme)
+- Giros y surcos de la superficie cerebral del caballo (silviano, ectosilviano, suprasilviano, marginal, etc.).
+- Núcleos talámicos individuales (ventral caudal, pulvinar, etc.) y núcleos hipotalámicos adicionales (preópticos, anteriores, posteriores).
+- Núcleos del tronco encefálico adicionales (parabraquiales, pontinos individuales, formación reticular por núcleos).
+- Nervio terminal y nervio vomeronasal.
+- Ramas cutáneas laterales y ventrales de los nervios intercostales; ramas mediales y laterales de las ramas dorsales.
+- Ramas musculares de los nervios del plexo braquial y lumbosacro; nervios digitales dorsales; ramo comunicante entre nervios palmares.
+- Ramas del nervio vago a vísceras abdominales (gástricas, hepáticas, celíacas) y plexos viscerales menores (pancreático, suprarrenal, vesical, rectal medio).
+- Hipófisis y glándula pineal (van en el sistema endocrino); senos venosos durales (ya están en el circulatorio).
+- Relaciones con la bolsa gutural (se resuelven con etiquetas en el visor, no con estructuras).
+
+C) LISTA DE ESTRUCTURAS MARCADAS PARA VERIFICAR
+equ.ner.tel.027	Comisura del fórnix	Commissura fornicis
+equ.ner.die.008	Núcleos de la línea media del tálamo	Nuclei mediani thalami
+equ.ner.mes.014	Área tegmental ventral	Area tegmentalis ventralis
+equ.ner.mes.015	Decusación tegmental ventral	Decussatio tegmentalis ventralis
+equ.ner.mes.016	Decusación de los pedúnculos cerebelosos rostrales	Decussatio pedunculorum cerebellarium rostralium
+equ.ner.mes.018	Núcleo pretectal	Nucleus pretectalis
+equ.ner.met.003	Fibras transversas del puente	Fibrae pontis transversae
+equ.ner.met.006	Locus cerúleo	Locus caeruleus
+equ.ner.met.007	Núcleos del rafe	Nuclei raphes
+equ.ner.met.029	Lóbulo ansiforme	Lobulus ansiformis
+equ.ner.met.030	Lóbulo simple	Lobulus simplex
+equ.ner.met.033	Fisura uvulonodular	Fissura uvulonodularis
+equ.ner.mie.005	Núcleo olivar accesorio medial	Nucleus olivaris accessorius medialis
+equ.ner.mie.006	Núcleo olivar accesorio dorsal	Nucleus olivaris accessorius dorsalis
+equ.ner.mie.010	Núcleo reticular lateral	Nucleus reticularis lateralis
+equ.ner.mie.015	Eminencia medial	Eminentia medialis
+equ.ner.mie.016	Estrías medulares del cuarto ventrículo	Striae medullares ventriculi quarti
+equ.ner.mie.017	Surco limitante	Sulcus limitans
+equ.ner.tra.007	Tracto olivoespinal	Tractus olivospinalis
+equ.ner.tra.014	Tracto espinocerebeloso rostral	Tractus spinocerebellaris rostralis
+equ.ner.tra.019	Tracto dorsolateral	Tractus dorsolateralis
+equ.ner.tra.030	Fascículo telencefálico medial	Fasciculus telencephalicus medialis
+equ.ner.men.017	Cisterna lumbar	Cisterna lumbalis
+equ.ner.ven.004	Ventrículo del bulbo olfatorio	Ventriculus bulbi olfactorii
+equ.ner.med.011	Surco lateral ventral	Sulcus lateralis ventralis
+equ.ner.med.015	Asta lateral	Cornu laterale
+equ.ner.med.017	Núcleo propio del asta dorsal	Nucleus proprius cornu dorsalis
+equ.ner.med.018	Núcleo torácico	Nucleus thoracicus
+equ.ner.med.025	Raíz dorsal del nervio espinal (representativa)	Radix dorsalis n. spinalis
+equ.ner.med.026	Raíz ventral del nervio espinal (representativa)	Radix ventralis n. spinalis
+equ.ner.cer.003	Nervio auricular mayor	N. auricularis magnus
+equ.ner.cer.004	Nervios supraclaviculares	Nn. supraclaviculares
+equ.ner.cer.006	Asa cervical	Ansa cervicalis
+equ.ner.cra.026	Ramas alveolares superiores	Rami alveolares superiores
+equ.ner.cra.029	Ramas nasales externas	Rami nasales externi
+equ.ner.cra.030	Ramas labiales superiores	Rami labiales maxillares
+equ.ner.cra.032	Nervio masticador	N. masticatorius
+equ.ner.cra.037	Nervio tensor del velo del paladar	N. tensoris veli palatini
+equ.ner.cra.038	Nervio tensor del tímpano	N. tensoris tympani
+equ.ner.cra.042	Nervio alveolar inferior	N. alveolaris mandibularis
+equ.ner.cra.053	Nervio auricular interno	N. auricularis internus
+equ.ner.cra.056	Ramas auriculares rostrales	Rami auriculares rostrales
+equ.ner.cra.057	Nervio palpebral	N. palpebralis
+equ.ner.cra.060	Rama cervical del nervio facial	Ramus colli
+equ.ner.cra.062	Rama estilohioidea	Ramus stylohyoideus
+equ.ner.cra.076	Rama del músculo estilofaríngeo caudal	Ramus m. stylopharyngei caudalis
+equ.ner.cra.089	Ramas cardíacas del nervio vago	Rami cardiaci n. vagi
+equ.ner.cra.090	Ramas bronquiales del nervio vago	Rami bronchiales
+equ.ner.cra.100	Ramas linguales del nervio hipogloso	Rami linguales n. hypoglossi
+equ.ner.tro.007	Nervios cluniales craneales	Nn. clunium craniales
+equ.ner.tro.008	Nervios cluniales medios	Nn. clunium medii
+equ.ner.tro.009	Nervios cluniales caudales	Nn. clunium caudales
+equ.ner.tro.012	Nervio perineal superficial	N. perinealis superficialis
+equ.ner.tro.015	Nervios escrotales dorsales	Nn. scrotales dorsales
+equ.ner.tro.016	Nervios labiales dorsales	Nn. labiales dorsales
+equ.ner.bra.016	Nervio cutáneo craneal del antebrazo	N. cutaneus antebrachii cranialis
+equ.ner.bra.017	Nervio cutáneo caudal del antebrazo	N. cutaneus antebrachii caudalis
+equ.ner.bra.021	Rama palmar del nervio cubital	Ramus palmaris n. ulnaris
+equ.ner.bra.026	Nervio digital palmar medial	N. digitalis palmaris medialis
+equ.ner.bra.027	Nervio digital palmar lateral	N. digitalis palmaris lateralis
+equ.ner.lum.019	Nervio metatarsiano plantar medial	N. metatarseus plantaris medialis
+equ.ner.lum.020	Nervio metatarsiano plantar lateral	N. metatarseus plantaris lateralis
+equ.ner.lum.021	Nervio digital plantar medial	N. digitalis plantaris medialis
+equ.ner.lum.022	Nervio digital plantar lateral	N. digitalis plantaris lateralis
+equ.ner.aut.002	Parte cervical del tronco simpático	Pars cervicalis trunci sympathici
+equ.ner.aut.003	Parte torácica del tronco simpático	Pars thoracica trunci sympathici
+equ.ner.aut.004	Parte lumbar del tronco simpático	Pars lumbalis trunci sympathici
+equ.ner.aut.005	Parte sacra del tronco simpático	Pars sacralis trunci sympathici
+equ.ner.aut.009	Ganglios torácicos del tronco simpático	Ganglia thoracica
+equ.ner.aut.010	Ganglios lumbares del tronco simpático	Ganglia lumbalia
+equ.ner.aut.011	Ganglios sacros del tronco simpático	Ganglia sacralia
+equ.ner.aut.012	Ganglio impar	Ganglion impar
+equ.ner.aut.035	Ganglio aorticorrenal	Ganglion aorticorenale
+equ.ner.aut.051	Plexo testicular	Plexus testicularis
+equ.ner.aut.052	Plexo ovárico	Plexus ovaricus
+equ.ner.aut.053	Plexo prostático	Plexus prostaticus
+equ.ner.aut.054	Plexo uterovaginal	Plexus uterovaginalis
+equ.ner.aut.055	Nervios cavernosos del pene	Nn. cavernosi penis
+equ.ner.aut.056	Nervios cavernosos del clítoris	Nn. cavernosi clitoridis
+equ.ner.med.027	Segmento medular cervical C1	Segmentum medullae spinalis cervicale C1
+equ.ner.med.028	Segmento medular cervical C2	Segmentum medullae spinalis cervicale C2
+equ.ner.med.029	Segmento medular cervical C3	Segmentum medullae spinalis cervicale C3
+equ.ner.med.030	Segmento medular cervical C4	Segmentum medullae spinalis cervicale C4
+equ.ner.med.031	Segmento medular cervical C5	Segmentum medullae spinalis cervicale C5
+equ.ner.med.032	Segmento medular cervical C6	Segmentum medullae spinalis cervicale C6
+equ.ner.med.033	Segmento medular cervical C7	Segmentum medullae spinalis cervicale C7
+equ.ner.med.034	Segmento medular cervical C8	Segmentum medullae spinalis cervicale C8
+equ.ner.med.035	Segmento medular torácico T1	Segmentum medullae spinalis thoracicum T1
+equ.ner.med.036	Segmento medular torácico T2	Segmentum medullae spinalis thoracicum T2
+equ.ner.med.037	Segmento medular torácico T3	Segmentum medullae spinalis thoracicum T3
+equ.ner.med.038	Segmento medular torácico T4	Segmentum medullae spinalis thoracicum T4
+equ.ner.med.039	Segmento medular torácico T5	Segmentum medullae spinalis thoracicum T5
+equ.ner.med.040	Segmento medular torácico T6	Segmentum medullae spinalis thoracicum T6
+equ.ner.med.041	Segmento medular torácico T7	Segmentum medullae spinalis thoracicum T7
+equ.ner.med.042	Segmento medular torácico T8	Segmentum medullae spinalis thoracicum T8
+equ.ner.med.043	Segmento medular torácico T9	Segmentum medullae spinalis thoracicum T9
+equ.ner.med.044	Segmento medular torácico T10	Segmentum medullae spinalis thoracicum T10
+equ.ner.med.045	Segmento medular torácico T11	Segmentum medullae spinalis thoracicum T11
+equ.ner.med.046	Segmento medular torácico T12	Segmentum medullae spinalis thoracicum T12
+equ.ner.med.047	Segmento medular torácico T13	Segmentum medullae spinalis thoracicum T13
+equ.ner.med.048	Segmento medular torácico T14	Segmentum medullae spinalis thoracicum T14
+equ.ner.med.049	Segmento medular torácico T15	Segmentum medullae spinalis thoracicum T15
+equ.ner.med.050	Segmento medular torácico T16	Segmentum medullae spinalis thoracicum T16
+equ.ner.med.051	Segmento medular torácico T17	Segmentum medullae spinalis thoracicum T17
+equ.ner.med.052	Segmento medular torácico T18	Segmentum medullae spinalis thoracicum T18
+equ.ner.med.053	Segmento medular lumbar L1	Segmentum medullae spinalis lumbale L1
+equ.ner.med.054	Segmento medular lumbar L2	Segmentum medullae spinalis lumbale L2
+equ.ner.med.055	Segmento medular lumbar L3	Segmentum medullae spinalis lumbale L3
+equ.ner.med.056	Segmento medular lumbar L4	Segmentum medullae spinalis lumbale L4
+equ.ner.med.057	Segmento medular lumbar L5	Segmentum medullae spinalis lumbale L5
+equ.ner.med.058	Segmento medular lumbar L6	Segmentum medullae spinalis lumbale L6
+equ.ner.med.059	Segmento medular sacro S1	Segmentum medullae spinalis sacrale S1
+equ.ner.med.060	Segmento medular sacro S2	Segmentum medullae spinalis sacrale S2
+equ.ner.med.061	Segmento medular sacro S3	Segmentum medullae spinalis sacrale S3
+equ.ner.med.062	Segmento medular sacro S4	Segmentum medullae spinalis sacrale S4
+equ.ner.med.063	Segmento medular sacro S5	Segmentum medullae spinalis sacrale S5
+equ.ner.med.064	Segmento medular caudal Cd1	Segmentum medullae spinalis caudale Cd1
+equ.ner.med.065	Segmento medular caudal Cd2	Segmentum medullae spinalis caudale Cd2
+equ.ner.med.066	Segmento medular caudal Cd3	Segmentum medullae spinalis caudale Cd3
+equ.ner.med.067	Segmento medular caudal Cd4	Segmentum medullae spinalis caudale Cd4
+equ.ner.med.068	Segmento medular caudal Cd5	Segmentum medullae spinalis caudale Cd5
+equ.ner.esp.001	Nervio cervical C1	N. cervicalis C1
+equ.ner.esp.002	Nervio cervical C2	N. cervicalis C2
+equ.ner.esp.003	Nervio cervical C3	N. cervicalis C3
+equ.ner.esp.004	Nervio cervical C4	N. cervicalis C4
+equ.ner.esp.005	Nervio cervical C5	N. cervicalis C5
+equ.ner.esp.006	Nervio cervical C6	N. cervicalis C6
+equ.ner.esp.007	Nervio cervical C7	N. cervicalis C7
+equ.ner.esp.008	Nervio cervical C8	N. cervicalis C8
+equ.ner.esp.009	Nervio torácico T1	N. thoracicus T1
+equ.ner.esp.010	Nervio torácico T2	N. thoracicus T2
+equ.ner.esp.011	Nervio torácico T3	N. thoracicus T3
+equ.ner.esp.012	Nervio torácico T4	N. thoracicus T4
+equ.ner.esp.013	Nervio torácico T5	N. thoracicus T5
+equ.ner.esp.014	Nervio torácico T6	N. thoracicus T6
+equ.ner.esp.015	Nervio torácico T7	N. thoracicus T7
+equ.ner.esp.016	Nervio torácico T8	N. thoracicus T8
+equ.ner.esp.017	Nervio torácico T9	N. thoracicus T9
+equ.ner.esp.018	Nervio torácico T10	N. thoracicus T10
+equ.ner.esp.019	Nervio torácico T11	N. thoracicus T11
+equ.ner.esp.020	Nervio torácico T12	N. thoracicus T12
+equ.ner.esp.021	Nervio torácico T13	N. thoracicus T13
+equ.ner.esp.022	Nervio torácico T14	N. thoracicus T14
+equ.ner.esp.023	Nervio torácico T15	N. thoracicus T15
+equ.ner.esp.024	Nervio torácico T16	N. thoracicus T16
+equ.ner.esp.025	Nervio torácico T17	N. thoracicus T17
+equ.ner.esp.026	Nervio torácico T18	N. thoracicus T18
+equ.ner.esp.027	Nervio lumbar L1	N. lumbalis L1
+equ.ner.esp.028	Nervio lumbar L2	N. lumbalis L2
+equ.ner.esp.029	Nervio lumbar L3	N. lumbalis L3
+equ.ner.esp.030	Nervio lumbar L4	N. lumbalis L4
+equ.ner.esp.031	Nervio lumbar L5	N. lumbalis L5
+equ.ner.esp.032	Nervio lumbar L6	N. lumbalis L6
+equ.ner.esp.033	Nervio sacro S1	N. sacralis S1
+equ.ner.esp.034	Nervio sacro S2	N. sacralis S2
+equ.ner.esp.035	Nervio sacro S3	N. sacralis S3
+equ.ner.esp.036	Nervio sacro S4	N. sacralis S4
+equ.ner.esp.037	Nervio sacro S5	N. sacralis S5
+equ.ner.esp.038	Nervio caudal Cd1	N. caudalis Cd1
+equ.ner.esp.039	Nervio caudal Cd2	N. caudalis Cd2
+equ.ner.esp.040	Nervio caudal Cd3	N. caudalis Cd3
+equ.ner.esp.041	Nervio caudal Cd4	N. caudalis Cd4
+equ.ner.esp.042	Nervio caudal Cd5	N. caudalis Cd5
+equ.ner.esp.043	Rama dorsal del nervio cervical C1	Ramus dorsalis n. cervicalis C1
+equ.ner.esp.044	Rama dorsal del nervio cervical C2	Ramus dorsalis n. cervicalis C2
+equ.ner.esp.045	Rama dorsal del nervio cervical C3	Ramus dorsalis n. cervicalis C3
+equ.ner.esp.046	Rama dorsal del nervio cervical C4	Ramus dorsalis n. cervicalis C4
+equ.ner.esp.047	Rama dorsal del nervio cervical C5	Ramus dorsalis n. cervicalis C5
+equ.ner.esp.048	Rama dorsal del nervio cervical C6	Ramus dorsalis n. cervicalis C6
+equ.ner.esp.049	Rama dorsal del nervio cervical C7	Ramus dorsalis n. cervicalis C7
+equ.ner.esp.050	Rama dorsal del nervio cervical C8	Ramus dorsalis n. cervicalis C8
+equ.ner.esp.051	Rama dorsal del nervio torácico T1	Ramus dorsalis n. thoracicus T1
+equ.ner.esp.052	Rama dorsal del nervio torácico T2	Ramus dorsalis n. thoracicus T2
+equ.ner.esp.053	Rama dorsal del nervio torácico T3	Ramus dorsalis n. thoracicus T3
+equ.ner.esp.054	Rama dorsal del nervio torácico T4	Ramus dorsalis n. thoracicus T4
+equ.ner.esp.055	Rama dorsal del nervio torácico T5	Ramus dorsalis n. thoracicus T5
+equ.ner.esp.056	Rama dorsal del nervio torácico T6	Ramus dorsalis n. thoracicus T6
+equ.ner.esp.057	Rama dorsal del nervio torácico T7	Ramus dorsalis n. thoracicus T7
+equ.ner.esp.058	Rama dorsal del nervio torácico T8	Ramus dorsalis n. thoracicus T8
+equ.ner.esp.059	Rama dorsal del nervio torácico T9	Ramus dorsalis n. thoracicus T9
+equ.ner.esp.060	Rama dorsal del nervio torácico T10	Ramus dorsalis n. thoracicus T10
+equ.ner.esp.061	Rama dorsal del nervio torácico T11	Ramus dorsalis n. thoracicus T11
+equ.ner.esp.062	Rama dorsal del nervio torácico T12	Ramus dorsalis n. thoracicus T12
+equ.ner.esp.063	Rama dorsal del nervio torácico T13	Ramus dorsalis n. thoracicus T13
+equ.ner.esp.064	Rama dorsal del nervio torácico T14	Ramus dorsalis n. thoracicus T14
+equ.ner.esp.065	Rama dorsal del nervio torácico T15	Ramus dorsalis n. thoracicus T15
+equ.ner.esp.066	Rama dorsal del nervio torácico T16	Ramus dorsalis n. thoracicus T16
+equ.ner.esp.067	Rama dorsal del nervio torácico T17	Ramus dorsalis n. thoracicus T17
+equ.ner.esp.068	Rama dorsal del nervio torácico T18	Ramus dorsalis n. thoracicus T18
+equ.ner.esp.069	Rama dorsal del nervio lumbar L1	Ramus dorsalis n. lumbalis L1
+equ.ner.esp.070	Rama dorsal del nervio lumbar L2	Ramus dorsalis n. lumbalis L2
+equ.ner.esp.071	Rama dorsal del nervio lumbar L3	Ramus dorsalis n. lumbalis L3
+equ.ner.esp.072	Rama dorsal del nervio lumbar L4	Ramus dorsalis n. lumbalis L4
+equ.ner.esp.073	Rama dorsal del nervio lumbar L5	Ramus dorsalis n. lumbalis L5
+equ.ner.esp.074	Rama dorsal del nervio lumbar L6	Ramus dorsalis n. lumbalis L6
+equ.ner.esp.075	Rama dorsal del nervio sacro S1	Ramus dorsalis n. sacralis S1
+equ.ner.esp.076	Rama dorsal del nervio sacro S2	Ramus dorsalis n. sacralis S2
+equ.ner.esp.077	Rama dorsal del nervio sacro S3	Ramus dorsalis n. sacralis S3
+equ.ner.esp.078	Rama dorsal del nervio sacro S4	Ramus dorsalis n. sacralis S4
+equ.ner.esp.079	Rama dorsal del nervio sacro S5	Ramus dorsalis n. sacralis S5
+equ.ner.esp.080	Rama dorsal del nervio caudal Cd1	Ramus dorsalis n. caudalis Cd1
+equ.ner.esp.081	Rama dorsal del nervio caudal Cd2	Ramus dorsalis n. caudalis Cd2
+equ.ner.esp.082	Rama dorsal del nervio caudal Cd3	Ramus dorsalis n. caudalis Cd3
+equ.ner.esp.083	Rama dorsal del nervio caudal Cd4	Ramus dorsalis n. caudalis Cd4
+equ.ner.esp.084	Rama dorsal del nervio caudal Cd5	Ramus dorsalis n. caudalis Cd5
+equ.ner.esp.085	Rama ventral del nervio cervical C1	Ramus ventralis n. cervicalis C1
+equ.ner.esp.086	Rama ventral del nervio cervical C2	Ramus ventralis n. cervicalis C2
+equ.ner.esp.087	Rama ventral del nervio cervical C3	Ramus ventralis n. cervicalis C3
+equ.ner.esp.088	Rama ventral del nervio cervical C4	Ramus ventralis n. cervicalis C4
+equ.ner.esp.089	Rama ventral del nervio cervical C5	Ramus ventralis n. cervicalis C5
+equ.ner.esp.090	Rama ventral del nervio cervical C6	Ramus ventralis n. cervicalis C6
+equ.ner.esp.091	Rama ventral del nervio cervical C7	Ramus ventralis n. cervicalis C7
+equ.ner.esp.092	Rama ventral del nervio cervical C8	Ramus ventralis n. cervicalis C8
+equ.ner.esp.093	Rama ventral del nervio torácico T1	Ramus ventralis n. thoracicus T1
+equ.ner.esp.094	Rama ventral del nervio torácico T2	Ramus ventralis n. thoracicus T2
+equ.ner.esp.095	Rama ventral del nervio torácico T3	Ramus ventralis n. thoracicus T3
+equ.ner.esp.096	Rama ventral del nervio torácico T4	Ramus ventralis n. thoracicus T4
+equ.ner.esp.097	Rama ventral del nervio torácico T5	Ramus ventralis n. thoracicus T5
+equ.ner.esp.098	Rama ventral del nervio torácico T6	Ramus ventralis n. thoracicus T6
+equ.ner.esp.099	Rama ventral del nervio torácico T7	Ramus ventralis n. thoracicus T7
+equ.ner.esp.100	Rama ventral del nervio torácico T8	Ramus ventralis n. thoracicus T8
+equ.ner.esp.101	Rama ventral del nervio torácico T9	Ramus ventralis n. thoracicus T9
+equ.ner.esp.102	Rama ventral del nervio torácico T10	Ramus ventralis n. thoracicus T10
+equ.ner.esp.103	Rama ventral del nervio torácico T11	Ramus ventralis n. thoracicus T11
+equ.ner.esp.104	Rama ventral del nervio torácico T12	Ramus ventralis n. thoracicus T12
+equ.ner.esp.105	Rama ventral del nervio torácico T13	Ramus ventralis n. thoracicus T13
+equ.ner.esp.106	Rama ventral del nervio torácico T14	Ramus ventralis n. thoracicus T14
+equ.ner.esp.107	Rama ventral del nervio torácico T15	Ramus ventralis n. thoracicus T15
+equ.ner.esp.108	Rama ventral del nervio torácico T16	Ramus ventralis n. thoracicus T16
+equ.ner.esp.109	Rama ventral del nervio torácico T17	Ramus ventralis n. thoracicus T17
+equ.ner.esp.110	Rama ventral del nervio torácico T18	Ramus ventralis n. thoracicus T18
+equ.ner.esp.111	Rama ventral del nervio lumbar L1	Ramus ventralis n. lumbalis L1
+equ.ner.esp.112	Rama ventral del nervio lumbar L2	Ramus ventralis n. lumbalis L2
+equ.ner.esp.113	Rama ventral del nervio lumbar L3	Ramus ventralis n. lumbalis L3
+equ.ner.esp.114	Rama ventral del nervio lumbar L4	Ramus ventralis n. lumbalis L4
+equ.ner.esp.115	Rama ventral del nervio lumbar L5	Ramus ventralis n. lumbalis L5
+equ.ner.esp.116	Rama ventral del nervio lumbar L6	Ramus ventralis n. lumbalis L6
+equ.ner.esp.117	Rama ventral del nervio sacro S1	Ramus ventralis n. sacralis S1
+equ.ner.esp.118	Rama ventral del nervio sacro S2	Ramus ventralis n. sacralis S2
+equ.ner.esp.119	Rama ventral del nervio sacro S3	Ramus ventralis n. sacralis S3
+equ.ner.esp.120	Rama ventral del nervio sacro S4	Ramus ventralis n. sacralis S4
+equ.ner.esp.121	Rama ventral del nervio sacro S5	Ramus ventralis n. sacralis S5
+equ.ner.esp.122	Rama ventral del nervio caudal Cd1	Ramus ventralis n. caudalis Cd1
+equ.ner.esp.123	Rama ventral del nervio caudal Cd2	Ramus ventralis n. caudalis Cd2
+equ.ner.esp.124	Rama ventral del nervio caudal Cd3	Ramus ventralis n. caudalis Cd3
+equ.ner.esp.125	Rama ventral del nervio caudal Cd4	Ramus ventralis n. caudalis Cd4
+equ.ner.esp.126	Rama ventral del nervio caudal Cd5	Ramus ventralis n. caudalis Cd5
+equ.ner.esp.127	Ganglio espinal C1	Ganglion spinale C1
+equ.ner.esp.128	Ganglio espinal C2	Ganglion spinale C2
+equ.ner.esp.129	Ganglio espinal C3	Ganglion spinale C3
+equ.ner.esp.130	Ganglio espinal C4	Ganglion spinale C4
+equ.ner.esp.131	Ganglio espinal C5	Ganglion spinale C5
+equ.ner.esp.132	Ganglio espinal C6	Ganglion spinale C6
+equ.ner.esp.133	Ganglio espinal C7	Ganglion spinale C7
+equ.ner.esp.134	Ganglio espinal C8	Ganglion spinale C8
+equ.ner.esp.135	Ganglio espinal T1	Ganglion spinale T1
+equ.ner.esp.136	Ganglio espinal T2	Ganglion spinale T2
+equ.ner.esp.137	Ganglio espinal T3	Ganglion spinale T3
+equ.ner.esp.138	Ganglio espinal T4	Ganglion spinale T4
+equ.ner.esp.139	Ganglio espinal T5	Ganglion spinale T5
+equ.ner.esp.140	Ganglio espinal T6	Ganglion spinale T6
+equ.ner.esp.141	Ganglio espinal T7	Ganglion spinale T7
+equ.ner.esp.142	Ganglio espinal T8	Ganglion spinale T8
+equ.ner.esp.143	Ganglio espinal T9	Ganglion spinale T9
+equ.ner.esp.144	Ganglio espinal T10	Ganglion spinale T10
+equ.ner.esp.145	Ganglio espinal T11	Ganglion spinale T11
+equ.ner.esp.146	Ganglio espinal T12	Ganglion spinale T12
+equ.ner.esp.147	Ganglio espinal T13	Ganglion spinale T13
+equ.ner.esp.148	Ganglio espinal T14	Ganglion spinale T14
+equ.ner.esp.149	Ganglio espinal T15	Ganglion spinale T15
+equ.ner.esp.150	Ganglio espinal T16	Ganglion spinale T16
+equ.ner.esp.151	Ganglio espinal T17	Ganglion spinale T17
+equ.ner.esp.152	Ganglio espinal T18	Ganglion spinale T18
+equ.ner.esp.153	Ganglio espinal L1	Ganglion spinale L1
+equ.ner.esp.154	Ganglio espinal L2	Ganglion spinale L2
+equ.ner.esp.155	Ganglio espinal L3	Ganglion spinale L3
+equ.ner.esp.156	Ganglio espinal L4	Ganglion spinale L4
+equ.ner.esp.157	Ganglio espinal L5	Ganglion spinale L5
+equ.ner.esp.158	Ganglio espinal L6	Ganglion spinale L6
+equ.ner.esp.159	Ganglio espinal S1	Ganglion spinale S1
+equ.ner.esp.160	Ganglio espinal S2	Ganglion spinale S2
+equ.ner.esp.161	Ganglio espinal S3	Ganglion spinale S3
+equ.ner.esp.162	Ganglio espinal S4	Ganglion spinale S4
+equ.ner.esp.163	Ganglio espinal S5	Ganglion spinale S5
+equ.ner.esp.164	Ganglio espinal Cd1	Ganglion spinale Cd1
+equ.ner.esp.165	Ganglio espinal Cd2	Ganglion spinale Cd2
+equ.ner.esp.166	Ganglio espinal Cd3	Ganglion spinale Cd3
+equ.ner.esp.167	Ganglio espinal Cd4	Ganglion spinale Cd4
+equ.ner.esp.168	Ganglio espinal Cd5	Ganglion spinale Cd5
+equ.ner.tro.017	Nervio intercostal 1	N. intercostalis 1
+equ.ner.tro.018	Nervio intercostal 2	N. intercostalis 2
+equ.ner.tro.019	Nervio intercostal 3	N. intercostalis 3
+equ.ner.tro.020	Nervio intercostal 4	N. intercostalis 4
+equ.ner.tro.021	Nervio intercostal 5	N. intercostalis 5
+equ.ner.tro.022	Nervio intercostal 6	N. intercostalis 6
+equ.ner.tro.023	Nervio intercostal 7	N. intercostalis 7
+equ.ner.tro.024	Nervio intercostal 8	N. intercostalis 8
+equ.ner.tro.025	Nervio intercostal 9	N. intercostalis 9
+equ.ner.tro.026	Nervio intercostal 10	N. intercostalis 10
+equ.ner.tro.027	Nervio intercostal 11	N. intercostalis 11
+equ.ner.tro.028	Nervio intercostal 12	N. intercostalis 12
+equ.ner.tro.029	Nervio intercostal 13	N. intercostalis 13
+equ.ner.tro.030	Nervio intercostal 14	N. intercostalis 14
+equ.ner.tro.031	Nervio intercostal 15	N. intercostalis 15
+equ.ner.tro.032	Nervio intercostal 16	N. intercostalis 16
+equ.ner.tro.033	Nervio intercostal 17	N. intercostalis 17

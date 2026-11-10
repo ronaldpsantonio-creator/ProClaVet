@@ -1,0 +1,66 @@
+PENDIENTES DE LOS SISTEMAS URINARIO Y REPRODUCTOR EQUINOS (verificar con la NAV 6.ª ed. 2017 y con Dyce)
+
+Convención: sys "uri" (urinario) y "rep" (reproductor), capa "org". Lo exclusivo de macho lleva sex "m" y lo de hembra sex "f".
+
+A) POR VERIFICAR
+- Todo lo listado en la sección C se escribió de memoria o desde WikiVet y no está contrastado con la NAV.
+- Músculo uretral y músculo detrusor: el uretral ya figuraba como pendiente de Dyce en el sistema muscular.
+- Estructuras funcionales del ovario (folículos, cuerpo lúteo, cuerpo albicans) y anexos fetales (placenta, corion, amnios, alantoides, cordón umbilical): se incluyen como estructuras de referencia, solo para hembra.
+
+B) NO INCLUIDO TODAVÍA
+- Excavaciones peritoneales (rectogenital, vesicogenital, pubovesical) y pliegues urogenitales: van con el sistema de serosas.
+- Glándula suprarrenal: va con el sistema endocrino.
+- Papila renal, lóbulos renales y vasos intrarrenales menores; unidades microscópicas (nefrona, glomérulo).
+- Detalle de pliegues del cérvix y de la mucosa vaginal; músculo constrictor del vestíbulo e isquiocavernoso de la hembra (pendientes del muscular).
+- Anexos fetales detallados (microcotiledones, saco alantoideo y amniótico por separado) y el úraco.
+
+C) ESTRUCTURAS MARCADAS PARA VERIFICAR
+equ.uri.rin.004	Fascia renal	Fascia renalis
+equ.uri.rin.010	Pirámide renal	Pyramis renalis
+equ.uri.rin.011	Columnas renales	Columnae renales
+equ.uri.rin.014	Arterias interlobares del riñón	Aa. interlobares renis
+equ.uri.rin.015	Arterias arcuatas del riñón	Aa. arcuatae renis
+equ.uri.rin.016	Arterias interlobulares del riñón	Aa. interlobulares renis
+equ.uri.rin.017	Venas interlobares del riñón	Vv. interlobares renis
+equ.uri.rin.018	Venas arcuatas del riñón	Vv. arcuatae renis
+equ.uri.rin.019	Venas interlobulares del riñón	Vv. interlobulares renis
+equ.uri.ure.005	Pliegue ureteral	Plica ureterica
+equ.uri.vej.006	Músculo detrusor de la vejiga	M. detrusor vesicae
+equ.uri.vej.009	Ligamento redondo de la vejiga	Ligamentum teres vesicae
+equ.uri.uet.001	Músculo uretral	M. urethralis
+equ.uri.uet.003	Ostio uretral externo de la hembra	Ostium urethrae externum
+equ.uri.uet.008	Ostio uretral externo del macho	Ostium urethrae externum
+equ.rep.esc.006	Fascia espermática interna	Fascia spermatica interna
+equ.rep.esc.017	Mesoepidídimo	Mesepididymis
+equ.rep.esc.022	Gubernáculo del testículo	Gubernaculum testis
+equ.rep.tes.011	Lobulillos del testículo	Lobuli testis
+equ.rep.tes.012	Túbulos seminíferos	Tubuli seminiferi
+equ.rep.tes.015	Apéndice del testículo	Appendix testis
+equ.rep.tes.021	Apéndice del epidídimo	Appendix epididymidis
+equ.rep.tes.022	Bolsa testicular	Bursa testicularis
+equ.rep.tes.025	Plexo pampiniforme	Plexus pampiniformis
+equ.rep.pen.006	Túnica albugínea del cuerpo cavernoso	Tunica albuginea corporis cavernosi
+equ.rep.pen.015	Seno uretral	Sinus urethralis
+equ.rep.pen.018	Ligamento suspensorio del pene	Ligamentum suspensorium penis
+equ.rep.pen.023	Anillo prepucial	Anulus preputialis
+equ.rep.ova.007	Túnica albugínea del ovario	Tunica albuginea ovarii
+equ.rep.ova.008	Zona parenquimatosa del ovario	Zona parenchymatosa ovarii
+equ.rep.ova.009	Zona vasculosa del ovario	Zona vasculosa ovarii
+equ.rep.ova.010	Folículos ováricos	Folliculi ovarici vesiculosi
+equ.rep.ova.011	Cuerpo lúteo	Corpus luteum
+equ.rep.ova.012	Cuerpo albicans	Corpus albicans
+equ.rep.ova.013	Bolsa ovárica	Bursa ovarica
+equ.rep.ova.027	Papila uterina	Papilla uterina
+equ.rep.ute.012	Pliegues endometriales	Plicae endometriales
+equ.rep.vag.004	Himen	Hymen
+equ.rep.vag.006	Glándulas vestibulares menores	Glandulae vestibulares minores
+equ.rep.vag.019	Senos del clítoris	Sinus clitoridis
+equ.rep.mam.004	Seno lactífero	Sinus lactiferus
+equ.rep.mam.005	Conducto papilar	Ductus papillaris
+equ.rep.mam.006	Ostio papilar	Ostium papillare
+equ.rep.mam.007	Aparato suspensorio de la glándula mamaria	Apparatus suspensorius mammarum
+equ.rep.fet.001	Placenta	Placenta
+equ.rep.fet.002	Corion	Chorion
+equ.rep.fet.003	Amnios	Amnion
+equ.rep.fet.004	Alantoides	Allantois
+equ.rep.fet.005	Cordón umbilical	Funiculus umbilicalis
