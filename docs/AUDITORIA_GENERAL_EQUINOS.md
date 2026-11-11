@@ -324,3 +324,17 @@ La actualización añade registros al catálogo de datos, no modelos GLB ni fich
 - “Correlated Imaging of the Equine Hyoid Apparatus Using CT, Micro-CT, and Histology” (2021): https://pmc.ncbi.nlm.nih.gov/articles/PMC8287096/ — describe los elementos pares/impares del aparato y la fusión temprana del epihioides con el estilohioides.
 - “Computed tomographic signs of hyoid apparatus disease in 165 horses” (2025): https://pmc.ncbi.nlm.nih.gov/articles/PMC12492637/ — corrobora componentes, articulaciones y naturaleza cartilaginosa del tympanohyoid.
 - Dyce, Sack & Wensing, *Textbook of Veterinary Anatomy*, capítulo de cráneo equino: https://elsevier-elibrary.com/contents/fullcontent/58986/epubcontent_v2/OEBPS/B9781416066071000025.htm
+
+
+## 12. Integración provisional de nuevas estructuras en el visor (2026-11-10)
+
+Se actualizó `js/app.js` en la rama de auditoría para que las diez incorporaciones del basioccipital y del aparato hioideo no queden sin representación esquemática en el visor:
+
+- Basioccipital: geometría esquemática provisional asociada a `equ.ske.cra.018`.
+- Basihioides, tirohioides bilaterales, ceratohioides bilaterales, estilohioides bilaterales y epihioides bilaterales: segmentos esquemáticos provisionales asociados a sus IDs `equ.ske.hyo.*`.
+- Se añadió color de representación para el grupo hioideo.
+- Las estructuras permanecen en el sistema esquelético y capa ósea; el visor las carga desde el catálogo y permite seleccionarlas en la lista.
+
+**Limitación importante:** estas geometrías son marcadores didácticos esquemáticos y no modelos anatómicos 3D validados. No representan con precisión escala, curvatura, articulaciones, inserciones ni variación/fusión de los componentes hioideos. El tympanohyoid no se representó como hueso. Las fichas anatómicas completas y los modelos GLB verificados siguen pendientes.
+
+**Verificación realizada:** se volvió a leer el archivo actualizado desde la rama y se confirmó la presencia de las ramas de geometría para basioccipital e hioides. Falta probar el comportamiento visual en navegador móvil y escritorio antes de considerar esta integración validada.
