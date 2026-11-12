@@ -1,6 +1,6 @@
 // VETANATOMY 3D - Service Worker
 // Para publicar una actualización: sube los archivos nuevos y cambia SOLO este número.
-const VERSION = 'v2';
+const VERSION = 'v3';
 const CACHE = 'vetanatomy-' + VERSION;
 
 self.addEventListener('install', (event) => {
