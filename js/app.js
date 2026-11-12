@@ -1,6 +1,8 @@
 "use strict";
 const $=i=>document.getElementById(i);
-const SYSTEMS=[["ske","Esquelético"],["mus","Muscular"],["dig","Digestivo"],["res","Respiratorio"],["car","Cardiovascular"],["ner","Nervioso"],["uri","Urinario"],["rep","Reproductor"],["teg","Tegumentario"]];
+const SYSTEMS=[["ske","Esquelético"],["mus","Muscular"],["dig","Digestivo"],["res","Respiratorio"],["car","Cardiovascular"],["lin","Linfático"],["ner","Nervioso"],["uri","Urinario"],["rep","Reproductor"],["teg","Tegumentario"],["end","Endocrino"],["sen","Sentidos"]];
+// Linfático = regiones linfáticas dentro de car (ganglios, conductos y órganos linfoides); no requiere cambiar el JSON
+const LYM=new Set(["lin","lco","lor"]);const skey=s=>s.sys==="car"&&LYM.has(s.id.split(".")[2])?"lin":s.sys;
 const LAYERS=[["pel","Piel y tejido subcutáneo"],["fas","Fascias"],["msu","Músculos superficiales"],["mpr","Músculos profundos"],["oss","Sistema óseo"],["art","Articulaciones y ligamentos"],["vas","Sistema vascular"],["ner","Sistema nervioso"],["org","Órganos internos"],["cav","Cavidades y estructuras profundas"]];
 const FIELDS=[["ubicacion","Ubicación anatómica"],["descripcion","Descripción morfológica"],["relaciones","Relaciones anatómicas"],["accidentes","Accidentes anatómicos"],["articulaciones","Articulaciones"],["inserciones","Inserciones musculares"],["irrigacion","Irrigación"],["inervacion","Inervación"],["funcion","Función"],["especie","Particularidades de la especie"],["clinica","Importancia clínica"],["referencias","Referencias bibliográficas"]];
 const S={items:{},sel:null,q:"",L:{},sys:{},fav:{},notes:{}};
@@ -89,7 +91,7 @@ function refresh(){
  const ex=$("ex").value/100,li=k=>LAYERS.findIndex(l=>l[0]===k);
  Object.values(S.items).forEach(it=>{
   const L=S.L[it.s.layer],o=L.op/100;
-  it.g.visible=L.on&&it.vis&&S.sys[it.s.sys]!==false;
+  it.g.visible=L.on&&it.vis&&S.sys[skey(it.s)]!==false;
   it.g.position.copy(it.dir).multiplyScalar(ex*1.2);it.g.position.z+=(li(it.s.layer)-4.5)*ex*.25;
   mats(it).forEach(m=>{m.opacity=o;if(m.emissive){m.emissive.setHex(S.sel===it.s.id?0x2dd4bf:0);m.emissiveIntensity=.55}});
  });
@@ -133,7 +135,7 @@ function pick(id){S.sel=id;list();refresh();ficha();tab("f")}
 // ---- Paneles
 function buildSystems(){
  $("sp").innerHTML=[["Equino",1],["Bovino (Fase 6)",0],["Porcino (Fase 7)",0]].map(([n,a])=>`<button class="${a?"on":""}" ${a?"":"disabled"}>${n}</button>`).join("");
- const have=new Set(Object.values(S.items).map(i=>i.s.sys));
+ const have=new Set(Object.values(S.items).map(i=>skey(i.s)));
  $("sy").innerHTML=SYSTEMS.map(([k,n])=>`<button data-s="${k}" class="${have.has(k)?"on":""}" ${have.has(k)?"":"disabled title=\"Pendiente de desarrollo\""}>${n}</button>`).join("");
  $("sy").onclick=e=>{const k=e.target.dataset.s;if(!k||e.target.disabled)return;S.sys[k]=S.sys[k]===false;e.target.classList.toggle("on",S.sys[k]);refresh()};
 }
