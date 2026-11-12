@@ -167,7 +167,7 @@ function ficha(){
  `<div class="f"><span>Notas personales</span><textarea id="nt" rows="3" style="width:100%;box-sizing:border-box">${S.notes[s.id]||""}</textarea></div>`;
  $("nt").oninput=e=>{S.notes[s.id]=e.target.value;persist()};
 }
-function tab(t){["e","c","v","f"].forEach(k=>{$("t"+k).classList.toggle("hid",k!==t);document.querySelector(`[data-t=${k}]`).classList.toggle("on",k===t)})}
+function tab(t){["e","c","v","f","q"].forEach(k=>{const p=$("t"+k),b=document.querySelector(`[data-t=${k}]`);if(!p||!b)return;p.classList.toggle("hid",k!==t);b.classList.toggle("on",k===t)});if(t==="q"){window.quizEnter&&window.quizEnter()}else{window.quizLeave&&window.quizLeave()}}
 document.querySelectorAll(".tabs button").forEach(b=>b.onclick=()=>tab(b.dataset.t));
 $("q").oninput=e=>{S.q=e.target.value;list()};
 ["ex"].forEach(i=>$(i).oninput=refresh);
@@ -179,3 +179,96 @@ $("all").onclick=()=>{Object.values(S.items).forEach(i=>i.vis=true);LAYERS.forEa
 $("ld").onclick=()=>{if(!S.sel)return alert("Primero selecciona una estructura.");$("fl").click()};
 $("fl").onchange=e=>{const f=e.target.files[0],it=S.items[S.sel];if(!f||!it)return;const u=URL.createObjectURL(f);
  loader.load(u,g=>{setModel(it,g.scene);URL.revokeObjectURL(u)},null,()=>alert("No se pudo leer el archivo GLB."));e.target.value=""};
+
+// ---- Fase 8: cuestionarios y progreso (pestaña "Quiz")
+// Dos modos: "Nombre (NAV)" (latín <-> español, sirve para las 3842 estructuras) e
+// "Identificar en el visor" (una estructura resaltada sin nombre; solo estructuras con forma 3D visible).
+// El progreso se guarda en el teléfono (localStorage, clave va_prog).
+(function(){
+ const esc=x=>String(x).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+ const SIDE=/ \((izquierd[oa]|derech[oa])\)$/,base=s=>s.es.replace(SIDE,""),reg=s=>s.id.split(".")[2];
+ const rnd=a=>a[Math.floor(Math.random()*a.length)];
+ const shuf=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
+ const pct=(o,n)=>n?Math.round(o/n*100)+"%":"–";
+ const SN=Object.fromEntries(SYSTEMS);
+ let P={n:0,ok:0,sys:{},miss:{}};
+ try{const p=JSON.parse(localStorage.getItem("va_prog")||"null");if(p&&typeof p.n==="number")P=Object.assign(P,p)}catch(e){}
+ const save=()=>{try{localStorage.setItem("va_prog",JSON.stringify(P))}catch(e){}};
+ const Q={mode:"nombre",sys:"all",cur:null,done:false,prevBlind:null,ses:{n:0,ok:0}};
+ const host=$("tf").parentNode,pan=document.createElement("div");pan.id="tq";pan.className="hid";host.appendChild(pan);
+ const tb=document.createElement("button");tb.dataset.t="q";tb.textContent="Quiz";document.querySelector(".tabs").appendChild(tb);tb.onclick=()=>tab("q");
+ const forceBlind=()=>{if(Q.prevBlind===null)Q.prevBlind=$("blind").checked;$("blind").checked=true;list();ficha()};
+ const restoreBlind=()=>{if(Q.prevBlind!==null){$("blind").checked=Q.prevBlind;Q.prevBlind=null;list();ficha()}};
+ const pool=()=>Object.values(S.items).filter(i=>sexOk(i.s)&&i.s.es&&(Q.sys==="all"||skey(i.s)===Q.sys));
+ // Distractores: primero de la misma región y capa, luego del mismo sistema y capa, luego del mismo sistema, luego cualquiera.
+ function distract(all,it,textOf,ans){
+  const s=it.s,ok=x=>x!==it&&x.s.la!==s.la&&base(x.s)!==base(s),sy=skey(s);
+  const A=all.filter(x=>ok(x)&&skey(x.s)===sy&&x.s.layer===s.layer&&reg(x.s)===reg(s));
+  const B=all.filter(x=>ok(x)&&skey(x.s)===sy&&x.s.layer===s.layer&&reg(x.s)!==reg(s));
+  const C=all.filter(x=>ok(x)&&skey(x.s)===sy&&x.s.layer!==s.layer);
+  const D=all.filter(x=>ok(x)&&skey(x.s)!==sy);
+  const seen=new Set([ans]),out=[];
+  for(const g of [A,B,C,D]){for(const x of shuf(g)){const t=textOf(x);if(t&&!seen.has(t)){seen.add(t);out.push(t);if(out.length>=3)return out}}}
+  return out}
+ function qNombre(){
+  const all=pool().filter(i=>i.s.la);if(all.length<4)return {err:"No hay suficientes estructuras en este sistema para armar una pregunta. Elige «Todos»."};
+  const it=rnd(all),s=it.s,toEs=Math.random()<.5,ans=toEs?base(s):s.la;
+  const dist=distract(all,it,toEs?x=>base(x.s):x=>x.s.la,ans);
+  return {mode:"nombre",id:s.id,sys:skey(s),key:s.la+"|"+base(s),label:base(s)+" · "+s.la,ans,opts:shuf([ans,...dist]),
+   text:toEs?`Nombre latino (NAV): <b>${esc(s.la)}</b>.<br>¿Cuál es su nombre en español?`:`Nombre en español: <b>${esc(base(s))}</b>.<br>¿Cuál es su nombre latino (NAV)?`}}
+ function qVisor(){
+  const vis=pool().filter(i=>i.has&&i.g.visible);
+  if(!vis.length)return {err:"No hay estructuras con forma 3D visible. Activa capas o sistemas que tengan forma (por ahora, el esqueleto) o usa el modo «Nombre»."};
+  const all=pool(),it=rnd(vis),s=it.s,ans=s.es,dist=distract(all,it,x=>x.s.es,ans);
+  if(!dist.length)return {err:"No hay suficientes estructuras parecidas para armar opciones. Elige «Todos»."};
+  return {mode:"visor",id:s.id,sys:skey(s),key:s.la+"|"+base(s),label:s.es+" · "+s.la,ans,opts:shuf([ans,...dist]),
+   text:"En el visor hay una estructura resaltada en turquesa, sin nombre.<br>¿Cuál es?"}}
+ function next(){
+  restoreBlind();const q=Q.mode==="visor"?qVisor():qNombre();
+  if(q.err){Q.cur=q;Q.done=true;render();return}
+  Q.cur=q;Q.done=false;
+  if(q.mode==="visor"){S.sel=q.id;forceBlind();refresh()}
+  render()}
+ function answer(i){
+  const c=Q.cur;if(!c||c.err||Q.done||i<0||i>=c.opts.length)return;
+  Q.done=true;const right=c.opts[i]===c.ans,k=c.sys;
+  P.n++;Q.ses.n++;P.sys[k]=P.sys[k]||{n:0,ok:0};P.sys[k].n++;
+  if(right){P.ok++;Q.ses.ok++;P.sys[k].ok++;const m=P.miss[c.key];if(m){m.c--;if(m.c<=0)delete P.miss[c.key]}}
+  else{const m=P.miss[c.key]||(P.miss[c.key]={t:c.label,c:0});m.c++;m.t=c.label;
+   const ks=Object.keys(P.miss);if(ks.length>60)ks.sort((a,b)=>P.miss[a].c-P.miss[b].c).slice(0,ks.length-60).forEach(x=>delete P.miss[x])}
+  save();if(c.mode==="visor")restoreBlind();render(i)}
+ function render(ch){
+  const have=new Set(Object.values(S.items).map(i=>skey(i.s))),sysOpts=SYSTEMS.filter(([k])=>have.has(k));
+  const bs="display:block;width:100%;text-align:left;margin:6px 0;padding:10px",c=Q.cur;
+  let h=`<div class="f"><span>Modo</span><button data-m="nombre" class="${Q.mode==="nombre"?"on":""}">Nombre (NAV)</button> <button data-m="visor" class="${Q.mode==="visor"?"on":""}">Identificar en el visor</button></div>`+
+   `<div class="f"><span>Sistema</span><select id="qs" style="width:100%;box-sizing:border-box"><option value="all">Todos</option>${sysOpts.map(([k,n])=>`<option value="${k}" ${Q.sys===k?"selected":""}>${n}</option>`).join("")}</select></div>`;
+  if(!c)h+=`<p class="mu">${Q.mode==="visor"?"Se resalta una estructura del visor sin su nombre y eliges entre cuatro opciones.":"Te doy el nombre latino (NAV) y eliges el nombre en español, o al revés."}</p><button data-a="new" style="${bs}">Empezar</button>`;
+  else if(c.err)h+=`<p class="pend">${esc(c.err)}</p>`;
+  else{
+   h+=`<div class="f"><span>Pregunta ${Q.ses.n+(Q.done?0:1)}</span>${c.text}</div>`+
+    c.opts.map((o,i)=>{const good=Q.done&&o===c.ans,bad=Q.done&&i===ch&&o!==c.ans;
+     return `<button data-o="${i}" ${Q.done?"disabled":""} style="${bs}${good?";background:rgba(34,197,94,.35)":""}${bad?";background:rgba(239,68,68,.35)":""}">${esc(o)}</button>`}).join("");
+   if(c.mode==="visor"&&!Q.done)h+=`<button data-a="iso">Aislar en el visor</button> <button data-a="all">Mostrar todo</button>`;
+   if(Q.done){const right=ch!==undefined&&c.opts[ch]===c.ans;
+    h+=`<div class="f"><span>${right?"✔ Correcto":"✘ Incorrecto"}</span>Respuesta: <b>${esc(c.ans)}</b><br><span class="mu">${esc(c.label)}</span></div>`+
+     `<button data-a="new" style="${bs}">Siguiente</button>`+(c.mode==="visor"?`<button data-a="ficha">Ver ficha</button>`:"")}
+  }
+  const rows=SYSTEMS.filter(([k])=>P.sys[k]&&P.sys[k].n).map(([k,n])=>`<div class="mu">${n}: ${P.sys[k].ok}/${P.sys[k].n} (${pct(P.sys[k].ok,P.sys[k].n)})</div>`).join("");
+  const miss=Object.values(P.miss).sort((a,b)=>b.c-a.c).slice(0,5).map(m=>`<div class="mu">${esc(m.t)} (×${m.c})</div>`).join("");
+  h+=`<div class="f"><span>Progreso</span>Esta sesión: ${Q.ses.ok}/${Q.ses.n} (${pct(Q.ses.ok,Q.ses.n)})<br>Total: ${P.ok}/${P.n} (${pct(P.ok,P.n)})${rows?"<br>"+rows:""}</div>`+
+   (miss?`<div class="f"><span>Para repasar</span>${miss}</div>`:"")+
+   (P.n?`<button data-a="reset">Reiniciar progreso</button>`:"");
+  pan.innerHTML=h}
+ pan.onclick=e=>{const d=e.target.dataset;if(!d)return;
+  if(d.o!==undefined)answer(+d.o);
+  else if(d.m){if(d.m!==Q.mode){restoreBlind();Q.mode=d.m;Q.cur=null;Q.done=false;render()}}
+  else if(d.a==="new")next();
+  else if(d.a==="iso")$("iso").onclick();
+  else if(d.a==="all")$("all").onclick();
+  else if(d.a==="ficha"&&Q.cur)pick(Q.cur.id);
+  else if(d.a==="reset"&&confirm("¿Borrar todo el progreso de los cuestionarios?")){P={n:0,ok:0,sys:{},miss:{}};Q.ses={n:0,ok:0};save();render()}};
+ pan.onchange=e=>{if(e.target.id==="qs"){restoreBlind();Q.sys=e.target.value;Q.cur=null;Q.done=false;render()}};
+ window.quizEnter=()=>{if(Q.cur&&Q.cur.mode==="visor"&&!Q.done){S.sel=Q.cur.id;forceBlind();refresh()}render()};
+ window.quizLeave=()=>restoreBlind();
+ render();
+})();
