@@ -5,7 +5,9 @@ const SYSTEMS=[["ske","Esquelético"],["mus","Muscular"],["dig","Digestivo"],["r
 const LYM=new Set(["lin","lco","lor"]);const skey=s=>s.sys==="car"&&LYM.has(s.id.split(".")[2])?"lin":s.sys;
 const LAYERS=[["pel","Piel y tejido subcutáneo"],["fas","Fascias"],["msu","Músculos superficiales"],["mpr","Músculos profundos"],["oss","Sistema óseo"],["art","Articulaciones y ligamentos"],["vas","Sistema vascular"],["ner","Sistema nervioso"],["org","Órganos internos"],["cav","Cavidades y estructuras profundas"]];
 const FIELDS=[["ubicacion","Ubicación anatómica"],["descripcion","Descripción morfológica"],["relaciones","Relaciones anatómicas"],["accidentes","Accidentes anatómicos"],["articulaciones","Articulaciones"],["inserciones","Inserciones musculares"],["irrigacion","Irrigación"],["inervacion","Inervación"],["funcion","Función"],["especie","Particularidades de la especie"],["clinica","Importancia clínica"],["referencias","Referencias bibliográficas"]];
-const S={items:{},sel:null,q:"",L:{},sys:{},fav:{},notes:{}};
+const S={items:{},sel:null,q:"",L:{},sys:{},fav:{},notes:{},sex:"all"};
+// Sexo: "all" muestra todo; "m" caballo (macho); "f" yegua (hembra). Las estructuras sin campo "sex" se ven siempre.
+const sexOk=s=>!s.sex||S.sex==="all"||s.sex===S.sex;
 LAYERS.forEach(([k])=>S.L[k]={on:true,op:100});
 try{S.fav=JSON.parse(localStorage.getItem("va_fav")||"{}");S.notes=JSON.parse(localStorage.getItem("va_notes")||"{}")}catch(e){}
 const persist=()=>{try{localStorage.setItem("va_fav",JSON.stringify(S.fav));localStorage.setItem("va_notes",JSON.stringify(S.notes))}catch(e){}};
@@ -91,7 +93,7 @@ function refresh(){
  const ex=$("ex").value/100,li=k=>LAYERS.findIndex(l=>l[0]===k);
  Object.values(S.items).forEach(it=>{
   const L=S.L[it.s.layer],o=L.op/100;
-  it.g.visible=L.on&&it.vis&&S.sys[skey(it.s)]!==false;
+  it.g.visible=L.on&&it.vis&&S.sys[skey(it.s)]!==false&&sexOk(it.s);
   it.g.position.copy(it.dir).multiplyScalar(ex*1.2);it.g.position.z+=(li(it.s.layer)-4.5)*ex*.25;
   mats(it).forEach(m=>{m.opacity=o;if(m.emissive){m.emissive.setHex(S.sel===it.s.id?0x2dd4bf:0);m.emissiveIntensity=.55}});
  });
@@ -134,7 +136,11 @@ ren.domElement.addEventListener("pointerup",e=>{
 function pick(id){S.sel=id;list();refresh();ficha();tab("f")}
 // ---- Paneles
 function buildSystems(){
- $("sp").innerHTML=[["Equino",1],["Bovino (Fase 6)",0],["Porcino (Fase 7)",0]].map(([n,a])=>`<button class="${a?"on":""}" ${a?"":"disabled"}>${n}</button>`).join("");
+ $("sp").innerHTML=[["Equino",1],["Bovino (Fase 6)",0],["Porcino (Fase 7)",0]].map(([n,a])=>`<button class="${a?"on":""}" ${a?"":"disabled"}>${n}</button>`).join("")+`<span style="display:block;flex-basis:100%;width:100%;height:0"></span>`+[["all","Todos"],["m","Caballo ♂"],["f","Yegua ♀"]].map(([k,n])=>`<button data-x="${k}" class="${S.sex===k?"on":""}">${n}</button>`).join("");
+ $("sp").onclick=e=>{const x=e.target.dataset.x;if(!x)return;S.sex=x;
+  $("sp").querySelectorAll("[data-x]").forEach(b=>b.classList.toggle("on",b.dataset.x===x));
+  if(S.sel&&S.items[S.sel]&&!sexOk(S.items[S.sel].s)){S.sel=null;ficha()}
+  list();refresh()};
  const have=new Set(Object.values(S.items).map(i=>skey(i.s)));
  $("sy").innerHTML=SYSTEMS.map(([k,n])=>`<button data-s="${k}" class="${have.has(k)?"on":""}" ${have.has(k)?"":"disabled title=\"Pendiente de desarrollo\""}>${n}</button>`).join("");
  $("sy").onclick=e=>{const k=e.target.dataset.s;if(!k||e.target.disabled)return;S.sys[k]=S.sys[k]===false;e.target.classList.toggle("on",S.sys[k]);refresh()};
@@ -146,7 +152,7 @@ function layerPanel(){
 }
 function list(){
  const q=S.q.toLowerCase(),blind=$("blind").checked;
- $("ls").innerHTML=Object.values(S.items).filter(i=>(i.s.es+i.s.la).toLowerCase().includes(q)).map(i=>{const s=i.s;
+ $("ls").innerHTML=Object.values(S.items).filter(i=>sexOk(i.s)&&(i.s.es+i.s.la).toLowerCase().includes(q)).map(i=>{const s=i.s;
  return `<div class="item ${S.sel===s.id?"sel":""}" data-id="${s.id}"><b>${blind?s.id:s.es}<br><i>${blind?"nombre oculto":s.la+" · modelo "+i.state}</i></b><button data-fav="${s.id}" title="Favorito">${S.fav[s.id]?"★":"☆"}</button><button data-vis="${s.id}" title="Mostrar u ocultar">${i.vis?"👁":"✕"}</button></div>`}).join("")||"<p>Sin resultados.</p>";
 }
 $("ls").onclick=e=>{const f=e.target.dataset.fav,v=e.target.dataset.vis;
