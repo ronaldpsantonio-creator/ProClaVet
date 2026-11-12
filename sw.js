@@ -1,41 +1,34 @@
-// VETANATOMY 3D - Service Worker
-// Para publicar una actualización: sube los archivos nuevos y cambia SOLO este número.
-const VERSION = 'v4';
-const CACHE = 'vetanatomy-' + VERSION;
+// ProClaVet - Service Worker sincronizado
+// v5: actualiza primero los archivos principales y conserva respaldo offline.
+const C="vetanatomy-v5";
+const CORE=["./","index.html","css/styles.css","js/app.js","data/equino.json","manifest.webmanifest"];
 
-self.addEventListener('install', (event) => {
-  // Activa la versión nueva sin esperar a que se cierren las pestañas
-  self.skipWaiting();
+self.addEventListener("install",e=>{
+ e.waitUntil(caches.open(C).then(c=>c.addAll(CORE)).then(()=>self.skipWaiting()));
 });
-
-self.addEventListener('activate', (event) => {
-  event.waitUntil(
-    caches.keys()
-      .then((keys) => Promise.all(
-        keys
-          .filter((k) => k.startsWith('vetanatomy-') && k !== CACHE)
-          .map((k) => caches.delete(k))
-      ))
-      .then(() => self.clients.claim())
-  );
+self.addEventListener("activate",e=>{
+ e.waitUntil(caches.keys()
+  .then(keys=>Promise.all(keys.filter(k=>k.startsWith("vetanatomy-")&&k!==C).map(k=>caches.delete(k))))
+  .then(()=>self.clients.claim()));
 });
-
-// Red primero (siempre intenta traer lo más nuevo); si no hay internet, usa la caché.
-self.addEventListener('fetch', (event) => {
-  const req = event.request;
-  if (req.method !== 'GET') return;
-  const url = new URL(req.url);
-  if (url.origin !== self.location.origin) return;
-
-  event.respondWith(
-    fetch(req, { cache: 'no-cache' })
-      .then((res) => {
-        if (res && res.ok) {
-          const copy = res.clone();
-          caches.open(CACHE).then((c) => c.put(req, copy));
-        }
-        return res;
-      })
-      .catch(() => caches.match(req).then((hit) => hit || caches.match('./index.html')))
-  );
+self.addEventListener("fetch",e=>{
+ const req=e.request;
+ if(req.method!=="GET")return;
+ const url=new URL(req.url);
+ if(url.origin!==self.location.origin)return;
+ const fresh=["/data/equino.json","/js/app.js","/index.html"].some(p=>url.pathname.endsWith(p));
+ e.respondWith(caches.open(C).then(async cache=>{
+  const hit=await cache.match(req);
+  if(fresh){
+   try{
+    const res=await fetch(req,{cache:"no-store"});
+    if(res.ok)cache.put(req,res.clone());
+    return res;
+   }catch(err){if(hit)return hit;const fallback=await cache.match("./index.html");if(fallback)return fallback;throw err;}
+  }
+  if(hit)return hit;
+  const res=await fetch(req);
+  if(res.ok||res.type==="opaque")cache.put(req,res.clone());
+  return res;
+ }));
 });
