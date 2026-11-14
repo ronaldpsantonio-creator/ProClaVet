@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1560" role="img" aria-labelledby="t d">
+<title id="t">Axis equino, segunda vértebra cervical C2</title>
+<desc id="d">Lámina didáctica original con vistas dorsales y laterales esquemáticas del axis equino, que señala el dens, cuerpo, cresta ventral, arco, proceso espinoso y forámenes.</desc>
+<defs>
+ <linearGradient id="bone" x1="0" y1="0" x2="0.8" y2="1"><stop offset="0" stop-color="#f5edda"/><stop offset="1" stop-color="#cbbd9c"/></linearGradient>
+ <style>
+  text{font-family:Arial,Helvetica,sans-serif;fill:#263342}
+  .title{font-size:38px;font-weight:700}.sub{font-size:20px;fill:#586675}
+  .panel{fill:#fff;stroke:#d8dee4;stroke-width:2}.view{font-size:25px;font-weight:700;fill:#0f766e}
+  .bone{fill:url(#bone);stroke:#796b52;stroke-width:5;stroke-linejoin:round}
+  .surface{fill:#d2c3a1;stroke:#796b52;stroke-width:3}
+  .hole{fill:#f8fafc;stroke:#796b52;stroke-width:4}
+  .groove{fill:none;stroke:#8f7c5d;stroke-width:9;stroke-linecap:round}
+  .n circle{fill:#0f766e;stroke:#fff;stroke-width:3}.n text{fill:#fff;font-size:20px;font-weight:700;text-anchor:middle;dominant-baseline:middle}
+  .key{font-size:19px}.small{font-size:17px;fill:#586675}
+ </style>
+</defs>
+<rect width="1000" height="1560" fill="#f7f8f6"/>
+<text x="50" y="62" class="title">AXIS EQUINO · C2</text>
+<text x="52" y="96" class="sub">Segunda vértebra cervical · esquema osteológico original</text>
+
+<rect x="32" y="125" width="936" height="470" rx="22" class="panel"/>
+<text x="62" y="165" class="view">A. Vista dorsal · orientación craneal ↑</text>
+<!-- Dens y superficies craneales -->
+<path class="bone" d="M500 205 C470 215 455 255 463 293 L480 326 L520 326 L537 293 C545 255 530 215 500 205 Z"/>
+<ellipse class="surface" cx="400" cy="305" rx="68" ry="37" transform="rotate(-18 400 305)"/>
+<ellipse class="surface" cx="600" cy="305" rx="68" ry="37" transform="rotate(18 600 305)"/>
+<!-- Cuerpo y arco -->
+<path class="bone" d="M420 330 C390 370 382 435 405 500 C430 545 570 545 595 500 C618 435 610 370 580 330 L550 350 L550 465 Q500 490 450 465 L450 350 Z"/>
+<path class="hole" d="M450 370 Q500 345 550 370 L550 450 Q500 470 450 450 Z"/>
+<!-- Proceso espinoso -->
+<path class="bone" d="M455 420 C438 385 430 340 445 300 L470 270 L500 285 L530 270 L555 300 C570 340 562 385 545 420 L530 445 Q500 460 470 445 Z"/>
+<path class="bone" d="M445 470 L405 520 L425 545 L500 515 L575 545 L595 520 L555 470 Z"/>
+<!-- Forámenes laterales y procesos transversos -->
+<path class="bone" d="M405 390 L325 420 L342 455 L420 438 Z"/>
+<path class="bone" d="M595 390 L675 420 L658 455 L580 438 Z"/>
+<ellipse class="hole" cx="390" cy="405" rx="12" ry="17"/>
+<ellipse class="hole" cx="610" cy="405" rx="12" ry="17"/>
+<path class="groove" d="M500 235 Q500 275 500 292"/>
+<g class="n"><circle cx="500" cy="205" r="18"/><text x="500" y="205">1</text></g>
+<g class="n"><circle cx="552" cy="245" r="18"/><text x="552" y="245">2</text></g>
+<g class="n"><circle cx="390" cy="300" r="18"/><text x="390" y="300">3</text></g>
+<g class="n"><circle cx="500" cy="365" r="18"/><text x="500" y="365">4</text></g>
+<g class="n"><circle cx="500" cy="485" r="18"/><text x="500" y="485">5</text></g>
+<g class="n"><circle cx="610" cy="405" r="18"/><text x="610" y="405">6</text></g>
+<text x="62" y="565" class="small">El dens y las superficies articulares craneales forman una unidad funcional especializada para la rotación atlantoaxial.</text>
+
+<rect x="32" y="615" width="936" height="490" rx="22" class="panel"/>
+<text x="62" y="655" class="view">B. Vista lateral · craneal ← / dorsal ↑</text>
+<!-- Axis lateral silhouette -->
+<path class="bone" d="M160 825 C115 805 95 775 120 748 C145 724 185 733 214 760 L260 780 C360 760 520 765 680 800 C745 815 805 840 845 875 L820 930 C720 915 610 900 500 905 L300 900 C240 900 205 875 180 850 Z"/>
+<!-- Dens -->
+<path class="bone" d="M120 748 C75 710 58 690 70 670 C85 646 112 662 138 690 C160 712 178 735 190 760 Z"/>
+<!-- Spinous process -->
+<path class="bone" d="M445 790 C430 735 450 690 475 675 L520 675 C550 715 558 760 548 800 L520 820 L470 820 Z"/>
+<!-- Vertebral arch/foramen opening -->
+<path class="hole" d="M300 810 Q390 770 450 810 L455 875 Q380 890 310 875 Z"/>
+<!-- Ventral crest -->
+<path class="surface" d="M220 884 Q460 925 700 895 L780 916 Q560 975 300 935 Z"/>
+<!-- Articular and transverse processes -->
+<path class="bone" d="M655 815 L720 770 L760 795 L715 845 Z"/>
+<path class="bone" d="M650 895 L705 940 L735 920 L690 880 Z"/>
+<circle class="hole" cx="650" cy="842" r="12"/>
+<!-- dorsal groove on dens -->
+<path class="groove" d="M108 680 Q135 705 162 742"/>
+<g class="n"><circle cx="90" cy="680" r="18"/><text x="90" y="680">1</text></g>
+<g class="n"><circle cx="148" cy="700" r="18"/><text x="148" y="700">2</text></g>
+<g class="n"><circle cx="400" cy="845" r="18"/><text x="400" y="845">7</text></g>
+<g class="n"><circle cx="500" cy="690" r="18"/><text x="500" y="690">8</text></g>
+<g class="n"><circle cx="500" cy="950" r="18"/><text x="500" y="950">9</text></g>
+<g class="n"><circle cx="650" cy="842" r="18"/><text x="650" y="842">10</text></g>
+<g class="n"><circle cx="735" cy="775" r="18"/><text x="735" y="775">11</text></g>
+<g class="n"><circle cx="700" cy="920" r="18"/><text x="700" y="920">12</text></g>
+<text x="62" y="1072" class="small">La cresta ventral recorre la cara inferior del cuerpo; el proceso espinoso es alto y prominente en el caballo.</text>
+
+<rect x="32" y="1125" width="936" height="390" rx="22" class="panel"/>
+<text x="62" y="1167" class="view">Identificación de accidentes anatómicos</text>
+<text x="62" y="1210" class="key">1. Diente del axis · <tspan font-style="italic">dens axis</tspan></text>
+<text x="62" y="1246" class="key">2. Surco dorsal del dens para ligamentos</text>
+<text x="62" y="1282" class="key">3. Superficies articulares craneales</text>
+<text x="62" y="1318" class="key">4. Cuerpo vertebral · <tspan font-style="italic">corpus vertebrae</tspan></text>
+<text x="62" y="1354" class="key">5. Cresta ventral · <tspan font-style="italic">crista ventralis</tspan></text>
+<text x="62" y="1390" class="key">6. Foramen vertebral lateral · <tspan font-style="italic">foramen vertebrale laterale</tspan></text>
+<text x="520" y="1210" class="key">7. Arco vertebral · <tspan font-style="italic">arcus vertebrae</tspan></text>
+<text x="520" y="1246" class="key">8. Proceso espinoso · <tspan font-style="italic">processus spinosus</tspan></text>
+<text x="520" y="1282" class="key">9. Proceso transverso · <tspan font-style="italic">processus transversus</tspan></text>
+<text x="520" y="1318" class="key">10. Foramen vertebral lateral</text>
+<text x="520" y="1354" class="key">11. Procesos articulares caudales</text>
+<text x="520" y="1390" class="key">12. Región de la cresta ventral</text>
+<rect x="60" y="1435" width="880" height="54" rx="12" fill="#e7f3f1" stroke="#b7d9d3"/>
+<text x="78" y="1468" class="small">En el caballo, la superficie articular ventral del dens es continua con las superficies articulares craneales.</text>
+<text x="62" y="1525" class="small">Esquema didáctico bidimensional, no a escala. No sustituye una preparación anatómica ni un modelo 3D validado.</text>
+</svg>
