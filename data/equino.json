@@ -2162,9 +2162,9 @@
         "referencias": "Sisson S. A Text-book of Veterinary Anatomy. 1911. Sección «The Skeleton of the Horse» y descripción de la primera costilla equina. https://www.gutenberg.org/files/75996/75996-h/75996-h.htm\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7th ed. Thieme; 2020. Secciones de osteología torácica y costillas.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Sección «The Ribs and Sternum».\nThe Anatomy of the Horse: A Dissection Guide. Utrecht University Library. Sección de articulaciones costocondrales y esternocostales. https://objects.library.uu.nl/download/1874-32163/fulltext"
       },
       "revision": {
-        "estado": "incorporada",
+        "estado": "verificada",
         "fecha": "2026-11-13",
-        "alcance": "Ficha anatómica incorporada conforme al protocolo ProClaVet; pendiente de verificación visual por el usuario en el visor 3D. No implica validación del modelo 3D."
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario. La confirmación corresponde al contenido de la ficha; no implica validación independiente de un modelo 3D."
       }
     },
     {
@@ -2188,24 +2188,62 @@
         "referencias": "Sisson S. A Text-book of Veterinary Anatomy. 1911. Sección «The Skeleton of the Horse» y descripción de la primera costilla equina. https://www.gutenberg.org/files/75996/75996-h/75996-h.htm\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7th ed. Thieme; 2020. Secciones de osteología torácica y costillas.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Sección «The Ribs and Sternum».\nThe Anatomy of the Horse: A Dissection Guide. Utrecht University Library. Sección de articulaciones costocondrales y esternocostales. https://objects.library.uu.nl/download/1874-32163/fulltext"
       },
       "revision": {
-        "estado": "incorporada",
+        "estado": "verificada",
         "fecha": "2026-11-13",
-        "alcance": "Ficha anatómica incorporada conforme al protocolo ProClaVet; pendiente de verificación visual por el usuario en el visor 3D. No implica validación del modelo 3D."
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario. La confirmación corresponde al contenido de la ficha; no implica validación independiente de un modelo 3D."
       }
     },
     {
       "id": "equ.ske.cos.002-i",
       "es": "Costilla 2 (izquierdo)",
-      "la": "Costa 2",
+      "la": "Costa II",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Segunda costilla del hemitórax izquierdo, caudal a la primera costilla. Se extiende desde la región vertebral de T1–T2 hacia ventral y continúa mediante su cartílago costal con el esternón, como costilla esternal.",
+        "descripcion": "Hueso par, alargado y aplanado, más largo y más curvado que la primera costilla. Presenta extremidad vertebral con cabeza, cuello y tubérculo; cuerpo con superficies externa e interna y bordes craneal y caudal; y extremidad esternal que se continúa con el segundo cartílago costal. La cabeza participa en la articulación con dos vértebras torácicas contiguas y el tubérculo con el proceso transverso de la vértebra caudal de ese par. La curvatura y el aplanamiento son más evidentes que en la primera costilla.",
+        "relaciones": "Dorsalmente se relaciona con los cuerpos vertebrales de T1 y T2 y con el proceso transverso de T2. Caudalmente limita el segundo espacio intercostal y cranealmente el primero; ambos espacios contienen músculos, vasos y nervios intercostales. Su cara externa se relaciona con la musculatura de la pared torácica y, en la región craneal, con estructuras profundas al miembro torácico. Su cara interna se relaciona con la fascia endotorácica y la pleura parietal. Ventralmente, el segundo cartílago costal se dirige al esternón.",
+        "accidentes": "Cabeza (caput costae) con dos carillas articulares para las fóveas costales de T1 y T2, separadas por una cresta; cuello (collum costae) que une la cabeza al cuerpo; tubérculo (tuberculum costae) en la unión del cuello con el cuerpo, con carilla para el proceso transverso de T2; cuerpo (corpus costae) alargado, aplanado y curvado, con ángulo costal y bordes para fijación muscular. El borde caudal puede presentar surco costal para el paquete vasculonervioso intercostal; su desarrollo es variable y no debe confundirse con el surco externo descrito en costillas más caudales. Extremidad esternal para la unión costocondral.",
+        "articulaciones": "La cabeza se articula con las fóveas costales de los cuerpos de T1 y T2 y con el disco intervertebral T1–T2 mediante la articulación de la cabeza de la costilla. El tubérculo se articula con la fóvea costal del proceso transverso de T2 mediante la articulación costotransversa. La extremidad ventral se une al segundo cartílago costal por la articulación costocondral; este cartílago establece conexión esternocostal con el esternón. Las articulaciones costovertebrales y costotransversas son sinoviales y están reforzadas por ligamentos propios.",
+        "inserciones": "Los bordes craneal y caudal y las superficies adyacentes dan fijación a los músculos intercostales externos e internos. En la región del ángulo y superficie externa se fijan fibras de músculos de la pared torácica, incluidos fascículos del iliocostal y elevadores de las costillas según su extensión individual. El tubérculo y el cuello reciben fijaciones ligamentarias asociadas a las articulaciones costovertebrales y costotransversas. El cartílago costal proporciona continuidad de fijación a músculos y fascias esternales; evitar atribuir inserciones específicas no confirmadas para esta costilla.",
+        "irrigacion": "La vascularización procede de ramas periostales y nutricias de las arterias intercostales dorsales y ventrales correspondientes, con anastomosis en la pared torácica. Las ramas intercostales dorsales derivan de la circulación intercostal dorsal/torácica y las ventrales se relacionan con la arteria torácica interna. El patrón exacto de ramas nutricias puede variar; no se asigna un vaso exclusivo sin disección o referencia específica.",
+        "inervacion": "La sensibilidad del periostio y de los tejidos asociados se conduce principalmente por el nervio intercostal del segundo espacio (rama ventral de T2), con distribución segmentaria y posibles comunicaciones con nervios adyacentes. Las ramas musculares motoras de los nervios intercostales inervan la musculatura intercostal; el hueso no posee inervación motora propia.",
+        "funcion": "Contribuye a la pared osteocartilaginosa y a la protección de los órganos torácicos; transmite fuerzas entre la columna vertebral y el esternón; proporciona inserción a la musculatura intercostal y de la pared torácica; y participa en los cambios de volumen del tórax durante la inspiración y espiración.",
+        "especie": "En el caballo suelen presentarse 18 pares de costillas. Los primeros ocho pares son esternales y se conectan directamente con el esternón mediante sus cartílagos costales. La segunda costilla es más larga y curvada que la primera; las dimensiones y el grado de curvatura cambian progresivamente a lo largo de la serie. Existe variación individual, por lo que la morfología debe cotejarse con el espécimen y el modelo disponibles.",
+        "clinica": "Las fracturas de las costillas craneales pueden acompañarse de lesión de pleura y pulmón, con riesgo de neumotórax, y de lesión de vasos intercostales con hemorragia. El dolor intercostal puede limitar la excursión respiratoria. La interpretación radiográfica debe localizar la lesión respecto de la cabeza, tubérculo, cuerpo y articulación costocondral, y valorar desplazamiento y compromiso de estructuras intratorácicas.",
+        "referencias": "Sisson S. A Text-book of Veterinary Anatomy. Sección «The Skeleton of the Horse», morfología serial de las costillas. https://www.gutenberg.org/files/75996/75996-h/75996-h.htm\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Sección «The Ribs and Sternum».\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7th ed. Thieme; 2020. Osteología del tórax.\nUniversity of Minnesota. Large Animal Anatomy: Neck and Thorax. https://pressbooks.umn.edu/largeanimalanatomy/chapter/thorax/"
+      },
+      "revision": {
+        "estado": "incorporada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica incorporada conforme al protocolo ProClaVet; pendiente de verificación por el usuario. No implica validación independiente del modelo 3D."
+      }
     },
     {
       "id": "equ.ske.cos.002-d",
       "es": "Costilla 2 (derecho)",
-      "la": "Costa 2",
+      "la": "Costa II",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Segunda costilla del hemitórax derecho, caudal a la primera costilla. Se extiende desde la región vertebral de T1–T2 hacia ventral y continúa mediante su cartílago costal con el esternón, como costilla esternal.",
+        "descripcion": "Hueso par, alargado y aplanado, más largo y más curvado que la primera costilla. Presenta extremidad vertebral con cabeza, cuello y tubérculo; cuerpo con superficies externa e interna y bordes craneal y caudal; y extremidad esternal que se continúa con el segundo cartílago costal. La cabeza participa en la articulación con dos vértebras torácicas contiguas y el tubérculo con el proceso transverso de la vértebra caudal de ese par. La curvatura y el aplanamiento son más evidentes que en la primera costilla.",
+        "relaciones": "Dorsalmente se relaciona con los cuerpos vertebrales de T1 y T2 y con el proceso transverso de T2. Caudalmente limita el segundo espacio intercostal y cranealmente el primero; ambos espacios contienen músculos, vasos y nervios intercostales. Su cara externa se relaciona con la musculatura de la pared torácica y, en la región craneal, con estructuras profundas al miembro torácico. Su cara interna se relaciona con la fascia endotorácica y la pleura parietal. Ventralmente, el segundo cartílago costal se dirige al esternón.",
+        "accidentes": "Cabeza (caput costae) con dos carillas articulares para las fóveas costales de T1 y T2, separadas por una cresta; cuello (collum costae) que une la cabeza al cuerpo; tubérculo (tuberculum costae) en la unión del cuello con el cuerpo, con carilla para el proceso transverso de T2; cuerpo (corpus costae) alargado, aplanado y curvado, con ángulo costal y bordes para fijación muscular. El borde caudal puede presentar surco costal para el paquete vasculonervioso intercostal; su desarrollo es variable y no debe confundirse con el surco externo descrito en costillas más caudales. Extremidad esternal para la unión costocondral.",
+        "articulaciones": "La cabeza se articula con las fóveas costales de los cuerpos de T1 y T2 y con el disco intervertebral T1–T2 mediante la articulación de la cabeza de la costilla. El tubérculo se articula con la fóvea costal del proceso transverso de T2 mediante la articulación costotransversa. La extremidad ventral se une al segundo cartílago costal por la articulación costocondral; este cartílago establece conexión esternocostal con el esternón. Las articulaciones costovertebrales y costotransversas son sinoviales y están reforzadas por ligamentos propios.",
+        "inserciones": "Los bordes craneal y caudal y las superficies adyacentes dan fijación a los músculos intercostales externos e internos. En la región del ángulo y superficie externa se fijan fibras de músculos de la pared torácica, incluidos fascículos del iliocostal y elevadores de las costillas según su extensión individual. El tubérculo y el cuello reciben fijaciones ligamentarias asociadas a las articulaciones costovertebrales y costotransversas. El cartílago costal proporciona continuidad de fijación a músculos y fascias esternales; evitar atribuir inserciones específicas no confirmadas para esta costilla.",
+        "irrigacion": "La vascularización procede de ramas periostales y nutricias de las arterias intercostales dorsales y ventrales correspondientes, con anastomosis en la pared torácica. Las ramas intercostales dorsales derivan de la circulación intercostal dorsal/torácica y las ventrales se relacionan con la arteria torácica interna. El patrón exacto de ramas nutricias puede variar; no se asigna un vaso exclusivo sin disección o referencia específica.",
+        "inervacion": "La sensibilidad del periostio y de los tejidos asociados se conduce principalmente por el nervio intercostal del segundo espacio (rama ventral de T2), con distribución segmentaria y posibles comunicaciones con nervios adyacentes. Las ramas musculares motoras de los nervios intercostales inervan la musculatura intercostal; el hueso no posee inervación motora propia.",
+        "funcion": "Contribuye a la pared osteocartilaginosa y a la protección de los órganos torácicos; transmite fuerzas entre la columna vertebral y el esternón; proporciona inserción a la musculatura intercostal y de la pared torácica; y participa en los cambios de volumen del tórax durante la inspiración y espiración.",
+        "especie": "En el caballo suelen presentarse 18 pares de costillas. Los primeros ocho pares son esternales y se conectan directamente con el esternón mediante sus cartílagos costales. La segunda costilla es más larga y curvada que la primera; las dimensiones y el grado de curvatura cambian progresivamente a lo largo de la serie. Existe variación individual, por lo que la morfología debe cotejarse con el espécimen y el modelo disponibles.",
+        "clinica": "Las fracturas de las costillas craneales pueden acompañarse de lesión de pleura y pulmón, con riesgo de neumotórax, y de lesión de vasos intercostales con hemorragia. El dolor intercostal puede limitar la excursión respiratoria. La interpretación radiográfica debe localizar la lesión respecto de la cabeza, tubérculo, cuerpo y articulación costocondral, y valorar desplazamiento y compromiso de estructuras intratorácicas.",
+        "referencias": "Sisson S. A Text-book of Veterinary Anatomy. Sección «The Skeleton of the Horse», morfología serial de las costillas. https://www.gutenberg.org/files/75996/75996-h/75996-h.htm\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Sección «The Ribs and Sternum».\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7th ed. Thieme; 2020. Osteología del tórax.\nUniversity of Minnesota. Large Animal Anatomy: Neck and Thorax. https://pressbooks.umn.edu/largeanimalanatomy/chapter/thorax/"
+      },
+      "revision": {
+        "estado": "incorporada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica incorporada conforme al protocolo ProClaVet; pendiente de verificación por el usuario. No implica validación independiente del modelo 3D."
+      }
     },
     {
       "id": "equ.ske.cos.003-i",
