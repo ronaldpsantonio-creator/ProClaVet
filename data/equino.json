@@ -2318,9 +2318,9 @@
         "referencias": "Dyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Sección «The Ribs and Sternum».\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7th ed. Thieme; 2020. Osteología torácica.\nSisson S. A Text-book of Veterinary Anatomy. Sección «The Skeleton of the Horse». https://www.gutenberg.org/files/75996/75996-h/75996-h.htm"
       },
       "revision": {
-        "estado": "incorporada",
+        "estado": "verificada",
         "fecha": "2026-11-13",
-        "alcance": "Ficha anatómica incorporada conforme al protocolo ProClaVet; pendiente de revisión por el usuario. No implica validación independiente de un modelo 3D."
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario. La confirmación corresponde al contenido de la ficha; no implica validación independiente de un modelo 3D."
       }
     },
     {
@@ -2344,24 +2344,62 @@
         "referencias": "Dyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Sección «The Ribs and Sternum».\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7th ed. Thieme; 2020. Osteología torácica.\nSisson S. A Text-book of Veterinary Anatomy. Sección «The Skeleton of the Horse». https://www.gutenberg.org/files/75996/75996-h/75996-h.htm"
       },
       "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario. La confirmación corresponde al contenido de la ficha; no implica validación independiente de un modelo 3D."
+      }
+    },
+    {
+      "id": "equ.ske.cos.005-i",
+      "es": "Costilla 5 (izquierdo)",
+      "la": "Costa V",
+      "sys": "ske",
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Quinta costilla del hemitórax izquierdo, caudal a la cuarta. Se extiende desde la articulación costovertebral a nivel de T4–T5 hacia ventral y se continúa con el quinto cartílago costal, que alcanza directamente el esternón; pertenece al grupo de costillas esternales.",
+        "descripcion": "Hueso par, alargado y arqueado, con extremidad vertebral, cuerpo y extremidad esternal. La cabeza presenta dos carillas articulares para los cuerpos de vértebras torácicas contiguas; el cuello conecta la cabeza con el tubérculo, cuya carilla se articula con el proceso transverso de la vértebra caudal correspondiente. El cuerpo es aplanado y curvo, con superficies externa e interna y bordes craneal y caudal. El extremo ventral se continúa con el quinto cartílago costal. Su forma participa en el contorno de la pared torácica y presenta variación gradual respecto de las costillas más craneales y caudales.",
+        "relaciones": "Dorsalmente se relaciona con los cuerpos vertebrales de T4 y T5 y con el proceso transverso de T5. Cranealmente limita con la cuarta costilla y caudalmente con la sexta, delimitando los espacios intercostales cuarto y quinto. La superficie externa se relaciona con fascia torácica y musculatura de la pared del tórax; la superficie interna con fascia endotorácica y pleura parietal. Cerca del borde caudal discurre el paquete vasculonervioso intercostal en el surco costal, cuando está desarrollado. Ventralmente, el quinto cartílago costal se dirige al esternón.",
+        "accidentes": "Cabeza (caput costae) con dos carillas articulares para las fóveas costales de T4 y T5, separadas por una cresta; cuello (collum costae); tubérculo (tuberculum costae) con carilla para el proceso transverso de T5; cuerpo (corpus costae) alargado, aplanado y curvado, con superficies externa e interna, bordes craneal y caudal y ángulo costal; surco costal próximo al borde caudal para el paquete vasculonervioso intercostal, de profundidad variable; extremidad esternal para la unión costocondral con el quinto cartílago.",
+        "articulaciones": "La cabeza se articula con las fóveas costales de los cuerpos de T4 y T5 y se relaciona con el disco intervertebral T4–T5 mediante la articulación de la cabeza de la costilla. El tubérculo se articula con el proceso transverso de T5 mediante la articulación costotransversa. La extremidad ventral se une al quinto cartílago costal por la unión costocondral; el cartílago establece articulación esternocostal con el esternón. Las articulaciones costovertebrales y costotransversas están reforzadas por ligamentos propios.",
+        "inserciones": "Los bordes craneal y caudal y las superficies adyacentes proporcionan fijación a los músculos intercostales externos e internos. En la superficie externa y región del ángulo se fijan fascículos de músculos de la pared torácica, incluidos componentes del iliocostal y de los elevadores de las costillas según su distribución. En el extremo vertebral se fijan ligamentos costovertebrales y costotransversos. El cartílago costal ofrece continuidad para fijaciones musculares y fasciales ventrales. La asignación de inserciones puntuales debe cotejarse con atlas equino o disección, evitando extrapolar detalles no confirmados de otras especies.",
+        "irrigacion": "La irrigación ósea procede de ramas periostales y nutricias de las arterias intercostales dorsales y ventrales correspondientes a la región del quinto espacio intercostal, con anastomosis en la pared torácica. Las ramas ventrales se conectan con el sistema de la arteria torácica interna y las dorsales con la circulación intercostal dorsal. El origen y calibre de las ramas nutricias pueden variar; no se atribuye una arteria nutricia exclusiva sin evidencia anatómica específica.",
+        "inervacion": "La sensibilidad del periostio y de los tejidos asociados se conduce principalmente por el nervio intercostal del quinto espacio (rama ventral de T5), con distribución segmentaria y posibles comunicaciones con nervios adyacentes. Las ramas musculares de los nervios intercostales proporcionan inervación motora a los músculos intercostales; el tejido óseo no posee inervación motora propia.",
+        "funcion": "Integra la pared osteocartilaginosa del tórax, contribuye a proteger los órganos intratorácicos y transmite fuerzas entre la columna vertebral y el esternón. Proporciona soporte e inserción a la musculatura intercostal y torácica y, mediante sus articulaciones costovertebrales, participa en los movimientos de la pared torácica durante la respiración.",
+        "especie": "En el caballo suelen existir 18 pares de costillas. Los primeros ocho pares son esternales y se conectan directamente con el esternón mediante sus cartílagos costales; la quinta costilla pertenece a este grupo. Las costillas presentan cambios graduales de longitud, curvatura y orientación a lo largo de la serie. Existe variación individual, por lo que la morfología precisa debe cotejarse con el espécimen equino y el atlas anatómico empleado.",
+        "clinica": "Las fracturas pueden provocar dolor torácico y, si existe desplazamiento, lesionar pleura, pulmón o vasos intercostales, con riesgo de neumotórax o hemorragia. La evaluación radiográfica debe localizar la lesión en cabeza, cuello, tubérculo, cuerpo o unión costocondral y valorar las estructuras intratorácicas adyacentes. El dolor intercostal puede limitar la expansión torácica y alterar la mecánica respiratoria.",
+        "referencias": "Dyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Sección «The Ribs and Sternum».\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7th ed. Thieme; 2020. Osteología torácica.\nSisson S. A Text-book of Veterinary Anatomy. Sección «The Skeleton of the Horse». https://www.gutenberg.org/files/75996/75996-h/75996-h.htm"
+      },
+      "revision": {
         "estado": "incorporada",
         "fecha": "2026-11-13",
         "alcance": "Ficha anatómica incorporada conforme al protocolo ProClaVet; pendiente de revisión por el usuario. No implica validación independiente de un modelo 3D."
       }
     },
     {
-      "id": "equ.ske.cos.005-i",
-      "es": "Costilla 5 (izquierdo)",
-      "la": "Costa 5",
-      "sys": "ske",
-      "layer": "oss"
-    },
-    {
       "id": "equ.ske.cos.005-d",
       "es": "Costilla 5 (derecho)",
-      "la": "Costa 5",
+      "la": "Costa V",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Quinta costilla del hemitórax derecho, caudal a la cuarta. Se extiende desde la articulación costovertebral a nivel de T4–T5 hacia ventral y se continúa con el quinto cartílago costal, que alcanza directamente el esternón; pertenece al grupo de costillas esternales.",
+        "descripcion": "Hueso par, alargado y arqueado, con extremidad vertebral, cuerpo y extremidad esternal. La cabeza presenta dos carillas articulares para los cuerpos de vértebras torácicas contiguas; el cuello conecta la cabeza con el tubérculo, cuya carilla se articula con el proceso transverso de la vértebra caudal correspondiente. El cuerpo es aplanado y curvo, con superficies externa e interna y bordes craneal y caudal. El extremo ventral se continúa con el quinto cartílago costal. Su forma participa en el contorno de la pared torácica y presenta variación gradual respecto de las costillas más craneales y caudales.",
+        "relaciones": "Dorsalmente se relaciona con los cuerpos vertebrales de T4 y T5 y con el proceso transverso de T5. Cranealmente limita con la cuarta costilla y caudalmente con la sexta, delimitando los espacios intercostales cuarto y quinto. La superficie externa se relaciona con fascia torácica y musculatura de la pared del tórax; la superficie interna con fascia endotorácica y pleura parietal. Cerca del borde caudal discurre el paquete vasculonervioso intercostal en el surco costal, cuando está desarrollado. Ventralmente, el quinto cartílago costal se dirige al esternón.",
+        "accidentes": "Cabeza (caput costae) con dos carillas articulares para las fóveas costales de T4 y T5, separadas por una cresta; cuello (collum costae); tubérculo (tuberculum costae) con carilla para el proceso transverso de T5; cuerpo (corpus costae) alargado, aplanado y curvado, con superficies externa e interna, bordes craneal y caudal y ángulo costal; surco costal próximo al borde caudal para el paquete vasculonervioso intercostal, de profundidad variable; extremidad esternal para la unión costocondral con el quinto cartílago.",
+        "articulaciones": "La cabeza se articula con las fóveas costales de los cuerpos de T4 y T5 y se relaciona con el disco intervertebral T4–T5 mediante la articulación de la cabeza de la costilla. El tubérculo se articula con el proceso transverso de T5 mediante la articulación costotransversa. La extremidad ventral se une al quinto cartílago costal por la unión costocondral; el cartílago establece articulación esternocostal con el esternón. Las articulaciones costovertebrales y costotransversas están reforzadas por ligamentos propios.",
+        "inserciones": "Los bordes craneal y caudal y las superficies adyacentes proporcionan fijación a los músculos intercostales externos e internos. En la superficie externa y región del ángulo se fijan fascículos de músculos de la pared torácica, incluidos componentes del iliocostal y de los elevadores de las costillas según su distribución. En el extremo vertebral se fijan ligamentos costovertebrales y costotransversos. El cartílago costal ofrece continuidad para fijaciones musculares y fasciales ventrales. La asignación de inserciones puntuales debe cotejarse con atlas equino o disección, evitando extrapolar detalles no confirmados de otras especies.",
+        "irrigacion": "La irrigación ósea procede de ramas periostales y nutricias de las arterias intercostales dorsales y ventrales correspondientes a la región del quinto espacio intercostal, con anastomosis en la pared torácica. Las ramas ventrales se conectan con el sistema de la arteria torácica interna y las dorsales con la circulación intercostal dorsal. El origen y calibre de las ramas nutricias pueden variar; no se atribuye una arteria nutricia exclusiva sin evidencia anatómica específica.",
+        "inervacion": "La sensibilidad del periostio y de los tejidos asociados se conduce principalmente por el nervio intercostal del quinto espacio (rama ventral de T5), con distribución segmentaria y posibles comunicaciones con nervios adyacentes. Las ramas musculares de los nervios intercostales proporcionan inervación motora a los músculos intercostales; el tejido óseo no posee inervación motora propia.",
+        "funcion": "Integra la pared osteocartilaginosa del tórax, contribuye a proteger los órganos intratorácicos y transmite fuerzas entre la columna vertebral y el esternón. Proporciona soporte e inserción a la musculatura intercostal y torácica y, mediante sus articulaciones costovertebrales, participa en los movimientos de la pared torácica durante la respiración.",
+        "especie": "En el caballo suelen existir 18 pares de costillas. Los primeros ocho pares son esternales y se conectan directamente con el esternón mediante sus cartílagos costales; la quinta costilla pertenece a este grupo. Las costillas presentan cambios graduales de longitud, curvatura y orientación a lo largo de la serie. Existe variación individual, por lo que la morfología precisa debe cotejarse con el espécimen equino y el atlas anatómico empleado.",
+        "clinica": "Las fracturas pueden provocar dolor torácico y, si existe desplazamiento, lesionar pleura, pulmón o vasos intercostales, con riesgo de neumotórax o hemorragia. La evaluación radiográfica debe localizar la lesión en cabeza, cuello, tubérculo, cuerpo o unión costocondral y valorar las estructuras intratorácicas adyacentes. El dolor intercostal puede limitar la expansión torácica y alterar la mecánica respiratoria.",
+        "referencias": "Dyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Sección «The Ribs and Sternum».\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7th ed. Thieme; 2020. Osteología torácica.\nSisson S. A Text-book of Veterinary Anatomy. Sección «The Skeleton of the Horse». https://www.gutenberg.org/files/75996/75996-h/75996-h.htm"
+      },
+      "revision": {
+        "estado": "incorporada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica incorporada conforme al protocolo ProClaVet; pendiente de revisión por el usuario. No implica validación independiente de un modelo 3D."
+      }
     },
     {
       "id": "equ.ske.cos.006-i",
