@@ -44,4 +44,4 @@ Se emplean equivalentes latinos de uso veterinario y nombres españoles descript
 
 Los diagramas vectoriales fueron dibujados desde cero para VETANATOMY 3D a partir de descripciones anatómicas escritas. No se copiaron ni trazaron láminas, fotografías ni figuras de las fuentes citadas. Las fuentes se citan por su contenido descriptivo y nomenclatural.
 
-**Limitación:** las siluetas simplifican la morfología para facilitar la orientación y no deben interpretarse como contornos anatómicos exactos. Antes de emplearlas como referencia morfométrica o clínica se requiere revisión por un anatomista y comparación con especímenes equinos.
+**Limitación:** las siluetas simplifican la morfología para facilitar la orientación; no están a escala y no deben interpretarse como contornos anatómicos exactos ni como modelo 3D. Antes de emplearlas como referencia morfométrica o clínica se requiere revisión por un anatomista y comparación con especímenes equinos.
