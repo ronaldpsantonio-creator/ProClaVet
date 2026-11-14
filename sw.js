@@ -1,7 +1,7 @@
 // ProClaVet - Service Worker sincronizado
-// v5: actualiza primero los archivos principales y conserva respaldo offline.
-const C="vetanatomy-v5";
-const CORE=["./","index.html","css/styles.css","js/app.js","data/equino.json","manifest.webmanifest"];
+// v6: incluye las láminas individuales del atlas y axis equinos.
+const C="vetanatomy-v6-c1-c2-plates";
+const CORE=["./","index.html","css/styles.css","js/app.js","data/equino.json","manifest.webmanifest","assets/laminas/atlas-equino-c1.svg","assets/laminas/axis-equino-c2.svg"];
 
 self.addEventListener("install",e=>{
  e.waitUntil(caches.open(C).then(c=>c.addAll(CORE)).then(()=>self.skipWaiting()));
