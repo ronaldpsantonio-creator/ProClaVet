@@ -27,3 +27,8 @@ input[type=range]{flex:1;min-width:0}
 .ly{padding:6px 0;border-bottom:1px solid var(--bd)}.ly label{margin:2px 0}
 .hid{display:none}
 @media(min-width:860px){main{grid-template-columns:1fr 390px;height:calc(100vh - 100px)}#vw{height:100%}aside{overflow:auto}}
+
+/* Láminas osteológicas individuales */
+.anatomy-plate{margin:12px 0;padding:8px;border:1px solid var(--bd);border-radius:10px;background:var(--bg)}
+.anatomy-plate img{display:block;width:100%;height:auto;max-height:560px;object-fit:contain;background:#f7f8f6;border-radius:6px}
+.anatomy-plate figcaption{margin-top:7px;color:var(--mu);font-size:12px;line-height:1.4}
