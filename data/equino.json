@@ -2266,9 +2266,9 @@
         "referencias": "Dyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Sección «The Ribs and Sternum».\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7th ed. Thieme; 2020. Osteología torácica.\nSisson S. A Text-book of Veterinary Anatomy. Sección «The Skeleton of the Horse». https://www.gutenberg.org/files/75996/75996-h/75996-h.htm"
       },
       "revision": {
-        "estado": "incorporada",
+        "estado": "verificada",
         "fecha": "2026-11-13",
-        "alcance": "Ficha anatómica incorporada conforme al protocolo ProClaVet; pendiente de revisión por el usuario. No implica validación independiente del modelo 3D."
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario. La confirmación corresponde al contenido de la ficha; no implica validación independiente de un modelo 3D."
       }
     },
     {
@@ -2292,24 +2292,62 @@
         "referencias": "Dyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Sección «The Ribs and Sternum».\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7th ed. Thieme; 2020. Osteología torácica.\nSisson S. A Text-book of Veterinary Anatomy. Sección «The Skeleton of the Horse». https://www.gutenberg.org/files/75996/75996-h/75996-h.htm"
       },
       "revision": {
-        "estado": "incorporada",
+        "estado": "verificada",
         "fecha": "2026-11-13",
-        "alcance": "Ficha anatómica incorporada conforme al protocolo ProClaVet; pendiente de revisión por el usuario. No implica validación independiente del modelo 3D."
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario. La confirmación corresponde al contenido de la ficha; no implica validación independiente de un modelo 3D."
       }
     },
     {
       "id": "equ.ske.cos.004-i",
       "es": "Costilla 4 (izquierdo)",
-      "la": "Costa 4",
+      "la": "Costa IV",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Cuarta costilla del hemitórax izquierdo, situada caudal a la tercera. Se extiende desde la articulación costovertebral a nivel de T3–T4 hacia ventral y se continúa con el cuarto cartílago costal, que alcanza directamente el esternón; corresponde a una costilla esternal.",
+        "descripcion": "Hueso par, alargado y arqueado, con extremidad vertebral, cuerpo y extremidad esternal. La cabeza presenta dos carillas para los cuerpos de vértebras torácicas contiguas; el cuello une la cabeza al tubérculo, cuya carilla se articula con el proceso transverso de la vértebra caudal del par. El cuerpo es aplanado, curvo y presenta superficies externa e interna y bordes craneal y caudal. El extremo ventral se une al cuarto cartílago costal. Su morfología sigue el patrón de las costillas torácicas medias craneales, con variación gradual de longitud y curvatura a lo largo de la serie.",
+        "relaciones": "Dorsalmente se relaciona con los cuerpos vertebrales de T3 y T4 y con el proceso transverso de T4. Cranealmente limita con la tercera costilla y caudalmente con la quinta, delimitando los espacios intercostales tercero y cuarto. La superficie externa se relaciona con músculos intercostales y planos musculofasciales de la pared torácica; la superficie interna con fascia endotorácica y pleura parietal. En el borde caudal transcurre el paquete vasculonervioso intercostal en el surco costal, cuando está desarrollado. Ventralmente, el cuarto cartílago costal se dirige al esternón.",
+        "accidentes": "Cabeza (caput costae) con dos carillas articulares para las fóveas costales de T3 y T4, separadas por una cresta; cuello (collum costae); tubérculo (tuberculum costae) con carilla para el proceso transverso de T4; cuerpo (corpus costae) curvado y aplanado, con superficies externa e interna, bordes craneal y caudal y ángulo costal; surco costal próximo al borde caudal para el paquete vasculonervioso intercostal, de profundidad variable; extremidad esternal para la unión costocondral con el cuarto cartílago.",
+        "articulaciones": "La cabeza se articula con las fóveas costales de los cuerpos de T3 y T4 y con el disco intervertebral T3–T4 mediante la articulación de la cabeza de la costilla. El tubérculo se articula con el proceso transverso de T4 mediante la articulación costotransversa. La extremidad ventral se une al cuarto cartílago costal mediante la unión costocondral; el cartílago establece articulación esternocostal con el esternón. Las articulaciones costovertebrales y costotransversas se refuerzan mediante ligamentos propios.",
+        "inserciones": "Los bordes craneal y caudal y las superficies adyacentes proporcionan fijación a los músculos intercostales externos e internos. En la superficie externa y región del ángulo se fijan fascículos de músculos de la pared torácica, entre ellos porciones del iliocostal y músculos elevadores de las costillas según su distribución. En la región vertebral se fijan ligamentos costovertebrales y costotransversos. El cartílago costal ofrece continuidad a fijaciones musculares y fasciales ventrales. Las inserciones específicas deben cotejarse con atlas equino o disección para evitar extrapolar detalles de otras especies.",
+        "irrigacion": "La irrigación ósea procede de ramas periostales y nutricias de las arterias intercostales dorsales y ventrales correspondientes a la región del cuarto espacio intercostal, con anastomosis en la pared torácica. Las ramas ventrales se conectan con el sistema de la arteria torácica interna y las dorsales con la circulación intercostal dorsal. El origen y calibre de las ramas nutricias pueden variar; no se asigna una arteria nutricia exclusiva sin evidencia específica.",
+        "inervacion": "La sensibilidad del periostio y tejidos asociados se conduce principalmente por el nervio intercostal del cuarto espacio (rama ventral de T4), con distribución segmentaria y posibles comunicaciones con nervios adyacentes. Las ramas musculares de los nervios intercostales proporcionan inervación motora a los músculos intercostales; el tejido óseo no posee inervación motora propia.",
+        "funcion": "Integra la pared osteocartilaginosa del tórax, contribuye a proteger los órganos intratorácicos y transmite fuerzas entre la columna vertebral y el esternón. Proporciona soporte e inserción a la musculatura intercostal y torácica y, mediante sus articulaciones costovertebrales, participa en los movimientos de la pared torácica durante la respiración.",
+        "especie": "En el caballo suelen existir 18 pares de costillas. Los primeros ocho pares son esternales y se conectan directamente con el esternón por sus cartílagos costales; la cuarta costilla pertenece a este grupo. Las costillas sucesivas muestran cambios graduales en longitud, curvatura y orientación. Existe variación individual y la configuración exacta debe cotejarse con el espécimen equino y el atlas utilizado.",
+        "clinica": "Las fracturas pueden causar dolor torácico y comprometer la pleura, el pulmón o los vasos intercostales, con riesgo de neumotórax o hemorragia según el desplazamiento. La evaluación radiográfica debe localizar la lesión en cabeza, cuello, tubérculo, cuerpo o unión costocondral y valorar la integridad de las estructuras intratorácicas adyacentes. El dolor intercostal puede limitar la expansión torácica.",
+        "referencias": "Dyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Sección «The Ribs and Sternum».\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7th ed. Thieme; 2020. Osteología torácica.\nSisson S. A Text-book of Veterinary Anatomy. Sección «The Skeleton of the Horse». https://www.gutenberg.org/files/75996/75996-h/75996-h.htm"
+      },
+      "revision": {
+        "estado": "incorporada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica incorporada conforme al protocolo ProClaVet; pendiente de revisión por el usuario. No implica validación independiente de un modelo 3D."
+      }
     },
     {
       "id": "equ.ske.cos.004-d",
       "es": "Costilla 4 (derecho)",
-      "la": "Costa 4",
+      "la": "Costa IV",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Cuarta costilla del hemitórax derecho, situada caudal a la tercera. Se extiende desde la articulación costovertebral a nivel de T3–T4 hacia ventral y se continúa con el cuarto cartílago costal, que alcanza directamente el esternón; corresponde a una costilla esternal.",
+        "descripcion": "Hueso par, alargado y arqueado, con extremidad vertebral, cuerpo y extremidad esternal. La cabeza presenta dos carillas para los cuerpos de vértebras torácicas contiguas; el cuello une la cabeza al tubérculo, cuya carilla se articula con el proceso transverso de la vértebra caudal del par. El cuerpo es aplanado, curvo y presenta superficies externa e interna y bordes craneal y caudal. El extremo ventral se une al cuarto cartílago costal. Su morfología sigue el patrón de las costillas torácicas medias craneales, con variación gradual de longitud y curvatura a lo largo de la serie.",
+        "relaciones": "Dorsalmente se relaciona con los cuerpos vertebrales de T3 y T4 y con el proceso transverso de T4. Cranealmente limita con la tercera costilla y caudalmente con la quinta, delimitando los espacios intercostales tercero y cuarto. La superficie externa se relaciona con músculos intercostales y planos musculofasciales de la pared torácica; la superficie interna con fascia endotorácica y pleura parietal. En el borde caudal transcurre el paquete vasculonervioso intercostal en el surco costal, cuando está desarrollado. Ventralmente, el cuarto cartílago costal se dirige al esternón.",
+        "accidentes": "Cabeza (caput costae) con dos carillas articulares para las fóveas costales de T3 y T4, separadas por una cresta; cuello (collum costae); tubérculo (tuberculum costae) con carilla para el proceso transverso de T4; cuerpo (corpus costae) curvado y aplanado, con superficies externa e interna, bordes craneal y caudal y ángulo costal; surco costal próximo al borde caudal para el paquete vasculonervioso intercostal, de profundidad variable; extremidad esternal para la unión costocondral con el cuarto cartílago.",
+        "articulaciones": "La cabeza se articula con las fóveas costales de los cuerpos de T3 y T4 y con el disco intervertebral T3–T4 mediante la articulación de la cabeza de la costilla. El tubérculo se articula con el proceso transverso de T4 mediante la articulación costotransversa. La extremidad ventral se une al cuarto cartílago costal mediante la unión costocondral; el cartílago establece articulación esternocostal con el esternón. Las articulaciones costovertebrales y costotransversas se refuerzan mediante ligamentos propios.",
+        "inserciones": "Los bordes craneal y caudal y las superficies adyacentes proporcionan fijación a los músculos intercostales externos e internos. En la superficie externa y región del ángulo se fijan fascículos de músculos de la pared torácica, entre ellos porciones del iliocostal y músculos elevadores de las costillas según su distribución. En la región vertebral se fijan ligamentos costovertebrales y costotransversos. El cartílago costal ofrece continuidad a fijaciones musculares y fasciales ventrales. Las inserciones específicas deben cotejarse con atlas equino o disección para evitar extrapolar detalles de otras especies.",
+        "irrigacion": "La irrigación ósea procede de ramas periostales y nutricias de las arterias intercostales dorsales y ventrales correspondientes a la región del cuarto espacio intercostal, con anastomosis en la pared torácica. Las ramas ventrales se conectan con el sistema de la arteria torácica interna y las dorsales con la circulación intercostal dorsal. El origen y calibre de las ramas nutricias pueden variar; no se asigna una arteria nutricia exclusiva sin evidencia específica.",
+        "inervacion": "La sensibilidad del periostio y tejidos asociados se conduce principalmente por el nervio intercostal del cuarto espacio (rama ventral de T4), con distribución segmentaria y posibles comunicaciones con nervios adyacentes. Las ramas musculares de los nervios intercostales proporcionan inervación motora a los músculos intercostales; el tejido óseo no posee inervación motora propia.",
+        "funcion": "Integra la pared osteocartilaginosa del tórax, contribuye a proteger los órganos intratorácicos y transmite fuerzas entre la columna vertebral y el esternón. Proporciona soporte e inserción a la musculatura intercostal y torácica y, mediante sus articulaciones costovertebrales, participa en los movimientos de la pared torácica durante la respiración.",
+        "especie": "En el caballo suelen existir 18 pares de costillas. Los primeros ocho pares son esternales y se conectan directamente con el esternón por sus cartílagos costales; la cuarta costilla pertenece a este grupo. Las costillas sucesivas muestran cambios graduales en longitud, curvatura y orientación. Existe variación individual y la configuración exacta debe cotejarse con el espécimen equino y el atlas utilizado.",
+        "clinica": "Las fracturas pueden causar dolor torácico y comprometer la pleura, el pulmón o los vasos intercostales, con riesgo de neumotórax o hemorragia según el desplazamiento. La evaluación radiográfica debe localizar la lesión en cabeza, cuello, tubérculo, cuerpo o unión costocondral y valorar la integridad de las estructuras intratorácicas adyacentes. El dolor intercostal puede limitar la expansión torácica.",
+        "referencias": "Dyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Sección «The Ribs and Sternum».\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7th ed. Thieme; 2020. Osteología torácica.\nSisson S. A Text-book of Veterinary Anatomy. Sección «The Skeleton of the Horse». https://www.gutenberg.org/files/75996/75996-h/75996-h.htm"
+      },
+      "revision": {
+        "estado": "incorporada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica incorporada conforme al protocolo ProClaVet; pendiente de revisión por el usuario. No implica validación independiente de un modelo 3D."
+      }
     },
     {
       "id": "equ.ske.cos.005-i",
