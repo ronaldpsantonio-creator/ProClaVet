@@ -1512,6 +1512,11 @@
         "especie": "En el caballo, la fórmula caudal suele describirse como aproximadamente 15–21 vértebras (con frecuencia se cita un promedio cercano a 18), pero el número varía entre individuos. Cd1 es la más craneal y suele conservar más rasgos de una vértebra típica que los segmentos distales. Puede existir fusión parcial entre S5 y Cd1; no debe interpretarse como regla universal.",
         "clinica": "La unión sacrococcígea y Cd1 son relevantes en traumatismos por tracción de la cola, luxaciones, fracturas y evaluación de la movilidad o sensibilidad caudal. Las lesiones pueden comprometer nervios periféricos y musculatura de la cola y asociarse con alteraciones de la movilidad, tono anal o función perineal. La evaluación por imagen debe considerar variaciones de número y fusión.",
         "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Región sacra y vértebras caudales.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Columna vertebral y cola.\n\nComputed tomography of the equine caudal spine and pelvis: Technique, image quality and anatomical variation in 56 clinical cases. Equine Veterinary Journal; 2025.\n\nSacrococcygeal luxation and complete tail amputation following a tail pull injury in a horse. Case report; 2019."
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación del modelo 3D."
       }
     },
     {
@@ -1533,6 +1538,11 @@
         "especie": "En el caballo, Cd2 forma parte de una serie caudal cuyo número total suele situarse aproximadamente entre 15 y 21, con variación individual. En comparación con Cd1, presenta reducción gradual de tamaño y de procesos. La transición no es idéntica en todos los caballos, por lo que la identificación debe basarse en la posición y morfología observada.",
         "clinica": "Puede verse afectada en traumatismos de la cola, fracturas, luxaciones y procesos degenerativos de las articulaciones caudales. La evaluación clínica considera dolor, inflamación, movilidad, sensibilidad y función de la cola. En estudios radiográficos o tomográficos debe evitarse extrapolar una morfología estándar a todos los individuos.",
         "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Vértebras caudales.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Columna vertebral y musculatura de la cola.\n\nIMAIOS. vet-Anatomy: Caudal vertebrae [Coccygeal]. Nomenclatura anatómica veterinaria."
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación del modelo 3D."
       }
     },
     {
@@ -1540,14 +1550,42 @@
       "es": "Vértebra caudal 3 (Cd3)",
       "la": "Vertebra caudalis 3",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Tercera vértebra caudal (Cd3), situada caudal a Cd2 en la porción proximal de la cola. Se encuentra en una zona de transición morfológica: mantiene el plan vertebral caudal, aunque los arcos y procesos comienzan a reducirse progresivamente.",
+        "descripcion": "Vértebra caudal proximal de tamaño menor que Cd1 y Cd2. Presenta un cuerpo vertebral alargado, con superficies articulares craneal y caudal; el arco y el foramen vertebral suelen conservarse, pero son más reducidos. Los procesos espinosos, transversos y articulares muestran reducción gradual y variación individual.",
+        "relaciones": "Cranealmente se articula con Cd2 y caudalmente con Cd4. Dorsalmente se relaciona con músculos sacrocaudales dorsales y fascias de la cola; ventralmente con los músculos sacrocaudales ventrales y el trayecto de los vasos caudales medianos. Los ramos de los nervios caudales discurren en los tejidos blandos adyacentes.",
+        "accidentes": "Cuerpo vertebral con dos extremos articulares; arco vertebral y foramen de menor calibre que en las primeras vértebras caudales; proceso espinoso dorsal bajo o reducido; procesos transversos laterales pequeños; procesos articulares menos prominentes. La presencia y el desarrollo de procesos hemales o arcos hemales dependen del nivel y del individuo: no deben asignarse como rasgo constante de Cd3 sin comprobar el espécimen.",
+        "articulaciones": "Se une cranealmente a Cd2 y caudalmente a Cd4 mediante discos intervertebrales y articulaciones interapofisarias cuando los procesos articulares están presentes. Los ligamentos longitudinales y los tejidos ligamentarios caudales estabilizan la serie y permiten movimientos limitados entre segmentos.",
+        "inserciones": "Ofrece puntos de fijación para fascículos de los músculos sacrocaudales dorsales y ventrales, intertransversarios caudales y tejido conjuntivo de la cola. Las inserciones se distribuyen sobre los procesos espinosos y transversos residuales y las superficies del cuerpo vertebral; su extensión disminuye hacia los segmentos distales.",
+        "irrigacion": "Irrigación por ramas segmentarias de la arteria caudal mediana y por pequeñas ramas musculares y periostales. El retorno venoso acompaña a los vasos caudales y se comunica con el plexo venoso regional. La distribución es segmentaria y variable; no se atribuye una arteria exclusiva a Cd3.",
+        "inervacion": "Se relaciona con el tercer nervio caudal (Co3), cuyos ramos dorsal y ventral contribuyen a la inervación segmentaria de músculos, piel y tejidos de la cola. Existe solapamiento con los ramos de segmentos vecinos y variación en la distribución periférica.",
+        "funcion": "Contribuye al soporte y a la movilidad de la porción proximal de la cola, transmite fuerzas entre Cd2 y Cd4 y sirve de apoyo a la musculatura responsable de elevar, deprimir y desviar lateralmente la cola.",
+        "especie": "En el caballo, las vértebras caudales presentan reducción progresiva del tamaño y de los elementos del arco desde la base hacia el extremo de la cola. Cd3 conserva más rasgos vertebrales que los segmentos medios y distales, pero el grado de reducción no es idéntico en todos los individuos. La fórmula caudal equina es variable y no debe inferirse a partir de un único ejemplar.",
+        "clinica": "Puede afectarse en traumatismos por tracción, contusiones, fracturas o luxaciones de la cola. La exploración debe valorar dolor, inflamación, movilidad y sensibilidad; la interpretación radiográfica debe considerar la reducción progresiva de los elementos vertebrales y la variación individual.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Columna vertebral y región caudal.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Vértebras y musculatura caudales.\n\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7th ed. Thieme; 2020. Sistema esquelético: columna vertebral.\n\nNomina Anatomica Veterinaria. 6th ed. World Association of Veterinary Anatomists; 2017."
+      }
     },
     {
       "id": "equ.ske.cau.004",
       "es": "Vértebra caudal 4 (Cd4)",
       "la": "Vertebra caudalis 4",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Cuarta vértebra caudal (Cd4), situada inmediatamente caudal a Cd3, en la porción proximal a media de la cola. Forma parte de la serie en la que se acentúa la simplificación progresiva de los elementos vertebrales.",
+        "descripcion": "Vértebra caudal más pequeña y simplificada que Cd1–Cd3. El cuerpo vertebral constituye el componente más constante y presenta superficies articulares craneal y caudal. El arco vertebral y el foramen pueden estar reducidos; los procesos espinosos, transversos y articulares son bajos, pequeños o poco diferenciados, con variación según el animal y el nivel exacto.",
+        "relaciones": "Cranealmente se articula con Cd3 y caudalmente con Cd5. Se encuentra rodeada por músculos caudales dorsales, ventrales e intertransversarios, fascias y tejido subcutáneo de la cola. En posición ventral se relaciona con el paquete vascular caudal mediano y, en los tejidos blandos regionales, con ramos de los nervios caudales.",
+        "accidentes": "Cuerpo vertebral relativamente alargado; superficies articulares en ambos extremos; arco y foramen vertebral de tamaño reducido y con grado de desarrollo variable; procesos espinosos y transversos pequeños; procesos articulares menos marcados que en los segmentos proximales. No se debe describir un arco hemal como constante en Cd4: los elementos hemales pueden variar en presencia, forma y nivel entre individuos.",
+        "articulaciones": "Articulación intervertebral craneal con Cd3 y caudal con Cd5 mediante discos fibrocartilaginosos. Las articulaciones interapofisarias pueden ser pequeñas o poco definidas conforme se reducen los procesos articulares. Los ligamentos longitudinales y los tejidos de sostén caudales contribuyen a mantener la continuidad de la serie.",
+        "inserciones": "Participa en la fijación de fascículos caudales de los músculos sacrocaudales dorsales y ventrales e intertransversarios, además de fascias y ligamentos locales. La reducción de los procesos limita la extensión de las áreas de inserción en comparación con Cd1–Cd3.",
+        "irrigacion": "Recibe ramas segmentarias de la arteria caudal mediana, con pequeños aportes musculares y periostales. El drenaje venoso se realiza por venas caudales acompañantes y conexiones del plexo venoso regional. La distribución vascular es variable y no se reconoce una rama arterial exclusiva para Cd4 en la descripción general.",
+        "inervacion": "Se asocia con el cuarto nervio caudal (Co4). Sus ramos dorsal y ventral participan en la inervación de la musculatura, tegumento y tejidos de la cola a este nivel; la distribución periférica puede solaparse con la de los nervios caudales adyacentes.",
+        "funcion": "Contribuye a mantener la continuidad ósea y la movilidad segmentaria de la cola. Transmite fuerzas entre Cd3 y Cd5 y proporciona soporte e inserción a los músculos que controlan la posición y los movimientos de la cola.",
+        "especie": "En el caballo, Cd4 muestra la reducción gradual característica de las vértebras caudales conforme se avanza distalmente. El grado de desarrollo del arco, foramen y procesos no es uniforme en todos los ejemplares. La identificación debe apoyarse en la posición dentro de la serie y en la comparación con vértebras vecinas, no en un rasgo aislado.",
+        "clinica": "Es susceptible a traumatismos de la cola, fracturas y lesiones articulares. La valoración clínica incluye palpación, dolor, movilidad y sensibilidad caudal. En radiografías deben considerarse la superposición de tejidos, el tamaño reducido de los elementos y las variaciones anatómicas individuales.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Columna vertebral y región caudal.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Vértebras caudales y musculatura de la cola.\n\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7th ed. Thieme; 2020. Sistema esquelético: columna vertebral.\n\nNomina Anatomica Veterinaria. 6th ed. World Association of Veterinary Anatomists; 2017."
+      }
     },
     {
       "id": "equ.ske.cau.005",
