@@ -1720,6 +1720,11 @@
         "especie": "En el caballo, la serie caudal suele comprender aproximadamente 15–21 vértebras, con variación individual. Hacia Cd9 se acentúa la reducción de arcos y procesos respecto de Cd1–Cd4, pero la transición depende del individuo. No debe inferirse la morfología ni el número total de vértebras a partir de una fórmula rígida.",
         "clinica": "Puede afectarse por traumatismos directos, tracción o compresión de la cola, con contusión, fractura o lesión intervertebral. La exploración debe valorar dolor focal, deformidad, movilidad y sensibilidad caudal. En radiografías o tomografía se recomienda comparar segmentos contiguos y distinguir la simplificación anatómica normal de una lesión.",
         "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Región caudal y columna vertebral.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Columna vertebral y musculatura caudal.\n\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7th ed. Thieme; 2020. Sistema esquelético: vértebras caudales.\n\nNomina Anatomica Veterinaria. 6th ed. World Association of Veterinary Anatomists; 2017."
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -1741,6 +1746,11 @@
         "especie": "En el caballo, la morfología de las vértebras caudales se simplifica progresivamente hacia el extremo de la cola. Cd10 suele mostrar reducción importante de los elementos del arco y de los procesos, pero el nivel exacto en que desaparecen varía entre individuos. La fórmula caudal equina es variable y no debe considerarse fija.",
         "clinica": "Puede sufrir fracturas, contusiones o lesiones por tracción de la cola. La evaluación clínica incluye palpación secuencial, dolor, deformidad, movilidad y sensibilidad. En estudios radiográficos o tomográficos, el pequeño tamaño y la reducción normal de los procesos deben considerarse para evitar confundir variantes anatómicas con lesiones.",
         "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Región caudal y columna vertebral.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Columna vertebral y musculatura caudal.\n\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7th ed. Thieme; 2020. Sistema esquelético: vértebras caudales.\n\nNomina Anatomica Veterinaria. 6th ed. World Association of Veterinary Anatomists; 2017."
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -1748,14 +1758,42 @@
       "es": "Vértebra caudal 11 (Cd11)",
       "la": "Vertebra caudalis 11",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Undécima vértebra caudal (Cd11), inmediatamente caudal a Cd10, en la porción distal de la cola del caballo. Se identifica mediante recuento desde la unión sacrococcígea y comparación con los segmentos vecinos; la fórmula caudal y la longitud de la cola presentan variación individual.",
+        "descripcion": "Vértebra caudal distal con reducción progresiva de los elementos vertebrales. El cuerpo vertebral constituye el componente más constante y conserva superficies articulares craneal y caudal. El arco y el foramen vertebral son muy reducidos o incompletos; los procesos espinosos, transversos y articulares pueden ser pequeños, residuales o no claramente distinguibles. La expresión de estos rasgos varía entre ejemplares.",
+        "relaciones": "Se articula cranealmente con Cd10 y caudalmente con Cd12. Está incluida en los tejidos blandos de la cola, en relación con fascículos distales de los músculos sacrocaudales, intertransversarios, fascias y tejido subcutáneo. En posición ventral se relaciona con los vasos caudales medianos y sus ramas; los ramos nerviosos caudales se distribuyen por los tejidos blandos regionales.",
+        "accidentes": "Cuerpo vertebral pequeño y alargado, con extremos articulares craneal y caudal; arco vertebral reducido o incompleto y foramen pequeño o de delimitación variable; procesos espinosos y transversos bajos o residuales; procesos articulares poco prominentes o ausentes en distinto grado. Los elementos hemales son variables a lo largo de la serie caudal y no deben considerarse accidentes constantes de Cd11 sin observación directa.",
+        "articulaciones": "Articulación intervertebral craneal con Cd10 y caudal con Cd12 mediante discos intervertebrales. Las articulaciones interapofisarias pueden estar muy reducidas o no ser evidentes debido a la simplificación de los procesos articulares. Los ligamentos longitudinales y el tejido conjuntivo regional contribuyen a la estabilidad de la serie.",
+        "inserciones": "Ofrece superficies limitadas para fijación de fascículos de los músculos sacrocaudales e intertransversarios distales y de fascias locales. Las inserciones pueden realizarse sobre el cuerpo y sobre procesos residuales cuando estos persisten. La asignación de una inserción concreta debe concordar con los accidentes realmente presentes en el ejemplar.",
+        "irrigacion": "La irrigación del cuerpo vertebral y del periostio procede de pequeñas ramas segmentarias del sistema de la arteria caudal mediana y de vasos musculares regionales. El drenaje venoso acompaña a las venas caudales y sus conexiones plexiformes. No se atribuye una rama arterial exclusiva a Cd11.",
+        "inervacion": "Se relaciona topográficamente con el undécimo nervio caudal (Co11). Sus ramos dorsales y ventrales contribuyen a la inervación segmentaria de la musculatura, piel y otros tejidos blandos de la cola; la distribución periférica puede solaparse con la de nervios vecinos. Esta relación topográfica no implica inervación directa del tejido óseo.",
+        "funcion": "Contribuye a mantener la continuidad axial y el soporte de la porción distal de la cola, transmitiendo fuerzas entre Cd10 y Cd12. Proporciona soporte a los tejidos blandos y superficies de fijación limitadas para musculatura y fascias regionales.",
+        "especie": "En el caballo, las vértebras caudales muestran simplificación progresiva hacia el extremo de la cola. Cd11 suele presentar reducción marcada del arco y de los procesos, pero el nivel exacto de desaparición de cada elemento varía individualmente. El número total de vértebras caudales equinas no es fijo.",
+        "clinica": "Puede sufrir contusiones, fracturas o lesiones por tracción y compresión de la cola. La exploración debe valorar dolor localizado, deformidad, movilidad y sensibilidad. En radiografías se deben comparar segmentos adyacentes y considerar el pequeño tamaño y la reducción anatómica normal de los procesos para no confundir variantes con lesiones.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Región caudal y columna vertebral.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Vértebras caudales y musculatura de la cola.\n\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7th ed. Thieme; 2020. Sistema esquelético: columna vertebral.\n\nNomina Anatomica Veterinaria. 6th ed. World Association of Veterinary Anatomists; 2017."
+      }
     },
     {
       "id": "equ.ske.cau.012",
       "es": "Vértebra caudal 12 (Cd12)",
       "la": "Vertebra caudalis 12",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Duodécima vértebra caudal (Cd12), inmediatamente caudal a Cd11, en la porción distal de la cola. Su identificación depende del recuento secuencial desde la base de la cola y de la comparación con Cd11 y Cd13, teniendo en cuenta la variabilidad de la fórmula caudal equina.",
+        "descripcion": "Vértebra caudal distal de morfología simplificada. El cuerpo vertebral es el elemento principal y mantiene las superficies articulares terminales. El arco y el foramen vertebral pueden ser mínimos, incompletos o difíciles de delimitar; los procesos espinosos, transversos y articulares se encuentran muy reducidos, son residuales o pueden faltar. No existe un patrón idéntico para todos los caballos.",
+        "relaciones": "Cranealmente se articula con Cd11 y caudalmente con Cd13. Se encuentra rodeada por musculatura sacrocaudal distal, pequeños fascículos intertransversarios, fascias y tejido subcutáneo. Ventralmente mantiene relación topográfica con el trayecto de los vasos caudales medianos y sus ramas; los nervios caudales discurren por los tejidos blandos adyacentes.",
+        "accidentes": "Cuerpo vertebral de dimensiones reducidas con extremos articulares craneal y caudal; arco y foramen vertebral muy reducidos o incompletos; procesos espinosos, transversos y articulares pequeños, residuales o no diferenciables. La presencia y forma de procesos/arcos hemales varía entre niveles y ejemplares, por lo que no debe darse por constante en Cd12.",
+        "articulaciones": "Se une cranealmente a Cd11 y caudalmente a Cd13 mediante discos intervertebrales. Las articulaciones interapofisarias pueden estar muy reducidas o no ser reconocibles si los procesos articulares han involucionado. Los ligamentos longitudinales y los tejidos conjuntivos regionales colaboran en la continuidad y estabilidad de la columna caudal.",
+        "inserciones": "Las superficies de fijación son limitadas por la reducción de los procesos. Puede recibir fascículos de los músculos sacrocaudales distales, intertransversarios y fascias regionales, insertados sobre el cuerpo o sobre relieves residuales cuando existan. No deben atribuirse inserciones específicas a procesos ausentes.",
+        "irrigacion": "Recibe pequeños aportes segmentarios de ramas del sistema de la arteria caudal mediana y de vasos musculares y periostales regionales. El retorno venoso se realiza por venas caudales acompañantes y conexiones del plexo venoso local. No se describe una arteria exclusiva para Cd12.",
+        "inervacion": "Se relaciona topográficamente con el duodécimo nervio caudal (Co12), cuyos ramos dorsales y ventrales contribuyen a la inervación segmentaria de la piel, musculatura y otros tejidos blandos de la cola. Puede existir solapamiento periférico con nervios caudales contiguos; no debe interpretarse como inervación propia del hueso.",
+        "funcion": "Participa en el soporte y la continuidad de la porción distal de la cola, transmitiendo fuerzas entre Cd11 y Cd13. El cuerpo vertebral sostiene los tejidos blandos y los elementos residuales, cuando están presentes, contribuyen a la fijación de estructuras musculares y conjuntivas.",
+        "especie": "En el caballo, Cd12 pertenece al tramo distal de la serie caudal, donde la simplificación vertebral suele ser marcada. La reducción de arcos y procesos progresa de forma variable y no permite establecer una morfología universal para este número vertebral. La fórmula caudal equina presenta variación individual.",
+        "clinica": "Es susceptible a traumatismos, fracturas y lesiones por tracción de la cola. La evaluación clínica incluye palpación secuencial, dolor, deformidad, movilidad y sensibilidad. La interpretación radiográfica debe considerar el tamaño reducido y la variación normal de los procesos, comparando con Cd11 y Cd13.",
+        "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Región caudal y columna vertebral.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Vértebras caudales y musculatura de la cola.\n\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7th ed. Thieme; 2020. Sistema esquelético: columna vertebral.\n\nNomina Anatomica Veterinaria. 6th ed. World Association of Veterinary Anatomists; 2017."
+      }
     },
     {
       "id": "equ.ske.cau.013",
