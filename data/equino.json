@@ -756,6 +756,11 @@
         "especie": "En el caballo, las alas del atlas son amplias y presentan una fosa atlántica ventral profunda. Cada ala puede presentar foramen alar y foramen transverso; el foramen alar comunica con la región del foramen vertebral lateral mediante un trayecto corto. El foramen transverso se encuentra en la base caudal del ala. La configuración y las comunicaciones de los forámenes deben observarse en el ejemplar, ya que pueden variar. El atlas equino carece de cuerpo vertebral libre y de un proceso espinoso típico.",
         "clinica": "La unión atlantooccipital y la atlantoaxial son esenciales para la movilidad y estabilidad craneocervical. Fracturas de las alas o arcos, alteraciones articulares y lesiones de ligamentos pueden comprometer la estabilidad y estructuras neurovasculares próximas. Los forámenes alar, transverso y vertebral lateral son referencias importantes al interpretar radiografías y tomografía de la región.",
         "referencias": "IMAIOS vet-Anatomy. C1 (Atlas), Horse – Osteology. Descripción morfológica y accidentes anatómicos equinos: https://www.imaios.cn/en/vet-anatomy/anatomical-structures/c1-11073892364\n\nUniversity of Minnesota, Large Animal Anatomy. Neck and Thorax – Cervical vertebrae; relaciones de forámenes y nervios cervicales: https://pressbooks.umn.edu/largeanimalanatomy/chapter/thorax/\n\nLa Región del Cuello del Caballo: Connotaciones Anátomo-Aplicativas: Una Revisión. Int. J. Morphol. 2014;32(4):1213–1220. Osteología cervical equina: https://www.scielo.cl/scielo.php?pid=S0717-95022014000400015&script=sci_arttext&tlng=en\n\nSisson S. A Text-book of Veterinary Anatomy. The Atlas; descripción clásica del atlas equino: https://www.gutenberg.org/files/75996/75996-h/75996-h.htm\n\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals: Textbook and Colour Atlas. 6th ed. Referencia osteológica indicada por IMAIOS."
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -777,6 +782,11 @@
         "especie": "En el caballo, el axis se caracteriza por un dens robusto y una apófisis espinosa alta y prominente. Las superficies articulares craneales son amplias y están relacionadas con el dens; su superficie articular ventral es continua con las superficies articulares craneales en el caballo. La porción caudal conserva características generales de las vértebras cervicales. La configuración de los forámenes laterales y la relación con el segundo nervio cervical deben estudiarse en vistas y ejemplares equinos, pues la osificación de estructuras ligamentarias puede completar ciertos límites.",
         "clinica": "La articulación atlantoaxial es fundamental para la rotación de la cabeza y depende de la integridad del dens, las superficies articulares y los ligamentos estabilizadores. Fracturas del dens o del proceso espinoso, alteraciones del desarrollo, inestabilidad o traumatismos pueden comprometer la médula espinal y los nervios cervicales. La evaluación de la unión craneocervical requiere correlación con examen neurológico e imágenes diagnósticas, especialmente radiografía y tomografía cuando estén indicadas.",
         "referencias": "IMAIOS vet-Anatomy. C2 (Axis), Horse – Osteology. Descripción del dens y de las superficies articulares craneales equinas: https://www.imaios.cn/en/vet-anatomy/anatomical-structures/c2-11073892388\n\nHenson FMD. Equine Neck and Back Pathology: Diagnosis and Treatment. 2nd ed. Wiley-Blackwell. Sección “Atlas and Axis, C1 and C2”; desarrollo del dens, superficies articulares y forámenes laterales.\n\nLa Región del Cuello del Caballo: Connotaciones Anátomo-Aplicativas: Una Revisión. International Journal of Morphology. 2014;32(4):1213–1220. Osteología cervical equina: https://www.scielo.cl/scielo.php?pid=S0717-95022014000400015&script=sci_arttext&tlng=en\n\nComparative quantitative analysis of osseous anatomy of the craniovertebral junction of tiger, horse, deer, and humans. Anatomical Record. Estudio comparativo de la unión craneovertebral equina: https://pmc.ncbi.nlm.nih.gov/articles/PMC3190428/\n\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals: Textbook and Colour Atlas. 6th ed. Schattauer. Referencia osteológica veterinaria citada por IMAIOS."
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -798,6 +808,11 @@
         "especie": "En el caballo, C3 pertenece al grupo de vértebras cervicales típicas C3–C5. Se caracteriza por un cuerpo relativamente largo, proceso espinoso bajo, cresta ventral marcada y procesos transversos bifurcados con tubérculo ventral craneal y tubérculo dorsal caudal. Presenta foramen transverso, a diferencia de C7 en el caballo. C3, C4 y C5 son muy semejantes en radiografías y no siempre pueden diferenciarse con seguridad sin orientación anatómica y referencias de posición. Existe variación individual; no se deben trasladar a C3 las modificaciones particulares de C6 o C7.",
         "clinica": "La región C3–C5 puede verse afectada por alteraciones degenerativas de las articulaciones de los procesos articulares, cambios del canal vertebral y lesiones que comprometen las raíces nerviosas o la médula espinal. La estenosis cervical y la mielopatía vertebral cervical equina pueden producir signos neurológicos de incoordinación y alteraciones de la marcha. El foramen transverso y el trayecto de los vasos vertebrales son referencias importantes para interpretar estudios de imagen y planificar procedimientos. La identificación radiográfica de C3 debe hacerse con cuidado porque C3–C5 presentan morfología muy parecida.",
         "referencias": "Henson FMD (ed.). Equine Neck and Back Pathology: Diagnosis and Treatment. 2nd ed. Wiley-Blackwell; 2018. Capítulo 1, “The Normal Anatomy of the Neck”: morfología de C3–C7, cuerpo, cresta ventral, procesos transversos bifurcados y forámenes transversos: https://onlinelibrary.wiley.com/doi/10.1002/9781118974520.ch1\n\nLa Región del Cuello del Caballo: Connotaciones Anátomo-Aplicativas: Una Revisión. International Journal of Morphology. 2014;32(4):1213–1220. Osteología y articulaciones cervicales equinas: https://www.scielo.cl/scielo.php?pid=S0717-95022014000400015&script=sci_arttext&tlng=en\n\nUniversity of Minnesota. Large Animal Anatomy: Neck and Thorax. Características de las vértebras cervicales típicas y forámenes transversos: https://pressbooks.umn.edu/largeanimalanatomy/chapter/thorax/\n\nA Radiographic Technique for Assessment of Morphologic Variations of the Equine Caudal Cervical Spine. Animals. 2020;10(4):667. Describe la similitud radiográfica de C3–C5 y las referencias para identificarlas: https://pmc.ncbi.nlm.nih.gov/articles/PMC7222808/\n\nAnalysis of equine cervical spine using three-dimensional computed tomographic reconstruction. Veterinary Research Communications. 2012. Reconstrucción tridimensional de accidentes anatómicos de C3: https://doi.org/10.1080/09712119.2011.621532"
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -819,6 +834,11 @@
         "especie": "En el caballo, C4 pertenece al grupo de vértebras cervicales típicas C3–C5. Presenta proceso espinoso bajo, cresta ventral marcada y procesos transversos con tubérculos dorsal y ventral. La revisión osteológica de la región cervical equina describe para C4 una lámina ventral del proceso transverso dividida en una cúspide craneal y otra caudal, configuración denominada tricuspídea. C1–C6 poseen foramen transverso, por el que pasan vasos vertebrales. C3, C4 y C5 son muy semejantes en estudios radiográficos y pueden ser difíciles de distinguir sin referencias de posición. La forma y simetría de los procesos pueden variar entre individuos.",
         "clinica": "Las articulaciones de los procesos articulares cervicales, incluidos los segmentos C3–C4 y C4–C5, pueden presentar remodelación, osteofitos y cambios degenerativos asociados con dolor y restricción de movilidad cervical. Alteraciones del canal vertebral o de los forámenes intervertebrales pueden afectar la médula espinal o las raíces nerviosas. La estenosis cervical y la mielopatía vertebral cervical equina pueden manifestarse con incoordinación y alteraciones de la marcha. El foramen transverso y el trayecto de los vasos vertebrales son referencias relevantes para la interpretación de radiografías y tomografía. La semejanza morfológica entre C3–C5 exige una identificación cuidadosa.",
         "referencias": "La Región del Cuello del Caballo: Connotaciones Anátomo-Aplicativas: Una Revisión. International Journal of Morphology. 2014;32(4):1213–1220. Describe la osteología cervical equina y la configuración tricuspídea de C4: https://www.scielo.cl/scielo.php?pid=S0717-95022014000400015&script=sci_arttext&tlng=en\n\nHenson FMD (ed.). Equine Neck and Back Pathology: Diagnosis and Treatment. 2nd ed. Wiley-Blackwell; 2018. Capítulo 1, “The Normal Anatomy of the Neck”: vértebras cervicales C3–C7, procesos transversos, cresta ventral, forámenes y articulaciones: https://onlinelibrary.wiley.com/doi/10.1002/9781118974520.ch1\n\nA Radiographic Technique for Assessment of Morphologic Variations of the Equine Caudal Cervical Spine. Animals. 2020;10(4):667. Documenta la similitud radiográfica de C3–C5 y la identificación por referencias topográficas: https://www.mdpi.com/2076-2615/10/4/667\n\nCharacterization of bony changes localized to the cervical articular processes in a mixed population of horses. BMC Veterinary Research. 2019. Describe cambios óseos de los procesos articulares cervicales equinos: https://pmc.ncbi.nlm.nih.gov/articles/PMC6762202/\n\nBack health of Swiss riding horses. Anatomy of the equine cervical spine. 2025. Resumen morfológico de las siete vértebras cervicales y sus procesos: https://www.aramis.admin.ch/Dokument.aspx?DocumentID=67974"
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -840,6 +860,11 @@
         "especie": "En el caballo, C5 pertenece al grupo de vértebras cervicales típicas, aunque se ubica en transición hacia el segmento caudal más especializado C6–C7. Presenta cuerpo alargado, proceso espinoso relativamente corto, cresta ventral marcada y procesos transversos con tubérculos dorsal y ventral. C1–C6 poseen foramen transverso, a diferencia de C7 en el caballo. Los procesos transversos de C3–C6 son bifurcados y oblicuos. C3, C4 y C5 son muy semejantes entre sí y su identificación en radiografías requiere referencias topográficas; la palpación progresiva de los procesos transversos desde el atlas puede ayudar a localizar los niveles. Existe variación individual.",
         "clinica": "La región C5–C6 es clínicamente relevante por la proximidad del foramen intervertebral, el nervio espinal y estructuras vasculares vertebrales. La remodelación degenerativa de los procesos articulares, la reducción del espacio foraminal y otras alteraciones cervicales pueden contribuir a dolor, radiculopatía o compresión neurológica. La mielopatía vertebral cervical equina puede asociarse con estenosis del canal vertebral y manifestarse con incoordinación y alteraciones de la marcha. La interpretación de radiografías, tomografía y otros estudios debe considerar la variación morfológica y la estrecha relación entre estructuras óseas, nerviosas y vasculares.",
         "referencias": "Henson FMD (ed.). Equine Neck and Back Pathology: Diagnosis and Treatment. 2nd ed. Wiley-Blackwell; 2018. Capítulo 1, “The Normal Anatomy of the Neck”: morfología de C3–C6, procesos transversos bifurcados, tubérculos y forámenes transversos: https://onlinelibrary.wiley.com/doi/10.1002/9781118974520.ch1\n\nLa Región del Cuello del Caballo: Connotaciones Anátomo-Aplicativas: Una Revisión. International Journal of Morphology. 2014;32(4):1213–1220. Osteología de la región cervical equina: https://www.scielo.cl/scielo.php?pid=S0717-95022014000400015&script=sci_arttext&tlng=en\n\nAnatomical Insights Into the Equine Cervical Intervertebral Foramina: Implications for Veterinary Practice. Anatomia, Histologia, Embryologia. 2026. Describe relaciones óseas, nerviosas y vasculares en los niveles C5–C6 y C6–C7: https://pmc.ncbi.nlm.nih.gov/articles/PMC13370843/\n\nA Radiographic Technique for Assessment of Morphologic Variations of the Equine Caudal Cervical Spine. Animals. 2020;10(4):667. Describe referencias para localizar C3, C4 y C5 en el caballo: https://www.mdpi.com/2076-2615/10/4/667\n\nUniversity of Minnesota. Large Animal Anatomy: Neck and Thorax. Características de las vértebras cervicales típicas y contenido de los forámenes transversos: https://pressbooks.umn.edu/largeanimalanatomy/chapter/thorax/"
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -861,6 +886,11 @@
         "especie": "En Equus ferus caballus, C6 es una vértebra cervical atípica, reconocible por su lámina ventral bilateral, una proyección ósea que se prolonga a lo largo del borde ventrolateral del cuerpo y presenta tubérculos ventrales craneal y caudal. Esta estructura es característica de C6, aunque puede mostrar variaciones congénitas: ausencia parcial o completa, asimetría o desplazamiento hacia C7 y, con menor frecuencia, hacia otros niveles. C6 también posee foramen transverso; en el caballo, los forámenes transversos se encuentran normalmente en C1–C6, mientras que C7 carece de ellos. El proceso espinoso es más desarrollado que en C3–C5. La morfología debe evaluarse bilateralmente y considerando variaciones individuales.",
         "clinica": "La región C5–C6 y C6–C7 es importante en la evaluación de dolor cervical, enfermedad articular degenerativa, estrechamiento foraminal y mielopatía vertebral cervical equina. La proximidad de los procesos articulares, forámenes intervertebrales, nervios espinales y vasos vertebrales exige identificar correctamente el nivel antes de interpretar radiografías, tomografía u otros estudios. La remodelación ósea puede alterar el espacio disponible para estructuras nerviosas y contribuir a signos de radiculopatía o disfunción neurológica.",
         "referencias": "Henson FMD (ed.). Equine Neck and Back Pathology: Diagnosis and Treatment. 2nd ed. Wiley-Blackwell; 2018. Capítulo 1, anatomía normal del cuello equino y variaciones morfológicas de C3–C7.\n\nLa Región del Cuello del Caballo: Connotaciones Anátomo-Aplicativas: Una Revisión. International Journal of Morphology. 2014;32(4):1213–1220. Osteología de la región cervical equina: https://www.scielo.cl/scielo.php?pid=S0717-95022014000400015&script=sci_arttext&tlng=en\n\nAnatomical Insights Into the Equine Cervical Intervertebral Foramina: Implications for Veterinary Practice. Anatomia, Histologia, Embryologia. 2026. Relaciones anatómicas y clínicas de los forámenes intervertebrales caudales: https://pmc.ncbi.nlm.nih.gov/articles/PMC13370843/\n\nA Radiographic Technique for Assessment of Morphologic Variations of the Equine Caudal Cervical Spine. Animals. 2020;10(4):667. Variaciones morfológicas y localización radiográfica de vértebras cervicales caudales: https://www.mdpi.com/2076-2615/10/4/667\n\nMorphology of the Ventral Process of the Sixth Cervical Vertebra in Extinct and Extant Equus: Functional Implications. Animals. 2023;13(10):1672. Morfología, tubérculos ventrales y función de la proyección ventral de C6: https://pmc.ncbi.nlm.nih.gov/articles/PMC10215204/\n\nDeRouen A et al. Prevalence of Anatomical Variation of the Sixth Cervical Vertebra and Association with Vertebral Canal Stenosis and Articular Process Osteoarthritis in the Horse. Veterinary Radiology & Ultrasound. 2016. Variaciones de la lámina ventral de C6: https://pubmed.ncbi.nlm.nih.gov/26915973/"
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -882,6 +912,11 @@
         "especie": "En el caballo, C7 es la última vértebra cervical, carece normalmente de foramen transverso y posee procesos transversos no bifurcados y un proceso espinoso dorsal relativamente prominente. Puede presentar una faceta costal caudoventral rudimentaria para la cabeza de la primera costilla, pero su desarrollo es variable. Se han descrito variaciones anatómicas en C7, incluidas proyecciones ventrales o forámenes anómalos asociados a la transposición de componentes de la lámina ventral de C6 cuando esta es hipoplásica o ausente. Por ello, la ausencia del foramen transverso es la configuración normal, pero las variantes deben considerarse al interpretar imágenes.",
         "clinica": "La unión C6–C7 y C7–T1 es importante en la evaluación de enfermedad articular degenerativa, estrechamiento foraminal, radiculopatía y mielopatía vertebral cervical equina. El proceso espinoso de C7 puede variar considerablemente y no debe confundirse automáticamente con fragmentos óseos o proliferación patológica. Las variaciones de la lámina ventral de C6 pueden acompañarse de proyecciones ventrales o estructuras foraminales atípicas en C7, lo que puede alterar la interpretación radiográfica o tomográfica. La evaluación debe identificar correctamente C6, C7 y T1 y considerar la variación individual.",
         "referencias": "Henson FMD (ed.). Equine Neck and Back Pathology: Diagnosis and Treatment. 2nd ed. Wiley-Blackwell; 2018. Capítulo 1, “The Normal Anatomy of the Neck”: proceso espinoso de C7, procesos transversos no bifurcados y ausencia normal de foramen transverso.\n\nUniversity of Minnesota. Large Animal Anatomy: Neck and Thorax. Características de las vértebras cervicales equinas y ausencia de foramen transverso en C7: https://pressbooks.umn.edu/largeanimalanatomy/chapter/thorax/\n\nVeraa S, et al. Ex vivo computed tomographic evaluation of morphology variations in equine cervical vertebrae. Veterinary Radiology & Ultrasound. 2016. Variaciones morfológicas de C6–C7 y transposición de estructuras: https://pubmed.ncbi.nlm.nih.gov/27438135/\n\nAnatomical Insights Into the Equine Cervical Intervertebral Foramina: Implications for Veterinary Practice. Anatomia, Histologia, Embryologia. 2026. Anatomía de los forámenes intervertebrales C5–C6 y C6–C7: https://pmc.ncbi.nlm.nih.gov/articles/PMC13370843/\n\nShould cervical radiographs be included in a pre-purchase examination? Equine Veterinary Education. Variaciones morfológicas de C7 y transposición de la lámina ventral de C6: https://beva.onlinelibrary.wiley.com/doi/10.1111/eve.13941"
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -903,6 +938,11 @@
         "especie": "En el caballo, T1 es una vértebra de transición cervicotorácica, con cuerpo relativamente ancho, proceso espinoso alto y facetas costales pares. La primera costilla es bilateral: existe una primera costilla derecha y una izquierda. En cada lado, su cabeza articula mediante la faceta craneal con C7 y mediante la faceta caudal con T1, incluyendo el disco C7–T1; el tubérculo articula con el proceso transverso de T1 del mismo lado. No debe describirse la primera costilla como articulada exclusivamente con T1. Se han descrito variaciones morfológicas en C6, C7, T1 y las primeras costillas, por lo que debe evaluarse cada lado por separado.",
         "clinica": "T1 es clave para localizar la unión cervicotorácica. La evaluación radiográfica debe identificar por separado el lado derecho y el izquierdo, ya que pueden existir anomalías unilaterales o bilaterales de C6, C7, T1 y de la primera costilla. Las alteraciones de las articulaciones C7–T1, costovertebrales y costotransversas pueden contribuir al dolor cervicotorácico. La escápula puede superponerse a la región y dificultar la visualización. No se debe asumir simetría perfecta: registrar por separado las facetas, costillas y variantes de cada lado.",
         "referencias": "Dyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Anatomía general de las vértebras torácicas y articulaciones costovertebrales.\n\nSisson S, Grossman JD. The Anatomy of the Domestic Animals. 5th ed. W.B. Saunders; 1975. Descripción clásica de T1 equina: cuerpo ancho y aplanado, cabeza craneal, fosa caudal profunda, proceso espinoso y facetas costales.\n\nSantinelli I, Beccati F, Arcelli R, Pepe M. Anatomical variation of the spinous and transverse processes in the caudal cervical vertebrae and the first thoracic vertebra in horses. Equine Veterinary Journal. 2016;48(1):45–49. doi:10.1111/evj.12397. https://pubmed.ncbi.nlm.nih.gov/25471336/\n\nRadiological Methods for the Imaging of Congenital Malformations of C6–T1, the First and Second Sternal Ribs and Development of a Classification System, Demonstrated in Warmblood Horses. Animals. 2023;13(23):3732. https://pmc.ncbi.nlm.nih.gov/articles/PMC10705149/\n\nUniversity of Minnesota. Large Animal Anatomy: Neck and Thorax. Referencia docente para anatomía regional del cuello y tórax equinos. https://pressbooks.umn.edu/largeanimalanatomy/chapter/thorax/"
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -924,6 +964,11 @@
         "especie": "En el caballo, T2 forma parte de la región torácica craneal. Las vértebras torácicas equinas suelen ser 18, aunque existen variaciones. Los procesos espinosos de T2 a T15 se inclinan generalmente hacia caudal; la orientación cambia en la región anticlinal, habitualmente alrededor de T16. La segunda costilla existe como par: derecha e izquierda. La cabeza de cada segunda costilla articula con T1 y T2 y con el disco intervertebral T1–T2; el tubérculo articula con el proceso transverso de T2 del mismo lado. Se debe describir cada lado por separado y considerar variaciones individuales.",
         "clinica": "Las articulaciones costovertebrales y costotransversas torácicas craneales soportan cargas relacionadas con la suspensión del tronco entre los miembros torácicos y con la respiración. La evaluación radiográfica o tomográfica debe revisar por separado derecha e izquierda, la cabeza y el tubérculo de la segunda costilla y sus superficies articulares en T1 y T2. Cambios degenerativos, remodelación ósea, asimetrías o variantes congénitas pueden afectar la interpretación. La escápula y los tejidos de la cruz pueden superponerse y dificultar la visualización. La inclinación caudal del proceso espinoso es característica regional y no constituye por sí sola una lesión.",
         "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Atlas del esqueleto axial equino: facetas costales del cuerpo y procesos transversos y articulación de las costillas.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Articulaciones costovertebrales y costotransversas; cabeza costal y tubérculo.\n\nUniversity of Minnesota. CVM Large Animal Anatomy: Neck and Thorax. https://pressbooks.umn.edu/largeanimalanatomy/chapter/thorax/\n\nFunctional anatomy of the equine thoracolumbar spine related to equine back rehabilitation. Equine Rehabilitation Journal. 2025. https://doi.org/10.1016/j.eqre.2025.100027\n\nSisson S, Grossman JD. The Anatomy of the Domestic Animals. 5th ed. W.B. Saunders; 1975."
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -945,6 +990,11 @@
         "especie": "En el caballo, la columna torácica suele estar formada por 18 vértebras, con variación individual descrita de 17 a 19. T3 pertenece al grupo de vértebras torácicas craneales típicas. Los procesos espinosos aumentan de longitud desde las primeras vértebras torácicas hacia T3–T4; los procesos de T2 a T15 suelen inclinarse caudalmente. T3 se encuentra dentro de la región craneal de la cruz, pero el punto más alto de la cruz suele corresponder a los procesos espinosos de T4–T5 (con variación). La tercera costilla es par: cabeza y tubérculo derechos articulan con las superficies derechas, y los izquierdos con las izquierdas. La cabeza de cada tercera costilla articula con T2, el disco T2–T3 y T3; su tubérculo articula con el proceso transverso de T3 ipsilateral.",
         "clinica": "T3 forma parte de la región torácica craneal y de transición hacia la cruz. La evaluación radiográfica o tomográfica debe revisar por separado ambos lados, las fóveas costales del cuerpo y del proceso transverso, y la cabeza y el tubérculo de la tercera costilla correspondiente. La superposición de la escápula y de tejidos blandos de la cruz puede dificultar la interpretación de imágenes. La proximidad de procesos espinosos torácicos es relevante al valorar desmitis supraespinosa y enfermedad de procesos espinosos dorsales (kissing spines); el diagnóstico requiere correlación entre signos clínicos e imagen y no debe basarse únicamente en la forma ósea. Variantes anatómicas y asimetrías deben registrarse sin asumir simetría perfecta.",
         "referencias": "Sisson S, Grossman JD. The Anatomy of the Domestic Animals. 5th ed. W.B. Saunders; 1975. Sección de vértebras torácicas equinas: cuerpos, fóveas costales, procesos transversos y progresión de longitud de los procesos espinosos.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Anatomía de vértebras torácicas y articulaciones costovertebrales y costotransversas.\n\nUniversity of Minnesota. Large Animal Anatomy: Neck and Thorax. Descripción de vértebras torácicas equinas, costillas y articulaciones costovertebrales: https://pressbooks.umn.edu/largeanimalanatomy/chapter/thorax/\n\nFunctional anatomy of the equine thoracolumbar spine related to equine back rehabilitation. Equine Rehabilitation Journal. 2025. Descripción de 18 vértebras torácicas, orientación de procesos espinosos y región anticlinal: https://doi.org/10.1016/j.eqre.2025.100027\n\nA text-book of veterinary anatomy. The Skeleton of the Horse, Thoracic Vertebrae. Descripción clásica de la morfología seriada de las vértebras torácicas equinas: https://www.gutenberg.org/files/75996/75996-h/75996-h.htm"
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -966,6 +1016,11 @@
         "especie": "En el caballo, la columna torácica suele presentar 18 vértebras, aunque existen variaciones individuales. T4 pertenece a la región torácica craneal y presenta un proceso espinoso alto, característico de la región de la cruz. La longitud y orientación de los procesos espinosos varían en sentido craneocaudal; en las vértebras torácicas craneales suelen inclinarse caudalmente. T4 se encuentra cerca del área donde los procesos espinosos alcanzan gran desarrollo y contribuyen a la altura de la cruz; el punto más alto puede variar entre individuos y suele situarse alrededor de T4–T5. La cuarta costilla es par: la cabeza y el tubérculo derechos articulan con las superficies derechas, y los izquierdos con las izquierdas. La cabeza de cada cuarta costilla articula con T3, el disco T3–T4 y T4; su tubérculo articula con el proceso transverso de T4 ipsilateral.",
         "clinica": "T4 es relevante en la evaluación de la región torácica craneal y de la cruz. En radiografías y estudios tomográficos deben diferenciarse las articulaciones costovertebrales de las costotransversas, revisando por separado el lado derecho y el izquierdo y distinguiendo la cabeza del tubérculo de la cuarta costilla. La superposición de la escápula y de tejidos blandos puede dificultar la evaluación. La región de los procesos espinosos torácicos craneales puede verse afectada por desmitis del ligamento supraespinoso y por enfermedad de procesos espinosos dorsales; cualquier hallazgo de imagen debe correlacionarse con exploración clínica y signos de dolor. Las variantes morfológicas y asimetrías deben registrarse sin asumir simetría perfecta.",
         "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Esqueleto axial equino: vértebras torácicas, costillas y articulaciones costovertebrales.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Anatomía de las vértebras torácicas y articulaciones costovertebrales y costotransversas.\n\nSisson S, Grossman JD. The Anatomy of the Domestic Animals. 5th ed. W.B. Saunders; 1975. Descripción de las vértebras torácicas y de la morfología del esqueleto axial equino.\n\nUniversity of Minnesota. Large Animal Anatomy: Neck and Thorax. Anatomía regional del tórax y articulaciones costales: https://pressbooks.umn.edu/largeanimalanatomy/chapter/thorax/\n\nFunctional anatomy of the equine thoracolumbar spine related to equine back rehabilitation. Equine Rehabilitation Journal. 2025. Referencia complementaria sobre la organización funcional de la columna toracolumbar equina: https://doi.org/10.1016/j.eqre.2025.100027"
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -987,6 +1042,11 @@
         "especie": "En el caballo, la columna torácica suele estar formada por 18 vértebras, aunque se describen variaciones individuales. T5 pertenece a la región torácica craneal y sus procesos espinosos, altos y generalmente inclinados caudalmente, contribuyen al relieve de la cruz. La altura máxima de la cruz no corresponde a un único nivel invariable y puede variar entre individuos. La quinta costilla es par: la cabeza y el tubérculo derechos articulan con superficies derechas, y los izquierdos con superficies izquierdas. La cabeza de cada quinta costilla se articula con T4, el disco T4–T5 y T5; su tubérculo articula con el proceso transverso de T5 ipsilateral.",
         "clinica": "T5 es un nivel de referencia para la evaluación de la región torácica craneal, la cruz y las articulaciones de la quinta costilla. En radiografías o tomografía deben evaluarse por separado ambos lados y distinguirse la articulación costovertebral de la costotransversa, así como la cabeza del tubérculo costal. La superposición de la escápula y de tejidos blandos puede limitar la interpretación de la región. Los procesos espinosos torácicos craneales pueden estar implicados en desmitis del ligamento supraespinoso y enfermedad de procesos espinosos dorsales; los hallazgos deben correlacionarse con exploración clínica y signos de dolor. Deben documentarse variantes y asimetrías sin presuponer simetría perfecta.",
         "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Esqueleto axial equino: vértebras torácicas, costillas y articulaciones costales.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Anatomía de las vértebras torácicas y articulaciones costovertebrales y costotransversas.\n\nSisson S, Grossman JD. The Anatomy of the Domestic Animals. 5th ed. W.B. Saunders; 1975. Descripción de las vértebras torácicas y del esqueleto axial de los équidos.\n\nUniversity of Minnesota. Large Animal Anatomy: Neck and Thorax. Anatomía regional del tórax y articulaciones costales: https://pressbooks.umn.edu/largeanimalanatomy/chapter/thorax/"
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -1008,6 +1068,11 @@
         "especie": "En el caballo, la fórmula torácica habitual es de 18 vértebras, con variaciones individuales descritas. T6 pertenece a la región torácica craneal; sus procesos espinosos son altos y generalmente se inclinan caudalmente en esta porción de la columna. Contribuye al relieve dorsal de la cruz, cuya altura máxima no corresponde a un nivel único e invariable y puede variar entre individuos. La sexta costilla es par: la cabeza y el tubérculo derechos articulan con superficies derechas y los izquierdos con superficies izquierdas. La cabeza de cada sexta costilla se articula con T5, el disco T5–T6 y T6; su tubérculo articula con el proceso transverso de T6 ipsilateral.",
         "clinica": "T6 es un nivel de referencia para la evaluación de la región torácica craneal, la cruz y las articulaciones de la sexta costilla. En radiografías y tomografía deben evaluarse por separado los lados derecho e izquierdo, diferenciando la articulación costovertebral de la costotransversa y la cabeza del tubérculo costal. La superposición de la escápula y de tejidos blandos puede limitar la valoración de esta región. Los procesos espinosos torácicos craneales pueden verse afectados por desmitis del ligamento supraespinoso y enfermedad de procesos espinosos dorsales; los hallazgos de imagen deben correlacionarse con la exploración clínica y los signos de dolor. Deben documentarse las variantes y asimetrías sin asumir simetría perfecta.",
         "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Esqueleto axial equino: vértebras torácicas, costillas y articulaciones costales.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Anatomía de las vértebras torácicas y articulaciones costovertebrales y costotransversas.\n\nSisson S, Grossman JD. The Anatomy of the Domestic Animals. 5th ed. W.B. Saunders; 1975. Descripción de las vértebras torácicas y del esqueleto axial de los équidos.\n\nUniversity of Minnesota. Large Animal Anatomy: Neck and Thorax. Anatomía regional del tórax y articulaciones costales: https://pressbooks.umn.edu/largeanimalanatomy/chapter/thorax/"
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -1029,6 +1094,11 @@
         "especie": "En el caballo, la fórmula torácica habitual es de 18 vértebras, aunque se reconocen variaciones individuales. T7 pertenece a la región torácica craneal-media; sus procesos espinosos son altos y suelen presentar inclinación caudal en esta parte de la columna. Contribuye al perfil dorsal de la cruz y del dorso craneal, cuya configuración varía entre individuos y no debe atribuirse a un único nivel vertebral. La séptima costilla es par: la cabeza y el tubérculo derechos articulan con superficies derechas y los izquierdos con superficies izquierdas. La cabeza de cada séptima costilla se articula con T6, el disco T6–T7 y T7; el tubérculo articula con el proceso transverso de T7 ipsilateral.",
         "clinica": "T7 es un nivel útil para localizar cambios de la región torácica craneal-media y evaluar la unión de las costillas con la columna. En radiografías y tomografía deben examinarse por separado los lados derecho e izquierdo, diferenciando la articulación costovertebral de la costotransversa y la cabeza del tubérculo de la costilla. La superposición de la escápula y de tejidos blandos puede dificultar la interpretación de la región craneal del tórax. Los procesos espinosos torácicos pueden estar implicados en desmitis del ligamento supraespinoso y enfermedad de procesos espinosos dorsales; los hallazgos deben correlacionarse con exploración clínica, localización del dolor y evaluación funcional. Registrar las variantes y asimetrías sin asumir simetría perfecta.",
         "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Esqueleto axial equino: vértebras torácicas, costillas y articulaciones costales.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Anatomía de las vértebras torácicas y articulaciones costovertebrales y costotransversas.\n\nSisson S, Grossman JD. The Anatomy of the Domestic Animals. 5th ed. W.B. Saunders; 1975. Descripción de las vértebras torácicas y del esqueleto axial de los équidos.\n\nUniversity of Minnesota. Large Animal Anatomy: Neck and Thorax. Anatomía regional del tórax y articulaciones costales: https://pressbooks.umn.edu/largeanimalanatomy/chapter/thorax/"
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -1050,6 +1120,11 @@
         "especie": "En el caballo, la fórmula torácica habitual es de 18 vértebras, aunque existen variaciones individuales. T8 pertenece a la región torácica media y conserva el patrón de vértebra torácica con fóveas costales en el cuerpo y faceta costal en cada proceso transverso. La inclinación y altura de los procesos espinosos cambian progresivamente a lo largo de la serie torácica y deben valorarse en la vértebra concreta, sin extrapolar un único perfil a todos los individuos. La octava costilla es par: la cabeza y el tubérculo derechos articulan con superficies derechas y los izquierdos con superficies izquierdas. La cabeza de cada octava costilla se articula con T7, el disco 7–8 y T8; el tubérculo articula con el proceso transverso de T8 ipsilateral. La disposición puede presentar variaciones individuales.",
         "clinica": "Es un nivel de referencia para la evaluación de la columna torácica media y de las articulaciones de la octava costilla. En radiografías y tomografía deben examinarse por separado los lados derecho e izquierdo y distinguirse la articulación costovertebral (cabeza de la costilla con cuerpos vertebrales y disco) de la costotransversa (tubérculo con proceso transverso). Deben diferenciarse cabeza y tubérculo costales y registrarse asimetrías, fracturas, remodelación o cambios degenerativos sin asumir simetría perfecta. La evaluación de procesos espinosos y ligamentos dorsales debe correlacionarse con la exploración clínica y la localización del dolor.",
         "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Esqueleto axial equino: vértebras torácicas, costillas y articulaciones costales.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Anatomía de vértebras torácicas y articulaciones costovertebrales y costotransversas.\n\nSisson S, Grossman JD. The Anatomy of the Domestic Animals. 5th ed. W.B. Saunders; 1975. Descripción del esqueleto axial y de las vértebras torácicas de los équidos.\n\nUniversity of Minnesota. Large Animal Anatomy: Neck and Thorax. Anatomía regional del tórax y articulaciones costales: https://pressbooks.umn.edu/largeanimalanatomy/chapter/thorax/"
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -1071,6 +1146,11 @@
         "especie": "En el caballo, la fórmula torácica habitual es de 18 vértebras, aunque existen variaciones individuales. T9 pertenece a la región torácica media y conserva el patrón de vértebra torácica con fóveas costales en el cuerpo y faceta costal en cada proceso transverso. La inclinación y altura de los procesos espinosos cambian progresivamente a lo largo de la serie torácica y deben valorarse en la vértebra concreta, sin extrapolar un único perfil a todos los individuos. La octava costilla es par: la cabeza y el tubérculo derechos articulan con superficies derechas y los izquierdos con superficies izquierdas. La cabeza de cada octava costilla se articula con T8, el disco 8–9 y T9; el tubérculo articula con el proceso transverso de T9 ipsilateral. La disposición puede presentar variaciones individuales.",
         "clinica": "Es un nivel de referencia para la evaluación de la columna torácica media y de las articulaciones de la octava costilla. En radiografías y tomografía deben examinarse por separado los lados derecho e izquierdo y distinguirse la articulación costovertebral (cabeza de la costilla con cuerpos vertebrales y disco) de la costotransversa (tubérculo con proceso transverso). Deben diferenciarse cabeza y tubérculo costales y registrarse asimetrías, fracturas, remodelación o cambios degenerativos sin asumir simetría perfecta. La evaluación de procesos espinosos y ligamentos dorsales debe correlacionarse con la exploración clínica y la localización del dolor.",
         "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Esqueleto axial equino: vértebras torácicas, costillas y articulaciones costales.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Anatomía de vértebras torácicas y articulaciones costovertebrales y costotransversas.\n\nSisson S, Grossman JD. The Anatomy of the Domestic Animals. 5th ed. W.B. Saunders; 1975. Descripción del esqueleto axial y de las vértebras torácicas de los équidos.\n\nUniversity of Minnesota. Large Animal Anatomy: Neck and Thorax. Anatomía regional del tórax y articulaciones costales: https://pressbooks.umn.edu/largeanimalanatomy/chapter/thorax/"
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -1092,6 +1172,11 @@
         "especie": "En el caballo, la fórmula torácica habitual es de 18 vértebras, con variaciones individuales descritas. T10 pertenece a la región torácica media y mantiene la organización típica de las vértebras torácicas con fóveas costales corporales y facetas costales transversas. En esta zona, los procesos espinosos suelen conservar una inclinación caudal; la transición anticlinal se encuentra más caudalmente y puede variar entre individuos. La décima costilla es par: cabeza y tubérculo derechos articulan con superficies derechas y los izquierdos con las izquierdas. La cabeza de cada décima costilla se relaciona con T9, el disco 9–10 y T10; el tubérculo articula con el proceso transverso de T10 ipsilateral. La morfología y las articulaciones deben comprobarse en el ejemplar concreto.",
         "clinica": "Nivel de referencia para valorar la columna torácica media y la unión de la décima costilla con la vértebra. En radiografías o tomografía deben evaluarse ambos lados por separado y distinguirse la articulación costovertebral de la costotransversa, así como cabeza y tubérculo costales. Registrar fracturas, remodelación, asimetrías o cambios degenerativos y correlacionarlos con la exploración clínica. La evaluación de procesos espinosos y ligamentos dorsales debe considerar la morfología individual y no inferir enfermedad únicamente por la orientación o proximidad de las apófisis.",
         "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Esqueleto axial equino: vértebras torácicas, costillas y articulaciones costales.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Anatomía de vértebras torácicas y articulaciones costovertebrales y costotransversas.\n\nSisson S, Grossman JD. The Anatomy of the Domestic Animals. 5th ed. W.B. Saunders; 1975. Descripción del esqueleto axial y de las vértebras torácicas de los équidos.\n\nUniversity of Minnesota. Large Animal Anatomy: Neck and Thorax. Anatomía regional del tórax y articulaciones costales: https://pressbooks.umn.edu/largeanimalanatomy/chapter/thorax/"
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -1113,6 +1198,11 @@
         "inervacion": "La región se relaciona con el nervio espinal T11, que emerge por el foramen intervertebral entre T11 y T12; el nervio T10 emerge entre T10 y T11. El ramo dorsal de T11 se distribuye en músculos epaxiales y piel dorsal regional; el ramo ventral continúa como nervio intercostal T11 para la pared torácica. Ramos comunicantes conectan los nervios torácicos con el tronco simpático y ramos meníngeos recurrentes contribuyen a la inervación de estructuras vertebrales y meníngeas.",
         "especie": "En el caballo, la fórmula torácica habitual es de 18 vértebras, con variaciones individuales descritas. T11 pertenece a la región torácica media y conserva la organización general de las vértebras torácicas con fóveas costales corporales y facetas costales transversas. En esta región los procesos espinosos suelen inclinarse caudalmente; la transición anticlinal se sitúa más caudalmente y puede variar entre individuos. La undécima costilla es par: cabeza y tubérculo derechos articulan con superficies derechas y los izquierdos con las izquierdas. La cabeza de cada undécima costilla se relaciona con T10, el disco T10–T11 y T11; el tubérculo articula con el proceso transverso de T11 ipsilateral. La morfología y las articulaciones deben comprobarse en el ejemplar concreto.",
         "clinica": "Nivel de referencia para valorar la columna torácica y la unión de la undécima costilla con la vértebra. En radiografías o tomografía deben evaluarse ambos lados por separado y distinguirse la articulación costovertebral de la costotransversa, así como cabeza y tubérculo costales. Registrar fracturas, remodelación, asimetrías o cambios degenerativos y correlacionarlos con la exploración clínica. La evaluación de procesos espinosos y ligamentos dorsales debe considerar la morfología individual y no inferir enfermedad únicamente por la orientación o proximidad de las apófisis."
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -1134,6 +1224,11 @@
         "inervacion": "La región se relaciona con el nervio espinal T12, que emerge por el foramen intervertebral entre T12 y T13; el nervio T11 emerge entre T11 y T12. El ramo dorsal de T12 se distribuye en músculos epaxiales y piel dorsal regional; el ramo ventral continúa como nervio intercostal T12 para la pared torácica. Ramos comunicantes conectan los nervios torácicos con el tronco simpático y ramos meníngeos recurrentes contribuyen a la inervación de estructuras vertebrales y meníngeas.",
         "especie": "En el caballo, la fórmula torácica habitual es de 18 vértebras, con variaciones individuales descritas. T12 pertenece a la región torácica media y conserva la organización general de las vértebras torácicas con fóveas costales corporales y facetas costales transversas. En esta región los procesos espinosos suelen inclinarse caudalmente; la transición anticlinal se sitúa más caudalmente y puede variar entre individuos. La duodécima costilla es par: cabeza y tubérculo derechos articulan con superficies derechas y los izquierdos con las izquierdas. La cabeza de cada duodécima costilla se relaciona con T11, el disco T11–T12 y T12; el tubérculo articula con el proceso transverso de T12 ipsilateral. La morfología y las articulaciones deben comprobarse en el ejemplar concreto.",
         "clinica": "Nivel de referencia para valorar la columna torácica y la unión de la duodécima costilla con la vértebra. En radiografías o tomografía deben evaluarse ambos lados por separado y distinguirse la articulación costovertebral de la costotransversa, así como cabeza y tubérculo costales. Registrar fracturas, remodelación, asimetrías o cambios degenerativos y correlacionarlos con la exploración clínica. La evaluación de procesos espinosos y ligamentos dorsales debe considerar la morfología individual y no inferir enfermedad únicamente por la orientación o proximidad de las apófisis."
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -1155,6 +1250,11 @@
         "inervacion": "La región se relaciona con el nervio espinal T13, que emerge por el foramen intervertebral entre T13 y T14; el nervio T12 emerge entre T12 y T13. El ramo dorsal de T13 se distribuye en músculos epaxiales y piel dorsal regional; el ramo ventral continúa como nervio intercostal T13 para la pared torácica. Ramos comunicantes conectan los nervios torácicos con el tronco simpático y ramos meníngeos recurrentes contribuyen a la inervación de estructuras vertebrales y meníngeas.",
         "especie": "En el caballo, la fórmula torácica habitual es de 18 vértebras, con variaciones individuales descritas. T13 pertenece a la región torácica media y conserva la organización general de las vértebras torácicas con fóveas costales corporales y facetas costales transversas. En esta región los procesos espinosos suelen inclinarse caudalmente; la transición anticlinal se sitúa más caudalmente y puede variar entre individuos. La decimotercera costilla es par: cabeza y tubérculo derechos articulan con superficies derechas y los izquierdos con las izquierdas. La cabeza de cada decimotercera costilla se relaciona con T12, el disco T12–T13 y T13; el tubérculo articula con el proceso transverso de T13 ipsilateral. La morfología y las articulaciones deben comprobarse en el ejemplar concreto.",
         "clinica": "Nivel de referencia para valorar la columna torácica y la unión de la decimotercera costilla con la vértebra. En radiografías o tomografía deben evaluarse ambos lados por separado y distinguirse la articulación costovertebral de la costotransversa, así como cabeza y tubérculo costales. Registrar fracturas, remodelación, asimetrías o cambios degenerativos y correlacionarlos con la exploración clínica. La evaluación de procesos espinosos y ligamentos dorsales debe considerar la morfología individual y no inferir enfermedad únicamente por la orientación o proximidad de las apófisis."
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -1176,6 +1276,11 @@
         "especie": "En el caballo la fórmula torácica habitual es de 18 vértebras, aunque existen variaciones. T14 pertenece al segmento torácico caudal. Los procesos espinosos de los niveles torácicos caudales se aproximan a la región anticlinal; en el caballo esta transición suele localizarse alrededor de T16, con variación individual, por lo que no debe asignarse una orientación fija a T14 sin examinar el ejemplar. La decimocuarta costilla es par y sus articulaciones derechas e izquierdas son ipsilaterales. La cabeza costal suele compartir la articulación con dos cuerpos vertebrales adyacentes y el disco interpuesto; la relación del tubérculo con el proceso transverso puede modificarse caudalmente y requiere confirmación morfológica.",
         "clinica": "Nivel útil para localizar lesiones de la columna torácica caudal y evaluar la unión costovertebral. En radiografías o tomografía deben distinguirse cabeza y tubérculo costales, superficies costales del cuerpo y facetas de los procesos transversos, evaluando ambos lados por separado. Documentar fracturas, remodelación, asimetrías y cambios degenerativos. La orientación de los procesos espinosos y la presencia o desarrollo de facetas costotransversas deben interpretarse considerando la variación anatómica individual; no establecer diagnósticos solo por la numeración vertebral.",
         "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Esqueleto axial equino: vértebras torácicas, costillas y articulaciones costales.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Vértebras torácicas y articulaciones costovertebrales y costotransversas.\n\nSisson S, Grossman JD. The Anatomy of the Domestic Animals. 5th ed. W.B. Saunders; 1975. Esqueleto axial de los équidos."
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -1197,6 +1302,11 @@
         "especie": "En el caballo la fórmula torácica habitual es de 18 vértebras, aunque existen variaciones. T15 pertenece al segmento torácico caudal. Los procesos espinosos de los niveles torácicos caudales se aproximan a la región anticlinal; en el caballo esta transición suele localizarse alrededor de T16, con variación individual, por lo que no debe asignarse una orientación fija a T15 sin examinar el ejemplar. La decimoquinta costilla es par y sus articulaciones derechas e izquierdas son ipsilaterales. La cabeza costal suele compartir la articulación con dos cuerpos vertebrales adyacentes y el disco interpuesto; la relación del tubérculo con el proceso transverso puede modificarse caudalmente y requiere confirmación morfológica.",
         "clinica": "Nivel útil para localizar lesiones de la columna torácica caudal y evaluar la unión costovertebral. En radiografías o tomografía deben distinguirse cabeza y tubérculo costales, superficies costales del cuerpo y facetas de los procesos transversos, evaluando ambos lados por separado. Documentar fracturas, remodelación, asimetrías y cambios degenerativos. La orientación de los procesos espinosos y la presencia o desarrollo de facetas costotransversas deben interpretarse considerando la variación anatómica individual; no establecer diagnósticos solo por la numeración vertebral.",
         "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Esqueleto axial equino: vértebras torácicas, costillas y articulaciones costales.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Vértebras torácicas y articulaciones costovertebrales y costotransversas.\n\nSisson S, Grossman JD. The Anatomy of the Domestic Animals. 5th ed. W.B. Saunders; 1975. Esqueleto axial de los équidos."
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -1218,6 +1328,11 @@
         "especie": "En el caballo la fórmula torácica habitual es de 18 vértebras, con variaciones anatómicas. T16 pertenece a la región torácica caudal. T16 se describe convencionalmente como vértebra anticlinal, con proceso espinoso aproximadamente vertical; sin embargo, estudios morfométricos en distintas razas han encontrado variación, y T15 puede ser el nivel anticlinal más frecuente en algunas poblaciones. La decimosexta costilla es par: las articulaciones derechas e izquierdas se establecen con superficies del mismo lado. Confirmar siempre la morfología del ejemplar y no inferirla solo por el número vertebral.",
         "clinica": "Nivel relevante en la evaluación de la región torácica caudal y la transición toracolumbar. En radiografías y tomografía valorar procesos espinosos, espacios interespinosos, articulaciones cigapofisarias y costovertebrales, comparando ambos lados. En T16 prestar atención a la orientación del proceso espinoso y a posibles cambios degenerativos o lesiones por contacto entre procesos espinosos. Correlacionar hallazgos de imagen con exploración clínica; la variación anatómica por sí sola no constituye enfermedad.",
         "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Esqueleto axial equino.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Vértebras torácicas y articulaciones costales.\n\nSpoormakers TJP, et al. A comparative study of breed differences in the anatomical configuration of the equine vertebral column. Journal of Anatomy. 2021. https://doi.org/10.1111/joa.13456\n\nUniversity of Minnesota. Large Animal Anatomy: Neck and Thorax. https://pressbooks.umn.edu/largeanimalanatomy/chapter/thorax/"
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -1239,6 +1354,11 @@
         "especie": "En el caballo la fórmula torácica habitual es de 18 vértebras, con variaciones anatómicas. T17 pertenece a la región torácica caudal. T17 suele presentar un proceso espinoso inclinado dorsocranealmente, caudal a la vértebra anticlinal; la ubicación anticlinal y la inclinación exacta presentan variación individual y racial. La decimoséptima costilla es par: las articulaciones derechas e izquierdas se establecen con superficies del mismo lado. Confirmar siempre la morfología del ejemplar y no inferirla solo por el número vertebral.",
         "clinica": "Nivel relevante en la evaluación de la región torácica caudal y la transición toracolumbar. En radiografías y tomografía valorar procesos espinosos, espacios interespinosos, articulaciones cigapofisarias y costovertebrales, comparando ambos lados. En T17 prestar atención a la orientación del proceso espinoso y a posibles cambios degenerativos o lesiones por contacto entre procesos espinosos. Correlacionar hallazgos de imagen con exploración clínica; la variación anatómica por sí sola no constituye enfermedad.",
         "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Esqueleto axial equino.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Vértebras torácicas y articulaciones costales.\n\nSpoormakers TJP, et al. A comparative study of breed differences in the anatomical configuration of the equine vertebral column. Journal of Anatomy. 2021. https://doi.org/10.1111/joa.13456\n\nUniversity of Minnesota. Large Animal Anatomy: Neck and Thorax. https://pressbooks.umn.edu/largeanimalanatomy/chapter/thorax/"
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -1260,6 +1380,11 @@
         "especie": "En el caballo la fórmula habitual incluye 18 vértebras torácicas y 6 lumbares, aunque existen variaciones congénitas y raciales, incluidas vértebras transicionales y cambios en el número de costillas. T18 es la última torácica y se distingue porque su cuerpo suele presentar solo fóveas costales craneales, sin fóveas caudales. Se articula con la decimoctava costilla; las superficies costales caudales pueden estar reducidas o confluir con el complejo costotransverso. No debe extrapolarse a T18 el patrón de dos pares de fóveas costales corporales de una vértebra torácica típica. Confirmar siempre la anatomía del ejemplar.",
         "clinica": "Es un reparo anatómico importante para localizar la última costilla y la unión toracolumbar, aunque la palpación y el recuento de procesos espinosos pueden ser imprecisos. En ecografía y radiografía valorar la última costilla, las articulaciones costovertebral/costotransversa, los procesos espinosos y articulares, el espacio T18–L1 y los tejidos blandos epaxiales. La región puede presentar variaciones transicionales, osteoartrosis de articulaciones, alteraciones de procesos espinosos y dolor toracolumbar. Los hallazgos deben correlacionarse con examen clínico e imagen; la variación morfológica aislada no es enfermedad.",
         "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Esqueleto axial y unión toracolumbar.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Vértebras torácicas y articulaciones costales.\n\nDenoix JM. Essentials of Clinical Anatomy of the Equine Locomotor System. 1st ed. CRC Press; 2019. Región toracolumbar.\n\nGoff L, et al. Animal Physiotherapy: Assessment, Treatment and Rehabilitation of Animals. 2nd ed. Wiley-Blackwell; sección de anatomía torácica y lumbar equina.\n\nSpoormakers TJP, et al. A comparative study of breed differences in the anatomical configuration of the equine vertebral column. Journal of Anatomy. 2021. https://doi.org/10.1111/joa.13456"
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -1281,6 +1406,11 @@
         "especie": "En el caballo la fórmula vertebral habitual comprende 6 vértebras lumbares, aunque pueden existir variaciones raciales y congénitas, como cinco lumbares o vértebras transicionales. L1 es la primera vértebra lumbar, inmediatamente caudal a T18. Las vértebras lumbares se caracterizan por procesos transversos largos y aplanados y por superficies articulares orientadas de forma más vertical/sagital que en la región torácica. En el caballo, las articulaciones intertransversas son características de los niveles lumbares caudales, especialmente L5–L6, y no deben atribuirse a L1. La morfología de L1 debe distinguirse de la última torácica por la ausencia de articulación costal.",
         "clinica": "Es un nivel importante en la evaluación de la unión toracolumbar y de la región lumbar craneal. En radiografía y ecografía valorar cuerpo vertebral, procesos espinoso y transversos, articulaciones cigapofisarias y espacio T18–L1/L1–L2. Puede verse afectada por cambios degenerativos de las articulaciones intervertebrales, lesiones de procesos espinosos, alteraciones musculares epaxiales o sublumbares y anomalías transicionales. La interpretación debe integrar imagen, examen físico y variaciones anatómicas individuales.",
         "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Vértebras lumbares equinas.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Esqueleto axial y columna lumbar.\n\nDenoix JM. Essentials of Clinical Anatomy of the Equine Locomotor System. 1st ed. CRC Press; 2019. Anatomía clínica de la columna lumbar.\n\nUniversity of Minnesota. Large Animal Anatomy: Neck and Thorax. https://pressbooks.umn.edu/largeanimalanatomy/chapter/thorax/\n\nSpoormakers TJP, et al. A comparative study of breed differences in the anatomical configuration of the equine vertebral column. Journal of Anatomy. 2021. https://doi.org/10.1111/joa.13456"
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -1302,6 +1432,11 @@
         "especie": "En el caballo la fórmula habitual comprende seis vértebras lumbares, aunque existen variaciones congénitas y raciales. L2 es una vértebra lumbar craneal, situada entre L1 y L3. Como las demás lumbares típicas, posee procesos transversos largos y aplanados y carece de articulaciones costales. Las articulaciones intertransversas se desarrollan en la región lumbar caudal, especialmente en los últimos niveles, y no son un rasgo propio de L2. La morfología exacta debe valorarse en el ejemplar y en el contexto de posibles vértebras transicionales.",
         "clinica": "Es un nivel de referencia en la evaluación de la columna lumbar craneal. En radiografía, tomografía o ecografía pueden valorarse el cuerpo vertebral, procesos espinosos y transversos, articulaciones cigapofisarias, espacio intervertebral y musculatura epaxial y sublumbar. Entre las alteraciones posibles se incluyen cambios degenerativos intervertebrales o facetarios, lesiones de procesos espinosos y dolor muscular regional. La interpretación debe correlacionarse con examen clínico y hallazgos de imagen; la variación morfológica aislada no implica enfermedad.",
         "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Columna vertebral lumbar equina.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Vértebras lumbares y musculatura sublumbar.\n\nDenoix JM. Essentials of Clinical Anatomy of the Equine Locomotor System. 1st ed. CRC Press; 2019. Anatomía clínica de la columna lumbar.\n\nSpoormakers TJP, et al. A comparative study of breed differences in the anatomical configuration of the equine vertebral column. Journal of Anatomy. 2021. https://doi.org/10.1111/joa.13456"
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -1323,6 +1458,11 @@
         "especie": "El caballo presenta habitualmente seis vértebras lumbares, con variaciones anatómicas entre individuos y razas. L3 ocupa una posición lumbar media y mantiene el patrón de procesos transversos largos y aplanados, ausencia de facetas costales y articulaciones intervertebrales lumbares. Las articulaciones intertransversas se observan en los niveles lumbares caudales, particularmente entre los últimos segmentos, no como característica típica de L3. Deben considerarse posibles vértebras transicionales y variaciones de número.",
         "clinica": "La región de L3 puede examinarse mediante palpación, radiografía, ecografía y otras técnicas de imagen para valorar procesos espinosos y transversos, articulaciones cigapofisarias, espacios intervertebrales y musculatura epaxial y sublumbar. Pueden presentarse cambios degenerativos articulares, lesiones de procesos espinosos, alteraciones musculares y dolor lumbar. La localización clínica requiere correlación entre exploración, respuesta al movimiento e imagen diagnóstica.",
         "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Columna vertebral lumbar equina.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Vértebras lumbares y musculatura sublumbar.\n\nDenoix JM. Essentials of Clinical Anatomy of the Equine Locomotor System. 1st ed. CRC Press; 2019. Anatomía clínica de la columna lumbar.\n\nSpoormakers TJP, et al. A comparative study of breed differences in the anatomical configuration of the equine vertebral column. Journal of Anatomy. 2021. https://doi.org/10.1111/joa.13456"
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -1344,6 +1484,11 @@
         "especie": "El caballo presenta habitualmente seis vértebras lumbares, aunque existen variaciones congénitas y raciales. L4 ocupa una posición lumbar media y presenta procesos transversos largos y aplanados, ausencia de superficies articulares costales y articulaciones intervertebrales lumbares. Las articulaciones intertransversas son características de la región lumbar caudal, especialmente de los últimos niveles, y no deben asignarse a L4 como rasgo constante. Deben considerarse variaciones de número y vértebras transicionales.",
         "clinica": "Es un nivel de referencia en la evaluación de la columna lumbar media. Radiografía, ecografía y tomografía permiten valorar cuerpo vertebral, procesos espinosos y transversos, articulaciones cigapofisarias, espacios intervertebrales y musculatura epaxial y sublumbar. Entre las alteraciones posibles se encuentran cambios degenerativos facetarios o intervertebrales, lesiones de procesos espinosos y dolor muscular regional. La interpretación requiere correlación con exploración clínica y diagnóstico por imagen.",
         "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Columna vertebral lumbar equina.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Vértebras lumbares y musculatura sublumbar.\n\nDenoix JM. Essentials of Clinical Anatomy of the Equine Locomotor System. 1st ed. CRC Press; 2019. Anatomía clínica de la columna lumbar.\n\nSpoormakers TJP, et al. A comparative study of breed differences in the anatomical configuration of the equine vertebral column. Journal of Anatomy. 2021. https://doi.org/10.1111/joa.13456"
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -1365,6 +1510,11 @@
         "especie": "En el caballo la fórmula habitual comprende seis vértebras lumbares, aunque pueden existir variaciones de número y vértebras transicionales. L5 es una vértebra lumbar caudal. En equinos se describen articulaciones intertransversas entre los procesos transversos de los últimos segmentos lumbares, en particular L5–L6; su presencia y morfología pueden variar. L5 no presenta articulación costal. Debe diferenciarse de L6, cuyos procesos transversos participan en la articulación con el sacro en la unión lumbosacra.",
         "clinica": "La región L5–L6 es importante al evaluar dolor lumbar caudal, movilidad y cambios degenerativos de las articulaciones intertransversas cuando están presentes. En radiografía y ecografía valorar procesos transversos, articulaciones cigapofisarias, espacio L5–L6, musculatura epaxial y sublumbar. Las variaciones de configuración de los procesos transversos y de la articulación intertransversa deben distinguirse de lesiones adquiridas. Correlacionar los hallazgos con examen clínico y otras técnicas de imagen.",
         "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Columna lumbar y unión lumbosacra equina.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Vértebras lumbares y articulaciones intertransversas.\n\nDenoix JM. Essentials of Clinical Anatomy of the Equine Locomotor System. 1st ed. CRC Press; 2019. Anatomía clínica de la región lumbar y lumbosacra.\n\nSpoormakers TJP, et al. A comparative study of breed differences in the anatomical configuration of the equine vertebral column. Journal of Anatomy. 2021. https://doi.org/10.1111/joa.13456"
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -1386,6 +1536,11 @@
         "especie": "El caballo presenta habitualmente seis vértebras lumbares y cinco vértebras sacras fusionadas. L6 es la última vértebra lumbar y presenta procesos transversos especialmente relacionados con las alas del sacro, formando articulaciones intertransversas lumbosacras. El número vertebral y la configuración de la unión lumbosacra pueden variar; considerar vértebras transicionales y asimetrías individuales.",
         "clinica": "La unión L6–sacro es relevante en la evaluación de dolor lumbosacro, rigidez, alteraciones de la transmisión de cargas y cambios degenerativos. Radiografía, ecografía y tomografía pueden ayudar a valorar el espacio L6–S1, articulaciones cigapofisarias y contactos intertransversos con las alas sacras. Las variaciones anatómicas deben distinguirse de lesiones adquiridas y correlacionarse con la exploración clínica y el diagnóstico por imagen.",
         "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Columna lumbar, sacro y unión lumbosacra.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Vértebras lumbares y sacras.\n\nDenoix JM. Essentials of Clinical Anatomy of the Equine Locomotor System. CRC Press; 2019. Anatomía clínica de la región lumbosacra."
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -1407,6 +1562,11 @@
         "especie": "En el caballo el sacro está formado habitualmente por cinco vértebras sacras fusionadas. S1 constituye su extremo craneal y contribuye a las alas sacras y a la base del sacro. La fusión se completa con la maduración; en animales jóvenes pueden distinguirse con mayor claridad los límites entre segmentos. La forma de las alas y las superficies sacroilíacas puede presentar variación individual.",
         "clinica": "S1 es importante en la valoración de la unión lumbosacra y de la transmisión de fuerzas a la pelvis. Las alteraciones de la unión L6–S1, las articulaciones sacroilíacas y las alas sacras pueden asociarse con dolor de región lumbar caudal o pélvica y alteraciones del rendimiento. La interpretación de radiografías, ecografía, gammagrafía o tomografía debe considerar la superposición anatómica, la madurez ósea y la variación individual.",
         "referencias": "Budras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Sacro y articulación sacroilíaca.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Sacro, pelvis y nervios sacros.\n\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7th ed. Schattauer; 2020. Columna sacra y articulaciones de la pelvis."
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -1428,6 +1588,11 @@
         "especie": "En el caballo el sacro suele estar formado por cinco vértebras fusionadas (S1–S5). La fusión transforma los segmentos en un hueso único, aunque se reconocen sus límites por los forámenes y relieves. La superficie auricular para el ilion se encuentra en el ala sacra, derivada principalmente de S1; no debe atribuirse a S2 como una faceta sacroilíaca propia.",
         "clinica": "Referencia para interpretar radiografías, tomografía y ecografía de la región sacra y sacroilíaca. Las alteraciones de los forámenes, fracturas sacras o lesiones de raíces sacras pueden afectar la función neurológica pélvica y perineal. En exploración y diagnóstico por imagen debe distinguirse el segmento S2 como parte del sacro fusionado, no como vértebra libre.",
         "referencias": "Denoix, J.-M. Clinical Anatomy of the Horse; Atlas of the Equine Musculoskeletal System, región sacroilíaca; Budras et al., Anatomy of the Horse; Dyce, Sack & Wensing, Textbook of Veterinary Anatomy. Referencias de apoyo para la organización del sacro equino, sus cinco segmentos, forámenes y superficies articulares."
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -1449,6 +1614,11 @@
         "especie": "En el equino, S3 es uno de los cinco segmentos que forman el sacro fusionado. Los forámenes dorsales y ventrales conservan la evidencia de la segmentación original. No debe representarse como una vértebra libre ni asignársele una superficie auricular independiente.",
         "clinica": "Su localización ayuda a numerar los forámenes sacros en estudios de imagen y a orientar la evaluación de fracturas, lesiones del conducto sacro y alteraciones de raíces nerviosas. Las lesiones sacras pueden asociarse con signos neurológicos pélvicos, perineales o caudales, según las estructuras afectadas.",
         "referencias": "Denoix, J.-M. Clinical Anatomy of the Horse; Atlas of the Equine Musculoskeletal System, región sacroilíaca; Budras et al., Anatomy of the Horse; Dyce, Sack & Wensing, Textbook of Veterinary Anatomy. Referencias de apoyo para segmentación sacra equina, forámenes y fusión vertebral."
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -1470,6 +1640,11 @@
         "especie": "En el caballo, el sacro suele presentar cinco vértebras. Sin embargo, la cantidad de segmentos identificables puede variar entre cuatro y seis, y el patrón de fusión no es uniforme: la fusión dorsal de las apófisis espinosas puede estar incompleta y la unión S4–S5 puede mostrar variación. La tomografía ha documentado variabilidad anatómica relevante, por lo que la numeración debe apoyarse en la identificación del sacro completo y de sus límites.",
         "clinica": "S4 es una referencia para la numeración de los forámenes sacros caudales y para la interpretación de fracturas, defectos del arco y alteraciones del conducto sacro. Las lesiones que comprometen raíces sacras pueden producir signos neurológicos pélvicos o perineales, dependiendo de las estructuras afectadas. En radiografía y tomografía debe evaluarse el grado de fusión S3–S4–S5 y evitar asumir una morfología idéntica entre caballos.",
         "referencias": "Computed tomography of the equine caudal spine and pelvis: Technique, image quality and anatomical variation in 56 clinical cases (2018–2023). Equine Veterinary Journal. https://pmc.ncbi.nlm.nih.gov/articles/PMC12326906/\n\nTransitional, fused and/or supernumerary vertebrae in the lumbosacrocaudal region of the spine – A reality in many domestic mammals. https://pmc.ncbi.nlm.nih.gov/articles/PMC11148713/\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Sacro, pelvis y nervios sacros.\n\nBudras KD, Sack WO, Röck S. Anatomy of the Horse. 6th ed. Schlütersche; 2012. Sacro y región sacrocaudal."
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -1491,6 +1666,11 @@
         "especie": "En el caballo, S5 es habitualmente el último de cinco segmentos sacros, pero existen variaciones en el número de vértebras sacras y en la fusión con Cd1. Estudios tomográficos han descrito caballos con cuatro, cinco o seis segmentos sacros; también se ha documentado fusión de la primera vértebra caudal con S5, lo que puede hacer que el sacro aparente contener seis segmentos. La fusión de los cuerpos puede coexistir con separación de los procesos transversos y con distintos grados de unión de los arcos.",
         "clinica": "La unión S5–Cd1 es relevante al interpretar dolor o lesiones de la base de la cola, fracturas sacras caudales y anomalías de transición sacrococcígea. La fusión de Cd1 con S5 puede alterar la identificación radiográfica del límite sacrocaudal y modificar la movilidad local. La tomografía permite valorar si la fusión afecta al cuerpo, al arco o a ambos; no debe diagnosticarse anquilosis únicamente por la proximidad de las estructuras.",
         "referencias": "Computed tomography of the equine caudal spine and pelvis: Technique, image quality and anatomical variation in 56 clinical cases (2018–2023). Equine Veterinary Journal. https://pmc.ncbi.nlm.nih.gov/articles/PMC12326906/\n\nTransitional, fused and/or supernumerary vertebrae in the lumbosacrocaudal region of the spine – A reality in many domestic mammals. https://pmc.ncbi.nlm.nih.gov/articles/PMC11148713/\n\nDenoix JM. Clinical Anatomy of the Horse. Sacrum (S1–S5) and first caudal vertebra (Cd1), sacrococcygeal transition.\n\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Sacro y región caudal."
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -1906,7 +2086,7 @@
       "revision": {
         "estado": "verificada",
         "fecha": "2026-11-13",
-        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; estructura referencial (Cd16–Cd21), cuya ausencia no genera incidencia; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -1932,7 +2112,7 @@
       "revision": {
         "estado": "verificada",
         "fecha": "2026-11-13",
-        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; estructura referencial (Cd16–Cd21), cuya ausencia no genera incidencia; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -1958,7 +2138,7 @@
       "revision": {
         "estado": "verificada",
         "fecha": "2026-11-13",
-        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; estructura referencial (Cd16–Cd21), cuya ausencia no genera incidencia; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -29242,7 +29422,7 @@
       "revision": {
         "estado": "verificada",
         "fecha": "2026-11-13",
-        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; estructura referencial (Cd16–Cd21), cuya ausencia no genera incidencia; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -29268,7 +29448,7 @@
       "revision": {
         "estado": "verificada",
         "fecha": "2026-11-13",
-        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; estructura referencial (Cd16–Cd21), cuya ausencia no genera incidencia; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -29292,9 +29472,9 @@
         "referencias": "Sisson S. The Anatomy of the Domestic Animals. 1911. Secciones sobre columna vertebral y vértebras caudales del caballo (referencia histórica): https://www.gutenberg.org/files/75996/75996-h/75996-h.htm\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7th ed. Thieme; 2020. Sección de columna vertebral y variación de vértebras caudales.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Sección de esqueleto axial y columna vertebral."
       },
       "revision": {
-        "estado": "incorporada",
+        "estado": "verificada",
         "fecha": "2026-11-13",
-        "alcance": "Ficha incorporada; estructura referencial (Cd16–Cd21), pendiente de verificación del usuario. Su ausencia no genera incidencia."
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; estructura referencial (Cd16–Cd21), cuya ausencia no genera incidencia; no implica validación independiente del modelo 3D."
       }
     }
   ]
