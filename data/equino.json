@@ -29240,9 +29240,9 @@
         "referencias": "Sisson S. The Anatomy of the Domestic Animals. 1911. Secciones sobre columna vertebral y vértebras caudales del caballo (referencia histórica): https://www.gutenberg.org/files/75996/75996-h/75996-h.htm\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7th ed. Thieme; 2020. Sección de columna vertebral y variación de vértebras caudales.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Sección de esqueleto axial y columna vertebral."
       },
       "revision": {
-        "estado": "incorporada",
+        "estado": "verificada",
         "fecha": "2026-11-13",
-        "alcance": "Ficha incorporada; estructura referencial (Cd16–Cd21), pendiente de verificación del usuario. Su ausencia no genera incidencia."
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
       }
     },
     {
@@ -29263,6 +29263,32 @@
         "funcion": "Cuando está presente como vértebra independiente, contribuye de forma limitada al soporte y continuidad de la punta de la cola. La función mecánica principal de la región distal depende de los tejidos blandos y de los segmentos óseos residuales.",
         "especie": "La fórmula caudal equina es variable, con un rango de referencia aproximado de 15–21 vértebras y un número cercano a 18 descrito con frecuencia. Cd20 no está presente necesariamente en todos los caballos. En el protocolo ProClaVet, Cd16–Cd21 son referenciales y su ausencia no genera incidencia. La serie distal puede mostrar reducción marcada, variación individual y fusión.",
         "clinica": "En estudios de imagen, Cd20 solo debe identificarse tras contar la serie caudal del individuo y diferenciar segmentos separados de fusiones o superposiciones. No considerar su ausencia una anomalía por sí sola. La evaluación de lesiones de la punta de la cola debe correlacionarse con tejidos blandos y signos clínicos.",
+        "referencias": "Sisson S. The Anatomy of the Domestic Animals. 1911. Secciones sobre columna vertebral y vértebras caudales del caballo (referencia histórica): https://www.gutenberg.org/files/75996/75996-h/75996-h.htm\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7th ed. Thieme; 2020. Sección de columna vertebral y variación de vértebras caudales.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Sección de esqueleto axial y columna vertebral."
+      },
+      "revision": {
+        "estado": "verificada",
+        "fecha": "2026-11-13",
+        "alcance": "Ficha anatómica revisada y confirmada por el usuario; no implica validación independiente del modelo 3D."
+      }
+    },
+    {
+      "id": "equ.ske.cau.021",
+      "es": "Vértebra caudal 21 (Cd21)",
+      "la": "Vertebra caudalis 21",
+      "sys": "ske",
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "En el extremo distal de la serie coccígea, caudal a Cd20 cuando ambos segmentos están presentes como vértebras independientes. Cd21 representa el límite superior del rango referencial adoptado por ProClaVet, no una estructura obligatoria en todos los caballos.",
+        "descripcion": "Elemento coccígeo terminal de morfología muy reducida, cuya presencia y delimitación como hueso separado son variables. Puede consistir en un pequeño cuerpo óseo o en un segmento parcialmente fusionado con el precedente. En esta posición se espera una simplificación marcada de la arquitectura vertebral; no se presupone la persistencia de arco, canal vertebral ni procesos típicos.",
+        "relaciones": "Cranealmente puede relacionarse con Cd20 si existe como segmento separado. Caudalmente no se presupone otra vértebra; puede constituir el último elemento óseo reconocible de la cola. Está incluido en tejidos blandos terminales, con fascia, fibras musculares residuales, vasos y ramas nerviosas caudales regionales.",
+        "accidentes": "Cuerpo óseo rudimentario, si es individualizable. No se consideran constantes el arco vertebral, foramen vertebral, apófisis espinosa, procesos transversos o articulares ni arco hemal. Cualquier relieve observado debe describirse según el espécimen y no asignarse por extrapolación desde vértebras más craneales.",
+        "articulaciones": "Puede existir contacto craneal con Cd20 mediante tejido fibrocartilaginoso o continuidad/fusión parcial. Al ser un elemento terminal, no tiene articulación caudal intervertebral si no existe otro segmento. No se debe atribuir un disco intervertebral completo ni una articulación sinovial sin evidencia directa.",
+        "inserciones": "No se asignan inserciones musculares específicas constantes a Cd21. Los tejidos blandos de la punta de la cola pueden fijarse a las superficies óseas disponibles mediante fibras musculares y tejido conectivo; la inserción directa en este elemento requiere confirmación en la preparación anatómica concreta.",
+        "irrigacion": "No se reconoce una arteria nutricia exclusiva de Cd21. La irrigación regional depende de pequeñas ramas vasculares distales y musculares del sistema de la arteria caudal mediana y sus continuaciones, con variación individual. No atribuir un vaso segmentario exclusivo sin evidencia.",
+        "inervacion": "El hueso no posee una inervación funcional propia que deba describirse como la de un órgano. La sensibilidad y actividad de los tejidos blandos terminales dependen de ramas de los nervios caudales distribuidas regionalmente; no se asigna un nervio Cd21 específico sin demostrar su trayecto. No se presupone un canal vertebral con contenido neural.",
+        "funcion": "Cuando está presente como segmento separado, aporta un soporte óseo residual y continuidad estructural limitada a la punta de la cola. La función mecánica distal depende en gran medida de los tejidos blandos y de los segmentos óseos remanentes.",
+        "especie": "En el caballo el número de vértebras caudales presenta variación individual; se utiliza como referencia aproximada un rango de 15–21, con alrededor de 18 descrito con frecuencia. Cd21 es una posibilidad anatómica del extremo superior del rango, no una vértebra universal. En ProClaVet, Cd16–Cd21 son referenciales: su ausencia no genera incidencia ni penalización. La anatomía terminal puede presentar reducción, variación y fusión.",
+        "clinica": "La ausencia de un segmento identificable como Cd21 no debe interpretarse por sí sola como anomalía. La evaluación radiográfica o tomográfica de la punta de la cola debe considerar el recuento individual, la posibilidad de fusión, la edad y los antecedentes traumáticos. Correlacionar cualquier lesión con los tejidos blandos regionales.",
         "referencias": "Sisson S. The Anatomy of the Domestic Animals. 1911. Secciones sobre columna vertebral y vértebras caudales del caballo (referencia histórica): https://www.gutenberg.org/files/75996/75996-h/75996-h.htm\nKönig HE, Liebich HG. Veterinary Anatomy of Domestic Mammals. 7th ed. Thieme; 2020. Sección de columna vertebral y variación de vértebras caudales.\nDyce KM, Sack WO, Wensing CJG. Textbook of Veterinary Anatomy. 5th ed. Elsevier; 2017. Sección de esqueleto axial y columna vertebral."
       },
       "revision": {
