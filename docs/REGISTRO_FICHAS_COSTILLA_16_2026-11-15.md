@@ -1,19 +1,19 @@
 # Fichas anatómicas — Costilla 16 equina
 
 **Fecha:** 15 de noviembre de 2026  
-**Estado:** fichas incorporadas; pendientes de revisión y confirmación del usuario.  
-**Verificación registrada:** Costilla 15 izquierda y derecha confirmadas por el usuario el 15 de noviembre de 2026.  
+**Estado:** fichas incorporadas y verificadas por confirmación expresa del usuario.  
+**Verificación registrada:** Costilla 16 izquierda y derecha confirmadas por el usuario el 15 de noviembre de 2026.  
 **Modelo 3D:** no certificado por la verificación del contenido textual.
 
 ## Verificación
-- `equ.ske.cos.015-i` — Costilla 15 izquierda: ficha verificada por confirmación expresa del usuario.
-- `equ.ske.cos.015-d` — Costilla 15 derecha: ficha verificada por confirmación expresa del usuario.
+- `equ.ske.cos.016-i` — Costilla 16 izquierda: ficha verificada por confirmación expresa del usuario.
+- `equ.ske.cos.016-d` — Costilla 16 derecha: ficha verificada por confirmación expresa del usuario.
 
 Esta confirmación se refiere a las fichas textuales y no certifica geometría ni visualización 3D.
 
 ## Fichas incorporadas
-- `equ.ske.cos.016-i` — Costilla 16 izquierda.
-- `equ.ske.cos.016-d` — Costilla 16 derecha.
+- `equ.ske.cos.016-i` — Costilla 16 izquierda: verificada.
+- `equ.ske.cos.016-d` — Costilla 16 derecha: verificada.
 
 Ambas fichas contienen los 12 campos del protocolo ProClaVet: ubicación, descripción, relaciones, accidentes, articulaciones, inserciones, irrigación, inervación, función, especie, clínica y referencias.
 
