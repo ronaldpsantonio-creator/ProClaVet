@@ -1,6 +1,6 @@
 // ProClaVet - Service Worker sincronizado
 // v7: incluye las fichas de Costilla 7 izquierda y derecha.
-const C="vetanatomy-v7-rib7-fichas";
+const C="vetanatomy-v8-rib7-verificado";
 const CORE=["./","index.html","css/styles.css","js/app.js","data/equino.json","data/fichas_costillas_7.json","manifest.webmanifest","assets/laminas/atlas-equino-c1.svg","assets/laminas/axis-equino-c2.svg"];
 
 self.addEventListener("install",e=>{
