@@ -16,7 +16,7 @@ self.addEventListener("fetch",e=>{
  if(req.method!=="GET")return;
  const url=new URL(req.url);
  if(url.origin!==self.location.origin)return;
- const fresh=["/data/equino.json","/js/app.js","/index.html"].some(p=>url.pathname.endsWith(p))||/\/data\/fichas_costillas_\\d+\\.json$/.test(url.pathname);
+ const fresh=["/data/equino.json","/js/app.js","/index.html"].some(p=>url.pathname.endsWith(p))||url.pathname.includes("/data/fichas_costillas_");
  e.respondWith(caches.open(C).then(async cache=>{
   const hit=await cache.match(req);
   if(fresh){
