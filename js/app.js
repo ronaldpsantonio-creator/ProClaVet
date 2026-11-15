@@ -169,8 +169,10 @@ function ficha(){
  <p class="${it.state==="cargado"?"mu":"pend"}" style="font-size:13px">Modelo 3D: ${it.state==="cargado"?"cargado. Licencia: "+(s.licencia||"sin documentar"):(it.esq?"esquemático provisional (forma simplificada, no es anatomía real); pendiente del modelo verificado.":s.ph?"marcador provisional, pendiente de desarrollo.":"sin modelo 3D, pendiente de desarrollo.")}</p>`+
  (!blind&&plate?`<figure class="anatomy-plate"><img src="${plate.src}" alt="${plate.alt}" loading="lazy"><figcaption>${plate.caption}</figcaption></figure>`:"")+
  FIELDS.map(([k,n])=>`<div class="f"><span>${n}</span>${F[k]?F[k]:'<span class="pend">Pendiente: sin información verificada</span>'}</div>`).join("")+
+ `<div class="f"><span>Revisión de ficha</span><button id="vf" style="width:100%;padding:10px;border-radius:8px">${S.verified[s.id]?"Ficha confirmada · pasar a siguiente":"Confirmar ficha y pasar a siguiente"}</button><small class="mu">La confirmación registra la revisión del contenido; no certifica el modelo 3D.</small></div>`+
  `<div class="f"><span>Notas personales</span><textarea id="nt" rows="3" style="width:100%;box-sizing:border-box">${S.notes[s.id]||""}</textarea></div>`;
  $("nt").oninput=e=>{S.notes[s.id]=e.target.value;persist()};
+ $("vf").onclick=()=>{S.verified[s.id]=true;persist();const ids=Object.keys(S.items).filter(id=>/^equ\.ske\.cos\.\d{3}-[id]$/.test(id));const at=ids.indexOf(s.id);if(at>=0&&ids[at+1])pick(ids[at+1]);else ficha()};
 }
 function tab(t){["e","c","v","f","q"].forEach(k=>{const p=$("t"+k),b=document.querySelector(`[data-t=${k}]`);if(!p||!b)return;p.classList.toggle("hid",k!==t);b.classList.toggle("on",k===t)});if(t==="q"){window.quizEnter&&window.quizEnter()}else{window.quizLeave&&window.quizLeave()}}
 document.querySelectorAll(".tabs button").forEach(b=>b.onclick=()=>tab(b.dataset.t));
