@@ -1,6 +1,6 @@
 // ProClaVet - Service Worker sincronizado
 // v18: incluye las fichas de Costillas 7 a 17.
-const C="vetanatomy-v18-rib17-fichas";
+const C="vetanatomy-v19-rib17-reload";
 const CORE=["./","index.html","css/styles.css","js/app.js","data/equino.json","data/fichas_costillas_7.json","data/fichas_costillas_8.json","data/fichas_costillas_9.json","data/fichas_costillas_10.json","data/fichas_costillas_11.json","data/fichas_costillas_12.json","data/fichas_costillas_13.json","data/fichas_costillas_14.json","data/fichas_costillas_15.json","data/fichas_costillas_16.json","data/fichas_costillas_17.json","manifest.webmanifest","assets/laminas/atlas-equino-c1.svg","assets/laminas/axis-equino-c2.svg"];
 
 self.addEventListener("install",e=>{
@@ -16,7 +16,7 @@ self.addEventListener("fetch",e=>{
  if(req.method!=="GET")return;
  const url=new URL(req.url);
  if(url.origin!==self.location.origin)return;
- const fresh=["/data/equino.json","/js/app.js","/index.html"].some(p=>url.pathname.endsWith(p));
+ const fresh=["/data/equino.json","/js/app.js","/index.html"].some(p=>url.pathname.endsWith(p))||/\/data\/fichas_costillas_\\d+\\.json$/.test(url.pathname);
  e.respondWith(caches.open(C).then(async cache=>{
   const hit=await cache.match(req);
   if(fresh){
