@@ -156,8 +156,11 @@ function layerPanel(){
 }
 function list(){
  const q=S.q.toLowerCase(),blind=$("blind").checked;
- $("ls").innerHTML=Object.values(S.items).filter(i=>sexOk(i.s)&&(i.s.es+i.s.la).toLowerCase().includes(q)).map(i=>{const s=i.s;
- return `<div class="item ${S.sel===s.id?"sel":""}" data-id="${s.id}"><b>${blind?s.id:s.es}<br><i>${blind?"nombre oculto":s.la+" · modelo "+i.state}</i></b><button data-fav="${s.id}" title="Favorito">${S.fav[s.id]?"★":"☆"}</button><button data-vis="${s.id}" title="Mostrar u ocultar">${i.vis?"👁":"✕"}</button></div>`}).join("")||"<p>Sin resultados.</p>";
+ const ids18=["equ.ske.cos.018-i","equ.ske.cos.018-d"];
+ const pinned=ids18.map(id=>S.items[id]).filter(i=>i&&sexOk(i.s)&&(q===""||("costilla 18 costa 18").includes(q)||("costilla 18 costa 18").includes(q.replace(/\s+/g," "))));
+ const rest=Object.values(S.items).filter(i=>sexOk(i.s)&&(i.s.es+i.s.la).toLowerCase().includes(q)&&!ids18.includes(i.s.id));
+ const render=i=>{const s=i.s;return `<div class="item ${S.sel===s.id?"sel":""}" data-id="${s.id}"><b>${blind?s.id:s.es}<br><i>${blind?"nombre oculto":s.la+" · modelo "+i.state}</i></b><button data-fav="${s.id}" title="Favorito">${S.fav[s.id]?"★":"☆"}</button><button data-vis="${s.id}" title="Mostrar u ocultar">${i.vis?"👁":"✕"}</button></div>`};
+ $("ls").innerHTML=(pinned.length?`<div style="padding:6px 8px;font-weight:700">ACCESO DIRECTO · COSTILLA 18</div>`+pinned.map(render).join("")+ (rest.length?`<div style="padding:6px 8px;font-weight:700">OTRAS ESTRUCTURAS</div>`:""):"")+rest.map(render).join("")||"<p>Sin resultados.</p>";
 }
 $("ls").onclick=e=>{const f=e.target.dataset.fav,v=e.target.dataset.vis;
  if(f){S.fav[f]=!S.fav[f];persist()}else if(v){S.items[v].vis=!S.items[v].vis}else{const it=e.target.closest(".item");if(it)return pick(it.dataset.id)}
