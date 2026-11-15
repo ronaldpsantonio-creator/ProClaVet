@@ -9,12 +9,12 @@ const ANATOMY_PLATES={
  "equ.ske.cer.001":{src:"assets/laminas/atlas-equino-c1.svg",alt:"Atlas equino C1: vistas dorsales y ventrales esquemáticas con arcos, masas laterales, alas y forámenes.",caption:"Lámina original del atlas equino (C1). Esquema didáctico 2D, no a escala ni diagnóstico."},
  "equ.ske.cer.002":{src:"assets/laminas/axis-equino-c2.svg",alt:"Axis equino C2: vistas dorsal y lateral esquemáticas con dens, cuerpo, cresta ventral y proceso espinoso.",caption:"Lámina original del axis equino (C2). Esquema didáctico 2D, no a escala ni diagnóstico."}
 };
-const S={items:{},sel:null,q:"",L:{},sys:{},fav:{},notes:{},sex:"all"};
+const S={items:{},sel:null,q:"",L:{},sys:{},fav:{},notes:{},sex:"all",verified:{}};
 // Sexo: "all" muestra todo; "m" caballo (macho); "f" yegua (hembra). Las estructuras sin campo "sex" se ven siempre.
 const sexOk=s=>!s.sex||S.sex==="all"||s.sex===S.sex;
 LAYERS.forEach(([k])=>S.L[k]={on:true,op:100});
-try{S.fav=JSON.parse(localStorage.getItem("va_fav")||"{}");S.notes=JSON.parse(localStorage.getItem("va_notes")||"{}")}catch(e){}
-const persist=()=>{try{localStorage.setItem("va_fav",JSON.stringify(S.fav));localStorage.setItem("va_notes",JSON.stringify(S.notes))}catch(e){}};
+try{S.fav=JSON.parse(localStorage.getItem("va_fav")||"{}");S.notes=JSON.parse(localStorage.getItem("va_notes")||"{}");S.verified=JSON.parse(localStorage.getItem("va_verified")||"{}")}catch(e){}
+const persist=()=>{try{localStorage.setItem("va_fav",JSON.stringify(S.fav));localStorage.setItem("va_notes",JSON.stringify(S.notes));localStorage.setItem("va_verified",JSON.stringify(S.verified))}catch(e){}};
 // ---- Visor
 const vw=$("vw"),sc=new THREE.Scene(),cam=new THREE.PerspectiveCamera(45,1,.1,100),ren=new THREE.WebGLRenderer({antialias:true,alpha:true});
 ren.setPixelRatio(Math.min(devicePixelRatio,2));vw.prepend(ren.domElement);
