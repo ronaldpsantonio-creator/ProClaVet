@@ -175,7 +175,7 @@ function ficha(){
  `<div class="f"><span>Revisión de ficha</span><button id="vf" style="width:100%;padding:10px;border-radius:8px">${S.verified[s.id]?"Verificado ✓ · pasar a siguiente":"Marcar como verificado y pasar a siguiente"}</button><small class="mu">La confirmación registra la revisión del contenido; no certifica el modelo 3D.</small></div>`+
  `<div class="f"><span>Notas personales</span><textarea id="nt" rows="3" style="width:100%;box-sizing:border-box">${S.notes[s.id]||""}</textarea></div>`;
  $("nt").oninput=e=>{S.notes[s.id]=e.target.value;persist()};
- $("vf").onclick=()=>{S.verified[s.id]=true;persist();const ids=Object.keys(S.items).filter(id=>/^equ\.ske\.cos\.\d{3}-[id]$/.test(id));const at=ids.indexOf(s.id);if(at>=0&&ids[at+1])pick(ids[at+1]);else ficha()};
+ $("vf").onclick=()=>{S.verified[s.id]=true;persist();const reg=s.id.split(".")[2];const ids=Object.keys(S.items).filter(id=>id.startsWith("equ.ske."+reg+".")&&/^equ\.ske\.(?:mto|mpe|cos)\.\d{3}-[id]$/.test(id));const at=ids.indexOf(s.id);if(at>=0&&ids[at+1])pick(ids[at+1]);else ficha()};
 }
 function tab(t){["e","c","v","f","q"].forEach(k=>{const p=$("t"+k),b=document.querySelector(`[data-t=${k}]`);if(!p||!b)return;p.classList.toggle("hid",k!==t);b.classList.toggle("on",k===t)});if(t==="q"){window.quizEnter&&window.quizEnter()}else{window.quizLeave&&window.quizLeave()}}
 document.querySelectorAll(".tabs button").forEach(b=>b.onclick=()=>tab(b.dataset.t));
