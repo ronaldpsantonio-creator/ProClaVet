@@ -1,7 +1,7 @@
 // ProClaVet - Service Worker sincronizado
-// v9: incluye las fichas de Costilla 7 y 8.
-const C="vetanatomy-v9-rib8-fichas";
-const CORE=["./","index.html","css/styles.css","js/app.js","data/equino.json","data/fichas_costillas_7.json","data/fichas_costillas_8.json","manifest.webmanifest","assets/laminas/atlas-equino-c1.svg","assets/laminas/axis-equino-c2.svg"];
+// v10: incluye las fichas de Costillas 7, 8 y 9.
+const C="vetanatomy-v10-rib9-fichas";
+const CORE=["./","index.html","css/styles.css","js/app.js","data/equino.json","data/fichas_costillas_7.json","data/fichas_costillas_8.json","data/fichas_costillas_9.json","manifest.webmanifest","assets/laminas/atlas-equino-c1.svg","assets/laminas/axis-equino-c2.svg"];
 
 self.addEventListener("install",e=>{
  e.waitUntil(caches.open(C).then(c=>c.addAll(CORE)).then(()=>self.skipWaiting()));
