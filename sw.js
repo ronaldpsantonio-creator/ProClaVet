@@ -1,6 +1,6 @@
 // ProClaVet - Service Worker sincronizado
 // v20: incluye las fichas de Costillas 7 a 18.
-const C="vetanatomy-v20-rib18-reload";
+const C="vetanatomy-v21-rib18-direct";
 const CORE=["./","index.html","css/styles.css","js/app.js","data/equino.json","data/fichas_costillas_7.json","data/fichas_costillas_8.json","data/fichas_costillas_9.json","data/fichas_costillas_10.json","data/fichas_costillas_11.json","data/fichas_costillas_12.json","data/fichas_costillas_13.json","data/fichas_costillas_14.json","data/fichas_costillas_15.json","data/fichas_costillas_16.json","data/fichas_costillas_17.json","data/fichas_costillas_18.json","manifest.webmanifest","assets/laminas/atlas-equino-c1.svg","assets/laminas/axis-equino-c2.svg"];
 
 self.addEventListener("install",e=>{
