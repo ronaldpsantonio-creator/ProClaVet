@@ -2871,14 +2871,42 @@
       "es": "Metacarpiano III (caña) (izquierdo)",
       "la": "Os metacarpale III",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Miembro torácico izquierdo, entre la fila distal de los huesos carpianos y la articulación metacarpofalángica; constituye el tercer metacarpiano y el principal soporte óseo del metacarpo.",
+        "descripcion": "Hueso largo, robusto y prácticamente rectilíneo, conocido como caña. Presenta un cuerpo o diáfisis desarrollado y dos extremidades; su sección y curvatura varían a lo largo del eje. En el caballo adulto es el principal metacarpiano funcional.",
+        "relaciones": "Proximalmente se relaciona con los huesos carpianos distales, principalmente el carpiano III y las superficies de contacto del carpiano II y IV según la conformación. A sus lados se encuentran los metacarpianos II y IV, más delgados (rudimentarios o metacarpianos accesorios). Distalmente se relaciona con la falange proximal a través del aparato metacarpofalángico y con los sesamoideos proximales.",
+        "accidentes": "Se reconocen diáfisis, cara dorsal, cara palmar, bordes y extremidades proximal y distal. La extremidad proximal presenta superficie articular carpiana; la distal forma la tróclea metacarpiana, con cresta sagital y dos cóndilos separados por un surco. En la cara palmar distal se ubican las áreas de articulación con los sesamoideos proximales.",
+        "articulaciones": "Articula proximalmente con los huesos de la fila distal del carpo, especialmente el carpiano III. Distalmente articula con la falange proximal y los dos huesos sesamoideos proximales, formando la articulación metacarpofalángica.",
+        "inserciones": "La diáfisis sirve de referencia y soporte para estructuras del aparato suspensorio y tendones flexores y extensores que discurren adyacentes; no deben atribuirse inserciones musculares directas importantes al cuerpo de la caña sin especificar la estructura y su variación. En la región distal se fijan cápsula articular y ligamentos colaterales; los sesamoideos reciben inserciones del aparato suspensorio y de los ligamentos sesamoideos.",
+        "irrigacion": "Recibe aporte de ramas metacarpianas palmares y dorsales, procedentes de la red arterial distal del miembro torácico. La distribución exacta varía entre las superficies dorsal y palmar y se establece mediante ramas periostales y nutricias.",
+        "inervacion": "El periostio y tejidos periarticulares reciben sensibilidad de ramas de los nervios palmares y dorsales del metacarpo, derivados de los nervios mediano y ulnar. El hueso no posee una inervación somática única independiente de los tejidos que lo rodean.",
+        "funcion": "Transmite el peso desde el carpo hacia la articulación metacarpofalángica, resiste cargas elevadas durante apoyo y locomoción y proporciona un brazo rígido para la función distal del miembro.",
+        "especie": "En équidos, el metacarpiano III es el hueso principal de la caña. Los metacarpianos II y IV son rudimentarios y se disponen a cada lado. Esta configuración es característica de la adaptación del caballo a la carrera y al apoyo sobre un solo dedo funcional.",
+        "clinica": "Es un sitio relevante de fracturas por sobrecarga o traumatismo, periostitis y lesiones asociadas al esfuerzo. La evaluación debe considerar alineación, corticales, superficie articular distal y relación con los metacarpianos rudimentarios; la radiografía en proyecciones adecuadas es fundamental.",
+        "referencias": "König, H. E. y Liebich, H.-G. (eds.). Anatomía de los animales domésticos: texto y atlas en color. 7.ª ed. Thieme. Dyce, K. M., Sack, W. O. y Wensing, C. J. G. Anatomía veterinaria. 5.ª ed. Elsevier. Budras, K.-D. et al. Anatomy of the Horse. 6th ed. Schlütersche."
+      }
     },
     {
       "id": "equ.ske.mto.012-d",
       "es": "Metacarpiano III (caña) (derecho)",
       "la": "Os metacarpale III",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Miembro torácico derecho, entre la fila distal de los huesos carpianos y la articulación metacarpofalángica; constituye el tercer metacarpiano y el principal soporte óseo del metacarpo.",
+        "descripcion": "Hueso largo, robusto y prácticamente rectilíneo, conocido como caña. Presenta un cuerpo o diáfisis desarrollado y dos extremidades; su sección y curvatura varían a lo largo del eje. En el caballo adulto es el principal metacarpiano funcional.",
+        "relaciones": "Proximalmente se relaciona con los huesos carpianos distales, principalmente el carpiano III y las superficies de contacto del carpiano II y IV según la conformación. A sus lados se encuentran los metacarpianos II y IV, más delgados (rudimentarios o metacarpianos accesorios). Distalmente se relaciona con la falange proximal a través del aparato metacarpofalángico y con los sesamoideos proximales.",
+        "accidentes": "Se reconocen diáfisis, cara dorsal, cara palmar, bordes y extremidades proximal y distal. La extremidad proximal presenta superficie articular carpiana; la distal forma la tróclea metacarpiana, con cresta sagital y dos cóndilos separados por un surco. En la cara palmar distal se ubican las áreas de articulación con los sesamoideos proximales.",
+        "articulaciones": "Articula proximalmente con los huesos de la fila distal del carpo, especialmente el carpiano III. Distalmente articula con la falange proximal y los dos huesos sesamoideos proximales, formando la articulación metacarpofalángica.",
+        "inserciones": "La diáfisis sirve de referencia y soporte para estructuras del aparato suspensorio y tendones flexores y extensores que discurren adyacentes; no deben atribuirse inserciones musculares directas importantes al cuerpo de la caña sin especificar la estructura y su variación. En la región distal se fijan cápsula articular y ligamentos colaterales; los sesamoideos reciben inserciones del aparato suspensorio y de los ligamentos sesamoideos.",
+        "irrigacion": "Recibe aporte de ramas metacarpianas palmares y dorsales, procedentes de la red arterial distal del miembro torácico. La distribución exacta varía entre las superficies dorsal y palmar y se establece mediante ramas periostales y nutricias.",
+        "inervacion": "El periostio y tejidos periarticulares reciben sensibilidad de ramas de los nervios palmares y dorsales del metacarpo, derivados de los nervios mediano y ulnar. El hueso no posee una inervación somática única independiente de los tejidos que lo rodean.",
+        "funcion": "Transmite el peso desde el carpo hacia la articulación metacarpofalángica, resiste cargas elevadas durante apoyo y locomoción y proporciona un brazo rígido para la función distal del miembro.",
+        "especie": "En équidos, el metacarpiano III es el hueso principal de la caña. Los metacarpianos II y IV son rudimentarios y se disponen a cada lado. Esta configuración es característica de la adaptación del caballo a la carrera y al apoyo sobre un solo dedo funcional.",
+        "clinica": "Es un sitio relevante de fracturas por sobrecarga o traumatismo, periostitis y lesiones asociadas al esfuerzo. La evaluación debe considerar alineación, corticales, superficie articular distal y relación con los metacarpianos rudimentarios; la radiografía en proyecciones adecuadas es fundamental.",
+        "referencias": "König, H. E. y Liebich, H.-G. (eds.). Anatomía de los animales domésticos: texto y atlas en color. 7.ª ed. Thieme. Dyce, K. M., Sack, W. O. y Wensing, C. J. G. Anatomía veterinaria. 5.ª ed. Elsevier. Budras, K.-D. et al. Anatomy of the Horse. 6th ed. Schlütersche."
+      }
     },
     {
       "id": "equ.ske.mto.013-i",
@@ -2927,28 +2955,84 @@
       "es": "Metacarpiano IV (izquierdo)",
       "la": "Os metacarpale IV",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Miembro torácico izquierdo, a lo largo del borde medial del metacarpiano III, desde la región carpiana distal hacia la porción proximal del metacarpo.",
+        "descripcion": "Hueso largo, estrecho y reducido, denominado metacarpiano accesorio medial. Presenta una base proximal relativamente desarrollada y un cuerpo que se afina distalmente, donde termina en una extremidad libre.",
+        "relaciones": "Se encuentra medial al metacarpiano III y lateral a los tejidos blandos mediales del metacarpo. Su base se relaciona con la región carpiana distal, principalmente con el carpiano II y las superficies vecinas. Su extremo distal queda libre y se relaciona con el periostio y fascia adyacentes.",
+        "accidentes": "Presenta base proximal, cuerpo y extremo distal afilado o redondeado. La base posee superficie de contacto con el carpo y con el metacarpiano III; el cuerpo puede presentar rugosidades y variaciones individuales.",
+        "articulaciones": "Su base se articula con el metacarpiano III y mantiene contacto proximal con el carpiano II; la configuración exacta de las facetas puede variar. No participa directamente en la articulación metacarpofalángica.",
+        "inserciones": "No presenta inserciones musculares funcionales importantes. Sirve de soporte para ligamentos interóseos y tejidos fibrosos que lo unen al metacarpiano III; el periostio y la fascia adyacente se fijan a su superficie.",
+        "irrigacion": "Su aporte procede de ramas metacarpianas palmares y dorsales, con contribución de vasos periostales y nutricios regionales. No se considera que posea un patrón arterial exclusivo constante.",
+        "inervacion": "La sensibilidad periostal y de los tejidos asociados depende de ramas nerviosas palmares y dorsales del metacarpo, derivadas de los nervios mediano y ulnar.",
+        "funcion": "Es un metacarpiano rudimentario que contribuye al contorno y estabilidad lateral del metacarpo y proporciona superficies de fijación a estructuras fibrosas; no transmite la carga principal del miembro.",
+        "especie": "En el caballo, el metacarpiano IV es el metacarpiano accesorio lateral. Se encuentra reducido en comparación con el metacarpiano III y acompaña al metacarpiano II, medial, como vestigio de los dedos laterales.",
+        "clinica": "Puede presentar fracturas, reacción perióstica o exostosis («splints»), especialmente en su unión con el metacarpiano III. La palpación comparativa y la evaluación radiográfica ayudan a diferenciar cambios óseos de lesiones de tejidos blandos.",
+        "referencias": "Budras, K.-D. et al. Anatomy of the Horse. 6th ed. Schlütersche. König, H. E. y Liebich, H.-G. (eds.). Anatomía de los animales domésticos: texto y atlas en color. 7.ª ed. Thieme. Dyce, K. M., Sack, W. O. y Wensing, C. J. G. Anatomía veterinaria. 5.ª ed. Elsevier."
+      }
     },
     {
       "id": "equ.ske.mto.014-d",
       "es": "Metacarpiano IV (derecho)",
       "la": "Os metacarpale IV",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Miembro torácico derecho, a lo largo del borde medial del metacarpiano III, desde la región carpiana distal hacia la porción proximal del metacarpo.",
+        "descripcion": "Hueso largo, estrecho y reducido, denominado metacarpiano accesorio medial. Presenta una base proximal relativamente desarrollada y un cuerpo que se afina distalmente, donde termina en una extremidad libre.",
+        "relaciones": "Se encuentra medial al metacarpiano III y lateral a los tejidos blandos mediales del metacarpo. Su base se relaciona con la región carpiana distal, principalmente con el carpiano II y las superficies vecinas. Su extremo distal queda libre y se relaciona con el periostio y fascia adyacentes.",
+        "accidentes": "Presenta base proximal, cuerpo y extremo distal afilado o redondeado. La base posee superficie de contacto con el carpo y con el metacarpiano III; el cuerpo puede presentar rugosidades y variaciones individuales.",
+        "articulaciones": "Su base se articula con el metacarpiano III y mantiene contacto proximal con el carpiano II; la configuración exacta de las facetas puede variar. No participa directamente en la articulación metacarpofalángica.",
+        "inserciones": "No presenta inserciones musculares funcionales importantes. Sirve de soporte para ligamentos interóseos y tejidos fibrosos que lo unen al metacarpiano III; el periostio y la fascia adyacente se fijan a su superficie.",
+        "irrigacion": "Su aporte procede de ramas metacarpianas palmares y dorsales, con contribución de vasos periostales y nutricios regionales. No se considera que posea un patrón arterial exclusivo constante.",
+        "inervacion": "La sensibilidad periostal y de los tejidos asociados depende de ramas nerviosas palmares y dorsales del metacarpo, derivadas de los nervios mediano y ulnar.",
+        "funcion": "Es un metacarpiano rudimentario que contribuye al contorno y estabilidad lateral del metacarpo y proporciona superficies de fijación a estructuras fibrosas; no transmite la carga principal del miembro.",
+        "especie": "En el caballo, el metacarpiano IV es el metacarpiano accesorio lateral. Se encuentra reducido en comparación con el metacarpiano III y acompaña al metacarpiano II, medial, como vestigio de los dedos laterales.",
+        "clinica": "Puede presentar fracturas, reacción perióstica o exostosis («splints»), especialmente en su unión con el metacarpiano III. La palpación comparativa y la evaluación radiográfica ayudan a diferenciar cambios óseos de lesiones de tejidos blandos.",
+        "referencias": "Budras, K.-D. et al. Anatomy of the Horse. 6th ed. Schlütersche. König, H. E. y Liebich, H.-G. (eds.). Anatomía de los animales domésticos: texto y atlas en color. 7.ª ed. Thieme. Dyce, K. M., Sack, W. O. y Wensing, C. J. G. Anatomía veterinaria. 5.ª ed. Elsevier."
+      }
     },
     {
       "id": "equ.ske.mto.015-i",
       "es": "Falange proximal (izquierdo)",
       "la": "Phalanx proximalis",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Dedo III del miembro torácico izquierdo, distal a la articulación metacarpofalángica y proximal a la falange media; constituye el primer segmento óseo del dedo.",
+        "descripcion": "Hueso corto y robusto, también denominado primera falange o cuartilla. Presenta una base proximal, un cuerpo y una cabeza distal. Su forma está adaptada a soportar y distribuir fuerzas durante el apoyo.",
+        "relaciones": "Proximalmente se relaciona con la tróclea distal del metacarpiano III y los sesamoideos proximales. Distalmente se relaciona con la falange media. Palmarmente mantiene relaciones estrechas con los tendones flexores, el aparato suspensorio y los ligamentos sesamoideos; dorsalmente con el tendón extensor digital común.",
+        "accidentes": "La base proximal presenta una superficie articular cóncava dividida por un surco sagital. El cuerpo posee caras y bordes palpables. La extremidad distal presenta una superficie articular condilar para la falange media, además de áreas de fijación capsular y ligamentosa.",
+        "articulaciones": "Proximalmente forma la articulación metacarpofalángica con el metacarpiano III y los sesamoideos proximales. Distalmente articula con la falange media en la articulación interfalángica proximal.",
+        "inserciones": "Recibe fijaciones de la cápsula articular y ligamentos colaterales de las articulaciones metacarpofalángica e interfalángica proximal. En su cara palmar se relaciona con inserciones del aparato ligamentoso sesamoideo distal y estructuras de sostén; los tendones flexores pasan palmares a ella sin una inserción extensa en su diáfisis.",
+        "irrigacion": "Está irrigada por ramas digitales palmares y dorsales y por vasos periarticulares y nutricios regionales. La red vascular se comunica con la irrigación de los tejidos blandos del dedo.",
+        "inervacion": "La sensibilidad del periostio y de las estructuras articulares adyacentes procede principalmente de los nervios digitales palmares medial y lateral, con contribuciones dorsales regionales.",
+        "funcion": "Transmite las cargas desde el metacarpo hacia las falanges distales, participa en la amortiguación y estabilidad del dedo y actúa como brazo óseo para el funcionamiento coordinado de tendones y ligamentos.",
+        "especie": "En el caballo, la falange proximal es relativamente larga y robusta y forma la región ósea de la cuartilla. Su orientación y longitud influyen en la conformación del eje podofalángico y en la distribución de fuerzas.",
+        "clinica": "Es importante en fracturas de cuartilla, osteoartritis de las articulaciones metacarpofalángica e interfalángica proximal y evaluación de la conformación. La interpretación radiográfica requiere proyecciones apropiadas y correlación con la exploración clínica.",
+        "referencias": "Budras, K.-D. et al. Anatomy of the Horse. 6th ed. Schlütersche. König, H. E. y Liebich, H.-G. (eds.). Anatomía de los animales domésticos: texto y atlas en color. 7.ª ed. Thieme. Dyce, K. M., Sack, W. O. y Wensing, C. J. G. Anatomía veterinaria. 5.ª ed. Elsevier."
+      }
     },
     {
       "id": "equ.ske.mto.015-d",
       "es": "Falange proximal (derecho)",
       "la": "Phalanx proximalis",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Dedo III del miembro torácico derecho, distal a la articulación metacarpofalángica y proximal a la falange media; constituye el primer segmento óseo del dedo.",
+        "descripcion": "Hueso corto y robusto, también denominado primera falange o cuartilla. Presenta una base proximal, un cuerpo y una cabeza distal. Su forma está adaptada a soportar y distribuir fuerzas durante el apoyo.",
+        "relaciones": "Proximalmente se relaciona con la tróclea distal del metacarpiano III y los sesamoideos proximales. Distalmente se relaciona con la falange media. Palmarmente mantiene relaciones estrechas con los tendones flexores, el aparato suspensorio y los ligamentos sesamoideos; dorsalmente con el tendón extensor digital común.",
+        "accidentes": "La base proximal presenta una superficie articular cóncava dividida por un surco sagital. El cuerpo posee caras y bordes palpables. La extremidad distal presenta una superficie articular condilar para la falange media, además de áreas de fijación capsular y ligamentosa.",
+        "articulaciones": "Proximalmente forma la articulación metacarpofalángica con el metacarpiano III y los sesamoideos proximales. Distalmente articula con la falange media en la articulación interfalángica proximal.",
+        "inserciones": "Recibe fijaciones de la cápsula articular y ligamentos colaterales de las articulaciones metacarpofalángica e interfalángica proximal. En su cara palmar se relaciona con inserciones del aparato ligamentoso sesamoideo distal y estructuras de sostén; los tendones flexores pasan palmares a ella sin una inserción extensa en su diáfisis.",
+        "irrigacion": "Está irrigada por ramas digitales palmares y dorsales y por vasos periarticulares y nutricios regionales. La red vascular se comunica con la irrigación de los tejidos blandos del dedo.",
+        "inervacion": "La sensibilidad del periostio y de las estructuras articulares adyacentes procede principalmente de los nervios digitales palmares medial y lateral, con contribuciones dorsales regionales.",
+        "funcion": "Transmite las cargas desde el metacarpo hacia las falanges distales, participa en la amortiguación y estabilidad del dedo y actúa como brazo óseo para el funcionamiento coordinado de tendones y ligamentos.",
+        "especie": "En el caballo, la falange proximal es relativamente larga y robusta y forma la región ósea de la cuartilla. Su orientación y longitud influyen en la conformación del eje podofalángico y en la distribución de fuerzas.",
+        "clinica": "Es importante en fracturas de cuartilla, osteoartritis de las articulaciones metacarpofalángica e interfalángica proximal y evaluación de la conformación. La interpretación radiográfica requiere proyecciones apropiadas y correlación con la exploración clínica.",
+        "referencias": "Budras, K.-D. et al. Anatomy of the Horse. 6th ed. Schlütersche. König, H. E. y Liebich, H.-G. (eds.). Anatomía de los animales domésticos: texto y atlas en color. 7.ª ed. Thieme. Dyce, K. M., Sack, W. O. y Wensing, C. J. G. Anatomía veterinaria. 5.ª ed. Elsevier."
+      }
     },
     {
       "id": "equ.ske.mto.016-i",
