@@ -3039,42 +3039,126 @@
       "es": "Falange media (izquierdo)",
       "la": "Phalanx media",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Dedo III del miembro torácico izquierdo, entre la falange proximal y la falange distal; forma el segmento óseo medio del dedo y se encuentra dentro de la región de la corona.",
+        "descripcion": "Hueso corto y relativamente cuboideo, denominado segunda falange o falange media. Presenta una base proximal para articular con la falange proximal, un cuerpo y una extremidad distal para articular con la falange distal y el sesamoideo distal (navicular).",
+        "relaciones": "Proximalmente se relaciona con la falange proximal en la articulación interfalángica proximal. Distalmente se relaciona con la falange distal y el hueso navicular en la articulación interfalángica distal. Dorsalmente se relaciona con el tendón extensor digital común; palmarmente con el tendón flexor digital profundo y el aparato ligamentoso asociado al navicular.",
+        "accidentes": "La base proximal presenta una superficie articular con dos cavidades separadas por una cresta sagital. El cuerpo muestra caras dorsal, palmar y laterales. La extremidad distal presenta una superficie articular adaptada a la falange distal y al navicular, además de áreas de fijación capsular y ligamentosa.",
+        "articulaciones": "Forma proximalmente la articulación interfalángica proximal con la falange proximal. Distalmente participa en la articulación interfalángica distal con la falange distal y el sesamoideo distal o navicular.",
+        "inserciones": "Recibe fijación de la cápsula y ligamentos colaterales de las articulaciones interfalángicas. En su región palmar se fijan estructuras del aparato ligamentoso del navicular; el tendón flexor digital profundo discurre sobre la superficie flexora del navicular y no debe describirse como inserción directa en la falange media.",
+        "irrigacion": "Recibe ramas vasculares periarticulares y nutricias procedentes de la circulación digital palmar y dorsal. La vascularización se integra con la red de tejidos blandos de la corona y del dedo.",
+        "inervacion": "La sensibilidad periostal y articular se relaciona con ramas de los nervios digitales palmares medial y lateral y con contribuciones dorsales digitales.",
+        "funcion": "Transmite y distribuye las fuerzas entre las falanges proximal y distal, contribuye a la estabilidad de las articulaciones interfalángicas y participa en la mecánica de flexión y extensión del dedo.",
+        "especie": "En el caballo, la falange media es relativamente corta y queda alojada en gran parte dentro del casco, en la región de la corona. Su articulación distal está funcionalmente vinculada al hueso navicular y al tendón flexor digital profundo.",
+        "clinica": "Puede verse afectada por fracturas, osteoartritis interfalángica proximal o distal y lesiones periarticulares. La evaluación radiográfica debe incluir proyecciones específicas del dedo y correlación con la exploración clínica; la ecografía y otras técnicas pueden complementar la valoración de tejidos blandos.",
+        "referencias": "Budras, K.-D. et al. Anatomy of the Horse. 6th ed. Schlütersche. König, H. E. y Liebich, H.-G. (eds.). Anatomía de los animales domésticos: texto y atlas en color. 7.ª ed. Thieme. Dyce, K. M., Sack, W. O. y Wensing, C. J. G. Anatomía veterinaria. 5.ª ed. Elsevier."
+      }
     },
     {
       "id": "equ.ske.mto.016-d",
       "es": "Falange media (derecho)",
       "la": "Phalanx media",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Dedo III del miembro torácico derecho, entre la falange proximal y la falange distal; forma el segmento óseo medio del dedo y se encuentra dentro de la región de la corona.",
+        "descripcion": "Hueso corto y relativamente cuboideo, denominado segunda falange o falange media. Presenta una base proximal para articular con la falange proximal, un cuerpo y una extremidad distal para articular con la falange distal y el sesamoideo distal (navicular).",
+        "relaciones": "Proximalmente se relaciona con la falange proximal en la articulación interfalángica proximal. Distalmente se relaciona con la falange distal y el hueso navicular en la articulación interfalángica distal. Dorsalmente se relaciona con el tendón extensor digital común; palmarmente con el tendón flexor digital profundo y el aparato ligamentoso asociado al navicular.",
+        "accidentes": "La base proximal presenta una superficie articular con dos cavidades separadas por una cresta sagital. El cuerpo muestra caras dorsal, palmar y laterales. La extremidad distal presenta una superficie articular adaptada a la falange distal y al navicular, además de áreas de fijación capsular y ligamentosa.",
+        "articulaciones": "Forma proximalmente la articulación interfalángica proximal con la falange proximal. Distalmente participa en la articulación interfalángica distal con la falange distal y el sesamoideo distal o navicular.",
+        "inserciones": "Recibe fijación de la cápsula y ligamentos colaterales de las articulaciones interfalángicas. En su región palmar se fijan estructuras del aparato ligamentoso del navicular; el tendón flexor digital profundo discurre sobre la superficie flexora del navicular y no debe describirse como inserción directa en la falange media.",
+        "irrigacion": "Recibe ramas vasculares periarticulares y nutricias procedentes de la circulación digital palmar y dorsal. La vascularización se integra con la red de tejidos blandos de la corona y del dedo.",
+        "inervacion": "La sensibilidad periostal y articular se relaciona con ramas de los nervios digitales palmares medial y lateral y con contribuciones dorsales digitales.",
+        "funcion": "Transmite y distribuye las fuerzas entre las falanges proximal y distal, contribuye a la estabilidad de las articulaciones interfalángicas y participa en la mecánica de flexión y extensión del dedo.",
+        "especie": "En el caballo, la falange media es relativamente corta y queda alojada en gran parte dentro del casco, en la región de la corona. Su articulación distal está funcionalmente vinculada al hueso navicular y al tendón flexor digital profundo.",
+        "clinica": "Puede verse afectada por fracturas, osteoartritis interfalángica proximal o distal y lesiones periarticulares. La evaluación radiográfica debe incluir proyecciones específicas del dedo y correlación con la exploración clínica; la ecografía y otras técnicas pueden complementar la valoración de tejidos blandos.",
+        "referencias": "Budras, K.-D. et al. Anatomy of the Horse. 6th ed. Schlütersche. König, H. E. y Liebich, H.-G. (eds.). Anatomía de los animales domésticos: texto y atlas en color. 7.ª ed. Thieme. Dyce, K. M., Sack, W. O. y Wensing, C. J. G. Anatomía veterinaria. 5.ª ed. Elsevier."
+      }
     },
     {
       "id": "equ.ske.mto.017-i",
       "es": "Falange distal (izquierdo)",
       "la": "Phalanx distalis",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Extremo distal del dedo III del miembro torácico izquierdo, dentro del casco; se sitúa distal a la falange media y dorsal al cojinete digital y a las estructuras palmares del pie.",
+        "descripcion": "Hueso ancho, incurvado y de forma aproximadamente semilunar, conocido como tercera falange, falange distal o hueso del casco. Se adapta a la cápsula córnea y presenta superficies parietal, solar y articular, además de procesos y agujeros vasculares.",
+        "relaciones": "La superficie parietal se relaciona íntimamente con el corion laminar y la pared del casco. La superficie solar se relaciona con el corion solar. La superficie flexora se relaciona con el tendón flexor digital profundo, con el navicular interpuesto en la región proximal palmar. Los procesos palmares se relacionan con cartílagos ungulares y tejidos del pie.",
+        "accidentes": "Presenta proceso extensor dorsal para la inserción del tendón extensor digital común; superficie articular proximal; superficie parietal con agujeros y surcos vasculares; superficie solar con línea semilunar y agujeros solares; superficie flexora para el tendón flexor digital profundo; y procesos palmares medial y lateral que continúan con los cartílagos ungulares.",
+        "articulaciones": "Articula proximalmente con la falange media y el sesamoideo distal (navicular), formando la articulación interfalángica distal. No articula directamente con el suelo: la superficie solar queda cubierta por el corion y la suela córnea.",
+        "inserciones": "El tendón extensor digital común se inserta en el proceso extensor. El tendón flexor digital profundo se inserta en la superficie flexora o cara semilunar. Los ligamentos colaterales y la cápsula articular se fijan alrededor de la superficie articular; los ligamentos impar sesamoideo distal y otros elementos del aparato navicular se relacionan con su región palmar.",
+        "irrigacion": "Está irrigada por ramas de las arterias digitales palmares medial y lateral, que forman una red dentro del hueso y contribuyen a la circulación del pie. Los agujeros solares y canales vasculares permiten el paso de vasos hacia la falange distal y el corion.",
+        "inervacion": "La sensibilidad procede de ramas de los nervios digitales palmares medial y lateral y de sus ramas dorsales, que inervan periostio, articulación y tejidos del casco. La inervación del hueso se integra con la del pie.",
+        "funcion": "Soporta y distribuye las cargas dentro del casco, proporciona inserción a los tendones extensor y flexor digitales y participa en la amortiguación y la biomecánica del pie equino.",
+        "especie": "En el caballo, la falange distal está moldeada por la cápsula córnea y presenta procesos palmares que se continúan con los cartílagos ungulares. Su forma y vascularización son esenciales para la función del pie y la relación con el corion laminar.",
+        "clinica": "Es fundamental en laminitis, fracturas de falange distal, osteítis pedal y alteraciones de la articulación interfalángica distal. La radiografía permite valorar rotación, hundimiento, remodelación, márgenes y canales vasculares; debe interpretarse junto con la exploración del casco.",
+        "referencias": "Budras, K.-D. et al. Anatomy of the Horse. 6th ed. Schlütersche. König, H. E. y Liebich, H.-G. (eds.). Anatomía de los animales domésticos: texto y atlas en color. 7.ª ed. Thieme. Dyce, K. M., Sack, W. O. y Wensing, C. J. G. Anatomía veterinaria. 5.ª ed. Elsevier."
+      }
     },
     {
       "id": "equ.ske.mto.017-d",
       "es": "Falange distal (derecho)",
       "la": "Phalanx distalis",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Extremo distal del dedo III del miembro torácico derecho, dentro del casco; se sitúa distal a la falange media y dorsal al cojinete digital y a las estructuras palmares del pie.",
+        "descripcion": "Hueso ancho, incurvado y de forma aproximadamente semilunar, conocido como tercera falange, falange distal o hueso del casco. Se adapta a la cápsula córnea y presenta superficies parietal, solar y articular, además de procesos y agujeros vasculares.",
+        "relaciones": "La superficie parietal se relaciona íntimamente con el corion laminar y la pared del casco. La superficie solar se relaciona con el corion solar. La superficie flexora se relaciona con el tendón flexor digital profundo, con el navicular interpuesto en la región proximal palmar. Los procesos palmares se relacionan con cartílagos ungulares y tejidos del pie.",
+        "accidentes": "Presenta proceso extensor dorsal para la inserción del tendón extensor digital común; superficie articular proximal; superficie parietal con agujeros y surcos vasculares; superficie solar con línea semilunar y agujeros solares; superficie flexora para el tendón flexor digital profundo; y procesos palmares medial y lateral que continúan con los cartílagos ungulares.",
+        "articulaciones": "Articula proximalmente con la falange media y el sesamoideo distal (navicular), formando la articulación interfalángica distal. No articula directamente con el suelo: la superficie solar queda cubierta por el corion y la suela córnea.",
+        "inserciones": "El tendón extensor digital común se inserta en el proceso extensor. El tendón flexor digital profundo se inserta en la superficie flexora o cara semilunar. Los ligamentos colaterales y la cápsula articular se fijan alrededor de la superficie articular; los ligamentos impar sesamoideo distal y otros elementos del aparato navicular se relacionan con su región palmar.",
+        "irrigacion": "Está irrigada por ramas de las arterias digitales palmares medial y lateral, que forman una red dentro del hueso y contribuyen a la circulación del pie. Los agujeros solares y canales vasculares permiten el paso de vasos hacia la falange distal y el corion.",
+        "inervacion": "La sensibilidad procede de ramas de los nervios digitales palmares medial y lateral y de sus ramas dorsales, que inervan periostio, articulación y tejidos del casco. La inervación del hueso se integra con la del pie.",
+        "funcion": "Soporta y distribuye las cargas dentro del casco, proporciona inserción a los tendones extensor y flexor digitales y participa en la amortiguación y la biomecánica del pie equino.",
+        "especie": "En el caballo, la falange distal está moldeada por la cápsula córnea y presenta procesos palmares que se continúan con los cartílagos ungulares. Su forma y vascularización son esenciales para la función del pie y la relación con el corion laminar.",
+        "clinica": "Es fundamental en laminitis, fracturas de falange distal, osteítis pedal y alteraciones de la articulación interfalángica distal. La radiografía permite valorar rotación, hundimiento, remodelación, márgenes y canales vasculares; debe interpretarse junto con la exploración del casco.",
+        "referencias": "Budras, K.-D. et al. Anatomy of the Horse. 6th ed. Schlütersche. König, H. E. y Liebich, H.-G. (eds.). Anatomía de los animales domésticos: texto y atlas en color. 7.ª ed. Thieme. Dyce, K. M., Sack, W. O. y Wensing, C. J. G. Anatomía veterinaria. 5.ª ed. Elsevier."
+      }
     },
     {
       "id": "equ.ske.mto.018-i",
       "es": "Sesamoideo proximal medial (izquierdo)",
       "la": "Os sesamoideum proximale mediale",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Región palmar de la articulación metacarpofalángica del miembro torácico izquierdo; se ubica en el lado medial del extremo distal del metacarpiano III, junto al sesamoideo proximal lateral.",
+        "descripcion": "Hueso sesamoideo pequeño, corto y de contorno aproximadamente piramidal o semilunar, situado en el aparato suspensorio de la articulación metacarpofalángica. Presenta una base proximal, un vértice distal y superficies articulares y de inserción ligamentosa.",
+        "relaciones": "Su superficie dorsal articula con la superficie sesamoidea del metacarpiano III. Su superficie axial se relaciona con el sesamoideo proximal lateral y con el espacio intersesamoideo; su cara palmar se relaciona con el ligamento intersesamoideo y los tendones flexores digitales superficial y profundo, que pasan sobre el conjunto sesamoideo.",
+        "accidentes": "Se reconocen una superficie articular dorsal, una superficie palmar rugosa, bordes axial y abaxial, base proximal y vértice distal. Las áreas rugosas sirven de fijación a ligamentos sesamoideos y al aparato suspensorio.",
+        "articulaciones": "Articula dorsalmente con la superficie sesamoidea del extremo distal del metacarpiano III y se relaciona con el sesamoideo proximal lateral mediante el aparato intersesamoideo. Participa en la articulación metacarpofalángica.",
+        "inserciones": "Recibe la inserción de ramas del ligamento suspensorio (músculo interóseo medio) y de ligamentos sesamoideos distales, incluidos los rectos, oblicuos y cruzados según su zona de fijación. El ligamento intersesamoideo une ambos sesamoideos proximales. Los tendones flexores se deslizan palmares a ellos y no se insertan en su superficie articular.",
+        "irrigacion": "Recibe ramas de las arterias digitales palmares y de vasos metacarpianos palmares que contribuyen a la red periarticular y sesamoidea. La distribución vascular puede variar y se comunica con la irrigación del aparato suspensorio.",
+        "inervacion": "La sensibilidad periostal y articular depende de ramas de los nervios palmares medial y lateral y de ramas digitales proximales.",
+        "funcion": "Actúa como polea para los tendones flexores, aumenta el brazo de palanca del aparato flexor, distribuye fuerzas y contribuye a la estabilidad de la articulación metacarpofalángica y del aparato suspensorio.",
+        "especie": "En el caballo existen dos sesamoideos proximales en la cara palmar de cada articulación metacarpofalángica: medial y lateral. Son componentes importantes del aparato suspensorio y de la biomecánica del menudillo.",
+        "clinica": "Puede sufrir fracturas por estrés o traumatismo, lesiones de ligamentos sesamoideos y cambios degenerativos asociados a la articulación metacarpofalángica. La evaluación requiere examen clínico y radiografías con proyecciones específicas; la ecografía ayuda a valorar ligamentos y aparato suspensorio.",
+        "referencias": "Budras, K.-D. et al. Anatomy of the Horse. 6th ed. Schlütersche. König, H. E. y Liebich, H.-G. (eds.). Anatomía de los animales domésticos: texto y atlas en color. 7.ª ed. Thieme. Dyce, K. M., Sack, W. O. y Wensing, C. J. G. Anatomía veterinaria. 5.ª ed. Elsevier."
+      }
     },
     {
       "id": "equ.ske.mto.018-d",
       "es": "Sesamoideo proximal medial (derecho)",
       "la": "Os sesamoideum proximale mediale",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Región palmar de la articulación metacarpofalángica del miembro torácico derecho; se ubica en el lado medial del extremo distal del metacarpiano III, junto al sesamoideo proximal lateral.",
+        "descripcion": "Hueso sesamoideo pequeño, corto y de contorno aproximadamente piramidal o semilunar, situado en el aparato suspensorio de la articulación metacarpofalángica. Presenta una base proximal, un vértice distal y superficies articulares y de inserción ligamentosa.",
+        "relaciones": "Su superficie dorsal articula con la superficie sesamoidea del metacarpiano III. Su superficie axial se relaciona con el sesamoideo proximal lateral y con el espacio intersesamoideo; su cara palmar se relaciona con el ligamento intersesamoideo y los tendones flexores digitales superficial y profundo, que pasan sobre el conjunto sesamoideo.",
+        "accidentes": "Se reconocen una superficie articular dorsal, una superficie palmar rugosa, bordes axial y abaxial, base proximal y vértice distal. Las áreas rugosas sirven de fijación a ligamentos sesamoideos y al aparato suspensorio.",
+        "articulaciones": "Articula dorsalmente con la superficie sesamoidea del extremo distal del metacarpiano III y se relaciona con el sesamoideo proximal lateral mediante el aparato intersesamoideo. Participa en la articulación metacarpofalángica.",
+        "inserciones": "Recibe la inserción de ramas del ligamento suspensorio (músculo interóseo medio) y de ligamentos sesamoideos distales, incluidos los rectos, oblicuos y cruzados según su zona de fijación. El ligamento intersesamoideo une ambos sesamoideos proximales. Los tendones flexores se deslizan palmares a ellos y no se insertan en su superficie articular.",
+        "irrigacion": "Recibe ramas de las arterias digitales palmares y de vasos metacarpianos palmares que contribuyen a la red periarticular y sesamoidea. La distribución vascular puede variar y se comunica con la irrigación del aparato suspensorio.",
+        "inervacion": "La sensibilidad periostal y articular depende de ramas de los nervios palmares medial y lateral y de ramas digitales proximales.",
+        "funcion": "Actúa como polea para los tendones flexores, aumenta el brazo de palanca del aparato flexor, distribuye fuerzas y contribuye a la estabilidad de la articulación metacarpofalángica y del aparato suspensorio.",
+        "especie": "En el caballo existen dos sesamoideos proximales en la cara palmar de cada articulación metacarpofalángica: medial y lateral. Son componentes importantes del aparato suspensorio y de la biomecánica del menudillo.",
+        "clinica": "Puede sufrir fracturas por estrés o traumatismo, lesiones de ligamentos sesamoideos y cambios degenerativos asociados a la articulación metacarpofalángica. La evaluación requiere examen clínico y radiografías con proyecciones específicas; la ecografía ayuda a valorar ligamentos y aparato suspensorio.",
+        "referencias": "Budras, K.-D. et al. Anatomy of the Horse. 6th ed. Schlütersche. König, H. E. y Liebich, H.-G. (eds.). Anatomía de los animales domésticos: texto y atlas en color. 7.ª ed. Thieme. Dyce, K. M., Sack, W. O. y Wensing, C. J. G. Anatomía veterinaria. 5.ª ed. Elsevier."
+      }
     },
     {
       "id": "equ.ske.mto.019-i",
