@@ -3165,42 +3165,126 @@
       "es": "Sesamoideo proximal lateral (izquierdo)",
       "la": "Os sesamoideum proximale laterale",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Región palmar de la articulación metacarpofalángica del miembro torácico izquierdo, en el lado lateral del extremo distal del metacarpiano III, junto al sesamoideo proximal medial.",
+        "descripcion": "Hueso sesamoideo corto, de contorno aproximadamente piramidal, situado en el lado lateral del aparato sesamoideo proximal del menudillo. Presenta superficie articular dorsal, superficies rugosas de fijación ligamentosa, base proximal y vértice distal.",
+        "relaciones": "Dorsalmente articula con la superficie sesamoidea lateral del metacarpiano III. Medialmente se relaciona con el sesamoideo proximal medial y el ligamento intersesamoideo. Palmarmente se relaciona con los tendones flexores digitales superficial y profundo y con las estructuras del aparato suspensorio.",
+        "accidentes": "Presenta superficie articular dorsal, cara palmar rugosa, bordes axial y abaxial, base proximal y vértice distal. Las superficies no articulares ofrecen áreas de fijación para ligamentos sesamoideos y ramas del ligamento suspensorio.",
+        "articulaciones": "Participa en la articulación metacarpofalángica mediante su articulación con el extremo distal del metacarpiano III. Se une al sesamoideo proximal medial por el ligamento intersesamoideo.",
+        "inserciones": "Recibe fibras de la rama lateral del ligamento suspensorio (músculo interóseo medio) y fijaciones de ligamentos sesamoideos distales, incluidos los ligamentos rectos, oblicuos y cruzados según la región. El ligamento intersesamoideo une ambos sesamoideos proximales. Los tendones flexores pasan palmares a ellos.",
+        "irrigacion": "Recibe ramas de las arterias digitales palmares y de vasos metacarpianos palmares, que contribuyen a la red periarticular y sesamoidea. La distribución vascular se continúa con la del aparato suspensorio.",
+        "inervacion": "La sensibilidad del periostio y de la región articular procede de ramas palmares medial y lateral y de ramas digitales proximales.",
+        "funcion": "Funciona como polea para los tendones flexores, aumenta la eficiencia mecánica del aparato flexor y contribuye a la estabilidad de la articulación metacarpofalángica.",
+        "especie": "En el caballo existen dos sesamoideos proximales por articulación metacarpofalángica, uno medial y otro lateral. Ambos son componentes esenciales del aparato suspensorio del menudillo.",
+        "clinica": "Puede presentar fracturas, fragmentación, entesopatías y lesiones de ligamentos sesamoideos o del ligamento suspensorio. La valoración combina exploración clínica, radiografías con proyecciones específicas y ecografía de los tejidos blandos.",
+        "referencias": "Budras, K.-D. et al. Anatomy of the Horse. 6th ed. Schlütersche. König, H. E. y Liebich, H.-G. (eds.). Anatomía de los animales domésticos: texto y atlas en color. 7.ª ed. Thieme. Dyce, K. M., Sack, W. O. y Wensing, C. J. G. Anatomía veterinaria. 5.ª ed. Elsevier."
+      }
     },
     {
       "id": "equ.ske.mto.019-d",
       "es": "Sesamoideo proximal lateral (derecho)",
       "la": "Os sesamoideum proximale laterale",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Región palmar de la articulación metacarpofalángica del miembro torácico derecho, en el lado lateral del extremo distal del metacarpiano III, junto al sesamoideo proximal medial.",
+        "descripcion": "Hueso sesamoideo corto, de contorno aproximadamente piramidal, situado en el lado lateral del aparato sesamoideo proximal del menudillo. Presenta superficie articular dorsal, superficies rugosas de fijación ligamentosa, base proximal y vértice distal.",
+        "relaciones": "Dorsalmente articula con la superficie sesamoidea lateral del metacarpiano III. Medialmente se relaciona con el sesamoideo proximal medial y el ligamento intersesamoideo. Palmarmente se relaciona con los tendones flexores digitales superficial y profundo y con las estructuras del aparato suspensorio.",
+        "accidentes": "Presenta superficie articular dorsal, cara palmar rugosa, bordes axial y abaxial, base proximal y vértice distal. Las superficies no articulares ofrecen áreas de fijación para ligamentos sesamoideos y ramas del ligamento suspensorio.",
+        "articulaciones": "Participa en la articulación metacarpofalángica mediante su articulación con el extremo distal del metacarpiano III. Se une al sesamoideo proximal medial por el ligamento intersesamoideo.",
+        "inserciones": "Recibe fibras de la rama lateral del ligamento suspensorio (músculo interóseo medio) y fijaciones de ligamentos sesamoideos distales, incluidos los ligamentos rectos, oblicuos y cruzados según la región. El ligamento intersesamoideo une ambos sesamoideos proximales. Los tendones flexores pasan palmares a ellos.",
+        "irrigacion": "Recibe ramas de las arterias digitales palmares y de vasos metacarpianos palmares, que contribuyen a la red periarticular y sesamoidea. La distribución vascular se continúa con la del aparato suspensorio.",
+        "inervacion": "La sensibilidad del periostio y de la región articular procede de ramas palmares medial y lateral y de ramas digitales proximales.",
+        "funcion": "Funciona como polea para los tendones flexores, aumenta la eficiencia mecánica del aparato flexor y contribuye a la estabilidad de la articulación metacarpofalángica.",
+        "especie": "En el caballo existen dos sesamoideos proximales por articulación metacarpofalángica, uno medial y otro lateral. Ambos son componentes esenciales del aparato suspensorio del menudillo.",
+        "clinica": "Puede presentar fracturas, fragmentación, entesopatías y lesiones de ligamentos sesamoideos o del ligamento suspensorio. La valoración combina exploración clínica, radiografías con proyecciones específicas y ecografía de los tejidos blandos.",
+        "referencias": "Budras, K.-D. et al. Anatomy of the Horse. 6th ed. Schlütersche. König, H. E. y Liebich, H.-G. (eds.). Anatomía de los animales domésticos: texto y atlas en color. 7.ª ed. Thieme. Dyce, K. M., Sack, W. O. y Wensing, C. J. G. Anatomía veterinaria. 5.ª ed. Elsevier."
+      }
     },
     {
       "id": "equ.ske.mto.020-i",
       "es": "Sesamoideo distal (navicular) (izquierdo)",
       "la": "Os sesamoideum distale",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Región palmar de la articulación interfalángica distal del dedo III, dentro del casco, situado entre la falange media y la superficie flexora de la falange distal.",
+        "descripcion": "Hueso sesamoideo distal, denominado hueso navicular. Es un hueso pequeño, alargado transversalmente y de forma navicular, con superficie articular dorsal, superficie flexora palmar y bordes proximal y distal.",
+        "relaciones": "Dorsalmente articula con la falange media; distalmente se relaciona con la falange distal mediante el ligamento impar sesamoideo distal. Palmarmente contacta con el tendón flexor digital profundo, que se desliza sobre su superficie flexora. Se relaciona con la bolsa podotroclear y con los ligamentos sesamoideos colaterales.",
+        "accidentes": "Presenta superficie articular dorsal para la falange media, superficie flexora palmar lisa y adaptada al deslizamiento tendinoso, borde proximal, borde distal y extremos medial y lateral. La superficie flexora puede mostrar crestas y surcos longitudinales; las áreas rugosas sirven para fijaciones ligamentosas.",
+        "articulaciones": "Participa en la articulación interfalángica distal, articulándose con la falange media. Se conecta con la falange distal mediante el ligamento impar sesamoideo distal, que no constituye una articulación sinovial independiente.",
+        "inserciones": "Se fija proximalmente mediante los ligamentos sesamoideos colaterales (naviculares) a la falange media y estructuras vecinas; distalmente mediante el ligamento impar sesamoideo distal a la falange distal. El tendón flexor digital profundo pasa sobre su superficie flexora, separado por la bolsa podotroclear, y continúa hasta insertarse en la falange distal.",
+        "irrigacion": "Recibe irrigación de ramas de las arterias digitales palmares medial y lateral y de vasos del plexo podotroclear. La vascularización intraósea y de sus bordes se comunica con la circulación de la falange distal y tejidos del pie.",
+        "inervacion": "La sensibilidad del periostio y de la región podotroclear depende de ramas de los nervios digitales palmares medial y lateral, incluidas ramas destinadas a la articulación interfalángica distal.",
+        "funcion": "Actúa como superficie de reflexión y deslizamiento para el tendón flexor digital profundo, modifica su brazo de palanca y contribuye a la biomecánica de la articulación interfalángica distal.",
+        "especie": "En el caballo, el hueso navicular se encuentra dentro del casco y forma parte del aparato podotroclear junto con el tendón flexor digital profundo, la bolsa podotroclear y los ligamentos sesamoideos colaterales e impar distal.",
+        "clinica": "Es una estructura central en el síndrome podotroclear, que puede involucrar hueso, bolsa, tendón flexor digital profundo y ligamentos asociados. La evaluación puede requerir examen clínico, radiografías, ecografía, resonancia magnética o tomografía, según disponibilidad y sospecha clínica.",
+        "referencias": "Budras, K.-D. et al. Anatomy of the Horse. 6th ed. Schlütersche. König, H. E. y Liebich, H.-G. (eds.). Anatomía de los animales domésticos: texto y atlas en color. 7.ª ed. Thieme. Dyce, K. M., Sack, W. O. y Wensing, C. J. G. Anatomía veterinaria. 5.ª ed. Elsevier."
+      }
     },
     {
       "id": "equ.ske.mto.020-d",
       "es": "Sesamoideo distal (navicular) (derecho)",
       "la": "Os sesamoideum distale",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Región palmar de la articulación interfalángica distal del dedo III, dentro del casco, situado entre la falange media y la superficie flexora de la falange distal.",
+        "descripcion": "Hueso sesamoideo distal, denominado hueso navicular. Es un hueso pequeño, alargado transversalmente y de forma navicular, con superficie articular dorsal, superficie flexora palmar y bordes proximal y distal.",
+        "relaciones": "Dorsalmente articula con la falange media; distalmente se relaciona con la falange distal mediante el ligamento impar sesamoideo distal. Palmarmente contacta con el tendón flexor digital profundo, que se desliza sobre su superficie flexora. Se relaciona con la bolsa podotroclear y con los ligamentos sesamoideos colaterales.",
+        "accidentes": "Presenta superficie articular dorsal para la falange media, superficie flexora palmar lisa y adaptada al deslizamiento tendinoso, borde proximal, borde distal y extremos medial y lateral. La superficie flexora puede mostrar crestas y surcos longitudinales; las áreas rugosas sirven para fijaciones ligamentosas.",
+        "articulaciones": "Participa en la articulación interfalángica distal, articulándose con la falange media. Se conecta con la falange distal mediante el ligamento impar sesamoideo distal, que no constituye una articulación sinovial independiente.",
+        "inserciones": "Se fija proximalmente mediante los ligamentos sesamoideos colaterales (naviculares) a la falange media y estructuras vecinas; distalmente mediante el ligamento impar sesamoideo distal a la falange distal. El tendón flexor digital profundo pasa sobre su superficie flexora, separado por la bolsa podotroclear, y continúa hasta insertarse en la falange distal.",
+        "irrigacion": "Recibe irrigación de ramas de las arterias digitales palmares medial y lateral y de vasos del plexo podotroclear. La vascularización intraósea y de sus bordes se comunica con la circulación de la falange distal y tejidos del pie.",
+        "inervacion": "La sensibilidad del periostio y de la región podotroclear depende de ramas de los nervios digitales palmares medial y lateral, incluidas ramas destinadas a la articulación interfalángica distal.",
+        "funcion": "Actúa como superficie de reflexión y deslizamiento para el tendón flexor digital profundo, modifica su brazo de palanca y contribuye a la biomecánica de la articulación interfalángica distal.",
+        "especie": "En el caballo, el hueso navicular se encuentra dentro del casco y forma parte del aparato podotroclear junto con el tendón flexor digital profundo, la bolsa podotroclear y los ligamentos sesamoideos colaterales e impar distal.",
+        "clinica": "Es una estructura central en el síndrome podotroclear, que puede involucrar hueso, bolsa, tendón flexor digital profundo y ligamentos asociados. La evaluación puede requerir examen clínico, radiografías, ecografía, resonancia magnética o tomografía, según disponibilidad y sospecha clínica.",
+        "referencias": "Budras, K.-D. et al. Anatomy of the Horse. 6th ed. Schlütersche. König, H. E. y Liebich, H.-G. (eds.). Anatomía de los animales domésticos: texto y atlas en color. 7.ª ed. Thieme. Dyce, K. M., Sack, W. O. y Wensing, C. J. G. Anatomía veterinaria. 5.ª ed. Elsevier."
+      }
     },
     {
       "id": "equ.ske.mpe.001-i",
       "es": "Coxal (izquierdo)",
       "la": "Os coxae",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Cintura pelviana, formando la mitad izquierdo del esqueleto de la pelvis. Se une al hueso sacro en la articulación sacroilíaca y participa en la formación del acetábulo y de la sínfisis pelviana.",
+        "descripcion": "Hueso plano e irregular formado por la fusión del ilion, isquion y pubis en el adulto. Presenta una cavidad acetabular lateral para la articulación coxofemoral y contribuye a delimitar el agujero obturador y la cavidad pélvica.",
+        "relaciones": "Dorsomedialmente se relaciona con el sacro y las vértebras caudales mediante la articulación sacroilíaca y ligamentos asociados. Lateralmente presenta el acetábulo para la cabeza del fémur. Ventralmente se une al coxal contralateral en la sínfisis pelviana. Medialmente contribuye a las paredes de la cavidad pélvica y se relaciona con vísceras pélvicas, vasos y nervios.",
+        "accidentes": "El ilion presenta ala, cuerpo, cresta ilíaca, tuberosidades sacra y coxal y superficie auricular. El isquion presenta cuerpo, tabla, tuberosidad isquiática y arco isquiático. El pubis presenta cuerpo y ramas craneal y caudal. En la unión de los tres componentes se encuentra el acetábulo, con fosa acetabular y superficie semilunar; entre pubis e isquion se delimita el agujero obturador.",
+        "articulaciones": "Articula con el sacro mediante la articulación sacroilíaca; con el fémur mediante la articulación coxofemoral en el acetábulo; y con el coxal opuesto mediante la sínfisis pelviana, formada por las sínfisis púbica e isquiática.",
+        "inserciones": "El ilion proporciona fijación a músculos glúteos, iliacos y abdominales, además de ligamentos sacroilíacos. El isquion sirve de origen a músculos isquiotibiales y otros músculos caudales del muslo, y fija ligamentos sacrotuberoso y sacrociático según la nomenclatura empleada. El pubis recibe inserciones de músculos aductores, grácil, pectíneo y músculos abdominales ventrales. La disposición precisa depende de cada superficie y de la nomenclatura anatómica aplicada.",
+        "irrigacion": "La vascularización ósea procede de ramas regionales de las arterias iliolumbares, glúteas, obturatrices y pudendas internas, con variaciones anatómicas. El aporte periostal y nutricio se distribuye desde los vasos de la región pélvica.",
+        "inervacion": "La sensibilidad del periostio y de las articulaciones adyacentes procede de ramas de los plexos lumbar y sacro y de nervios regionales; no existe un único nervio motor o sensitivo exclusivo del hueso.",
+        "funcion": "Transmite el peso del tronco hacia los miembros pelvianos, protege y sostiene vísceras pélvicas, forma la cavidad acetabular y ofrece amplias superficies de inserción muscular para la locomoción.",
+        "especie": "En el caballo, el coxal es alargado y robusto, con tuberosidades ilíaca e isquiática prominentes. La pelvis equina se adapta a la transmisión de fuerzas de los miembros pelvianos y presenta diferencias morfológicas relacionadas con sexo, edad y conformación.",
+        "clinica": "Tiene importancia en fracturas pélvicas, traumatismos de la articulación sacroilíaca, lesiones acetabulares y evaluación obstétrica. En equinos, la palpación rectal y la exploración externa pueden orientar, mientras que radiografía, ecografía y otras técnicas de imagen complementan el diagnóstico.",
+        "referencias": "Budras, K.-D. et al. Anatomy of the Horse. 6th ed. Schlütersche. König, H. E. y Liebich, H.-G. (eds.). Anatomía de los animales domésticos: texto y atlas en color. 7.ª ed. Thieme. Dyce, K. M., Sack, W. O. y Wensing, C. J. G. Anatomía veterinaria. 5.ª ed. Elsevier."
+      }
     },
     {
       "id": "equ.ske.mpe.001-d",
       "es": "Coxal (derecho)",
       "la": "Os coxae",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Cintura pelviana, formando la mitad derecho del esqueleto de la pelvis. Se une al hueso sacro en la articulación sacroilíaca y participa en la formación del acetábulo y de la sínfisis pelviana.",
+        "descripcion": "Hueso plano e irregular formado por la fusión del ilion, isquion y pubis en el adulto. Presenta una cavidad acetabular lateral para la articulación coxofemoral y contribuye a delimitar el agujero obturador y la cavidad pélvica.",
+        "relaciones": "Dorsomedialmente se relaciona con el sacro y las vértebras caudales mediante la articulación sacroilíaca y ligamentos asociados. Lateralmente presenta el acetábulo para la cabeza del fémur. Ventralmente se une al coxal contralateral en la sínfisis pelviana. Medialmente contribuye a las paredes de la cavidad pélvica y se relaciona con vísceras pélvicas, vasos y nervios.",
+        "accidentes": "El ilion presenta ala, cuerpo, cresta ilíaca, tuberosidades sacra y coxal y superficie auricular. El isquion presenta cuerpo, tabla, tuberosidad isquiática y arco isquiático. El pubis presenta cuerpo y ramas craneal y caudal. En la unión de los tres componentes se encuentra el acetábulo, con fosa acetabular y superficie semilunar; entre pubis e isquion se delimita el agujero obturador.",
+        "articulaciones": "Articula con el sacro mediante la articulación sacroilíaca; con el fémur mediante la articulación coxofemoral en el acetábulo; y con el coxal opuesto mediante la sínfisis pelviana, formada por las sínfisis púbica e isquiática.",
+        "inserciones": "El ilion proporciona fijación a músculos glúteos, iliacos y abdominales, además de ligamentos sacroilíacos. El isquion sirve de origen a músculos isquiotibiales y otros músculos caudales del muslo, y fija ligamentos sacrotuberoso y sacrociático según la nomenclatura empleada. El pubis recibe inserciones de músculos aductores, grácil, pectíneo y músculos abdominales ventrales. La disposición precisa depende de cada superficie y de la nomenclatura anatómica aplicada.",
+        "irrigacion": "La vascularización ósea procede de ramas regionales de las arterias iliolumbares, glúteas, obturatrices y pudendas internas, con variaciones anatómicas. El aporte periostal y nutricio se distribuye desde los vasos de la región pélvica.",
+        "inervacion": "La sensibilidad del periostio y de las articulaciones adyacentes procede de ramas de los plexos lumbar y sacro y de nervios regionales; no existe un único nervio motor o sensitivo exclusivo del hueso.",
+        "funcion": "Transmite el peso del tronco hacia los miembros pelvianos, protege y sostiene vísceras pélvicas, forma la cavidad acetabular y ofrece amplias superficies de inserción muscular para la locomoción.",
+        "especie": "En el caballo, el coxal es alargado y robusto, con tuberosidades ilíaca e isquiática prominentes. La pelvis equina se adapta a la transmisión de fuerzas de los miembros pelvianos y presenta diferencias morfológicas relacionadas con sexo, edad y conformación.",
+        "clinica": "Tiene importancia en fracturas pélvicas, traumatismos de la articulación sacroilíaca, lesiones acetabulares y evaluación obstétrica. En equinos, la palpación rectal y la exploración externa pueden orientar, mientras que radiografía, ecografía y otras técnicas de imagen complementan el diagnóstico.",
+        "referencias": "Budras, K.-D. et al. Anatomy of the Horse. 6th ed. Schlütersche. König, H. E. y Liebich, H.-G. (eds.). Anatomía de los animales domésticos: texto y atlas en color. 7.ª ed. Thieme. Dyce, K. M., Sack, W. O. y Wensing, C. J. G. Anatomía veterinaria. 5.ª ed. Elsevier."
+      }
     },
     {
       "id": "equ.ske.mpe.002-i",
