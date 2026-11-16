@@ -3291,42 +3291,126 @@
       "es": "Fémur (izquierdo)",
       "la": "Femur",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Miembro pelviano izquierdo, entre el acetábulo del coxal y la tibia; forma el esqueleto del muslo y participa proximalmente en la articulación coxofemoral y distalmente en las articulaciones femorotibial y femoropatelar.",
+        "descripcion": "Hueso largo, robusto y ligeramente oblicuo, con cuerpo y dos extremidades. La extremidad proximal presenta cabeza, cuello y trocánteres; la distal presenta cóndilos para la articulación femorotibial y una tróclea craneal para la rótula.",
+        "relaciones": "La cabeza se aloja en el acetábulo y está unida a éste por el ligamento de la cabeza del fémur. Cranealmente, la extremidad distal se relaciona con la rótula y el aparato extensor. Caudalmente se relaciona con los músculos profundos del muslo y la fosa intercondílea; los vasos y nervios femorales discurren próximos a la cara medial del muslo, sin contactar directamente con toda la diáfisis.",
+        "accidentes": "Cabeza femoral con fóvea de la cabeza; cuello; trocánter mayor, dividido en porciones craneal y caudal en el caballo; trocánter menor medial; tercer trocánter muy desarrollado en la cara lateral; cuerpo con superficies y líneas para inserciones musculares; extremidad distal con tróclea femoral, crestas trocleares, cóndilos medial y lateral, fosa intercondílea y superficies para los meniscos y ligamentos cruzados.",
+        "articulaciones": "La cabeza articula con el acetábulo en la articulación coxofemoral. Distalmente, los cóndilos articulan con los cóndilos de la tibia y los meniscos en la articulación femorotibial; la tróclea articula con la superficie articular de la rótula en la articulación femoropatelar.",
+        "inserciones": "La cabeza recibe el ligamento de la cabeza del fémur. El trocánter mayor y sus regiones reciben inserciones de músculos glúteos y rotadores profundos; el tercer trocánter es una inserción característica del músculo glúteo superficial. El trocánter menor recibe al iliopsoas. En la diáfisis se fijan músculos aductores, vastos y otros músculos del muslo; los cóndilos y áreas distales reciben ligamentos colaterales y cruzados y la cápsula articular.",
+        "irrigacion": "La irrigación procede principalmente de ramas de las arterias circunflejas femorales y de la arteria femoral profunda, incluidas ramas nutricias y periostales. La distribución exacta presenta variaciones regionales.",
+        "inervacion": "El hueso y su periostio reciben sensibilidad por ramas nerviosas regionales del plexo lumbar y sacro que acompañan los tejidos del muslo. No existe un nervio motor exclusivo del fémur; la inervación funcional corresponde a los músculos y articulaciones que se insertan o relacionan con él.",
+        "funcion": "Soporta y transmite el peso entre la pelvis y la pierna, actúa como brazo de palanca para los músculos del muslo y participa en la locomoción, propulsión y estabilización de las articulaciones de la cadera y la rodilla.",
+        "especie": "En el caballo destaca el tercer trocánter, grande y palpable en la cara lateral, y el trocánter mayor con porciones diferenciadas. La tróclea femoral presenta crestas que guían la rótula y participan en el mecanismo de fijación de la articulación femoropatelar.",
+        "clinica": "Es relevante en fracturas femorales, lesiones de la articulación coxofemoral, alteraciones del tercer trocánter y evaluación de la región femoropatelar. Las fracturas pueden comprometer gravemente el apoyo y la locomoción; la valoración combina examen clínico e imagen diagnóstica.",
+        "referencias": "Budras, K.-D. et al. Anatomy of the Horse. 6th ed. Schlütersche. König, H. E. y Liebich, H.-G. (eds.). Anatomía de los animales domésticos: texto y atlas en color. 7.ª ed. Thieme. Dyce, K. M., Sack, W. O. y Wensing, C. J. G. Anatomía veterinaria. 5.ª ed. Elsevier."
+      }
     },
     {
       "id": "equ.ske.mpe.002-d",
       "es": "Fémur (derecho)",
       "la": "Femur",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Miembro pelviano derecho, entre el acetábulo del coxal y la tibia; forma el esqueleto del muslo y participa proximalmente en la articulación coxofemoral y distalmente en las articulaciones femorotibial y femoropatelar.",
+        "descripcion": "Hueso largo, robusto y ligeramente oblicuo, con cuerpo y dos extremidades. La extremidad proximal presenta cabeza, cuello y trocánteres; la distal presenta cóndilos para la articulación femorotibial y una tróclea craneal para la rótula.",
+        "relaciones": "La cabeza se aloja en el acetábulo y está unida a éste por el ligamento de la cabeza del fémur. Cranealmente, la extremidad distal se relaciona con la rótula y el aparato extensor. Caudalmente se relaciona con los músculos profundos del muslo y la fosa intercondílea; los vasos y nervios femorales discurren próximos a la cara medial del muslo, sin contactar directamente con toda la diáfisis.",
+        "accidentes": "Cabeza femoral con fóvea de la cabeza; cuello; trocánter mayor, dividido en porciones craneal y caudal en el caballo; trocánter menor medial; tercer trocánter muy desarrollado en la cara lateral; cuerpo con superficies y líneas para inserciones musculares; extremidad distal con tróclea femoral, crestas trocleares, cóndilos medial y lateral, fosa intercondílea y superficies para los meniscos y ligamentos cruzados.",
+        "articulaciones": "La cabeza articula con el acetábulo en la articulación coxofemoral. Distalmente, los cóndilos articulan con los cóndilos de la tibia y los meniscos en la articulación femorotibial; la tróclea articula con la superficie articular de la rótula en la articulación femoropatelar.",
+        "inserciones": "La cabeza recibe el ligamento de la cabeza del fémur. El trocánter mayor y sus regiones reciben inserciones de músculos glúteos y rotadores profundos; el tercer trocánter es una inserción característica del músculo glúteo superficial. El trocánter menor recibe al iliopsoas. En la diáfisis se fijan músculos aductores, vastos y otros músculos del muslo; los cóndilos y áreas distales reciben ligamentos colaterales y cruzados y la cápsula articular.",
+        "irrigacion": "La irrigación procede principalmente de ramas de las arterias circunflejas femorales y de la arteria femoral profunda, incluidas ramas nutricias y periostales. La distribución exacta presenta variaciones regionales.",
+        "inervacion": "El hueso y su periostio reciben sensibilidad por ramas nerviosas regionales del plexo lumbar y sacro que acompañan los tejidos del muslo. No existe un nervio motor exclusivo del fémur; la inervación funcional corresponde a los músculos y articulaciones que se insertan o relacionan con él.",
+        "funcion": "Soporta y transmite el peso entre la pelvis y la pierna, actúa como brazo de palanca para los músculos del muslo y participa en la locomoción, propulsión y estabilización de las articulaciones de la cadera y la rodilla.",
+        "especie": "En el caballo destaca el tercer trocánter, grande y palpable en la cara lateral, y el trocánter mayor con porciones diferenciadas. La tróclea femoral presenta crestas que guían la rótula y participan en el mecanismo de fijación de la articulación femoropatelar.",
+        "clinica": "Es relevante en fracturas femorales, lesiones de la articulación coxofemoral, alteraciones del tercer trocánter y evaluación de la región femoropatelar. Las fracturas pueden comprometer gravemente el apoyo y la locomoción; la valoración combina examen clínico e imagen diagnóstica.",
+        "referencias": "Budras, K.-D. et al. Anatomy of the Horse. 6th ed. Schlütersche. König, H. E. y Liebich, H.-G. (eds.). Anatomía de los animales domésticos: texto y atlas en color. 7.ª ed. Thieme. Dyce, K. M., Sack, W. O. y Wensing, C. J. G. Anatomía veterinaria. 5.ª ed. Elsevier."
+      }
     },
     {
       "id": "equ.ske.mpe.003-i",
       "es": "Rótula (izquierdo)",
       "la": "Patella",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Región craneal de la articulación de la rodilla izquierda, incluida en el tendón del músculo cuádriceps femoral y articulada con la tróclea del fémur.",
+        "descripcion": "Hueso sesamoideo grande, aplanado y de contorno aproximadamente triangular, con una base proximal, un vértice distal y una superficie articular caudal adaptada a la tróclea femoral. Su superficie craneal es rugosa para la continuidad del aparato extensor.",
+        "relaciones": "Cranealmente se continúa con el tendón del cuádriceps femoral; distalmente se conecta con la tuberosidad tibial mediante los ligamentos patelares medial, intermedio y lateral. Caudalmente contacta con la tróclea femoral y se relaciona con la cápsula de la articulación femoropatelar.",
+        "accidentes": "Presenta base proximal, vértice distal, superficie craneal rugosa y superficie articular caudal con facetas para la tróclea femoral. En el caballo se asocia a un fibrocartílago parapatelar medial que amplía el contacto y participa en el mecanismo de fijación patelar.",
+        "articulaciones": "Articula con la tróclea del fémur mediante la articulación femoropatelar. No articula directamente con la tibia; se conecta funcionalmente con la tuberosidad tibial por los tres ligamentos patelares.",
+        "inserciones": "En la base se continúa el tendón del músculo cuádriceps femoral. Desde el vértice se originan los ligamentos patelares medial, intermedio y lateral, que se fijan en la tuberosidad tibial. La cápsula y los retináculos femoropatelares se fijan alrededor de sus márgenes.",
+        "irrigacion": "Recibe irrigación de ramas periostales y de redes vasculares de la región femoropatelar, procedentes de ramas geniculares y de vasos regionales de la rodilla. La distribución intraósea no debe atribuirse a una única arteria.",
+        "inervacion": "La sensibilidad del periostio y de la articulación femoropatelar procede de ramas articulares de nervios regionales del muslo y la rodilla, incluidas ramas del nervio femoral. No posee inervación motora propia.",
+        "funcion": "Aumenta el brazo de palanca del cuádriceps, protege la cara craneal de la articulación y transmite la fuerza extensora hacia la tibia. En el caballo participa en el mecanismo de fijación de la rótula que permite mantener extendida la rodilla durante el apoyo.",
+        "especie": "En el equino, el fibrocartílago parapatelar medial y el ligamento patelar medial participan en el mecanismo de fijación de la rótula sobre el labio medial de la tróclea femoral. Esta adaptación permite la estación prolongada con menor actividad muscular.",
+        "clinica": "La fijación o luxación dorsal de la rótula es una alteración clínica característica del caballo y puede causar extensión persistente de la rodilla y dificultad para iniciar la marcha. También son relevantes las lesiones de ligamentos patelares, fracturas y alteraciones femoropatelares.",
+        "referencias": "Budras, K.-D. et al. Anatomy of the Horse. 6th ed. Schlütersche. König, H. E. y Liebich, H.-G. (eds.). Anatomía de los animales domésticos: texto y atlas en color. 7.ª ed. Thieme. Dyce, K. M., Sack, W. O. y Wensing, C. J. G. Anatomía veterinaria. 5.ª ed. Elsevier."
+      }
     },
     {
       "id": "equ.ske.mpe.003-d",
       "es": "Rótula (derecho)",
       "la": "Patella",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Región craneal de la articulación de la rodilla derecha, incluida en el tendón del músculo cuádriceps femoral y articulada con la tróclea del fémur.",
+        "descripcion": "Hueso sesamoideo grande, aplanado y de contorno aproximadamente triangular, con una base proximal, un vértice distal y una superficie articular caudal adaptada a la tróclea femoral. Su superficie craneal es rugosa para la continuidad del aparato extensor.",
+        "relaciones": "Cranealmente se continúa con el tendón del cuádriceps femoral; distalmente se conecta con la tuberosidad tibial mediante los ligamentos patelares medial, intermedio y lateral. Caudalmente contacta con la tróclea femoral y se relaciona con la cápsula de la articulación femoropatelar.",
+        "accidentes": "Presenta base proximal, vértice distal, superficie craneal rugosa y superficie articular caudal con facetas para la tróclea femoral. En el caballo se asocia a un fibrocartílago parapatelar medial que amplía el contacto y participa en el mecanismo de fijación patelar.",
+        "articulaciones": "Articula con la tróclea del fémur mediante la articulación femoropatelar. No articula directamente con la tibia; se conecta funcionalmente con la tuberosidad tibial por los tres ligamentos patelares.",
+        "inserciones": "En la base se continúa el tendón del músculo cuádriceps femoral. Desde el vértice se originan los ligamentos patelares medial, intermedio y lateral, que se fijan en la tuberosidad tibial. La cápsula y los retináculos femoropatelares se fijan alrededor de sus márgenes.",
+        "irrigacion": "Recibe irrigación de ramas periostales y de redes vasculares de la región femoropatelar, procedentes de ramas geniculares y de vasos regionales de la rodilla. La distribución intraósea no debe atribuirse a una única arteria.",
+        "inervacion": "La sensibilidad del periostio y de la articulación femoropatelar procede de ramas articulares de nervios regionales del muslo y la rodilla, incluidas ramas del nervio femoral. No posee inervación motora propia.",
+        "funcion": "Aumenta el brazo de palanca del cuádriceps, protege la cara craneal de la articulación y transmite la fuerza extensora hacia la tibia. En el caballo participa en el mecanismo de fijación de la rótula que permite mantener extendida la rodilla durante el apoyo.",
+        "especie": "En el equino, el fibrocartílago parapatelar medial y el ligamento patelar medial participan en el mecanismo de fijación de la rótula sobre el labio medial de la tróclea femoral. Esta adaptación permite la estación prolongada con menor actividad muscular.",
+        "clinica": "La fijación o luxación dorsal de la rótula es una alteración clínica característica del caballo y puede causar extensión persistente de la rodilla y dificultad para iniciar la marcha. También son relevantes las lesiones de ligamentos patelares, fracturas y alteraciones femoropatelares.",
+        "referencias": "Budras, K.-D. et al. Anatomy of the Horse. 6th ed. Schlütersche. König, H. E. y Liebich, H.-G. (eds.). Anatomía de los animales domésticos: texto y atlas en color. 7.ª ed. Thieme. Dyce, K. M., Sack, W. O. y Wensing, C. J. G. Anatomía veterinaria. 5.ª ed. Elsevier."
+      }
     },
     {
       "id": "equ.ske.mpe.004-i",
       "es": "Tibia (izquierdo)",
       "la": "Tibia",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Pierna del miembro pelviano izquierdo, distal al fémur y proximal al tarso; constituye el principal hueso de soporte de la región crural.",
+        "descripcion": "Hueso largo y robusto, con cuerpo y dos extremidades. La extremidad proximal es ancha y presenta cóndilos para el fémur; el cuerpo es prismático y la extremidad distal forma una superficie articular en forma de cóclea para el talo.",
+        "relaciones": "Proximalmente se relaciona con los cóndilos femorales, los meniscos y los ligamentos de la articulación femorotibial. Cranealmente se encuentra la rótula y el aparato extensor a través de los ligamentos patelares. Caudalmente se relaciona con músculos flexores y estructuras vasculonerviosas de la pierna. Distalmente articula con el talo; la fíbula equina está reducida y se relaciona con el lado lateral de la tibia.",
+        "accidentes": "Extremidad proximal con cóndilos medial y lateral, eminencia intercondílea y áreas intercondíleas; tuberosidad tibial y surco extensor en la región craneal; cuerpo con caras y bordes para inserciones musculares; extremidad distal con cóclea tibial y maléolo medial. La fíbula es reducida en el caballo y su extremo distal se incorpora a la región del maléolo lateral.",
+        "articulaciones": "Proximalmente articula con los cóndilos del fémur y participa en la articulación femorotibial. Distalmente articula con el talo en la articulación talocrural. Se relaciona con la fíbula reducida mediante una unión fibrosa y/o contacto según el nivel.",
+        "inserciones": "La tuberosidad tibial recibe los ligamentos patelares medial, intermedio y lateral. En las regiones proximales y en el cuerpo se insertan músculos como poplíteo, semimembranoso, semitendinoso, gracilis y músculos extensores y flexores de la pierna, además de ligamentos colaterales y cruzados en las áreas articulares correspondientes.",
+        "irrigacion": "La irrigación procede de ramas de las arterias poplítea y tibial, incluidas ramas recurrentes, nutricias y periostales. La distribución se establece mediante redes vasculares proximales, diafisarias y distales.",
+        "inervacion": "La sensibilidad del periostio y de las articulaciones asociadas depende de ramas articulares de los nervios femoral, tibial y fibular común, según la región. El hueso no posee inervación motora propia.",
+        "funcion": "Transmite las cargas desde el fémur hacia el tarso, proporciona inserción a músculos y ligamentos de la pierna y participa en la flexión y extensión de la rodilla y del tarso.",
+        "especie": "En el caballo, la tibia es el principal soporte óseo de la pierna y la fíbula está marcadamente reducida. La extremidad distal de la fíbula contribuye a formar el maléolo lateral, mientras que la tibia forma el maléolo medial y la cóclea para el talo.",
+        "clinica": "Tiene importancia en fracturas tibiales, lesiones de la articulación femorotibial y talocrural, periostitis y alteraciones de la tuberosidad tibial. La evaluación radiográfica debe incluir la rodilla y el tarso según la localización de la lesión.",
+        "referencias": "Budras, K.-D. et al. Anatomy of the Horse. 6th ed. Schlütersche. König, H. E. y Liebich, H.-G. (eds.). Anatomía de los animales domésticos: texto y atlas en color. 7.ª ed. Thieme. Dyce, K. M., Sack, W. O. y Wensing, C. J. G. Anatomía veterinaria. 5.ª ed. Elsevier."
+      }
     },
     {
       "id": "equ.ske.mpe.004-d",
       "es": "Tibia (derecho)",
       "la": "Tibia",
       "sys": "ske",
-      "layer": "oss"
+      "layer": "oss",
+      "ficha": {
+        "ubicacion": "Pierna del miembro pelviano derecho, distal al fémur y proximal al tarso; constituye el principal hueso de soporte de la región crural.",
+        "descripcion": "Hueso largo y robusto, con cuerpo y dos extremidades. La extremidad proximal es ancha y presenta cóndilos para el fémur; el cuerpo es prismático y la extremidad distal forma una superficie articular en forma de cóclea para el talo.",
+        "relaciones": "Proximalmente se relaciona con los cóndilos femorales, los meniscos y los ligamentos de la articulación femorotibial. Cranealmente se encuentra la rótula y el aparato extensor a través de los ligamentos patelares. Caudalmente se relaciona con músculos flexores y estructuras vasculonerviosas de la pierna. Distalmente articula con el talo; la fíbula equina está reducida y se relaciona con el lado lateral de la tibia.",
+        "accidentes": "Extremidad proximal con cóndilos medial y lateral, eminencia intercondílea y áreas intercondíleas; tuberosidad tibial y surco extensor en la región craneal; cuerpo con caras y bordes para inserciones musculares; extremidad distal con cóclea tibial y maléolo medial. La fíbula es reducida en el caballo y su extremo distal se incorpora a la región del maléolo lateral.",
+        "articulaciones": "Proximalmente articula con los cóndilos del fémur y participa en la articulación femorotibial. Distalmente articula con el talo en la articulación talocrural. Se relaciona con la fíbula reducida mediante una unión fibrosa y/o contacto según el nivel.",
+        "inserciones": "La tuberosidad tibial recibe los ligamentos patelares medial, intermedio y lateral. En las regiones proximales y en el cuerpo se insertan músculos como poplíteo, semimembranoso, semitendinoso, gracilis y músculos extensores y flexores de la pierna, además de ligamentos colaterales y cruzados en las áreas articulares correspondientes.",
+        "irrigacion": "La irrigación procede de ramas de las arterias poplítea y tibial, incluidas ramas recurrentes, nutricias y periostales. La distribución se establece mediante redes vasculares proximales, diafisarias y distales.",
+        "inervacion": "La sensibilidad del periostio y de las articulaciones asociadas depende de ramas articulares de los nervios femoral, tibial y fibular común, según la región. El hueso no posee inervación motora propia.",
+        "funcion": "Transmite las cargas desde el fémur hacia el tarso, proporciona inserción a músculos y ligamentos de la pierna y participa en la flexión y extensión de la rodilla y del tarso.",
+        "especie": "En el caballo, la tibia es el principal soporte óseo de la pierna y la fíbula está marcadamente reducida. La extremidad distal de la fíbula contribuye a formar el maléolo lateral, mientras que la tibia forma el maléolo medial y la cóclea para el talo.",
+        "clinica": "Tiene importancia en fracturas tibiales, lesiones de la articulación femorotibial y talocrural, periostitis y alteraciones de la tuberosidad tibial. La evaluación radiográfica debe incluir la rodilla y el tarso según la localización de la lesión.",
+        "referencias": "Budras, K.-D. et al. Anatomy of the Horse. 6th ed. Schlütersche. König, H. E. y Liebich, H.-G. (eds.). Anatomía de los animales domésticos: texto y atlas en color. 7.ª ed. Thieme. Dyce, K. M., Sack, W. O. y Wensing, C. J. G. Anatomía veterinaria. 5.ª ed. Elsevier."
+      }
     },
     {
       "id": "equ.ske.mpe.005-i",
