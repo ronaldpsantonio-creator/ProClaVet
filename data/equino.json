@@ -31368,6 +31368,69 @@
         "clinica": "Es una referencia anatómica en radiografía y tomografía del cráneo equino. La línea sutural debe diferenciarse de líneas de fractura mediante su trayecto, bordes, simetría y contexto clínico.",
         "referencias": "Sisson S, Grossman JD. The Anatomy of the Domestic Animals. 5th ed. Fig. 47, Skull of Horse; Dorsal View, sutura 9: lacrimo-maxillary.\\nA Text-book of Veterinary Anatomy. Descripción de las suturas craneofaciales del caballo."
       }
+    },
+    {
+      "id": "equ.ske.sut.010",
+      "es": "Sutura cigomaticomaxilar",
+      "la": "Sutura zygomaticomaxillaris",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la región lateral de la cara, en la unión entre el hueso cigomático (malar) y la maxila, formando parte del límite óseo del arco cigomático y de la región facial caudal.",
+        "descripcion": "Unión fibrosa sutural entre el hueso cigomático y la maxila. Es una articulación sin cavidad sinovial, en la que los márgenes óseos se mantienen unidos por tejido conectivo fibroso sutural.",
+        "relaciones": "Se encuentra próxima al arco cigomático y a la cresta facial; participa en la continuidad del esqueleto facial lateral y se relaciona con los tejidos de la región masetérica y bucal.",
+        "accidentes": "Presenta márgenes óseos contiguos entre el cigomático y la maxila. Su trazo y extensión deben reconocerse en la superficie lateral del cráneo; no presenta cápsula ni cartílago articular.",
+        "articulaciones": "Por su estructura es una sutura fibrosa; funcionalmente corresponde a una sinartrosis en la clasificación clásica. La línea puede remodelarse y hacerse menos evidente con la edad, sin que deba suponerse un patrón uniforme de obliteración.",
+        "inserciones": "No presenta inserciones musculares propias. El tejido conectivo sutural se continúa con el periostio de ambos huesos.",
+        "irrigacion": "No posee irrigación articular independiente ni una arteria exclusiva reconocida. Recibe aporte indirecto de los vasos periostales y de los tejidos blandos vecinos.",
+        "inervacion": "No se describe una inervación exclusiva de la línea sutural. La sensibilidad regional depende del periostio y de los tejidos conectivos adyacentes.",
+        "funcion": "Mantiene la unión entre el cigomático y la maxila, contribuyendo a la continuidad y estabilidad del esqueleto facial lateral y del arco cigomático.",
+        "especie": "Identificada en el cráneo equino como sutura cigomaticomaxilar (zygomaticomaxillary) en descripciones anatómicas de la cabeza del caballo.",
+        "clinica": "Es un reparo de imagenología en estudios del cráneo y de traumatismos faciales. Debe distinguirse una línea sutural de una fractura atendiendo a su localización anatómica, continuidad, márgenes y hallazgos asociados.",
+        "referencias": "Equine Veterinary Education. A clinical report illustrating equine craniofacial sutures, Fig. 1: zygomaticomaxillary suture. 2021.\\nSisson S, Grossman JD. The Anatomy of the Domestic Animals. Skull of Horse, dorsal view."
+      }
+    },
+    {
+      "id": "equ.ske.sut.011",
+      "es": "Sutura nasomaxilar",
+      "la": "Sutura nasomaxillaris",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la región facial rostral y lateral del cráneo, entre el hueso nasal y la maxila, a lo largo de la unión de ambos huesos en el límite dorsolateral de la cavidad nasal.",
+        "descripcion": "Articulación fibrosa que une el hueso nasal con la maxila. No posee cavidad articular sinovial; los márgenes óseos se conectan mediante tejido conjuntivo sutural.",
+        "relaciones": "Se relaciona dorsalmente con el hueso nasal, lateralmente con la maxila y profundamente con la pared lateral de la cavidad nasal y las estructuras nasales adyacentes. Se encuentra próxima a las suturas nasofrontal y nasolagrimal, sin confundirse con ellas.",
+        "accidentes": "Corresponde a la línea de contacto entre los márgenes del nasal y la maxila. Su trayecto debe identificarse en la vista dorsal o lateral del cráneo; no presenta superficies cartilaginosas ni cápsula sinovial.",
+        "articulaciones": "Estructuralmente es una sutura fibrosa y funcionalmente se clasifica como sinartrosis en el esquema clásico. La patencia y el grado de cierre pueden variar con la edad y entre individuos.",
+        "inserciones": "No presenta inserciones musculares propias. El tejido sutural se continúa con el periostio de los huesos nasal y maxilar.",
+        "irrigacion": "No tiene irrigación independiente. Su aporte procede de ramas periostales y de los vasos de los tejidos blandos vecinos; no se atribuye una arteria exclusiva a la sutura.",
+        "inervacion": "No se reconoce una inervación propia de la línea sutural. La sensibilidad procede del periostio y de los tejidos conectivos regionales.",
+        "funcion": "Une los huesos nasal y maxilar y contribuye a la continuidad estructural del dorso y de la pared lateral de la región nasal.",
+        "especie": "Está documentada en el caballo como nasomaxillary suture y se identifica en esquemas anatómicos de las suturas craneofaciales equinas.",
+        "clinica": "Es un reparo relevante en la evaluación radiográfica y tomográfica de la cara equina. En traumatismos o procesos proliferativos debe diferenciarse la sutura normal de fracturas, exostosis y remodelación ósea.",
+        "referencias": "Equine Veterinary Education. A clinical report illustrating equine craniofacial sutures, Fig. 1: nasomaxillary suture. 2021.\\nGeitzenauer L et al. A histological evaluation of facial suture lines in six horses aged 1 day to 9 years. Equine Veterinary Education. 2022;34(7):362–368."
+      }
+    },
+    {
+      "id": "equ.ske.sut.012",
+      "es": "Sutura palatina transversa",
+      "la": "Sutura palatina transversa",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la superficie ventral del paladar duro, transversal al eje longitudinal del cráneo, en la unión entre los procesos palatinos de la maxila y las láminas horizontales de los huesos palatinos.",
+        "descripcion": "Sutura fibrosa que une caudalmente el proceso palatino de la maxila con la lámina horizontal del hueso palatino. No presenta cavidad sinovial ni superficies articulares cartilaginosas.",
+        "relaciones": "Forma parte de la continuidad del paladar duro y se relaciona rostralmente con la porción palatina de la maxila y caudalmente con los huesos palatinos. Se encuentra próxima a los surcos y forámenes palatinos, por donde discurren vasos y nervios palatinos.",
+        "accidentes": "Su rasgo identificador es el trayecto transversal de la unión maxilopalatina en el paladar duro. No debe confundirse con la sutura palatina mediana, que sigue el plano medio entre los lados derecho e izquierdo.",
+        "articulaciones": "Es una articulación fibrosa del tipo sutura y funcionalmente una sinartrosis en la clasificación tradicional. No tiene cavidad articular ni movimiento independiente; la apariencia de la línea puede modificarse por crecimiento y fusión ósea.",
+        "inserciones": "No presenta inserciones musculares propias. El tejido fibroso sutural se continúa con el periostio de los procesos palatinos maxilares y de las láminas horizontales palatinas.",
+        "irrigacion": "No posee irrigación exclusiva. La región recibe aporte de los vasos palatinos que recorren los surcos y canales palatinos; estos vasos irrigan los tejidos del paladar, no constituyen una arteria propia de la sutura.",
+        "inervacion": "No se describe inervación exclusiva de la sutura. La sensibilidad del paladar adyacente depende de los nervios palatinos y de la inervación periostal regional.",
+        "funcion": "Une la porción maxilar del paladar duro con los huesos palatinos, manteniendo la continuidad del techo de la cavidad oral y del piso de la cavidad nasal.",
+        "especie": "La sutura palatina transversa (Sutura palatina transversa) está descrita en la anatomía veterinaria del caballo como unión entre el proceso palatino de la maxila y la lámina horizontal del palatino.",
+        "clinica": "Es un reparo anatómico en la exploración e imagenología del paladar duro. Su identificación ayuda a localizar la unión maxilopalatina y a diferenciarla de la sutura palatina mediana y de líneas de fractura.",
+        "referencias": "IMAIOS, vet-Anatomy. Transverse palatine suture – Horse; definición: unión entre el proceso palatino de la maxila y la lámina horizontal del palatino.\\nA Text-book of Veterinary Anatomy. Fig. 31, Upper Jaw of Horse, ventral view: sutura palatina transversa y sutura palatina mediana."
+      }
     }
   ]
 }
