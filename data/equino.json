@@ -31536,6 +31536,111 @@
         "clinica": "Es un reparo de imagenología de la región orbitomedial, relevante al evaluar traumatismos y alteraciones óseas periorbitarias. Debe diferenciarse de la sutura nasofrontal y de posibles líneas de fractura.",
         "referencias": "Sisson S. The Anatomy of the Domestic Animals. 2nd ed. 1914. Skeleton of the Horse, Frontal Bones, p. 60: naso-frontal and fronto-lacrimal sutures; Fig. 48, suture f."
       }
+    },
+    {
+      "id": "equ.ske.sut.018",
+      "es": "Sutura interincisiva",
+      "la": "Sutura interincisiva",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el plano medio rostral del paladar duro, entre los cuerpos de los huesos incisivos derecho e izquierdo, inmediatamente caudal a la región de los incisivos superiores.",
+        "descripcion": "Articulación fibrosa sutural que une los cuerpos de ambos huesos incisivos en la línea media. Carece de cavidad sinovial y de cartílago articular.",
+        "relaciones": "Se sitúa entre los huesos incisivos y continúa caudalmente con la región intermaxilar y el paladar duro. Se relaciona con los procesos palatinos de los incisivos y con la porción rostral del vómer.",
+        "accidentes": "La línea de unión es mediana y se encuentra entre los cuerpos de los huesos incisivos. Su extensión y visibilidad pueden variar con el desarrollo y la remodelación ósea.",
+        "articulaciones": "Es una sutura fibrosa, clasificada funcionalmente como sinartrosis. No permite movimiento independiente entre los huesos incisivos.",
+        "inserciones": "No posee inserciones musculares propias; el tejido conectivo sutural se continúa con el periostio de ambos huesos incisivos.",
+        "irrigacion": "No presenta irrigación propia. Recibe aporte indirecto de vasos periostales y de los tejidos palatinos y labiales adyacentes.",
+        "inervacion": "No se reconoce inervación exclusiva de la sutura; la sensibilidad regional depende del periostio y de los tejidos blandos vecinos.",
+        "funcion": "Mantiene unidos ambos huesos incisivos y contribuye a la continuidad del extremo rostral del esqueleto facial y del paladar duro.",
+        "especie": "La sutura interincisiva está incluida en la nomenclatura anatómica veterinaria para las suturas de la cabeza y se identifica en el caballo entre los cuerpos de los huesos incisivos.",
+        "clinica": "Es un reparo de la región rostral del paladar y del maxilar. En imágenes debe diferenciarse de fisuras, fracturas y líneas de remodelación del hueso incisivo.",
+        "referencias": "IMAIOS, vet-Anatomy. Interincisive suture – Horse; definición: unión entre los cuerpos de los huesos incisivos derecho e izquierdo.\\nConstantinescu GM, Schaller O. Illustrated Veterinary Anatomical Nomenclature. 3rd ed. 2012."
+      }
+    },
+    {
+      "id": "equ.ske.sut.019",
+      "es": "Sutura palatomaxilar",
+      "la": "Sutura palatomaxillaris",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la fosa pterigopalatina, entre la porción perpendicular del hueso palatino y la maxila.",
+        "descripcion": "Unión fibrosa sutural entre la lámina perpendicular del hueso palatino y la maxila. No presenta cavidad sinovial ni superficies revestidas por cartílago.",
+        "relaciones": "Se localiza en la región profunda de la unión maxilopalatina, en relación con la fosa pterigopalatina y los trayectos vasculonerviosos que atraviesan esta región.",
+        "accidentes": "La sutura corresponde al contacto entre la porción perpendicular del palatino y la maxila; no debe confundirse con la sutura palatina transversa, que une el proceso palatino maxilar con la lámina horizontal del palatino.",
+        "articulaciones": "Es una sutura fibrosa y funcionalmente una sinartrosis. No posee cavidad articular ni movimiento independiente.",
+        "inserciones": "No presenta inserciones musculares propias. El tejido sutural se continúa con el periostio de la maxila y del hueso palatino.",
+        "irrigacion": "No tiene irrigación independiente. La región recibe ramas de los vasos maxilares y palatinos vecinos; no se atribuye una arteria exclusiva a la línea sutural.",
+        "inervacion": "No se describe una inervación exclusiva. La sensibilidad regional procede de ramas nerviosas que acompañan los vasos en la fosa pterigopalatina y del periostio adyacente.",
+        "funcion": "Une la maxila con la porción perpendicular del palatino y contribuye a la estabilidad de la pared ósea de la fosa pterigopalatina.",
+        "especie": "Está descrita para el caballo en vet-Anatomy como palatomaxillary suture, entre la parte perpendicular del palatino y la maxila.",
+        "clinica": "Su ubicación profunda es relevante en la interpretación de imágenes de la fosa pterigopalatina y en procedimientos regionales. Debe distinguirse de otras suturas del paladar duro.",
+        "referencias": "IMAIOS, vet-Anatomy. Palatomaxillary suture – Horse; definición: unión entre la parte perpendicular del hueso palatino y la maxila en la fosa pterigopalatina.\\nConstantinescu GM, Schaller O. Illustrated Veterinary Anatomical Nomenclature. 3rd ed. 2012."
+      }
+    },
+    {
+      "id": "equ.ske.sut.020",
+      "es": "Sutura pterigopalatina",
+      "la": "Sutura pterygopalatina",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la región caudoventral del cráneo, entre el hueso pterigoides y el hueso palatino, próxima a la fosa pterigopalatina y al proceso pterigoides.",
+        "descripcion": "Articulación fibrosa del tipo sutura que une el hueso pterigoides con el hueso palatino. No presenta cavidad sinovial.",
+        "relaciones": "Se relaciona con la lámina perpendicular del palatino, el proceso pterigoides del esfenoides y la región de la coana y fosa pterigopalatina.",
+        "accidentes": "Su referencia anatómica es el contacto entre los huesos pterigoides y palatino. No debe confundirse con la unión pterigopalatino-maxilar compleja descrita en algunas especies.",
+        "articulaciones": "Es una sutura fibrosa, funcionalmente clasificada como sinartrosis. No permite movimiento independiente de los huesos que une.",
+        "inserciones": "No presenta inserciones musculares propias; el tejido fibroso sutural se continúa con el periostio de ambos huesos.",
+        "irrigacion": "No posee irrigación exclusiva. Recibe aporte indirecto de vasos regionales procedentes de ramas maxilares y palatinas.",
+        "inervacion": "No se describe inervación propia de la sutura; la sensibilidad corresponde al periostio y a los tejidos conectivos regionales.",
+        "funcion": "Contribuye a la unión estable del palatino con el pterigoides y a la continuidad ósea de la región caudoventral del esqueleto facial.",
+        "especie": "La sutura pterigopalatina está incluida en vet-Anatomy para el caballo y se define como la unión entre los huesos pterigoides y palatino.",
+        "clinica": "Es una referencia para la evaluación de la región pterigopalatina mediante imagenología. Las alteraciones deben interpretarse junto con las estructuras vecinas y el contexto clínico.",
+        "referencias": "IMAIOS, vet-Anatomy. Pterygopalatine suture – Horse; definición: unión entre el hueso pterigoides y el hueso palatino.\\nConstantinescu GM, Schaller O. Illustrated Veterinary Anatomical Nomenclature. 3rd ed. 2012."
+      }
+    },
+    {
+      "id": "equ.ske.sut.021",
+      "es": "Sutura vomeropalatina",
+      "la": "Sutura vomeropalatina",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la línea media de la base de la cavidad nasal, entre el vómer y las porciones rostrales de las láminas horizontales de los huesos palatinos.",
+        "descripcion": "Unión fibrosa entre el vómer impar y los huesos palatinos pares. Forma parte de las articulaciones óseas que estabilizan el tabique nasal y el paladar caudal.",
+        "relaciones": "Se relaciona dorsalmente con el tabique nasal y ventralmente con el paladar duro. Rostralmente se continúa con las relaciones vomeromaxilares y caudalmente se aproxima a la base del cráneo.",
+        "accidentes": "La línea sutural se establece entre el vómer y el palatino en la región caudoventral del tabique nasal. Su extensión depende de la configuración de las superficies óseas enfrentadas.",
+        "articulaciones": "Es una sutura fibrosa y funcionalmente una sinartrosis. No presenta cavidad sinovial ni movimiento independiente.",
+        "inserciones": "No presenta inserciones musculares propias; el tejido conectivo sutural se continúa con el periostio del vómer y de los huesos palatinos.",
+        "irrigacion": "No posee irrigación propia. El aporte es indirecto desde vasos de la mucosa nasal, palatina y del periostio regional.",
+        "inervacion": "No se reconoce inervación exclusiva de la sutura. La sensibilidad procede del periostio y de la mucosa nasal y palatina vecina.",
+        "funcion": "Contribuye a fijar el vómer a los huesos palatinos y a mantener la continuidad del tabique nasal con el paladar óseo.",
+        "especie": "La sutura vomeropalatina figura en la nomenclatura veterinaria de las suturas de la cabeza; la relación anatómica entre vómer y palatino está descrita en la anatomía comparada de los mamíferos domésticos.",
+        "clinica": "Puede servir como referencia en estudios tomográficos del tabique nasal y del paladar caudal. No debe confundirse con una línea de fractura o con una fisura del paladar.",
+        "referencias": "Japanese Association of Veterinary Anatomists, Veterinary Anatomical Terminology, Arthrology – Sutures of the Head: Sutura vomeropalatina.\\nBarone R. Anatomie comparée des mammifères domestiques. Tome 1: Ostéologie. 5th ed. 2020."
+      }
+    },
+    {
+      "id": "equ.ske.sut.022",
+      "es": "Sutura vomeromaxilar",
+      "la": "Sutura vomeromaxillaris",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la base de la cavidad nasal, en la unión ventral del vómer con los procesos palatinos de la maxila, a ambos lados de la línea media.",
+        "descripcion": "Articulación fibrosa sutural entre el vómer y la maxila, en la región de los procesos palatinos maxilares. No presenta cavidad sinovial.",
+        "relaciones": "Se relaciona con el tabique nasal y el vómer en posición medial, con los procesos palatinos de la maxila en posición ventral y con el paladar duro.",
+        "accidentes": "La unión se localiza en la superficie ventral del vómer y los procesos palatinos maxilares. Debe diferenciarse de la sutura vomeroincisiva, situada más rostralmente.",
+        "articulaciones": "Es una sutura fibrosa, funcionalmente clasificada como sinartrosis. No permite movimiento independiente y carece de cavidad articular.",
+        "inserciones": "No presenta inserciones musculares propias. El tejido fibroso se continúa con el periostio del vómer y de la maxila.",
+        "irrigacion": "No posee irrigación independiente. Recibe aporte indirecto de vasos periostales y de la vascularización de la mucosa nasal y palatina adyacente.",
+        "inervacion": "No se describe una inervación exclusiva de la línea sutural; la sensibilidad regional procede del periostio y de los tejidos nasales y palatinos vecinos.",
+        "funcion": "Fija el vómer a la maxila y contribuye a la estabilidad del tabique nasal y de la unión entre el piso de la cavidad nasal y el paladar duro.",
+        "especie": "La sutura vomeromaxilar se encuentra recogida en la terminología anatómica veterinaria de las suturas de la cabeza. Su relación se describe entre el vómer y los procesos palatinos de la maxila.",
+        "clinica": "Es un reparo anatómico para la interpretación de imágenes de la cavidad nasal y del paladar duro. Debe evaluarse junto con las suturas vomeropalatina y vomeroincisiva.",
+        "referencias": "Japanese Association of Veterinary Anatomists, Veterinary Anatomical Terminology, Arthrology – Sutures of the Head: Sutura vomeromaxillaris.\\nIMAIOS, vet-Anatomy. Vomer; articulaciones ventrales con procesos palatinos de la maxila."
+      }
     }
   ]
 }
