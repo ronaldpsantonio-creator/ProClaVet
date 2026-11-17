@@ -31242,6 +31242,69 @@
         "clinica": "Es una referencia anatómica para interpretar radiografías y estudios tomográficos de la región nasal. La irregularidad, asimetría o alteración de la línea debe valorarse junto con antecedentes de traumatismo, inflamación y cambios óseos; no debe diagnosticarse patología por la sola persistencia de una sutura patente.",
         "referencias": "Geitzenauer JM, et al. A histological evaluation of facial suture lines in six horses aged 1 day to 9 years. Equine Veterinary Education. 2022;34(7):362–368. doi:10.1111/eve.13436.\\nSisson and Grossman's The Anatomy of the Domestic Animals. Descripción anatómica de las suturas de los huesos nasales del caballo."
       }
+    },
+    {
+      "id": "equ.ske.sut.004",
+      "es": "Sutura sagital",
+      "la": "Sutura sagittalis",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el plano medio dorsal del neurocráneo, entre los bordes mediales de los huesos parietales derecho e izquierdo. Se extiende a lo largo de la unión interparietal.",
+        "descripcion": "Articulación fibrosa del tipo sutura entre huesos planos del cráneo. No presenta cavidad sinovial ni cartílago articular; la unión se realiza mediante tejido conectivo fibroso interpuesto.",
+        "accidentes": "Los márgenes óseos presentan contacto sutural de contorno dentado o irregular, con tejido conectivo fibroso interpuesto. No existen cápsula sinovial, meniscos ni ligamentos propios.",
+        "articulaciones": "Se clasifica estructuralmente como sutura fibrosa y funcionalmente como sinartrosis en la clasificación clásica. La sutura puede permanecer patente durante el crecimiento y obliterarse progresivamente con la edad; los tiempos de cierre varían según la sutura y el individuo.",
+        "inserciones": "No presenta inserciones musculares propias. El tejido fibroso se continúa con el periostio de los huesos adyacentes.",
+        "irrigacion": "No posee irrigación articular independiente. Recibe aporte indirecto de los vasos periostales y de los tejidos conectivos vecinos; no se atribuye una arteria exclusiva a la línea sutural.",
+        "inervacion": "No se describe una inervación exclusiva de la sutura. La sensibilidad regional corresponde al periostio y a los tejidos conectivos adyacentes.",
+        "especie": "En el caballo estas suturas forman parte de las uniones fibrosas del neurocráneo. La anatomía descriptiva equina identifica sus trayectos y las fuentes anatómicas clásicas señalan que su obliteración es progresiva y dependiente de la edad.",
+        "clinica": "Son referencias para la interpretación radiográfica y tomográfica del cráneo equino. La persistencia de una línea sutural debe interpretarse considerando edad y variación individual; no debe confundirse automáticamente con una fractura.",
+        "relaciones": "A cada lado se relaciona con la cara medial de un hueso parietal. Rostralmente alcanza la región de la unión parietofrontal y caudalmente se aproxima a la región interparietal y parietooccipital, según la disposición de los huesos en el individuo.",
+        "funcion": "Une ambos huesos parietales en la línea media, contribuye a la continuidad y estabilidad del techo del neurocráneo y permite el crecimiento craneal mientras permanece patente.",
+        "referencias": "Sisson S, Grossman JD. The Anatomy of the Domestic Animals. 5th ed. Descripción del cráneo equino y suturas parietales.\\nA Text-book of Veterinary Anatomy. Sección sobre los huesos parietales del caballo: identifica la sutura sagital y describe su cierre habitual alrededor de los cuatro años."
+      }
+    },
+    {
+      "id": "equ.ske.sut.005",
+      "es": "Sutura parietofrontal (coronal)",
+      "la": "Sutura coronalis",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Se localiza transversalmente entre el borde rostral de los huesos parietales y el borde caudal de los huesos frontales, a ambos lados del plano medio.",
+        "descripcion": "Articulación fibrosa del tipo sutura entre huesos planos del cráneo. No presenta cavidad sinovial ni cartílago articular; la unión se realiza mediante tejido conectivo fibroso interpuesto.",
+        "accidentes": "Los márgenes óseos presentan contacto sutural de contorno dentado o irregular, con tejido conectivo fibroso interpuesto. No existen cápsula sinovial, meniscos ni ligamentos propios.",
+        "articulaciones": "Se clasifica estructuralmente como sutura fibrosa y funcionalmente como sinartrosis en la clasificación clásica. La sutura puede permanecer patente durante el crecimiento y obliterarse progresivamente con la edad; los tiempos de cierre varían según la sutura y el individuo.",
+        "inserciones": "No presenta inserciones musculares propias. El tejido fibroso se continúa con el periostio de los huesos adyacentes.",
+        "irrigacion": "No posee irrigación articular independiente. Recibe aporte indirecto de los vasos periostales y de los tejidos conectivos vecinos; no se atribuye una arteria exclusiva a la línea sutural.",
+        "inervacion": "No se describe una inervación exclusiva de la sutura. La sensibilidad regional corresponde al periostio y a los tejidos conectivos adyacentes.",
+        "especie": "En el caballo estas suturas forman parte de las uniones fibrosas del neurocráneo. La anatomía descriptiva equina identifica sus trayectos y las fuentes anatómicas clásicas señalan que su obliteración es progresiva y dependiente de la edad.",
+        "clinica": "Son referencias para la interpretación radiográfica y tomográfica del cráneo equino. La persistencia de una línea sutural debe interpretarse considerando edad y variación individual; no debe confundirse automáticamente con una fractura.",
+        "relaciones": "Rostralmente se relaciona con los huesos frontales; caudalmente con los parietales. En la línea media se encuentra próxima a la unión de las suturas interfrontal y sagital; lateralmente se dirige hacia las regiones temporofrontales.",
+        "funcion": "Une el neurocráneo parietal con la región frontal, mantiene la continuidad del techo craneal y participa en el crecimiento del cráneo durante el desarrollo.",
+        "referencias": "Sisson S, Grossman JD. The Anatomy of the Domestic Animals. 5th ed. Fig. 47, cráneo del caballo en vista dorsal: identifica la sutura parietofrontal.\\nA Text-book of Veterinary Anatomy. Sección sobre huesos parietales: denomina a esta unión sutura parietofrontal o coronal."
+      }
+    },
+    {
+      "id": "equ.ske.sut.006",
+      "es": "Sutura parietooccipital (lambdoidea)",
+      "la": "Sutura lambdoidea",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Se encuentra en la región caudodorsal del cráneo, entre el borde caudal de los huesos parietales y la región occipital, incluyendo la relación con el hueso interparietal según la configuración del cráneo.",
+        "descripcion": "Articulación fibrosa del tipo sutura entre huesos planos del cráneo. No presenta cavidad sinovial ni cartílago articular; la unión se realiza mediante tejido conectivo fibroso interpuesto.",
+        "accidentes": "Los márgenes óseos presentan contacto sutural de contorno dentado o irregular, con tejido conectivo fibroso interpuesto. No existen cápsula sinovial, meniscos ni ligamentos propios.",
+        "articulaciones": "Se clasifica estructuralmente como sutura fibrosa y funcionalmente como sinartrosis en la clasificación clásica. La sutura puede permanecer patente durante el crecimiento y obliterarse progresivamente con la edad; los tiempos de cierre varían según la sutura y el individuo.",
+        "inserciones": "No presenta inserciones musculares propias. El tejido fibroso se continúa con el periostio de los huesos adyacentes.",
+        "irrigacion": "No posee irrigación articular independiente. Recibe aporte indirecto de los vasos periostales y de los tejidos conectivos vecinos; no se atribuye una arteria exclusiva a la línea sutural.",
+        "inervacion": "No se describe una inervación exclusiva de la sutura. La sensibilidad regional corresponde al periostio y a los tejidos conectivos adyacentes.",
+        "especie": "En el caballo estas suturas forman parte de las uniones fibrosas del neurocráneo. La anatomía descriptiva equina identifica sus trayectos y las fuentes anatómicas clásicas señalan que su obliteración es progresiva y dependiente de la edad.",
+        "clinica": "Son referencias para la interpretación radiográfica y tomográfica del cráneo equino. La persistencia de una línea sutural debe interpretarse considerando edad y variación individual; no debe confundirse automáticamente con una fractura.",
+        "relaciones": "Rostralmente se relaciona con los huesos parietales; caudalmente con la región occipital. Lateralmente se aproxima a la unión parietotemporal.",
+        "funcion": "Conecta la región parietal del techo craneal con el occipital, contribuyendo a la estabilidad de la bóveda craneal y al crecimiento del neurocráneo.",
+        "referencias": "Sisson S, Grossman JD. The Anatomy of the Domestic Animals. 5th ed. Fig. 47, cráneo del caballo en vista dorsal: identifica la sutura parietooccipital.\\nA Text-book of Veterinary Anatomy. Sección sobre los huesos parietales del caballo: describe la sutura parietooccipital o lambdoidea y señala su cierre habitual alrededor de los cinco años."
+      }
     }
   ]
 }
