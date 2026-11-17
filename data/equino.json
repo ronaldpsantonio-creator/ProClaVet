@@ -31851,6 +31851,48 @@
         "clinica": "Es un reparo de imagenología del paladar rostral. Su interpretación debe distinguirse de la sutura interincisiva y de la unión maxiloincisiva lateral para evitar duplicación anatómica.",
         "referencias": "Popesko P. Atlas of Topographical Anatomy of the Domestic Animals. Vol. I: Head and Neck. 6th ed. W.B. Saunders; 1990. Fig. 115, Horse skull ventral view, sutures 11, 18, 23, 25 and 26. https://www.academia.edu/47875321/Atlas_of_Topographical_Anatomy_of_the_Domestic_Animals_Voulme_I_Head_and_Neck_\nSisson S. A Text-book of Veterinary Anatomy. W.B. Saunders; 1911. The Skeleton of the Horse."
       }
+    },
+    {
+      "id": "equ.ske.sut.033",
+      "es": "Sutura frontomaxilar",
+      "la": "Sutura frontomaxillaris",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la región orbital y facial profunda del cráneo, en el contacto lateral del hueso frontal con la maxila.",
+        "descripcion": "Unión fibrosa entre el hueso frontal y la maxila. Sisson la incluye entre las conexiones laterales del frontal en el caballo.",
+        "relaciones": "Se encuentra próxima a la región rostral de la órbita y a la pared dorsal de la región maxilar. Se relaciona topográficamente con las uniones frontopalatina y frontolagrimal, que son suturas distintas.",
+        "accidentes": "La línea de contacto entre los bordes óseos del frontal y la maxila constituye el reparo anatómico. No debe confundirse con la sutura frontopalatina ni con la lagrimomaxilar.",
+        "articulaciones": "Articulación fibrosa del tipo sutura; funcionalmente corresponde a una sinartrosis y carece de cavidad sinovial.",
+        "inserciones": "No presenta inserciones musculares propias. El tejido conectivo sutural se continúa con el periostio de ambos huesos.",
+        "irrigacion": "No posee irrigación exclusiva descrita. Recibe aporte indirecto de la vascularización periostal y de los tejidos blandos orbitarios y faciales adyacentes.",
+        "inervacion": "No se describe inervación específica de la línea sutural. La sensibilidad regional depende del periostio y de los tejidos conectivos vecinos.",
+        "funcion": "Mantiene la continuidad ósea entre el frontal y la maxila y contribuye a la configuración de la región orbitofacial.",
+        "especie": "Descrita específicamente en el caballo por Sisson entre las conexiones laterales del hueso frontal: este se une a la maxila mediante la sutura frontomaxilar. No corresponde a una sutura frontopalatina.",
+        "clinica": "Puede servir como referencia en la interpretación de imágenes de la región orbitofacial y en la evaluación de líneas de unión ósea. Su identificación debe distinguirse de las suturas vecinas.",
+        "referencias": "Sisson S. The Anatomy of the Domestic Animals. 2nd ed. W.B. Saunders; 1914. The Skeleton of the Horse, p. 60: conexiones principales del hueso frontal. https://upload.wikimedia.org/wikipedia/commons/e/e1/The_anatomy_of_the_domestic_animals_%28IA_anatomyofdomesti01siss%29.pdf"
+      }
+    },
+    {
+      "id": "equ.ske.sut.034",
+      "es": "Sutura esfenoetmoidal",
+      "la": "Sutura sphenoethmoidalis",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la región craneal profunda, en el contacto entre el borde anterior del ala orbitaria del esfenoides y el etmoides.",
+        "descripcion": "Unión fibrosa entre el esfenoides y el etmoides. En el caballo, Sisson describe que el borde anterior del ala orbitaria del esfenoides se une al etmoides mediante la sutura esfenoetmoidal.",
+        "relaciones": "Se sitúa cerca del conducto y foramen etmoidal. En su porción inferior, el esfenoides participa junto con el etmoides y el frontal en la delimitación del foramen etmoidal.",
+        "accidentes": "El reparo es el contacto del borde anterior del ala orbitaria del esfenoides con el etmoides. No debe confundirse con la sutura esfenofrontal, situada en el borde dorsal del ala orbitaria.",
+        "articulaciones": "Articulación fibrosa del tipo sutura; funcionalmente corresponde a una sinartrosis y no presenta cavidad sinovial.",
+        "inserciones": "No presenta inserciones musculares propias. El tejido conectivo sutural se continúa con el periostio de los huesos adyacentes.",
+        "irrigacion": "No se reconoce una arteria exclusiva para la sutura. Su aporte es indirecto a través de los vasos periostales y de la vascularización regional etmoidal y orbitaria.",
+        "inervacion": "No se describe una inervación propia de la línea sutural. La sensibilidad regional procede del periostio y de los tejidos vecinos, próximos a la región etmoidal.",
+        "funcion": "Contribuye a la unión y continuidad de los componentes óseos profundos de la base craneal y de la región orbitaria.",
+        "especie": "Sisson describe expresamente en el caballo la unión del borde anterior del ala orbitaria del esfenoides con el etmoides como sutura esfenoetmoidal. La referencia es específica para la osteología equina.",
+        "clinica": "Es un reparo anatómico profundo de interés en la interpretación de imágenes de la base del cráneo y de la región orbitaria. Debe diferenciarse de la sutura esfenofrontal y de los límites del foramen etmoidal.",
+        "referencias": "Sisson S. The Anatomy of the Domestic Animals. 2nd ed. W.B. Saunders; 1914. The Skeleton of the Horse, p. 53: conexiones del ala orbitaria del esfenoides. https://upload.wikimedia.org/wikipedia/commons/e/e1/The_anatomy_of_the_domestic_animals_%28IA_anatomyofdomesti01siss%29.pdf"
+      }
     }
   ]
 }
