@@ -31431,6 +31431,111 @@
         "clinica": "Es un reparo anatómico en la exploración e imagenología del paladar duro. Su identificación ayuda a localizar la unión maxilopalatina y a diferenciarla de la sutura palatina mediana y de líneas de fractura.",
         "referencias": "IMAIOS, vet-Anatomy. Transverse palatine suture – Horse; definición: unión entre el proceso palatino de la maxila y la lámina horizontal del palatino.\\nA Text-book of Veterinary Anatomy. Fig. 31, Upper Jaw of Horse, ventral view: sutura palatina transversa y sutura palatina mediana."
       }
+    },
+    {
+      "id": "equ.ske.sut.013",
+      "es": "Sutura escamosa (parietotemporal)",
+      "la": "Sutura squamosa",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la superficie lateral del cráneo, entre el borde dorsal de la porción escamosa del hueso temporal y el borde lateral del hueso parietal; se extiende en la región dorsolateral de la cavidad craneal.",
+        "descripcion": "Unión fibrosa sutural en la que la escama temporal se superpone al borde biselado del parietal. No presenta cavidad sinovial ni cartílago articular.",
+        "relaciones": "Dorsalmente se relaciona con la región parietal y ventralmente con la escama del temporal, que contribuye a la pared lateral de la cavidad craneal y a la fosa temporal. Es vecina de las uniones parietooccipital y frontotemporal.",
+        "accidentes": "El borde lateral del parietal está biselado y queda cubierto por la escama temporal, disposición que caracteriza la sutura escamosa. En el caballo se describe como una unión amplia de la región dorsolateral.",
+        "articulaciones": "Estructuralmente es una sutura fibrosa de tipo escamoso; funcionalmente se incluye entre las sinartrosis en la clasificación clásica. La línea puede persistir durante años y su cierre depende de la edad; Sisson refiere cierre habitual entre los 12 y 15 años.",
+        "inserciones": "No presenta inserciones musculares propias. El tejido conectivo sutural se continúa con el periostio de los huesos parietal y temporal.",
+        "irrigacion": "No posee irrigación articular independiente. El aporte procede de vasos periostales y de los tejidos blandos regionales; no se asigna una arteria exclusiva a la sutura.",
+        "inervacion": "No se reconoce una inervación exclusiva de la línea sutural. La sensibilidad regional depende del periostio y de los tejidos conectivos adyacentes.",
+        "funcion": "Une el parietal con la porción escamosa del temporal, contribuyendo a la continuidad y estabilidad de la pared dorsolateral del cráneo.",
+        "especie": "En el caballo se identifica como sutura escamosa (Sutura squamosa), entre el parietal y la escama temporal. La descripción clásica señala que su cierre suele ocurrir más tardíamente que el de la sutura parietal y la parietooccipital.",
+        "clinica": "Es un reparo anatómico en radiografías y tomografías de la región temporal y parietal. La edad modifica su aspecto, por lo que la línea sutural debe diferenciarse de fracturas y de cambios de remodelación ósea.",
+        "referencias": "Sisson S. The Anatomy of the Domestic Animals. 2nd ed. 1914. Skeleton of the Horse, description of the parietal and squamous temporal bones, pp. 58–61; Fig. 47, suture 2; Fig. 48, suture b."
+      }
+    },
+    {
+      "id": "equ.ske.sut.014",
+      "es": "Sutura parietal (interparietoparietal)",
+      "la": "Sutura interparietoparietalis",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la región caudodorsal de la bóveda craneal, en la unión entre el hueso interparietal y el hueso parietal. Se localiza caudalmente a la región parietal y rostral a la unión parietooccipital.",
+        "descripcion": "Unión fibrosa entre el interparietal y el parietal, identificada en la descripción clásica del cráneo equino como sutura parietal. No presenta cavidad sinovial.",
+        "relaciones": "Se relaciona con el interparietal, situado entre la porción escamosa del occipital y los parietales, y con la región caudal de la bóveda craneal. No debe confundirse con la sutura sagital, que une entre sí los dos huesos parietales en el plano medio.",
+        "accidentes": "Corresponde a la línea de contacto entre el interparietal y el parietal. En el potro puede identificarse con mayor claridad; la unión se modifica durante el crecimiento y puede obliterarse.",
+        "articulaciones": "Es una articulación fibrosa sutural y funcionalmente una sinartrosis en la clasificación tradicional. Sisson indica que la sutura parietal suele cerrarse alrededor de los cuatro años; este dato es una referencia clásica y no debe interpretarse como edad fija para todos los individuos.",
+        "inserciones": "No posee inserciones musculares propias. El tejido sutural se continúa con el periostio de los huesos interparietal y parietal.",
+        "irrigacion": "No presenta irrigación independiente. Recibe aporte indirecto de los vasos periostales y de los tejidos conectivos regionales.",
+        "inervacion": "No se describe una inervación propia de la sutura. La sensibilidad depende del periostio y de los tejidos adyacentes.",
+        "funcion": "Conecta el interparietal con el parietal y contribuye a la continuidad de la bóveda craneal caudal.",
+        "especie": "Descrita en el caballo en la anatomía clásica del hueso parietal y en las figuras del interparietal del potro recién nacido. La denominación «sutura parietal» se conserva como término descriptivo histórico; se especifica aquí la unión interparietal-parietal para evitar confusión con la sutura sagital.",
+        "clinica": "La edad y la fusión progresiva pueden hacer menos visible esta unión en estudios de imagen. Es importante distinguirla de la sutura parietooccipital y de la sutura sagital.",
+        "referencias": "Sisson S. The Anatomy of the Domestic Animals. 2nd ed. 1914. Skeleton of the Horse, Parietal Bones, p. 58–59; Fig. 34, junction of interparietal with parietal; Fig. 47, suture 3."
+      }
+    },
+    {
+      "id": "equ.ske.sut.015",
+      "es": "Sutura esfenescamosa",
+      "la": "Sutura sphenosquamosa",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la base lateral del cráneo, entre el borde dorsal del ala temporal del hueso esfenoides y el borde ventral de la porción escamosa del hueso temporal.",
+        "descripcion": "Unión fibrosa sutural entre el ala temporal del esfenoides y la escama del temporal. Carece de cavidad sinovial y de superficies articulares cartilaginosas.",
+        "relaciones": "Se sitúa en la región lateral de la base craneal, próxima a la fosa temporal y a la región del foramen lacerum. Se relaciona con la porción escamosa del temporal y con el ala temporal del esfenoides.",
+        "accidentes": "El borde dorsal del ala temporal del esfenoides se une a la escama temporal mediante esta sutura. En la vista lateral del cráneo se identifica en la unión entre ambos componentes óseos.",
+        "articulaciones": "Estructuralmente es una sutura fibrosa; funcionalmente se clasifica como sinartrosis en el esquema tradicional. No presenta cápsula ni cavidad articular.",
+        "inserciones": "No presenta inserciones musculares propias. El tejido fibroso sutural se continúa con el periostio de los huesos temporal y esfenoides.",
+        "irrigacion": "No posee irrigación independiente ni una arteria exclusiva reconocida. Su aporte es indirecto, a través de los vasos periostales y de los tejidos de la base craneal.",
+        "inervacion": "No se describe inervación exclusiva de la línea sutural. La sensibilidad regional depende del periostio y de los tejidos conectivos adyacentes.",
+        "funcion": "Une el ala temporal del esfenoides con la porción escamosa del temporal, contribuyendo a la continuidad de la pared lateral y de la base del cráneo.",
+        "especie": "Está descrita en el caballo como sutura esfenescamosa (spheno-squamous suture) en la anatomía clásica de la base craneal.",
+        "clinica": "Es un reparo anatómico de la región lateral de la base del cráneo en estudios de imagen. Debe reconocerse en relación con los forámenes y estructuras neurovasculares vecinos, sin atribuirle el trayecto de estos.",
+        "referencias": "Sisson S. The Anatomy of the Domestic Animals. 2nd ed. 1914. Skeleton of the Horse, temporal wing of sphenoid and squamous temporal, p. 54 and p. 61; Fig. 48, sutures c and d."
+      }
+    },
+    {
+      "id": "equ.ske.sut.016",
+      "es": "Sutura frontopalatina",
+      "la": "Sutura frontopalatina",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la región caudomedial de la órbita y de la fosa pterigopalatina, en el punto donde el hueso frontal se une con la porción perpendicular del hueso palatino.",
+        "descripcion": "Unión fibrosa sutural entre el frontal y el palatino. No constituye una articulación sinovial y carece de cavidad articular.",
+        "relaciones": "Se relaciona con la porción orbital del frontal y la lámina perpendicular del palatino, en la región caudal de la cavidad nasal y de la órbita. Se encuentra próxima a otras uniones del frontal con huesos vecinos.",
+        "accidentes": "La unión se establece entre el margen del frontal y el palatino en la región caudal de la pared nasal y orbitopal atina. Su extensión debe interpretarse según la superficie y los límites óseos descritos en el cráneo equino.",
+        "articulaciones": "Es una sutura fibrosa y funcionalmente una sinartrosis en la clasificación clásica. No posee cápsula ni cavidad sinovial.",
+        "inserciones": "No presenta inserciones musculares propias. El tejido sutural se continúa con el periostio de los huesos frontal y palatino.",
+        "irrigacion": "No posee irrigación propia independiente. El aporte procede de vasos periostales y de los tejidos blandos de la región orbitopalatina; no se asigna una arteria exclusiva.",
+        "inervacion": "No se describe una inervación exclusiva de la línea sutural. La sensibilidad regional depende del periostio y de los tejidos conectivos vecinos.",
+        "funcion": "Contribuye a la continuidad ósea entre el frontal y el palatino en la región caudal de la cara y de la órbita.",
+        "especie": "La conexión frontopalatina se incluye entre las uniones del hueso frontal del caballo descritas en la anatomía veterinaria clásica.",
+        "clinica": "Es un reparo topográfico en la evaluación de la región orbitopalatina y de la base craneal. En estudios de imagen debe diferenciarse de líneas de fractura y de superposiciones radiográficas.",
+        "referencias": "Sisson S. The Anatomy of the Domestic Animals. 2nd ed. 1914. Skeleton of the Horse, Frontal Bones, p. 60: lateral connections of the frontal bone with the palatine; Fig. 48, lateral cranial region."
+      }
+    },
+    {
+      "id": "equ.ske.sut.017",
+      "es": "Sutura frontolagrimal",
+      "la": "Sutura frontolacrimalis",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la región rostral y medial de la órbita, entre el borde anterior del hueso frontal y el hueso lagrimal.",
+        "descripcion": "Unión fibrosa sutural entre el frontal y el lagrimal, situada en el límite entre la región frontal y la pared medial de la órbita. No presenta cavidad sinovial.",
+        "relaciones": "Se relaciona con la porción orbital del frontal, la porción orbital del lagrimal y la pared medial de la órbita. Es vecina de la sutura nasofrontal y de las uniones del lagrimal con los huesos faciales.",
+        "accidentes": "La línea corresponde al contacto entre el frontal y el lagrimal en la región orbitomedial. Su identificación requiere seguir los márgenes de ambos huesos y no confundirla con la sutura nasofrontal.",
+        "articulaciones": "Estructuralmente es una sutura fibrosa y funcionalmente se clasifica como sinartrosis en el esquema tradicional. No posee cápsula ni cavidad articular sinovial.",
+        "inserciones": "No presenta inserciones musculares propias. El tejido conectivo sutural se continúa con el periostio de los huesos frontal y lagrimal.",
+        "irrigacion": "No posee irrigación articular independiente. El aporte es indirecto mediante vasos periostales y tejidos blandos orbitarios vecinos; no se asigna una arteria exclusiva.",
+        "inervacion": "No se reconoce una inervación exclusiva de la línea sutural. La sensibilidad depende del periostio y de los tejidos conectivos regionales.",
+        "funcion": "Une el frontal con el lagrimal y contribuye a la continuidad ósea de la pared medial y dorsal de la órbita.",
+        "especie": "La sutura frontolagrimal está identificada en la anatomía del cráneo equino en la descripción del hueso frontal y en la vista lateral del cráneo.",
+        "clinica": "Es un reparo de imagenología de la región orbitomedial, relevante al evaluar traumatismos y alteraciones óseas periorbitarias. Debe diferenciarse de la sutura nasofrontal y de posibles líneas de fractura.",
+        "referencias": "Sisson S. The Anatomy of the Domestic Animals. 2nd ed. 1914. Skeleton of the Horse, Frontal Bones, p. 60: naso-frontal and fronto-lacrimal sutures; Fig. 48, suture f."
+      }
     }
   ]
 }
