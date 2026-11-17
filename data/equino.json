@@ -31641,6 +31641,111 @@
         "clinica": "Es un reparo anatómico para la interpretación de imágenes de la cavidad nasal y del paladar duro. Debe evaluarse junto con las suturas vomeropalatina y vomeroincisiva.",
         "referencias": "Japanese Association of Veterinary Anatomists, Veterinary Anatomical Terminology, Arthrology – Sutures of the Head: Sutura vomeromaxillaris.\\nIMAIOS, vet-Anatomy. Vomer; articulaciones ventrales con procesos palatinos de la maxila."
       }
+    },
+    {
+      "id": "equ.ske.sut.023",
+      "es": "Sutura maxiloincisiva",
+      "la": "Sutura maxilloincisiva",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la región rostral del esqueleto facial, en la unión entre la maxila y el hueso incisivo, a cada lado del extremo anterior del maxilar.",
+        "descripcion": "Unión fibrosa sutural entre la maxila y el hueso incisivo (premaxila). Es una articulación del cráneo sin cavidad sinovial; su línea puede ser más evidente en animales jóvenes y remodelarse con la edad.",
+        "relaciones": "Se relaciona rostralmente con el hueso incisivo y caudalmente con la maxila. Se encuentra próxima a la región de los alveolos de los incisivos superiores y al límite entre el cuerpo maxilar y el proceso nasal del incisivo.",
+        "accidentes": "La línea de contacto entre la maxila y el hueso incisivo constituye el reparo principal. En la vista lateral equina se distingue de la sutura nasoincisiva, que se ubica dorsalmente entre el hueso nasal y el incisivo.",
+        "articulaciones": "Es una articulación fibrosa del tipo sutura; funcionalmente se clasifica como sinartrosis. No presenta cápsula ni cavidad articular.",
+        "inserciones": "No presenta inserciones musculares propias. El tejido conectivo sutural se continúa con el periostio de los huesos que une.",
+        "irrigacion": "No posee irrigación independiente ni una arteria exclusiva reconocida. El aporte es indirecto a través de los vasos periostales y de los tejidos blandos regionales.",
+        "inervacion": "No se describe inervación exclusiva de la línea sutural. La sensibilidad regional depende del periostio y de los tejidos conectivos adyacentes.",
+        "funcion": "Contribuye a la continuidad del extremo rostral del maxilar superior y a la estabilidad del arco alveolar que sostiene los dientes incisivos.",
+        "especie": "Descrita expresamente en el caballo como sutura maxilloincisiva en el atlas topográfico equino de Popesko, Fig. 108 y Fig. 115. Su identificación debe seguir el contacto real entre ambos huesos.",
+        "clinica": "Es un reparo de imagenología de la región incisivo-maxilar. En animales jóvenes debe diferenciarse la sutura normal de fisuras o fracturas; la edad y la remodelación pueden modificar su visibilidad.",
+        "referencias": "Popesko P. Atlas of Topographical Anatomy of the Domestic Animals. Volume I: Head and Neck. 6th ed. W.B. Saunders; 1990. Fig. 108 (horse skull, left lateral view), Fig. 113 (dorsal view) and Fig. 115 (ventral view), sutures identified by name. https://www.academia.edu/47875321/Atlas_of_Topographical_Anatomy_of_the_Domestic_Animals_Voulme_I_Head_and_Neck_\nSisson S. A Text-book of Veterinary Anatomy. W.B. Saunders; 1911. Skeleton of the Horse, skull and articulations. https://upload.wikimedia.org/wikipedia/commons/e/e6/A_text-book_of_veterinary_anatomy_%28IA_cu31924000008742%29.pdf"
+      }
+    },
+    {
+      "id": "equ.ske.sut.024",
+      "es": "Sutura nasoincisiva",
+      "la": "Sutura nasoincisiva",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la región dorsorrostral del cráneo, entre el hueso nasal y el proceso nasal del hueso incisivo, cerca de la transición entre el dorso nasal y el extremo rostral del esqueleto facial.",
+        "descripcion": "Unión fibrosa entre el hueso nasal y el hueso incisivo. No es una articulación sinovial y carece de cavidad articular.",
+        "relaciones": "Se relaciona con la sutura nasomaxilar y con la unión maxiloincisiva, aunque estas corresponden a contactos óseos diferentes. Se ubica dorsal a la región alveolar de los incisivos superiores.",
+        "accidentes": "El reparo es la línea de contacto entre el hueso nasal y el proceso nasal del incisivo. No debe confundirse con la sutura internasal, que une ambos nasales en la línea media.",
+        "articulaciones": "Es una sutura fibrosa, funcionalmente una sinartrosis. No presenta cápsula articular ni movimiento independiente.",
+        "inserciones": "No presenta inserciones musculares propias. El tejido conectivo sutural se continúa con el periostio de los huesos que une.",
+        "irrigacion": "No posee irrigación independiente ni una arteria exclusiva reconocida. El aporte es indirecto a través de los vasos periostales y de los tejidos blandos regionales.",
+        "inervacion": "No se describe inervación exclusiva de la línea sutural. La sensibilidad regional depende del periostio y de los tejidos conectivos adyacentes.",
+        "funcion": "Une el componente nasal con el incisivo y contribuye a la continuidad del armazón óseo rostral de la cara.",
+        "especie": "Identificada en el caballo en el atlas de Popesko, Fig. 108 y Fig. 113, como sutura nasoincisiva. La extensión exacta debe verificarse siguiendo los márgenes óseos en cada preparación.",
+        "clinica": "Es un reparo para la evaluación de traumatismos del dorso nasal y de la región rostral del cráneo. En radiografías y tomografía debe distinguirse de líneas de fractura.",
+        "referencias": "Popesko P. Atlas of Topographical Anatomy of the Domestic Animals. Volume I: Head and Neck. 6th ed. W.B. Saunders; 1990. Fig. 108 (horse skull, left lateral view), Fig. 113 (dorsal view) and Fig. 115 (ventral view), sutures identified by name. https://www.academia.edu/47875321/Atlas_of_Topographical_Anatomy_of_the_Domestic_Animals_Voulme_I_Head_and_Neck_\nSisson S. A Text-book of Veterinary Anatomy. W.B. Saunders; 1911. Skeleton of the Horse, skull and articulations. https://upload.wikimedia.org/wikipedia/commons/e/e6/A_text-book_of_veterinary_anatomy_%28IA_cu31924000008742%29.pdf"
+      }
+    },
+    {
+      "id": "equ.ske.sut.025",
+      "es": "Sutura temporocigomática",
+      "la": "Sutura temporozygomatica",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el arco cigomático, entre el proceso cigomático del hueso temporal y el proceso temporal del hueso cigomático, en la región lateral del cráneo.",
+        "descripcion": "Unión fibrosa sutural que completa el arco cigomático entre el temporal y el cigomático. No posee cavidad sinovial; debe distinguirse de la articulación temporomandibular, situada caudoventralmente.",
+        "relaciones": "Se relaciona con la fosa temporal dorsalmente y con la región lateral de la órbita y del arco cigomático rostralmente. Forma parte del límite lateral de la región temporal.",
+        "accidentes": "Los accidentes de referencia son el proceso cigomático del temporal y el proceso temporal del cigomático. La sutura se localiza en su zona de encuentro y no corresponde a toda la longitud del arco.",
+        "articulaciones": "Es una sutura fibrosa, funcionalmente clasificada como sinartrosis. No presenta cápsula ni cavidad articular.",
+        "inserciones": "No presenta inserciones musculares propias. El tejido conectivo sutural se continúa con el periostio de los huesos que une.",
+        "irrigacion": "No posee irrigación independiente ni una arteria exclusiva reconocida. El aporte es indirecto a través de los vasos periostales y de los tejidos blandos regionales.",
+        "inervacion": "No se describe inervación exclusiva de la línea sutural. La sensibilidad regional depende del periostio y de los tejidos conectivos adyacentes.",
+        "funcion": "Contribuye a la continuidad y resistencia del arco cigomático, que participa en la arquitectura lateral de la cara y ofrece soporte a estructuras musculares vecinas.",
+        "especie": "Descrita específicamente en el caballo como sutura temporozygomatica en el atlas de Popesko, Fig. 108 y Fig. 115. La terminología se conserva como temporocigomática.",
+        "clinica": "Es un reparo relevante en traumatismos del arco cigomático y en la interpretación de imágenes de la región temporal. Debe diferenciarse de fracturas del arco y de la articulación temporomandibular.",
+        "referencias": "Popesko P. Atlas of Topographical Anatomy of the Domestic Animals. Volume I: Head and Neck. 6th ed. W.B. Saunders; 1990. Fig. 108 (horse skull, left lateral view), Fig. 113 (dorsal view) and Fig. 115 (ventral view), sutures identified by name. https://www.academia.edu/47875321/Atlas_of_Topographical_Anatomy_of_the_Domestic_Animals_Voulme_I_Head_and_Neck_\nSisson S. A Text-book of Veterinary Anatomy. W.B. Saunders; 1911. Skeleton of the Horse, skull and articulations. https://upload.wikimedia.org/wikipedia/commons/e/e6/A_text-book_of_veterinary_anatomy_%28IA_cu31924000008742%29.pdf"
+      }
+    },
+    {
+      "id": "equ.ske.sut.026",
+      "es": "Sutura escamosofrontal",
+      "la": "Sutura squamosofrontalis",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la región laterodorsal del cráneo, en el contacto entre la porción escamosa del hueso temporal y el hueso frontal.",
+        "descripcion": "Unión fibrosa sutural entre la escama temporal y el frontal. Es una articulación craneal sin cavidad sinovial. Se registra por separado de la sutura escamosa parietotemporal.",
+        "relaciones": "Se relaciona con la región temporal y con las uniones del frontal con los huesos vecinos. Su identificación exige seguir el contacto de la escama temporal con el frontal, sin extenderla a la sutura temporofrontal.",
+        "accidentes": "El reparo está constituido por los márgenes óseos de la porción escamosa del temporal y del frontal. En el atlas equino se identifica como una sutura distinta de la temporofrontal.",
+        "articulaciones": "Es una sutura fibrosa y funcionalmente una sinartrosis. No presenta cápsula ni cavidad articular.",
+        "inserciones": "No presenta inserciones musculares propias. El tejido conectivo sutural se continúa con el periostio de los huesos que une.",
+        "irrigacion": "No posee irrigación independiente ni una arteria exclusiva reconocida. El aporte es indirecto a través de los vasos periostales y de los tejidos blandos regionales.",
+        "inervacion": "No se describe inervación exclusiva de la línea sutural. La sensibilidad regional depende del periostio y de los tejidos conectivos adyacentes.",
+        "funcion": "Contribuye a la continuidad de la pared dorsolateral del cráneo y a la unión estable entre el frontal y la porción escamosa del temporal.",
+        "especie": "El atlas topográfico de Popesko identifica la sutura squamosofrontalis en el caballo en las vistas lateral, dorsal y ventral del cráneo (Figs. 108, 113 y 115).",
+        "clinica": "Es un reparo anatómico en la evaluación de traumatismos y de alteraciones óseas de la región temporal. Debe distinguirse de la sutura escamosa parietotemporal y de la temporofrontal.",
+        "referencias": "Popesko P. Atlas of Topographical Anatomy of the Domestic Animals. Volume I: Head and Neck. 6th ed. W.B. Saunders; 1990. Fig. 108 (horse skull, left lateral view), Fig. 113 (dorsal view) and Fig. 115 (ventral view), sutures identified by name. https://www.academia.edu/47875321/Atlas_of_Topographical_Anatomy_of_the_Domestic_Animals_Voulme_I_Head_and_Neck_\nSisson S. A Text-book of Veterinary Anatomy. W.B. Saunders; 1911. Skeleton of the Horse, skull and articulations. https://upload.wikimedia.org/wikipedia/commons/e/e6/A_text-book_of_veterinary_anatomy_%28IA_cu31924000008742%29.pdf"
+      }
+    },
+    {
+      "id": "equ.ske.sut.027",
+      "es": "Sutura temporofrontal",
+      "la": "Sutura temporofrontalis",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la región lateral del cráneo, entre el hueso temporal y el hueso frontal, en el límite entre la región temporal y la región frontal.",
+        "descripcion": "Unión fibrosa sutural entre el temporal y el frontal. No presenta cavidad sinovial. En el atlas topográfico equino se diferencia nominalmente de la sutura escamosofrontal.",
+        "relaciones": "Se relaciona con la fosa temporal y con las conexiones del frontal con los huesos craneales laterales. La delimitación debe respetar el segmento de contacto descrito para esta sutura y no fusionarse con la escamosofrontal.",
+        "accidentes": "Sus referencias son los márgenes del frontal y del temporal en la región lateral. El atlas equino la señala como estructura diferenciada en las vistas lateral y ventral.",
+        "articulaciones": "Es una articulación fibrosa del tipo sutura, funcionalmente una sinartrosis. Carece de cápsula y cavidad articular.",
+        "inserciones": "No presenta inserciones musculares propias. El tejido conectivo sutural se continúa con el periostio de los huesos que une.",
+        "irrigacion": "No posee irrigación independiente ni una arteria exclusiva reconocida. El aporte es indirecto a través de los vasos periostales y de los tejidos blandos regionales.",
+        "inervacion": "No se describe inervación exclusiva de la línea sutural. La sensibilidad regional depende del periostio y de los tejidos conectivos adyacentes.",
+        "funcion": "Contribuye a la continuidad de la pared lateral del cráneo y a la unión estable del frontal con el temporal.",
+        "especie": "Descrita para el caballo como sutura temporofrontalis en el atlas de Popesko, Fig. 108, Fig. 113 y Fig. 115.",
+        "clinica": "Es un reparo de imagenología de la región temporal. Dada su proximidad con la sutura escamosofrontal, la identificación debe basarse en la topografía de los márgenes óseos y no solo en una línea radiográfica aislada.",
+        "referencias": "Popesko P. Atlas of Topographical Anatomy of the Domestic Animals. Volume I: Head and Neck. 6th ed. W.B. Saunders; 1990. Fig. 108 (horse skull, left lateral view), Fig. 113 (dorsal view) and Fig. 115 (ventral view), sutures identified by name. https://www.academia.edu/47875321/Atlas_of_Topographical_Anatomy_of_the_Domestic_Animals_Voulme_I_Head_and_Neck_\nSisson S. A Text-book of Veterinary Anatomy. W.B. Saunders; 1911. Skeleton of the Horse, skull and articulations. https://upload.wikimedia.org/wikipedia/commons/e/e6/A_text-book_of_veterinary_anatomy_%28IA_cu31924000008742%29.pdf"
+      }
     }
   ]
 }
