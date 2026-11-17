@@ -31179,6 +31179,69 @@
         "fecha": "2026-11-13",
         "alcance": "Ficha anatómica revisada y confirmada por el usuario; estructura referencial (Cd16–Cd21), cuya ausencia no genera incidencia; no implica validación independiente del modelo 3D."
       }
+    },
+    {
+      "id": "equ.ske.sut.001",
+      "es": "Sutura internasal",
+      "la": "Sutura internasalis",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Se extiende por la línea media dorsal de la región nasal, entre los bordes mediales de los huesos nasales derecho e izquierdo.",
+        "descripcion": "Articulación fibrosa impar del tipo sutura, que une ambos huesos nasales en el plano medio. Su tejido conectivo denso mantiene la continuidad del techo óseo de la cavidad nasal; no presenta cavidad sinovial.",
+        "relaciones": "A ambos lados se relaciona con las superficies mediales de los huesos nasales. Rostralmente se aproxima a la región de la sutura internasal incisiva y caudalmente alcanza la unión nasofrontal, con variaciones en la extensión individual.",
+        "accidentes": "La línea sutural corresponde a los márgenes óseos enfrentados y al tejido conectivo fibroso interpuesto. Su relieve y grado de obliteración pueden variar con la edad; no posee cápsula, cartílago articular ni meniscos.",
+        "articulaciones": "Por su estructura es una sutura fibrosa y, en la clasificación funcional clásica, una sinartrosis. La patencia de las suturas faciales equinas puede persistir y variar con la edad; no debe suponerse una fusión completa constante.",
+        "inserciones": "No presenta inserciones musculares propias. El tejido fibroso se continúa con el periostio y con los tejidos conectivos de la región nasal.",
+        "irrigacion": "No posee una irrigación articular independiente. Recibe aporte indirecto de los vasos periostales y de los tejidos blandos nasales adyacentes; no se asigna una arteria exclusiva a la línea sutural.",
+        "inervacion": "No se describe una inervación exclusiva de la sutura. La sensibilidad procede de ramas nerviosas que inervan el periostio y los tejidos blandos nasales vecinos.",
+        "funcion": "Une firmemente los huesos nasales en la línea media, contribuye a la estabilidad del techo óseo de la cavidad nasal y permite el crecimiento craneofacial mientras permanece patente.",
+        "especie": "En el caballo se reconoce como una de las suturas faciales de la línea media. Los estudios histológicos de suturas faciales equinas muestran que su patencia y morfología cambian con la edad; la configuración puede variar entre individuos.",
+        "clinica": "Es una referencia anatómica para interpretar radiografías y estudios tomográficos de la región nasal. La irregularidad, asimetría o alteración de la línea debe valorarse junto con antecedentes de traumatismo, inflamación y cambios óseos; no debe diagnosticarse patología por la sola persistencia de una sutura patente.",
+        "referencias": "Geitzenauer JM, et al. A histological evaluation of facial suture lines in six horses aged 1 day to 9 years. Equine Veterinary Education. 2022;34(7):362–368. doi:10.1111/eve.13436.\\nSisson and Grossman's The Anatomy of the Domestic Animals. Descripción anatómica de las suturas de los huesos nasales del caballo."
+      }
+    },
+    {
+      "id": "equ.ske.sut.002",
+      "es": "Sutura interfrontal",
+      "la": "Sutura interfrontalis",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Se localiza en el plano medio de la región frontal, entre los bordes mediales de los huesos frontales derecho e izquierdo, en la porción donde estos permanecen separados.",
+        "descripcion": "Articulación fibrosa impar del tipo sutura que une los huesos frontales en la línea media. No posee cavidad sinovial y su aspecto puede modificarse por el crecimiento y la remodelación ósea.",
+        "relaciones": "Se relaciona lateralmente con los huesos frontales de ambos lados. Su extensión y continuidad con las suturas vecinas de la región frontonasal dependen de la configuración individual del cráneo.",
+        "accidentes": "Está constituida por los márgenes óseos frontales enfrentados y una unión de tejido conectivo fibroso. No presenta superficies articulares revestidas por cartílago, cápsula ni meniscos.",
+        "articulaciones": "Se clasifica estructuralmente como sutura fibrosa y funcionalmente, en la clasificación clásica, como sinartrosis. La presencia, longitud y grado de obliteración deben interpretarse considerando la edad y la variación individual.",
+        "inserciones": "No presenta inserciones musculares propias. El tejido fibroso se continúa con el periostio y con los tejidos conectivos de la región nasal.",
+        "irrigacion": "No posee una irrigación articular independiente. Recibe aporte indirecto de los vasos periostales y de los tejidos blandos nasales adyacentes; no se asigna una arteria exclusiva a la línea sutural.",
+        "inervacion": "No se describe una inervación exclusiva de la sutura. La sensibilidad procede de ramas nerviosas que inervan el periostio y los tejidos blandos nasales vecinos.",
+        "funcion": "Mantiene la unión de los huesos frontales en la línea media y contribuye a la estabilidad del techo del cráneo; durante el desarrollo permite el crecimiento craneal antes de una eventual obliteración.",
+        "especie": "En el caballo se reconoce como una de las suturas faciales de la línea media. Los estudios histológicos de suturas faciales equinas muestran que su patencia y morfología cambian con la edad; la configuración puede variar entre individuos.",
+        "clinica": "Es una referencia anatómica para interpretar radiografías y estudios tomográficos de la región nasal. La irregularidad, asimetría o alteración de la línea debe valorarse junto con antecedentes de traumatismo, inflamación y cambios óseos; no debe diagnosticarse patología por la sola persistencia de una sutura patente.",
+        "referencias": "Geitzenauer JM, et al. A histological evaluation of facial suture lines in six horses aged 1 day to 9 years. Equine Veterinary Education. 2022;34(7):362–368. doi:10.1111/eve.13436.\\nSisson and Grossman's The Anatomy of the Domestic Animals. Descripción anatómica de las suturas de los huesos nasales del caballo."
+      }
+    },
+    {
+      "id": "equ.ske.sut.003",
+      "es": "Sutura nasofrontal",
+      "la": "Sutura nasofrontalis",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "Se encuentra en la unión entre los huesos nasales y los huesos frontales, en la transición entre el techo óseo de la cavidad nasal y la región frontal del cráneo.",
+        "descripcion": "Articulación fibrosa del tipo sutura que une los huesos nasales con los frontales. Es una unión craneofacial sin cavidad sinovial, cuya configuración puede variar en extensión y grado de cierre.",
+        "relaciones": "Rostralmente se relaciona con los huesos nasales y caudalmente con los huesos frontales. Se continúa lateralmente con las suturas vecinas de la región frontonasal, según la disposición individual de los márgenes óseos.",
+        "accidentes": "La línea de unión está formada por los márgenes nasales y frontales enfrentados con tejido conectivo fibroso interpuesto. No presenta cartílago articular, cápsula sinovial ni meniscos.",
+        "articulaciones": "Es una sutura fibrosa; funcionalmente se incluye entre las sinartrosis en la clasificación clásica. Estudios histológicos de caballos de distintas edades han documentado variación en la patencia de las suturas faciales, por lo que no debe describirse como necesariamente fusionada en todos los adultos.",
+        "inserciones": "No presenta inserciones musculares propias. El tejido fibroso se continúa con el periostio y con los tejidos conectivos de la región nasal.",
+        "irrigacion": "No posee una irrigación articular independiente. Recibe aporte indirecto de los vasos periostales y de los tejidos blandos nasales adyacentes; no se asigna una arteria exclusiva a la línea sutural.",
+        "inervacion": "No se describe una inervación exclusiva de la sutura. La sensibilidad procede de ramas nerviosas que inervan el periostio y los tejidos blandos nasales vecinos.",
+        "funcion": "Conecta el esqueleto nasal con la región frontal, contribuye a la continuidad y estabilidad del techo craneofacial y participa en el patrón de crecimiento de la región.",
+        "especie": "En el caballo se reconoce como una de las suturas faciales de la línea media. Los estudios histológicos de suturas faciales equinas muestran que su patencia y morfología cambian con la edad; la configuración puede variar entre individuos.",
+        "clinica": "Es una referencia anatómica para interpretar radiografías y estudios tomográficos de la región nasal. La irregularidad, asimetría o alteración de la línea debe valorarse junto con antecedentes de traumatismo, inflamación y cambios óseos; no debe diagnosticarse patología por la sola persistencia de una sutura patente.",
+        "referencias": "Geitzenauer JM, et al. A histological evaluation of facial suture lines in six horses aged 1 day to 9 years. Equine Veterinary Education. 2022;34(7):362–368. doi:10.1111/eve.13436.\\nSisson and Grossman's The Anatomy of the Domestic Animals. Descripción anatómica de las suturas de los huesos nasales del caballo."
+      }
     }
   ]
 }
