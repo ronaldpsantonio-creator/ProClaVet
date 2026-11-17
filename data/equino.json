@@ -31305,6 +31305,69 @@
         "funcion": "Conecta la región parietal del techo craneal con el occipital, contribuyendo a la estabilidad de la bóveda craneal y al crecimiento del neurocráneo.",
         "referencias": "Sisson S, Grossman JD. The Anatomy of the Domestic Animals. 5th ed. Fig. 47, cráneo del caballo en vista dorsal: identifica la sutura parietooccipital.\\nA Text-book of Veterinary Anatomy. Sección sobre los huesos parietales del caballo: describe la sutura parietooccipital o lambdoidea y señala su cierre habitual alrededor de los cinco años."
       }
+    },
+    {
+      "id": "equ.ske.sut.007",
+      "es": "Sutura nasolagrimal",
+      "la": "Sutura nasolacrimalis",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la región rostral de la órbita, entre el hueso nasal y el hueso lagrimal, en el límite entre la región nasal y la pared medial de la órbita.",
+        "descripcion": "Articulación fibrosa del tipo sutura que une los márgenes de los huesos indicados. No presenta cavidad sinovial ni cartílago articular; el contacto se mantiene mediante tejido conectivo fibroso sutural.",
+        "relaciones": "Se relaciona rostralmente con el hueso nasal y caudalmente con el lagrimal. Forma parte de la continuidad sutural del margen orbitario rostral y de la región nasofacial.",
+        "accidentes": "La unión está formada por márgenes óseos contiguos y tejido conectivo fibroso interpuesto. No presenta cápsula sinovial, meniscos ni superficies articulares cartilaginosas.",
+        "articulaciones": "Estructuralmente es una sutura fibrosa y funcionalmente se clasifica como sinartrosis en la clasificación clásica. La línea sutural puede remodelarse y obliterarse progresivamente con la edad; su persistencia y grado de cierre varían según la sutura y el individuo.",
+        "inserciones": "No posee inserciones musculares propias. El tejido sutural se continúa con el periostio de los huesos adyacentes.",
+        "irrigacion": "No posee irrigación articular independiente. El aporte procede indirectamente de los vasos periostales y de los tejidos blandos vecinos; no se asigna una arteria exclusiva a la sutura.",
+        "inervacion": "No se describe inervación exclusiva de la línea sutural. La sensibilidad regional depende del periostio y de los tejidos conectivos adyacentes.",
+        "funcion": "Une el hueso nasal con el lagrimal y contribuye a la continuidad ósea entre la región nasal y la pared medial de la órbita.",
+        "especie": "La sutura está descrita en la anatomía del cráneo equino por la anatomía veterinaria clásica. Su aspecto puede variar con la edad y la remodelación de los huesos craneofaciales.",
+        "clinica": "Es una referencia anatómica en radiografía y tomografía del cráneo equino. La línea sutural debe diferenciarse de líneas de fractura mediante su trayecto, bordes, simetría y contexto clínico.",
+        "referencias": "Sisson S, Grossman JD. The Anatomy of the Domestic Animals. 5th ed. Fig. 47, Skull of Horse; Dorsal View, sutura 7: naso-lacrimal.\\nA Text-book of Veterinary Anatomy. Descripción de las suturas del cráneo equino."
+      }
+    },
+    {
+      "id": "equ.ske.sut.008",
+      "es": "Sutura lagrimocigomática",
+      "la": "Sutura lacrimomalaris",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En el borde rostral de la órbita, entre el hueso lagrimal y el hueso cigomático (malar), en la unión de la pared medial con el margen orbitario.",
+        "descripcion": "Articulación fibrosa del tipo sutura que une los márgenes de los huesos indicados. No presenta cavidad sinovial ni cartílago articular; el contacto se mantiene mediante tejido conectivo fibroso sutural.",
+        "relaciones": "Se relaciona medialmente con el hueso lagrimal y lateralmente con el cigomático. Se encuentra próxima a las suturas lagrimomaxilar y cigomaticomaxilar.",
+        "accidentes": "La unión está formada por márgenes óseos contiguos y tejido conectivo fibroso interpuesto. No presenta cápsula sinovial, meniscos ni superficies articulares cartilaginosas.",
+        "articulaciones": "Estructuralmente es una sutura fibrosa y funcionalmente se clasifica como sinartrosis en la clasificación clásica. La línea sutural puede remodelarse y obliterarse progresivamente con la edad; su persistencia y grado de cierre varían según la sutura y el individuo.",
+        "inserciones": "No posee inserciones musculares propias. El tejido sutural se continúa con el periostio de los huesos adyacentes.",
+        "irrigacion": "No posee irrigación articular independiente. El aporte procede indirectamente de los vasos periostales y de los tejidos blandos vecinos; no se asigna una arteria exclusiva a la sutura.",
+        "inervacion": "No se describe inervación exclusiva de la línea sutural. La sensibilidad regional depende del periostio y de los tejidos conectivos adyacentes.",
+        "funcion": "Conecta el hueso lagrimal con el cigomático, contribuyendo a la continuidad y estabilidad del anillo óseo orbitario del caballo.",
+        "especie": "La sutura está descrita en la anatomía del cráneo equino por la anatomía veterinaria clásica. Su aspecto puede variar con la edad y la remodelación de los huesos craneofaciales.",
+        "clinica": "Es una referencia anatómica en radiografía y tomografía del cráneo equino. La línea sutural debe diferenciarse de líneas de fractura mediante su trayecto, bordes, simetría y contexto clínico.",
+        "referencias": "Sisson S, Grossman JD. The Anatomy of the Domestic Animals. 5th ed. Fig. 47, Skull of Horse; Dorsal View, sutura 8: lacrimo-malar.\\nA Text-book of Veterinary Anatomy. Descripción de los huesos lagrimal y cigomático del caballo."
+      }
+    },
+    {
+      "id": "equ.ske.sut.009",
+      "es": "Sutura lagrimomaxilar",
+      "la": "Sutura lacrimomaxillaris",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la región rostral y medial de la órbita, entre el hueso lagrimal y el proceso frontal de la maxila, donde ambos contribuyen a la pared medial de la órbita.",
+        "descripcion": "Articulación fibrosa del tipo sutura que une los márgenes de los huesos indicados. No presenta cavidad sinovial ni cartílago articular; el contacto se mantiene mediante tejido conectivo fibroso sutural.",
+        "relaciones": "Se relaciona dorsalmente con el hueso lagrimal, ventral y rostralmente con la maxila y medialmente con la cavidad nasal y los tejidos orbitarios adyacentes.",
+        "accidentes": "La unión está formada por márgenes óseos contiguos y tejido conectivo fibroso interpuesto. No presenta cápsula sinovial, meniscos ni superficies articulares cartilaginosas.",
+        "articulaciones": "Estructuralmente es una sutura fibrosa y funcionalmente se clasifica como sinartrosis en la clasificación clásica. La línea sutural puede remodelarse y obliterarse progresivamente con la edad; su persistencia y grado de cierre varían según la sutura y el individuo.",
+        "inserciones": "No posee inserciones musculares propias. El tejido sutural se continúa con el periostio de los huesos adyacentes.",
+        "irrigacion": "No posee irrigación articular independiente. El aporte procede indirectamente de los vasos periostales y de los tejidos blandos vecinos; no se asigna una arteria exclusiva a la sutura.",
+        "inervacion": "No se describe inervación exclusiva de la línea sutural. La sensibilidad regional depende del periostio y de los tejidos conectivos adyacentes.",
+        "funcion": "Une el lagrimal con la maxila y contribuye a la continuidad de la pared medial de la órbita y de la región nasomaxilar.",
+        "especie": "La sutura está descrita en la anatomía del cráneo equino por la anatomía veterinaria clásica. Su aspecto puede variar con la edad y la remodelación de los huesos craneofaciales.",
+        "clinica": "Es una referencia anatómica en radiografía y tomografía del cráneo equino. La línea sutural debe diferenciarse de líneas de fractura mediante su trayecto, bordes, simetría y contexto clínico.",
+        "referencias": "Sisson S, Grossman JD. The Anatomy of the Domestic Animals. 5th ed. Fig. 47, Skull of Horse; Dorsal View, sutura 9: lacrimo-maxillary.\\nA Text-book of Veterinary Anatomy. Descripción de las suturas craneofaciales del caballo."
+      }
     }
   ]
 }
