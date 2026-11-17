@@ -31746,6 +31746,111 @@
         "clinica": "Es un reparo de imagenología de la región temporal. Dada su proximidad con la sutura escamosofrontal, la identificación debe basarse en la topografía de los márgenes óseos y no solo en una línea radiográfica aislada.",
         "referencias": "Popesko P. Atlas of Topographical Anatomy of the Domestic Animals. Volume I: Head and Neck. 6th ed. W.B. Saunders; 1990. Fig. 108 (horse skull, left lateral view), Fig. 113 (dorsal view) and Fig. 115 (ventral view), sutures identified by name. https://www.academia.edu/47875321/Atlas_of_Topographical_Anatomy_of_the_Domestic_Animals_Voulme_I_Head_and_Neck_\nSisson S. A Text-book of Veterinary Anatomy. W.B. Saunders; 1911. Skeleton of the Horse, skull and articulations. https://upload.wikimedia.org/wikipedia/commons/e/e6/A_text-book_of_veterinary_anatomy_%28IA_cu31924000008742%29.pdf"
       }
+    },
+    {
+      "id": "equ.ske.sut.028",
+      "es": "Sutura occipitomastoidea",
+      "la": "Sutura occipitomastoidea",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la región caudolateral de la base del cráneo, entre la porción mastoidea del hueso temporal y la porción lateral del hueso occipital.",
+        "descripcion": "Unión fibrosa sutural entre la porción mastoidea del temporal y el occipital. No presenta cavidad sinovial. En el cráneo equino se reconoce en la vista ventral de la base craneal.",
+        "relaciones": "Se encuentra próxima a la región del proceso paracondilar y a la porción petrosa del temporal. No debe confundirse con la sincondrosis esfenooccipital, que es una unión cartilaginosa del desarrollo entre esfenoides y occipital.",
+        "accidentes": "Sus referencias son la porción mastoidea del temporal y la región lateral del occipital. La sutura sigue el contacto entre estos huesos; los forámenes vecinos no forman parte de la línea sutural.",
+        "articulaciones": "Es una articulación fibrosa del tipo sutura, funcionalmente clasificada como sinartrosis. Carece de cápsula y cavidad sinovial.",
+        "inserciones": "No presenta inserciones musculares propias. El tejido conectivo sutural se continúa con el periostio de los huesos que une.",
+        "irrigacion": "No posee irrigación independiente ni una arteria exclusiva reconocida. El aporte es indirecto a través de los vasos periostales y de los tejidos blandos regionales.",
+        "inervacion": "No se describe inervación exclusiva de la línea sutural. La sensibilidad regional depende del periostio y de los tejidos conectivos adyacentes.",
+        "funcion": "Contribuye a la continuidad ósea caudolateral de la base craneal y a la unión estable entre el temporal y el occipital.",
+        "especie": "Popesko identifica la sutura occipitomastoidea (sutura occipitomastoidea) en el caballo en la vista ventral del cráneo (Fig. 115).",
+        "clinica": "Es un reparo anatómico de la base caudolateral del cráneo en tomografía y disección. Debe diferenciarse de fisuras y de la sincondrosis esfenooccipital.",
+        "referencias": "Popesko P. Atlas of Topographical Anatomy of the Domestic Animals. Vol. I: Head and Neck. 6th ed. W.B. Saunders; 1990. Fig. 115, Horse skull ventral view, sutures 11, 18, 23, 25 and 26. https://www.academia.edu/47875321/Atlas_of_Topographical_Anatomy_of_the_Domestic_Animals_Voulme_I_Head_and_Neck_\nSisson S. A Text-book of Veterinary Anatomy. W.B. Saunders; 1911. The Skeleton of the Horse."
+      }
+    },
+    {
+      "id": "equ.ske.sut.029",
+      "es": "Sutura esfenofrontal",
+      "la": "Sutura sphenofrontalis",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la región caudolateral de la órbita y de la base craneal, entre el ala orbitaria del presfenoides y el hueso frontal.",
+        "descripcion": "Unión fibrosa sutural entre el componente presfenoidal del esfenoides y el frontal. No presenta cavidad sinovial. Se registra como sutura esfenofrontal en el atlas topográfico del caballo.",
+        "relaciones": "Se relaciona con la pared caudomedial de la órbita y con la base del neurocráneo. Debe distinguirse de la sutura frontopalatina, que une frontal y palatino, y de la esfenescamosa, entre esfenoides y temporal.",
+        "accidentes": "El contacto entre el ala orbitaria del presfenoides y el frontal constituye el reparo anatómico. La identificación debe seguir los márgenes óseos y no atribuir a la sutura los forámenes orbitarios cercanos.",
+        "articulaciones": "Es una sutura fibrosa, funcionalmente una sinartrosis. No posee cápsula articular ni cavidad sinovial.",
+        "inserciones": "No presenta inserciones musculares propias. El tejido conectivo sutural se continúa con el periostio de los huesos que une.",
+        "irrigacion": "No posee irrigación independiente ni una arteria exclusiva reconocida. El aporte es indirecto a través de los vasos periostales y de los tejidos blandos regionales.",
+        "inervacion": "No se describe inervación exclusiva de la línea sutural. La sensibilidad regional depende del periostio y de los tejidos conectivos adyacentes.",
+        "funcion": "Contribuye a la continuidad de la pared caudomedial de la órbita y de la región lateral de la base craneal.",
+        "especie": "La sutura esfenofrontal (sutura sphenofrontalis) está identificada para el caballo en la vista ventral del cráneo de Popesko (Fig. 115).",
+        "clinica": "Es un reparo de la región orbitaria caudal y de la base craneal en estudios de imagen. Su proximidad a estructuras neurovasculares exige interpretar la región con cortes multiplanares.",
+        "referencias": "Popesko P. Atlas of Topographical Anatomy of the Domestic Animals. Vol. I: Head and Neck. 6th ed. W.B. Saunders; 1990. Fig. 115, Horse skull ventral view, sutures 11, 18, 23, 25 and 26. https://www.academia.edu/47875321/Atlas_of_Topographical_Anatomy_of_the_Domestic_Animals_Voulme_I_Head_and_Neck_\nSisson S. A Text-book of Veterinary Anatomy. W.B. Saunders; 1911. The Skeleton of the Horse."
+      }
+    },
+    {
+      "id": "equ.ske.sut.030",
+      "es": "Sutura esfenopalatina",
+      "la": "Sutura sphenopalatina",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la región caudal de la cavidad nasal y de la fosa pterigopalatina, entre el hueso esfenoides y el hueso palatino.",
+        "descripcion": "Unión fibrosa sutural entre el esfenoides y el palatino. En el caballo se identifica en la base ventral del cráneo. No debe confundirse con la sutura pterigopalatina, que une el hueso pterigoides con el palatino.",
+        "relaciones": "Se encuentra próxima a la coana, la fosa pterigopalatina y los procesos pterigoideos del esfenoides. Se relaciona topográficamente con los trayectos vasculonerviosos de la región, sin constituir sus conductos.",
+        "accidentes": "Los márgenes de contacto del esfenoides y del palatino delimitan la sutura. La región es compleja y los límites deben seguirse sobre las superficies óseas, diferenciándola de las uniones palatomaxilar y pterigopalatina.",
+        "articulaciones": "Es una articulación fibrosa del tipo sutura, funcionalmente clasificada como sinartrosis. Carece de cavidad sinovial.",
+        "inserciones": "No presenta inserciones musculares propias. El tejido conectivo sutural se continúa con el periostio de los huesos que une.",
+        "irrigacion": "No posee irrigación independiente ni una arteria exclusiva reconocida. El aporte es indirecto a través de los vasos periostales y de los tejidos blandos regionales.",
+        "inervacion": "No se describe inervación exclusiva de la línea sutural. La sensibilidad regional depende del periostio y de los tejidos conectivos adyacentes.",
+        "funcion": "Contribuye a la unión estable del palatino con la base del cráneo y a la continuidad ósea de la región caudal de la cavidad nasal.",
+        "especie": "Popesko identifica la sutura esfenopalatina (sutura sphenopalatina) en el caballo en la vista ventral del cráneo (Fig. 115).",
+        "clinica": "Su ubicación es relevante en la interpretación de imágenes de la fosa pterigopalatina y de la región caudal de la cavidad nasal. Debe diferenciarse de las otras suturas palatinas vecinas.",
+        "referencias": "Popesko P. Atlas of Topographical Anatomy of the Domestic Animals. Vol. I: Head and Neck. 6th ed. W.B. Saunders; 1990. Fig. 115, Horse skull ventral view, sutures 11, 18, 23, 25 and 26. https://www.academia.edu/47875321/Atlas_of_Topographical_Anatomy_of_the_Domestic_Animals_Voulme_I_Head_and_Neck_\nSisson S. A Text-book of Veterinary Anatomy. W.B. Saunders; 1911. The Skeleton of the Horse."
+      }
+    },
+    {
+      "id": "equ.ske.sut.031",
+      "es": "Sutura palatina mediana (interpalatina)",
+      "la": "Sutura palatina mediana (interpalatina)",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la línea media del paladar duro, entre las láminas horizontales derecha e izquierda de los huesos palatinos, en el segmento caudal del rafe óseo palatino.",
+        "descripcion": "Unión fibrosa mediana entre ambos huesos palatinos. Forma el segmento caudal de la sutura palatina mediana, diferenciado en el atlas equino del segmento rostral formado por maxilas y huesos incisivos.",
+        "relaciones": "Se continúa rostralmente con el segmento mediano entre los procesos palatinos de las maxilas y los huesos incisivos. Se encuentra entre ambas láminas horizontales del palatino y forma parte del paladar duro.",
+        "accidentes": "La línea media de contacto de las láminas horizontales de ambos palatinos es el reparo principal. No debe confundirse con la sutura palatina transversa, que cruza el paladar en sentido transversal.",
+        "articulaciones": "Es una sutura fibrosa mediana, funcionalmente una sinartrosis. No presenta cavidad sinovial ni movimiento independiente.",
+        "inserciones": "No presenta inserciones musculares propias. El tejido conectivo sutural se continúa con el periostio de los huesos que une.",
+        "irrigacion": "No posee irrigación independiente ni una arteria exclusiva reconocida. El aporte es indirecto a través de los vasos periostales y de los tejidos blandos regionales.",
+        "inervacion": "No se describe inervación exclusiva de la línea sutural. La sensibilidad regional depende del periostio y de los tejidos conectivos adyacentes.",
+        "funcion": "Mantiene la unión de las mitades derecha e izquierda del paladar óseo caudal y contribuye a la continuidad del techo de la cavidad oral y piso de la cavidad nasal.",
+        "especie": "El atlas de Popesko distingue en el caballo la sutura palatina mediana entre los huesos palatinos (Fig. 115, referencia 23).",
+        "clinica": "Es un reparo en la evaluación del paladar duro y de sus traumatismos. Debe distinguirse de la sutura palatina transversa y de fisuras congénitas o traumáticas.",
+        "referencias": "Popesko P. Atlas of Topographical Anatomy of the Domestic Animals. Vol. I: Head and Neck. 6th ed. W.B. Saunders; 1990. Fig. 115, Horse skull ventral view, sutures 11, 18, 23, 25 and 26. https://www.academia.edu/47875321/Atlas_of_Topographical_Anatomy_of_the_Domestic_Animals_Voulme_I_Head_and_Neck_\nSisson S. A Text-book of Veterinary Anatomy. W.B. Saunders; 1911. The Skeleton of the Horse."
+      }
+    },
+    {
+      "id": "equ.ske.sut.032",
+      "es": "Sutura palatina mediana (maxiloincisiva)",
+      "la": "Sutura palatina mediana (maxilloincisiva)",
+      "sys": "ske",
+      "layer": "art",
+      "ficha": {
+        "ubicacion": "En la línea media del paladar duro, en el segmento rostral formado por los procesos palatinos de las maxilas y los procesos palatinos de los huesos incisivos.",
+        "descripcion": "Segmento rostral de la sutura palatina mediana, entre los componentes palatinos de maxilas y huesos incisivos. Se diferencia del segmento caudal interpalatino. No es sinónimo de la sutura maxiloincisiva lateral, que une maxila e incisivo en su contacto externo.",
+        "relaciones": "Se sitúa en la línea media del paladar duro, rostral al segmento interpalatino y caudal al extremo rostral del paladar incisivo. Se relaciona con los procesos palatinos de las maxilas y de los huesos incisivos.",
+        "accidentes": "El reparo es la unión mediana de los procesos palatinos maxilares e incisivos. Debe distinguirse de la sutura interincisiva entre los cuerpos de ambos incisivos y de la maxiloincisiva situada en la unión lateral entre maxila e incisivo.",
+        "articulaciones": "Es una sutura fibrosa mediana, funcionalmente una sinartrosis. No presenta cavidad sinovial.",
+        "inserciones": "No presenta inserciones musculares propias. El tejido conectivo sutural se continúa con el periostio de los huesos que une.",
+        "irrigacion": "No posee irrigación independiente ni una arteria exclusiva reconocida. El aporte es indirecto a través de los vasos periostales y de los tejidos blandos regionales.",
+        "inervacion": "No se describe inervación exclusiva de la línea sutural. La sensibilidad regional depende del periostio y de los tejidos conectivos adyacentes.",
+        "funcion": "Contribuye a la continuidad de la porción rostral del paladar duro y a la unión mediana de los procesos palatinos maxilares e incisivos.",
+        "especie": "Popesko diferencia en el caballo la sutura palatina mediana entre maxilas y huesos incisivos (Fig. 115, referencia 26). Esta ficha describe ese segmento rostral, no la sutura maxiloincisiva lateral ya registrada.",
+        "clinica": "Es un reparo de imagenología del paladar rostral. Su interpretación debe distinguirse de la sutura interincisiva y de la unión maxiloincisiva lateral para evitar duplicación anatómica.",
+        "referencias": "Popesko P. Atlas of Topographical Anatomy of the Domestic Animals. Vol. I: Head and Neck. 6th ed. W.B. Saunders; 1990. Fig. 115, Horse skull ventral view, sutures 11, 18, 23, 25 and 26. https://www.academia.edu/47875321/Atlas_of_Topographical_Anatomy_of_the_Domestic_Animals_Voulme_I_Head_and_Neck_\nSisson S. A Text-book of Veterinary Anatomy. W.B. Saunders; 1911. The Skeleton of the Horse."
+      }
     }
   ]
 }
